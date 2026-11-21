@@ -15,9 +15,11 @@ It lives in the **macOS menu bar** or the **Windows system tray**: click the ico
 Theme: **Purple Line wayfinding**, after the CTA Purple Line out of Evanston. A saturated Northwestern-purple header band, a course roundel, state as station bullets, and a route strip whose "train" is the time since the last check. Light mode is the daytime platform, dark mode the night platform. The Activity log is a line of stops.
 
 ## Features
-- Checks enrollment every minute or so (with a random ±15 s jitter) in a **headless** Chrome.
-- Alerts with a sound, a macOS notification and by opening the popover when enrollment drops below your threshold.
-- Pick the term, subject and course from dropdowns (or type your own). The alert threshold is set to the class capacity on the first check, and catalog numbers 400+ search The Graduate School automatically.
+- Checks enrollment about once a minute (a random ±15 s jitter is added) in a **headless** Chrome.
+- Alerts with a sound, a macOS notification and by opening the popover when a seat opens, meaning enrollment drops below the class capacity.
+- **Dropdowns for term, subject and course**, built from the scraped course catalog (each has an "Other…" option if you want to type your own).
+- **Shows open seats:** the first check reads the class capacity, sets "Alert below" to it, and the header shows enrolled / capacity and seats open.
+- **Graduate courses just work:** catalog numbers 400 and up switch CAESAR's School to The Graduate School automatically.
 - **Lives in the menu bar / tray:** no main window and no Dock icon. macOS shows a cap icon plus the live enrollment number while monitoring; Windows shows a tray icon with a flyout that hides when you click away. Monitoring keeps running while the popover is closed.
 - Light and dark mode.
 
@@ -75,6 +77,19 @@ uv run python packaging/build.py
 
 PyInstaller can't cross-compile, so build the Windows `.exe` on Windows or with the included GitHub Actions workflow (`.github/workflows/build.yml`).
 
+## Course catalog
+The dropdowns read `caesar_checker/catalog.json`, which is built from the scraper's output in `data/`. To refresh it for a new term:
+
+```bash
+uv run python scraper/main.py            # scrape class-descriptions.northwestern.edu into data/ (slow)
+uv run python scraper/build_catalog.py   # rebuild caesar_checker/catalog.json, then rebuild the app
+```
+
+> The School dropdown and the class-capacity field use PeopleSoft element IDs that haven't been confirmed against the live CAESAR page. If either isn't found, the Activity log says so and the app falls back to the default School and your typed "Alert below" number.
+
 ## Where data is stored
 Session, saved settings and logs live in the per-user data folder `CaesarCourseCheck`
 (`~/Library/Application Support/` on macOS, `%LOCALAPPDATA%` on Windows). Delete it to forget the saved captcha session.
+
+## License
+[MIT](LICENSE)
