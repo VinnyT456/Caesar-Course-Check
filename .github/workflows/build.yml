@@ -26,3 +26,25 @@ jobs:
           path: |
             dist/*.dmg
             dist/*.exe
+
+  release:
+    # Runs only for version tags. Publishes whatever built successfully (e.g. the DMG even if Windows fails).
+    if: startsWith(github.ref, 'refs/tags/v') && !cancelled()
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v2
+        with:
+          body_path: .github/release-notes.md
+          prerelease: true
+          fail_on_unmatched_files: false
+          files: |
+            artifacts/*.dmg
+            artifacts/*.exe
