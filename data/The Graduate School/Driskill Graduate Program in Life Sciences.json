@@ -1,0 +1,307 @@
+[
+    {
+        "course_number": "404-0",
+        "course_name": "Fundamentals of Biomedical Sciences 2",
+        "course_reference_number": [
+            "20783"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Biomedical Sciences 2",
+                "instructors": [
+                    "Yogesh Goyal",
+                    "Ertugrul M Ozbudak"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:30AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yogesh Goyal",
+                "Meeting Info": "TBA: Mon, Wed, Fri 9:30AM - 10:30AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only.",
+                "Associated Classes": "DIS - TBA: Thurs 3:30PM - 5:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Topics in Drug Discovery",
+        "course_reference_number": [
+            "20777"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Topics in Drug Discovery",
+                "instructors": [
+                    "Daniel Martin Watterson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Martin Watterson",
+                "Meeting Info": "TBA: Mon 3:30PM - 6:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "430-0",
+        "course_name": "Genetics",
+        "course_reference_number": [
+            "20778"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Genetics",
+                "instructors": [
+                    "Erica Davis",
+                    "Megan Roy-Puckelwartz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erica Davis",
+                "Meeting Info": "TBA: Mon, Wed 1:00PM - 3:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "436-1",
+        "course_name": "Drugs and the Brain",
+        "course_reference_number": [
+            "20786"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Drugs and the Brain",
+                "instructors": [
+                    "Loukia Parisiadou",
+                    "Jennifer Kearney"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Loukia Parisiadou",
+                "Meeting Info": "TBA: Thurs 1:00PM - 3:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "442-0",
+        "course_name": "Fundamentals of Microbiology",
+        "course_reference_number": [
+            "20779"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Microbiology",
+                "instructors": [
+                    "Judd Hultquist",
+                    "M.-N. Frances Yap"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Judd Hultquist",
+                "Meeting Info": "TBA: Mon, Wed, Fri 11:00AM - 12:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "444-0",
+        "course_name": "Foundations of Immunology",
+        "course_reference_number": [
+            "20788"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Foundations of Immunology",
+                "instructors": [
+                    "Vipul Shukla",
+                    "Adam Williams"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:00AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vipul Shukla",
+                "Meeting Info": "TBA: Tues 9:00AM - 11:00AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "456-0",
+        "course_name": "Topics in Developmental Biology",
+        "course_reference_number": [
+            "28781"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Topics in Developmental Biology",
+                "instructors": [
+                    "Brian Mitchell",
+                    "Yongchao C Ma"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "11:45AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brian Mitchell",
+                "Meeting Info": "Meets in Non-General PurposeRm: Thurs 9:30AM - 11:45AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Pharmacovigilance in Early Drug Development",
+        "course_reference_number": [
+            "20787"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Pharmacovigilance in Early Drug Development",
+                "instructors": [
+                    "Murali Prakriya"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Murali Prakriya",
+                "Meeting Info": "TBA: Sa 10:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Course Meets Online",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "Molecular Mechanisms of Carcinogenesis",
+        "course_reference_number": [
+            "20780"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Molecular Mechanisms of Carcinogenesis",
+                "instructors": [
+                    "Marc Mendillo"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "3:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marc Mendillo",
+                "Meeting Info": "TBA: Tues, Thurs 1:30PM - 3:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for DGP Students who have completed DGP 450-0."
+            }
+        ]
+    },
+    {
+        "course_number": "486-0",
+        "course_name": "Advance Bioinformatics and Genome Informatics",
+        "course_reference_number": [
+            "20785"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advance Bioinformatics and Genome Informatics",
+                "instructors": [
+                    "Feng Yue",
+                    "Ruli Gao",
+                    "Yaping Liu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Feng Yue",
+                "Meeting Info": "TBA: Mon, Wed 1:00PM - 3:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open Registration restricted to IGP Students Only."
+            }
+        ]
+    }
+]

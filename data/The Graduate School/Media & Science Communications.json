@@ -1,0 +1,117 @@
+[
+    {
+        "course_number": "518-0",
+        "course_name": "Health and Science Reporting",
+        "course_reference_number": [
+            "21317"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Health and Science Reporting",
+                "instructors": [
+                    "Patti Wolter"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patti Wolter",
+                "Meeting Info": "Fisk Hall 206: Wed 9:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "522-0",
+        "course_name": "Advanced Health & Sciences Reporting",
+        "course_reference_number": [
+            "21318"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Health & Sciences Reporting",
+                "instructors": [
+                    "Abigail Foerstner"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abigail Foerstner",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 1:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "580-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "28810"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Digital Editing & Engagement",
+                "instructors": [
+                    "Special Topics",
+                    "Haley Velasco"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Digital Editing & Engagement",
+                "Instructors": "Haley Velasco",
+                "Meeting Info": "Online: Wed 5:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "599-0",
+        "course_name": "Independent Study",
+        "course_reference_number": [
+            "21323"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Patti Wolter"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patti Wolter",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

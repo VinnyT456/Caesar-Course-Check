@@ -1,0 +1,376 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "23032"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Evidence",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Nicolette Bruner"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Evidence",
+                "Instructors": "Nicolette Bruner",
+                "Meeting Info": "Elder Hall 030 Seminar Room: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "\"Evidence\"\n\nIn both academic writing and the practice of law, evidence makes the argument. In turn, the standards by which evidence is assessed vary based on the type of claim being made and the venue. Sometimes, we must just show that our interpretation is more than likely true; when more is on the line, our evidence must be stronger, ready to overwhelm any reasonable doubt. Focusing on \"reason,\" in turn, reminds us that when we make an argument, what matters most is not how we feel or what we think should happen, but rather what conclusions logic can draw from the evidence at hand.\n\nThis class uses evidentiary standards in American civil and criminal law to structure exercises in academic argumentation. Students will practice identifying strong evidence in context; moving from evidence to argument; crafting a robust thesis statement; deploying points in a logical order; and expressing themselves in Academic Standard English. No knowledge of U.S. law is required.",
+                "Class Materials (Required)": "All materials for this course will be made available on Canvas - no purchase necessary.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "206-0",
+        "course_name": "Law and Society",
+        "course_reference_number": [
+            "23020"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Law and Society",
+                "instructors": [
+                    "Jesse Yeh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jesse Yeh\n620 Lincoln Street\nJesse Yeh (he /they) I am an Assistant Professor of Instruction at the Center for Legal Studies. I am a political sociologist with a focus on race and immigration, law and crime, gender and sexuality, and movements and politics. My current book project Crime Is Other People: Punitive Consciousness and the Racial Politics of Law-and-Order explores how liberal and conservative activists make sense of law-and-order politics. I teach courses on research methods, immigration, and race, law, and politics.",
+                "Meeting Info": "Fisk Hall 217: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Legal St 206 \"Law & Society\"\n\nLaw is everywhere. Law permits, prohibits, enables, legitimates, protects, and prosecutes. Law shapes our day-to-day lives in countless ways. This course examines the connections and relationships of law and society using an interdisciplinary social science approach. As one of the founders of the Law and Society movement observed, \"law is too important to leave to lawyers.\"Accordingly, this course will borrow from several theoretical, disciplinary, and interdisciplinary perspectives (such as sociology, history, anthropology, political science, and critical studies) to explore the sociology of law and law's role primarily in the American context. The thematic topics to be discussed include law and social control; law's role in social change; and law's capacity to reach into complex social relations and intervene in existing normative institutions and organizational structures.\nCross-listed with Sociology 206-0",
+                "Learning Objectives": "By the end of the course, students will:\nDevelop the knowledge and skills necessary to work with analytical concepts like ability, age, ethnicity, gender, law, nationality, race, religion, politics, sexuality, and social status; develop the ability to critique theories, claims, and policies in the social sciences through careful evaluation of an argument's major assertions, assumptions, evidential basis, and explanatory utility; demonstrate knowledge and understanding of major sociological and philosophical theories of law as related to the influence of culture and power on the behavior of individuals, interpersonal relationships, group dynamics, and institutions; reflect upon how theories and research from the field of legal studies (which itself draws from sociology, history, anthropology, political science, and psychology, among other social sciences) helps illuminate the factors underlying social issues, social problems, and ethical dilemmas in the U.S., and informs potential solutions; engage with primary sources (like court cases and newspaper articles) and sociolegal scholarship (like academic journal articles and book chapters) that engage with law's role in the historical and contemporary structures, processes, and practices that shape racism and anti-racism; power and resistance; justice and injustice; equality and inequality; agency and subjection; and belonging and subjection—in ways that shape both institutional decisionmaking and broader political and social understandings of these concepts; recognize and articulate the reciprocal relationships in the U.S. legal system between societal, cultural, political, and economic forces, on the one hand, and legal rules, practices, and outcomes, on the other; understand the relationship of these factors on the behaviors of individuals and groups, and reflect on one's own position within these relationships, forces, and structures; analyze how these terms and categories intersect and overlap.",
+                "Teaching Method": "Lecture and discussion sections",
+                "Evaluation Method": "Online and/or in-class quizzes; in-person midterm and final; participation",
+                "Class Materials (Required)": "All reading/viewing will be available for free on the Canvas site.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Anti-Req: Student may not receive credit for both Legal_St 206 and Sociol 206.",
+                "Associated Classes": "DIS - Parkes Hall 212: Thurs 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "245-0",
+        "course_name": "Undocumented America",
+        "course_reference_number": [
+            "23034"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Undocumented America",
+                "instructors": [
+                    "Jesse Yeh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jesse Yeh\n620 Lincoln Street\nJesse Yeh (he /they) I am an Assistant Professor of Instruction at the Center for Legal Studies. I am a political sociologist with a focus on race and immigration, law and crime, gender and sexuality, and movements and politics. My current book project Crime Is Other People: Punitive Consciousness and the Racial Politics of Law-and-Order explores how liberal and conservative activists make sense of law-and-order politics. I teach courses on research methods, immigration, and race, law, and politics.",
+                "Meeting Info": "Harris Hall L06: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "How does legal status shape the lives of the 11 million Americans who are undocumented? This course develops the necessary historical context, as well as the conceptual tools to make sense of why people migrate, what shapes their incorporation, how does legal status intersect with other social differences, and how does legal status shape people?s lived experiences with social institutions.\n\nCross-listed with SOCIOL 245-0 and ASIAN_AM 203-0",
+                "Class Materials (Required)": "All materials for this course will be made available on Canvas - no purchase necessary.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Student may not receive credit for both LEGAL_ST 245-0 and SOCIOL 245-0."
+            }
+        ]
+    },
+    {
+        "course_number": "248-0",
+        "course_name": "Global Legal History",
+        "course_reference_number": [
+            "28585"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Global Legal History",
+                "instructors": [
+                    "Helen Tilley"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Helen Tilley\nHelen Tilley studies African colonial and postcolonial history with a particular focus on medical, racial, environmental, and anthropological themes. She is finishing a book on the history of traditional medicine and its relationship to African decolonization, global governance, and ethnoscientific research during the Cold War.",
+                "Meeting Info": "Annenberg Hall G21: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This class examines the legal foundations that have created and sustained global inequalities. Through lectures and discussions, we will trace key concepts and their histories, including revolutions and rights, capital and crime, police and property, sedition and social movements, genocide and justice, self and sovereignty, and terror and truth. This will include laws governing outer space, satellites, and artificial intelligence. We will dive into controversial topics each week often connecting them to current events. To what extent, for instance, have international legal regimes arisen out of empires? Why were slavery and settler colonialism so important to many countries' constitutions? How did multinational corporations secure more rights than sovereign states? This course takes up these and other questions in order to make sense of the interplay between laws, empires, states, and corporations around the world over the last four centuries (circa 1600 to 2000).\n\nCross-listed with HISTORY 248-0",
+                "Learning Objectives": "To increase your knowledge of global and transnational history; to deepen your understanding of the historical interplay among law, empire, and global governance; and to refine your expository writing skills.",
+                "Evaluation Method": "Op-ed essays, reading responses, interviews (with guests), final project",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSocial and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Student may not receive credit for both LEGAL_ST 248-0 and HISTORY 248-0.",
+                "Associated Classes": "DIS - University Hall 101: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Japanese American \"Internment\"",
+        "course_reference_number": [
+            "23036"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Japanese American \"Internment\"",
+                "instructors": [
+                    "Shana Bernstein"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shana Bernstein\n847/467-6850\n620 Lincoln #205\nDr. Bernstein received her Ph.D. in U.S. History from Stanford University. Her research focuses on 20th century social reform, specifically civil rights and environmental justice. She teaches classes in Legal Studies, American Studies, and History on comparative race and ethnicity, immigration, and the history of health.",
+                "Meeting Info": "Fisk Hall 114: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Twenty-first century politicians and their spokespeople have referred to the World War II imprisonment of Japanese Americans as a possible precedent for politics towards Muslims, while others have invoked similar logic relating to \"military necessity\" to justify poor treatment of immigrants or others deemed a \"threat\" to U.S. security. Yet many Americans remain ignorant about this important and understudied episode in U.S. history. This discussion-based course examines events leading up to the mass imprisonment of a group of people based on race including the role played by wartime emergency language, the experiences of the imprisoned Americans, and the wartime policy's consequences. It focuses on the intersections between race, gender, nation, and law. Readings include secondary and primary sources, including related court cases, executive orders, documentary films, memoirs, and fiction.\n\nStudents will be expected to read and participate daily, as well as write three papers throughout the quarter (two approx. 4-6 pages, one approx. 10 pages).\n\nCross-listed with ASIAN_AM 250-0",
+                "Registration Requirements": "Attendance at first class required.",
+                "Learning Objectives": "1. Analyze the imprisonment from multiple perspectives, experiences, and primary sources (e.g. including traditional texts, documentary films, memoir, government documents, photographs, art, and other primary sources, as well as fiction).\n2. Identify and explain events leading up to the mass imprisonment of a group of people based on race, the role played by wartime emergency language, the experiences of Japanese Americans, and the consequences of this wartime policy.\n3. Explore and analyze intersections among race, gender, nation, and the law, both in the context of the treatment of Japanese Americans during World War II as well as in a larger historical context.\n4. Understand the role of law in justifying the imprisonment, and in its aftermath.\n5. Foster analytical, reading, discussion, and writing skills.\n6) To learn to analyze the past using both primary and secondary sources including how to analyze and critique sources and understand how scholars use them to formulate arguments and speak to each other.\n7. To teach empathy to better understand historical actions and actors as a product of their time and place.\n8. To understand chronology/change over time.",
+                "Teaching Method": "Seminar/Discussion",
+                "Evaluation Method": "Papers worth 70% of the course grade (20%, 20%, 30%) Discussion worth 30% of the course grade",
+                "Class Materials (Required)": "This course will have required books/other materials.\n\n- Yoshiko Uchida, University of Washington Press, Desert Exile: The Uprooting of a Japanese American Family, 2015, ISBN 9780295994758, paperback\n\n- Mine Okubo, University of Washington Press, Citizen 13660, 2014, ISBN 9780295993546, paperback",
+                "Class Attributes": "Historical Studies Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Student may not receive credit for both LEGAL_ST 250-0 and ASIAN_AM 250-0."
+            }
+        ]
+    },
+    {
+        "course_number": "309-0",
+        "course_name": "Political Theories of the Rule of Law",
+        "course_reference_number": [
+            "28363"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Political Theories of the Rule of Law",
+                "instructors": [
+                    "Jacqueline Stevens"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacqueline Stevens\n847/467-2093\n2001 Sheridan Road, 3162\nOffice Hours: By appointment only\nProfessor Stevens conducts research on political theories and practices of membership since antiquity. Her current studies of deportation law enforcement engage European fantasies of conquest in the 12th to 17th centuries as well as the quotidian of government documents revealing contemporary illegalities, including practices resulting in the unlawful deportation of United States citizens from the United States. Her research on deportations has been the basis of successful lawsuits challenging government misconduct.Professor Stevens' work has appeared in Political Theory, the American Political Science Review, the Journal of Political Philosophy, Social Text, Third World Quarterly, and many other scholarly venues, as well as in The Nation magazine and the New York Times. Reports on her work on ICE and private prison misconduct have appeared in the New Yorker, the New York Times, NPR, CNN, and numerous other venues.",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Mon 9:00AM - 11:50AM",
+                "Overview of class": "The phrase \"rule of law\" conveys a range of expectations we have of government and each other. Is the rule of law a meaningful aspiration for a legal system that is fair and ensures everyone, including government officials are equally accountable? Or is the phrase a cynical ruse on behalf of the powerful to control wealth, territory, and populations? This course will explore the origins of the rule of law in European political thought and compare selected theorists' descriptions of the relation between law and politics.\nThe course will focus on the use of state violence and civil penalties in contexts of war, disobedience, families, and corporations, including the university. The jurisprudence of U.S. statutory interpretation will be explored through analysis of debates about the implementation of national security and sexual harassment policies. The frameworks of ancient Greece will be foregrounded to put in conversation assigned texts by Franz Kafka, Carl Schmitt, Lon Fuller, Jeremy Waldron, Catherine MacKinnon, and Janet Halley, among others. Arguments will be compared for their usefulness in understanding the interpretation of contemporary laws and imagining alternatives.\n\nCross-listed with POLI_SCI 309-0",
+                "Registration Requirements": "Attendance at first class required",
+                "Learning Objectives": "This class introduces students to the primary texts, theories, and techniques necessary for grasping the rule of law in the United States today. The objective is to improve basic legal literacy in the context of larger questions of political and legal theory. Students will become familiar with conducting legal research using online databases, including LexisUni, and Proquest Congressional research databases, and also understand the U.S. Code and Code of Federal Regulations. Students will learn these skills in the context of reflecting on larger principles of statutory interpretation -- does a law mean what the plain text says, what Congress \"intends,\" or a \"purpose\" imputed to law by judges?",
+                "Evaluation Method": "Your grade will be based in-class analysis applying readings to a current event; a class presentation; participation; and a final paper.",
+                "Class Attributes": "Ethical and Evaluative Thinking Foundational Disci\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Student may not receive credit for both LEGAL_ST 309-0 and POLI_SCI 309-0."
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Surveillance, Policing, & Law",
+        "course_reference_number": [
+            "23035"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Surveillance, Policing, & Law",
+                "instructors": [
+                    "Abby Barefoot"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abby Barefoot\n847/467-0259\nAbigail Barefoot is an Assistant Professor of Instruction at the Center for Legal Studies. Prof. Barefoot’s research explores questions of justice, safety, and accountability through the lens of prison abolition and critical carceral studies Abigail’s current book project Beyond Carceral Responses: Transformative Justice, Prison Abolition, and the Movement to End Sexual Violence examines transformative justice practices for sexual violence. Using an ethnographic approach, Abigail unpacks the tensions, contradictions, and possibilities of practicing transformative justice as experienced by survivors, facilitators, and people who cause harm. Her other teaching and research interests include LGBTQ Studies, American social movements, and mass incarceration.",
+                "Meeting Info": "Fisk Hall 114: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "How are surveillance technologies shaping daily life and society, especially in terms of shaping what we think, see, and do? Building on the interdisciplinary field of surveillance studies, this course explores the intersection of policing, surveillance, and the law and raises questions about (in)security, civil liberties, control, and privacy. Topics will include The Patriot Act, biometrics, algorithm and predictive policing, and citizen surveillance. Students will also engage with the political, ethical, and methodological concerns that increased surveillance raises.",
+                "Learning Objectives": "• Demonstrate knowledge and understanding of social science theories related to the study of surveillance with particular attention to sociolegal theoretical approaches.\n• Apply an intersectional approach to topics surrounding the larger ecosystem of surveillance with a particular emphasis on how surveillance impacts people differently based upon their racial, class, and gender identities.\n• Engage with scholarship describing t contemporary structures, processes, and practices that shape power and resistance; justice and injustice; agency and subjection as it relates to informal and formal surveillance practices in the United States.\n• Engage with an interdisciplinary variety of theoretical frameworks (surveillance studies, critical criminology, sociolegal studies), empirical observations (qualitative and quantitative data), and research methods (social science and humanistic).\n• Develop the ability to critique theories, claims, and policies in the social and behavioral sciences through careful evaluation of an argument's major assertions, assumptions, evidential basis, and explanatory utility.\n• Reflect upon the way in which theories and research from the social and behavioral sciences help elucidate the factors that led to the development and sustaining of increased surveillance as well as potential solutions.\n• Craft text-based and verbal analyses of assigned course media—and extend this analysis to individually selected case studies and contexts.",
+                "Teaching Method": "Lecture and discussion",
+                "Class Materials (Required)": "All materials for this course will be made available on Canvas - no purchase necessary.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "333-0",
+        "course_name": "Constitutional Law II: Civil and Political Rights",
+        "course_reference_number": [
+            "23027"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Constitutional Law II: Civil and Political Rights",
+                "instructors": [
+                    "Joanna Grisinger"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joanna Grisinger\n847 491 3987\n620 Lincoln St #201\nI am an American legal historian whose research focuses on the politics of the modern administrative state. At Northwestern, I teach courses on law and society, U.S. legal history, gender and the law, and constitutional law.",
+                "Meeting Info": "2001 Sheridan GPC GN210: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This course investigates the civil rights and civil liberties protected by the Constitution and defined by the U.S. Supreme Court—including privacy, equality, freedom of expression, and freedom of religion. In doing so, we will examine what, exactly, the Constitution means, who gets to decide, and how.\n\nPlease note: Constitutional Law I (LEGAL_ST/POLI_SCI 332) is not a prerequisite for this class.",
+                "Registration Requirements": "Attendance at first class required. Taught with POLI SCI 333; may not receive credit for both courses. Prerequisite: POLI_SCI 220-0 or POLI_SCI 230-0\n\nPlease note: Constitutional Law I is not a prerequisite for this class. They can be taken in any order.",
+                "Learning Objectives": "By the end of the quarter, students should be able to:\n\n- recognize and articulate the relationship between the Supreme Court's constitutional decision-making; broader social, political, and economic factors; and the behaviors of individuals and groups (especially lawyers and Supreme Court justices);\n\n-be able to evaluate and analyze Supreme Court decisions through careful evaluation of their major assertions, assumptions, evidential basis, and explanatory utility;\n\n-understand and explain the evolution of constitutional doctrine in Supreme Court decisionmaking over time, in order to observe, describe, understand, and (maybe) predict the Supreme Court's behavior;\n\n-reflect on how theories about judicial decisionmaking can help us understand (and obscure) the Supreme Court's approach to contemporary social issues like privacy, equality, freedom of expression, and freedom of religion;\n\n-be able to explain the Supreme Court's important role in constructing and enforcing formal categories of (and protections regarding) ability, age, education, ethnicity, gender, nationality, race, religion, politics, sexuality, and social status, often in overlapping and intersecting ways;\n\n-understand the Supreme Court's role in defining the formal legal parameters of racism and anti-racism, power and resistance, justice and injustice, equality and inequality, agency and subjection, and belonging and subjection in ways that shape both its own decision-making and broader political and social understandings of these concepts.",
+                "Teaching Method": "lecture and in-class discussion",
+                "Evaluation Method": "Participation; short writing prompts; in-person midterm exam; in-person final exam",
+                "Class Materials (Required)": "This course will have required books/other materials.\n\ncoursepack available through Quartet Copies",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: POLI_SCI 220-0 or POLI_SCI 230-0. Antirequisite: Student may not receive credit for both LEGAL_ST 333-0 and POLI_SCI 333-0."
+            }
+        ]
+    },
+    {
+        "course_number": "383-0",
+        "course_name": "Gender, Sexuality and The Carceral State",
+        "course_reference_number": [
+            "23033"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Gender, Sexuality and The Carceral State",
+                "instructors": [
+                    "Abby Barefoot"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abby Barefoot\n847/467-0259\nAbigail Barefoot is an Assistant Professor of Instruction at the Center for Legal Studies. Prof. Barefoot’s research explores questions of justice, safety, and accountability through the lens of prison abolition and critical carceral studies Abigail’s current book project Beyond Carceral Responses: Transformative Justice, Prison Abolition, and the Movement to End Sexual Violence examines transformative justice practices for sexual violence. Using an ethnographic approach, Abigail unpacks the tensions, contradictions, and possibilities of practicing transformative justice as experienced by survivors, facilitators, and people who cause harm. Her other teaching and research interests include LGBTQ Studies, American social movements, and mass incarceration.",
+                "Meeting Info": "Technological Institute L160: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This course explores the rise of the carceral state in the United with particular attention to ethnographic, sociolegal, feminist, queer, and transgender theoretical approaches to the study of prisons. The course centers on girls, women, and LGBT people's experiences with systems of punishment, surveillance, and control. In addition, students will learn how feminist and queer activists have responded to institutions of policing and mass incarceration; investigate how they have understood prison reform, prison abolition, and transformative justice; and consider the political, ethical, and methodological concerns that policing, and mass incarceration raise.",
+                "Learning Objectives": "• Engage with scholarship describing the historical and contemporary structures, processes, and practices that shape power and resistance; justice and injustice; agency and subjection as it relates to study the U.S carceral state.\n• Analyze how social and political forces intersect with gender, race, class, and sexuality to shape experiences with the carceral state.\n• Define and apply key analytical concepts as they relate to gender, sexuality, race and social status.\n• Demonstrate knowledge and understanding of social science theories related to the study of prisons with particular attention to ethnographic, sociolegal, feminist, queer, and transgender theoretical approaches.\n• Develop the ability to critique theories, claims, and policies in the social and behavioral sciences through careful evaluation of an argument's major assertions, assumptions, evidential basis, and explanatory utility.\n• Reflect upon the way in which theories and research from the social and behavioral sciences help elucidate the factors that led to the development and sustaining of the carceral state as well as potential solutions.",
+                "Teaching Method": "Lecture and Discussion",
+                "Evaluation Method": "short writing assignments, presentation, and final will be a group project",
+                "Class Materials (Required)": "All materials for this course will be made available on Canvas - no purchase necessary.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "394-LK",
+        "course_name": "Professional Linkage Seminar",
+        "course_reference_number": [
+            "28203"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Human Rights & US Refugee Law",
+                "instructors": [
+                    "Professional Linkage Seminar",
+                    "William B Schiller"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Human Rights & US Refugee Law",
+                "Instructors": "William B Schiller",
+                "Meeting Info": "Parkes Hall 214: Wed 6:00PM - 9:00PM",
+                "Overview of class": "\"Human Rights & US Refugee Law\"\n\nWhat happens when refugees and asylum seekers come to the United States?\n\nThis course will introduce students to international human rights conditions as well as refugee and current asylum law mechanisms in the United States. Students will learn about the diverse work of refugee-related professionals, including individuals who perform documentation-gathering, advocate for legal and public policy, and provide health care for asylum-seekers in the United States. This course will allow students to meet directly with several professionals who are engaged in this critical work.",
+                "Learning Objectives": "The objectives in this course are: 1) to learn about international human rights conditions and refugee and current asylum law mechanisms in the United States, through ongoing research related to asylum claims that will be presented at the end of the quarter in a trial; and 2) to become familiar with the diverse work of refugee-related professionals, including individuals who perform documentation-gathering, advocate for legal and public policy, and provide health care for asylum-seekers in the United States.",
+                "Teaching Method": "In this class, you will be introduced to fundamental tenets of international human rights law and its domestic counterpart, U.S. asylum law. You will build upon this foundation for the remainder of the course by researching two asylum claims involving refugees from two countries, which you will present in mock hearings at the end of the course.\n\nThe class will divide into two groups. Group 1 will present a claim involving their client and Group 2 will serve as the USCIS trial attorney or opposing counsel. Group 2 will then present a claim involving their client with Group 1 serving as the USCIS trial attorney or opposing counsel.\n\nThroughout the course, you will be given assignments that relate to the presentation of your cases. You also will be given opportunities to discuss questions emerging from your research for your cases with guest speakers who are experts in specific areas relating to refugees or asylum law.\n\nIt is anticipated that in the latter part of the course, we will meet with a former judge and prosecutor to learn more about their professions and to give you an opportunity to ask questions relating to case procedure.\n\nIn the eighth and ninth weeks of the quarter, you will represent your applicant's claim in front of a judge, with your classmates performing the roles of asylum applicant, and expert and lay witnesses, including family and community members.",
+                "Class Materials (Required)": "This course will have required books/other materials.\n\nAccess to AILA Asylum Primer 9th Edition.\nCost is $75 for 6 month subscription. Contact instructor for access form."
+            }
+        ]
+    },
+    {
+        "course_number": "398-2",
+        "course_name": "Advanced Research Seminar 2",
+        "course_reference_number": [
+            "23016"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Research Seminar 2",
+                "instructors": [
+                    "Joanna Grisinger"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joanna Grisinger\n847 491 3987\n620 Lincoln St #201\nI am an American legal historian whose research focuses on the politics of the modern administrative state. At Northwestern, I teach courses on law and society, U.S. legal history, gender and the law, and constitutional law.",
+                "Meeting Info": "Fisk Hall 114: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Legal Studies 398 is a two-quarter sequence (398-1 and 398-2) required for all Legal Studies majors. This seminar will expose students to a variety of theoretical and methodological approaches to law and legal institutions; over two quarters, students will develop their own research paper on a topic of interest. During winter quarter, students will complete their research projects and present their projects to the class. Students will meet to discuss shared readings, will workshop their paper drafts with one another, will prepare oral presentations based on their research, and will meet individually with the professor and with the Teaching Assistants.",
+                "Evaluation Method": "class participation, oral presentation, written assignments",
+                "Class Materials (Required)": "All materials for this course will be made available on Canvas - no purchase necessary.",
+                "Class Attributes": "Advanced Expression",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: LEGAL_ST 398-1 within the same academic year.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "course_number": "202-DL",
+        "course_name": "Modeling Concepts",
+        "course_reference_number": [
+            "20395"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Modeling Concepts",
+                "instructors": [
+                    "Elbert Hearon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elbert Hearon",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

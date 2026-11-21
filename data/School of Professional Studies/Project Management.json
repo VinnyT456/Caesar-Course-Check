@@ -1,0 +1,144 @@
+[
+    {
+        "course_number": "225-0",
+        "course_name": "Power Excel and AI Skills for Project Managers",
+        "course_reference_number": [
+            "20604"
+        ],
+        "course_info": [
+            {
+                "section": "43",
+                "course_name": "Power Excel and AI Skills for Project Managers",
+                "instructors": [
+                    "Alex De Melo"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alex De Melo",
+                "Meeting Info": "TBA: Tues, Thurs 7:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "335-DL",
+        "course_name": "Project Managers as Strategic Drivers",
+        "course_reference_number": [
+            "20607"
+        ],
+        "course_info": [
+            {
+                "section": "42",
+                "course_name": "Project Managers as Strategic Drivers",
+                "instructors": [
+                    "Lisa-Ann Barnes"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lisa-Ann Barnes",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "345-DL",
+        "course_name": "Practical Project Planning",
+        "course_reference_number": [
+            "20605"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Practical Project Planning",
+                "instructors": [
+                    "Lisa-Ann Barnes"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lisa-Ann Barnes",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "400-0",
+        "course_name": "Project Management Professional (PMP)® Exam Prep",
+        "course_reference_number": [
+            "20608"
+        ],
+        "course_info": [
+            {
+                "section": "45",
+                "course_name": "Project Management Professional (PMP)® Exam Prep",
+                "instructors": [
+                    "Balajirao Ryali"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Balajirao Ryali",
+                "Meeting Info": "TBA: Thurs 5:30PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "401-0",
+        "course_name": "Essentials of Project Management",
+        "course_reference_number": [
+            "20606"
+        ],
+        "course_info": [
+            {
+                "section": "43",
+                "course_name": "Essentials of Project Management",
+                "instructors": [
+                    "Lisa-Ann Barnes"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lisa-Ann Barnes",
+                "Meeting Info": "TBA: Tues 6:00PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "course_number": "409-0",
+        "course_name": "Team Dynamics",
+        "course_reference_number": [
+            "26360"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Team Dynamics",
+                "instructors": [
+                    "Mindy Magrane"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mindy Magrane",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "413-0",
+        "course_name": "Learning and Thinking in Organizations",
+        "course_reference_number": [
+            "26398"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Learning and Thinking in Organizations",
+                "instructors": [
+                    "Peter Meyerhoff"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Peter Meyerhoff",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "416-0",
+        "course_name": "Identities, Intersections, and Organizations",
+        "course_reference_number": [
+            "26363"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Identities, Intersections, and Organizations",
+                "instructors": [
+                    "Lilah Shapiro"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lilah Shapiro",
+                "Meeting Info": "2001 Sheridan GPC GN350: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Global Organizational Design and Leadership",
+        "course_reference_number": [
+            "26411"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Global Organizational Design and Leadership",
+                "instructors": [
+                    "Ritu Tripathi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ritu Tripathi",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "442-0",
+        "course_name": "Leading Global Change",
+        "course_reference_number": [
+            "26408"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Leading Global Change",
+                "instructors": [
+                    "Ritu Tripathi",
+                    "Roberto Cabanelas"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "7:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ritu Tripathi",
+                "Meeting Info": "Online: Mon 5:45PM - 7:15PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Consulting Lab",
+        "course_reference_number": [
+            "28808"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Consulting Lab",
+                "instructors": [
+                    "Terrence Roche"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Terrence Roche",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Mon 10:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "462-0",
+        "course_name": "Solving Problems with Data",
+        "course_reference_number": [
+            "26402"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Solving Problems with Data",
+                "instructors": [
+                    "Marina Micari",
+                    "Ritu Tripathi"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "7:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marina Micari",
+                "Meeting Info": "Online: Thurs 5:30PM - 7:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

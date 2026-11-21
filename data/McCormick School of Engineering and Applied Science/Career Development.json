@@ -1,0 +1,1760 @@
+[
+    {
+        "course_number": "301-0",
+        "course_name": "Introduction to Career Development",
+        "course_reference_number": [
+            "22944",
+            "22945",
+            "22946",
+            "22947",
+            "22948"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Career Development",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Introduction to Career Development",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Dannielle Curtis",
+                    "Erik J Friedman"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Introduction to Career Development",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Introduction to Career Development",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman",
+                    "Starra Priestaf"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Introduction to Career Development",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman",
+                    "Kris Romero"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Mon 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for School of Engineering students only."
+            },
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "Ford Hive Annex 2340: Tues 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for School of Engineering students only."
+            },
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "Ford Hive Annex 2340: Tues 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for School of Engineering students only."
+            },
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Tues 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for School of Engineering students only."
+            },
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "Ford Hive Annex 2340: Thurs 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for School of Engineering students only."
+            }
+        ]
+    },
+    {
+        "course_number": "310-1",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22949"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-1-GM",
+        "course_name": "International Cooperative Engineering Education",
+        "course_reference_number": [
+            "22977"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-2",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22950"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-2-GM",
+        "course_name": "International Cooperative Engineering Education",
+        "course_reference_number": [
+            "22978"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-3",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22951"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-3-GM",
+        "course_name": "International Cooperative Engineering Education",
+        "course_reference_number": [
+            "22979"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-4",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22952"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-5",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22953"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-6",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22954"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-7",
+        "course_name": "Cooperative Engineering Education: Half-time",
+        "course_reference_number": [
+            "22974"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education: Half-time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "310-7-GM",
+        "course_name": "International Cooperative Engineering Education: Half-Time",
+        "course_reference_number": [
+            "22980"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education: Half-Time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-1",
+        "course_name": "Professional Engineering Internship",
+        "course_reference_number": [
+            "22955"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-1-GM",
+        "course_name": "International Engineering Internship",
+        "course_reference_number": [
+            "22981"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-2",
+        "course_name": "Professional Engineering Internship",
+        "course_reference_number": [
+            "22956"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-2-GM",
+        "course_name": "International Engineering Internship",
+        "course_reference_number": [
+            "22982"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-3",
+        "course_name": "Professional Engineering Internship",
+        "course_reference_number": [
+            "22957"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-3-GM",
+        "course_name": "International Engineering Internship",
+        "course_reference_number": [
+            "22983"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-7",
+        "course_name": "Engineering Internship: Half-time",
+        "course_reference_number": [
+            "22976"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Internship: Half-time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-7-GM",
+        "course_name": "International Engineering Internship: Half-Time",
+        "course_reference_number": [
+            "22984"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship: Half-Time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-1",
+        "course_name": "Undergraduate Engineering Research",
+        "course_reference_number": [
+            "22965"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Undergraduate Engineering Research",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-1-GM",
+        "course_name": "International Engineering Research Experience",
+        "course_reference_number": [
+            "22985"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-2",
+        "course_name": "Undergraduate Engineering Research",
+        "course_reference_number": [
+            "22966"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Undergraduate Engineering Research",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-2-GM",
+        "course_name": "International Engineering Research Experience",
+        "course_reference_number": [
+            "22986"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-3",
+        "course_name": "Undergraduate Engineering Research",
+        "course_reference_number": [
+            "22967"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Undergraduate Engineering Research",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-3-GM",
+        "course_name": "International Engineering Research Experience",
+        "course_reference_number": [
+            "22987"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-7",
+        "course_name": "Engineering Research Experience: Half-time",
+        "course_reference_number": [
+            "22975"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Research Experience: Half-time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-7-GM",
+        "course_name": "International Engineering Research Experience: Half-Time",
+        "course_reference_number": [
+            "22988"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience: Half-Time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "314-1",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23000"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "314-2",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23001"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "314-3",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23002"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "314-4",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23003"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "314-7",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23004"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-1",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22958"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-1-GM",
+        "course_name": "International Cooperative Engineering Education",
+        "course_reference_number": [
+            "22989"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-2",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22959"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-2-GM",
+        "course_name": "International Cooperative Engineering Education",
+        "course_reference_number": [
+            "22990"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-3",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22960"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-4",
+        "course_name": "Cooperative Engineering Education",
+        "course_reference_number": [
+            "22961"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-7",
+        "course_name": "Cooperative Engineering Education: Half-time",
+        "course_reference_number": [
+            "22971"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cooperative Engineering Education: Half-time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-7-GM",
+        "course_name": "International Cooperative Engineering Education: Half-Time",
+        "course_reference_number": [
+            "22991"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Cooperative Engineering Education: Half-Time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-1",
+        "course_name": "Professional Engineering Internship",
+        "course_reference_number": [
+            "22962"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-1-GM",
+        "course_name": "International Engineering Internship",
+        "course_reference_number": [
+            "22992"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-2",
+        "course_name": "Professional Engineering Internship",
+        "course_reference_number": [
+            "22963"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-2-GM",
+        "course_name": "International Engineering Internship",
+        "course_reference_number": [
+            "22993"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-3",
+        "course_name": "Professional Engineering Internship",
+        "course_reference_number": [
+            "22964"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-3-GM",
+        "course_name": "International Engineering Internship",
+        "course_reference_number": [
+            "22994"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship",
+                "instructors": [
+                    "Tameca Blossom-Lyons"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-7",
+        "course_name": "Engineering Internship: Half-time",
+        "course_reference_number": [
+            "22972"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Internship: Half-time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-7-GM",
+        "course_name": "International Engineering Internship: Half-Time",
+        "course_reference_number": [
+            "22995"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Internship: Half-Time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-1",
+        "course_name": "Engineering Research",
+        "course_reference_number": [
+            "22970"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Research",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-1-GM",
+        "course_name": "International Engineering Research Experience",
+        "course_reference_number": [
+            "22996"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-2",
+        "course_name": "Engineering Research",
+        "course_reference_number": [
+            "22968"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Research",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-2-GM",
+        "course_name": "International Engineering Research Experience",
+        "course_reference_number": [
+            "22997"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-3",
+        "course_name": "Engineering Research",
+        "course_reference_number": [
+            "22969"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Research",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-3-GM",
+        "course_name": "International Engineering Research Experience",
+        "course_reference_number": [
+            "22998"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-7",
+        "course_name": "Engineering Research Experience: Half-time",
+        "course_reference_number": [
+            "22973"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Research Experience: Half-time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "413-7-GM",
+        "course_name": "International Engineering Research Experience: Half-Time",
+        "course_reference_number": [
+            "22999"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Engineering Research Experience: Half-Time",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-1",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23005"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-2",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23006"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-3",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23007"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-7",
+        "course_name": "Career Development for Student Entrepreneurs",
+        "course_reference_number": [
+            "23008"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Career Development for Student Entrepreneurs",
+                "instructors": [
+                    "Tameca Blossom-Lyons",
+                    "Erik J Friedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tameca Blossom-Lyons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "510-0",
+        "course_name": "Crown Family Graduate Internship",
+        "course_reference_number": [
+            "22943"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Crown Family Graduate Internship",
+                "instructors": [
+                    "Elysse Longiotti"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elysse Longiotti",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

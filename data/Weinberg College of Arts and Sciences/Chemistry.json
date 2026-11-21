@@ -1,0 +1,1175 @@
+[
+    {
+        "course_number": "105-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "23913",
+            "23914"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Nanotechnology and Northwestern",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Teri W Odom"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "02",
+                "course_name": "Energy, Compute, and Material Abundance and the En",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Edward Sargent"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Nanotechnology and Northwestern",
+                "Instructors": "Teri W Odom",
+                "Meeting Info": "Technological Institute M166: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Nanotechnology involves the creation and use of small structures at the nanometer scale. This length is around a thousand times less than the diameter of a human hair, with DNA widths 1-2 nm. For 25 years, Northwestern University has been a global leader in nanoscience research spanning the basics and applications of nanomaterials in medicine, electronic and photonic devices, and photovoltaics. Our university also houses state-of-the-art instruments and tools to carry out research at the nanoscale. This seminar will cover all aspects of nanoscience and nanotechnology, with an emphasis on the groundbreaking work at Northwestern so that students can be exposed to current research. Students will have opportunities to explain an idea in nanoscience to a general audience and assess nanotechnology concerns raised in media reports.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "Nanotechnology: Understanding Small Systems, Third Edition (B. Rogers, J. Adams, S. Pennathur; eTextbook available)",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            },
+            {
+                "Topic": "Energy, Compute, and Material Abundance and the En",
+                "Instructors": "Edward Sargent",
+                "Meeting Info": "Technological Institute LG72: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Energy, Compute, and Material Abundance and the Energy Transition\n\nElectricity demand in the US and globally has entered into a new regime of growth, powered by rapid scaling of data centers in light of AI, combined with reshoring and electrification of manufacturing. Abundant compute has become a prerequisite for progress across science and industry, and abundant compute rests in turn on abundant energy and on abundant materials: the metals, chemicals, and manufactured components from which generation, storage, transmission, and the chips themselves are built.\n\nThis considerable demand growth will need to be fulfilled rapidly; with firm guarantees re: the dependability of the electricity; and affordably. More and more of this energy will have to be lower in its CO2 intensity than has been legacy energy production. The same applies on the materials side, where supply chains for critical minerals, and for bulk industrial materials such as steel, cement, and silicon, will need to grow quickly, securely, and at lower carbon intensity.\n\nThis will entail rapid progress in solar and wind with storage; geothermal; nuclear; and blue power. Looking more broadly across sectors, it will require innovative sustainable fuels and chemicals to power transportation, to feed the needs of industry, and to fulfill the growing energy requirements of individuals, including in high-growth emerging economies. It will also require new materials, and new routes to making and recycling familiar ones, since materials constraints bind as tightly as do energy constraints.\n\nWe will explore issues of a scientific and engineering nature; as well as of systems, economics, and policy; relating to achieving the needed growth in energy, materials, and compute across the course of the energy transition. We will study the global potential, as well as the realistic technical capacity, of the major current and future contributors to the energy mix, together with the materials and data-center buildout that these depend on; look at areas of science and technology that require advances to enable sustainable growth and maintain global competitiveness; and consider the links to national and international economics and politics.",
+                "Class Materials (Required)": "Course materials will be provided in Canvas",
+                "Class Materials (Suggested)": "None",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "131-0",
+        "course_name": "Fundamentals of Chemistry I",
+        "course_reference_number": [
+            "23835",
+            "23836"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Fundamentals of Chemistry I",
+                "instructors": [
+                    "Frederick Northrup"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Fundamentals of Chemistry I",
+                "instructors": [
+                    "Frederick Northrup"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Frederick Northrup",
+                "Meeting Info": "Technological Institute M345: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM",
+                "Overview of class": "Quantum mechanics, electronic structure, periodic properties of elements, chemical bonding, thermodynamics, intermolecular forces, properties of solids and liquids, solutions and colligative properties.\n\nStudents enrolled in this course MUST also enroll in the associated laboratory course, CHEM 141-0.\n\nPrerequisite: CHEM 110-0 (C- or better).",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in Chemistry 110-0.\n\nStudents who have received permission to start the sequence with this course must obtain a permission number from the Chemistry Department.\n\nStudents enrolled in this course MUST also enroll in the associated laboratory course, CHEM 141-0.",
+                "Class Materials (Required)": "1. Title: General Chemistry: Principles and Modern Applications, 12th ed.\nAuthor: Petrucci\nPublisher: Pearson\nISBN 9781292726168\nApprox. price: $120 new, $60 ebook rental\n\n2. Title: Calculations in Chemistry: An Introduction, 2nd Edition\nAuthor: Dahm\nPublisher: Norton\nISBN: 9780393284201\nApprox. price: $56 new, $42 used, $54 ebook\n\n3. Texas Instruments TI-30XIIS Scientific Calculator ($19.98). Graphing calculators are not permitted during exams and quizzes.\n\nNote: These course materials are also used in CHEM 110 and 132.",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM131-141-Winter2027\n\nMidterms: Thursday, January 28 and Thursday, February 18",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for CHEM 141-0 section 1. Add both classes (CHEM 141-0-01 & 131-0-01) to the shopping cart and submit together for successful registration.Students must also have completed CHEM 110-0. Co-Requisite: Students must also register for CHEM 141-0. Add both classes (CHEM 141-0 & 131-0) to the shopping cart and submit together for successful registration.Students must also have completed CHEM 110-0.",
+                "Associated Classes": "DIS - Parkes Hall 222: Thurs 10:00AM - 10:50AM"
+            },
+            {
+                "Instructors": "Frederick Northrup",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM",
+                "Overview of class": "Quantum mechanics, electronic structure, periodic properties of elements, chemical bonding, thermodynamics, intermolecular forces, properties of solids and liquids, solutions and colligative properties.\n\nStudents enrolled in this course MUST also enroll in the associated laboratory course, CHEM 141-0.\n\nPrerequisite: CHEM 110-0 (C- or better).",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in Chemistry 110-0.\n\nStudents who have received permission to start the sequence with this course must obtain a permission number from the Chemistry Department.\n\nStudents enrolled in this course MUST also enroll in the associated laboratory course, CHEM 141-0.",
+                "Class Materials (Required)": "1. Title: General Chemistry: Principles and Modern Applications, 12th ed.\nAuthor: Petrucci\nPublisher: Pearson\nISBN 9781292726168\nApprox. price: $120 new, $60 ebook rental\n\n2. Title: Calculations in Chemistry: An Introduction, 2nd Edition\nAuthor: Dahm\nPublisher: Norton\nISBN: 9780393284201\nApprox. price: $56 new, $42 used, $54 ebook\n\n3. Texas Instruments TI-30XIIS Scientific Calculator ($19.98). Graphing calculators are not permitted during exams and quizzes.\n\nNote: These course materials are also used in CHEM 110 and 132.",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM131-141-Winter2027\n\nMidterms: Thursday, January 28 and Thursday, February 18",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for CHEM 141-0-02. Add both classes (CHEM 141-0-02 & 131-0-02) to the shopping cart and submit together for successful registration. Co-Requisite: Students must also register for CHEM 141-0. Add both classes (CHEM 141-0 & 131-0) to the shopping cart and submit together for successful registration.Students must also have completed CHEM 110-0.",
+                "Associated Classes": "DIS - Technological Institute LG72: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "141-0",
+        "course_name": "Fundamentals of Chemistry Laboratory I",
+        "course_reference_number": [
+            "23853",
+            "23854"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Fundamentals of Chemistry Laboratory I",
+                "instructors": [
+                    "Veronica Berns",
+                    "Dylan Bardgett"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Fundamentals of Chemistry Laboratory I",
+                "instructors": [
+                    "Veronica Berns",
+                    "Dylan Bardgett"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Veronica Berns",
+                "Meeting Info": "Technological Institute M345: Tues 10:00AM - 10:50AM",
+                "Overview of class": "Chemical analysis of real samples using basic laboratory techniques including titration, colorimetric analysis, density measurements, and atomic spectroscopy. Planning, data collection, interpretation, and reporting on experiments.\n\nStudents enrolled in this course MUST also enroll in the associated lecture course, Chem 131-0.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in Chemistry 110-0.\n\nStudents who have received permission to start the sequence with this course must obtain a permission number from the Chemistry Department.\n\nStudents enrolled in this course MUST also enroll in the associated lecture course, Chem 131-0.",
+                "Class Materials (Required)": "Lab coats and goggles will be provided at no cost to students.",
+                "Class Materials (Suggested)": "None.",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM131-141-Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-requisite: Students must also register for CHEM 131-0 section 1. Add both classes (CHEM 131-0-01 & 141-0-01) to the shopping cart and submit together for successful registration. Co-requisite: Students must also register for CHEM 131-0. Add both classes (CHEM 131-0 & 141-0) to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Veronica Berns",
+                "Meeting Info": "Tech Institute Lecture Room 3: Tues 11:00AM - 11:50AM",
+                "Overview of class": "Chemical analysis of real samples using basic laboratory techniques including titration, colorimetric analysis, density measurements, and atomic spectroscopy. Planning, data collection, interpretation, and reporting on experiments.\n\nStudents enrolled in this course MUST also enroll in the associated lecture course, Chem 131-0.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in Chemistry 110-0.\n\nStudents who have received permission to start the sequence with this course must obtain a permission number from the Chemistry Department.\n\nStudents enrolled in this course MUST also enroll in the associated lecture course, Chem 131-0.",
+                "Class Materials (Required)": "Lab coats and goggles will be provided at no cost to students.",
+                "Class Materials (Suggested)": "None.",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM131-141-Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-requisite: Students must also register for CHEM 131-0-02. Add both classes (CHEM 131-0-02 & 141-0-02) to the shopping cart and submit together for successful registration. Co-requisite: Students must also register for CHEM 131-0. Add both classes (CHEM 131-0 & 141-0) to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "152-0",
+        "course_name": "General Chemistry II",
+        "course_reference_number": [
+            "23860",
+            "23861"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "General Chemistry II",
+                "instructors": [
+                    "Bryan M Hunter"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "General Chemistry II",
+                "instructors": [
+                    "Ryan Bethel"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bryan M Hunter",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Tues, Wed 9:00AM - 9:50AM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM",
+                "Overview of class": "Chemical equilibrium, aqueous solution equilibria, chemical kinetics, metals in chemistry and biology, oxidation-reduction reactions and electrochemistry.\n\nMust be taken concurrently with the CHEM 162-0 laboratory course.",
+                "Registration Requirements": "Prerequisites: CHEM 151-0 and CHEM 161-0 (C- or better in both courses).\n\nStudents may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\n\nMust be taken concurrently with the CHEM 162-0 laboratory course.",
+                "Class Materials (Required)": "1. Title: General Chemistry: Principles and Modern Applications, 12th ed.\nAuthor: Petrucci\nPublisher: Pearson\nISBN 9781292726168\nApprox. price: $75 new, $45 ebook rental\n\n2. Texas Instruments TI-30XIIS Scientific Calculator (approx price $19.98). Graphing calculators are not permitted during exams and quizzes.\n\n3. iClicker cell phone/tablet application. (One-quarter subscription approx. $20, if multi-quarter subscription not already purchased. More information will be provided on the first day of class.)\n\nNote: These are the same course materials for CHEM 151",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "Evening Exam Dates: Thursday, January 28 and Thursday, February 25\n\nThis course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM152-162-Winter2027",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 162-0 01. Add both classes to the shopping cart and submit together for successful registration. Co-Requisite: Students must also register for CHEM 162-0. Add both classes (CHEM 162-0 & 152-0) to the shopping cart and submit together for successful registration. Pre-Requisites: CHEM 151-0 and 161-0 (both C- or better).",
+                "Associated Classes": "DIS - Technological Institute M120: Thurs 9:00AM - 9:50AM"
+            },
+            {
+                "Instructors": "Ryan Bethel",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Tues, Wed 10:00AM - 10:50AM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM",
+                "Overview of class": "Chemical equilibrium, aqueous solution equilibria, chemical kinetics, metals in chemistry and biology, oxidation-reduction reactions and electrochemistry.\n\nMust be taken concurrently with the CHEM 162-0 laboratory course.",
+                "Registration Requirements": "Prerequisites: CHEM 151-0 and CHEM 161-0 (C- or better in both courses).\n\nStudents may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\n\nMust be taken concurrently with the CHEM 162-0 laboratory course.",
+                "Class Materials (Required)": "1. Title: General Chemistry: Principles and Modern Applications, 12th ed.\nAuthor: Petrucci\nPublisher: Pearson\nISBN 9781292726168\nApprox. price: $75 new, $45 ebook rental\n\n2. Texas Instruments TI-30XIIS Scientific Calculator (approx price $19.98). Graphing calculators are not permitted during exams and quizzes.\n\n3. iClicker cell phone/tablet application. (One-quarter subscription approx. $20, if multi-quarter subscription not already purchased. More information will be provided on the first day of class.)\n\nNote: These are the same course materials for CHEM 151",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "Evening Exam Dates: Thursday, January 28 and Thursday, February 25\n\nThis course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM152-162-Winter2027",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 162-0 02. Add both classes to the shopping cart and submit together for successful registration. Co-Requisite: Students must also register for CHEM 162-0. Add both classes (CHEM 162-0 & 152-0) to the shopping cart and submit together for successful registration. Pre-Requisites: CHEM 151-0 and 161-0 (both C- or better).",
+                "Associated Classes": "DIS - Technological Institute L160: Thurs 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "162-0",
+        "course_name": "General Chemistry Laboratory II",
+        "course_reference_number": [
+            "23882",
+            "23883"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "General Chemistry Laboratory II",
+                "instructors": [
+                    "Katie Gesmundo"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "General Chemistry Laboratory II",
+                "instructors": [
+                    "Katie Gesmundo"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Katie Gesmundo",
+                "Meeting Info": "Tech Institute Lecture Room 3: Fri 9:00AM - 9:50AM",
+                "Overview of class": "Chemistry laboratory techniques applied to materials science and nanotechnology, acid-base chemistry, and chemical kinetics. Planning, data collection, interpretation, and reporting on experiments.\n\nPrerequisites: Chem 151-0 and Chem 161-0 (C- or better in both courses). Students may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\n\nMust be taken concurrently with the Chem 152-0 lecture course.",
+                "Registration Requirements": "Prerequisites: Chem 151-0 and Chem 161-0 (C- or better in both courses).\n\nStudents may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\n\nMust be taken concurrently with the Chem 152-0 lecture course.",
+                "Class Materials (Required)": "Lab coats, which will be provided for use at no cost to students.\nGoggles, which were provided to students in CHEM 161.",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM152-162-Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 152-0 01. Add both classes to the shopping cart and submit together for successful registration. Co-Requisite: Students must also register for CHEM 152-0. Add both classes (CHEM 152-0 & 162-0) to the shopping cart and submit together for successful registration. Pre-Requisites: CHEM 151-0 and 161-0 (both C- or better)."
+            },
+            {
+                "Instructors": "Katie Gesmundo",
+                "Meeting Info": "Tech Institute Lecture Room 3: Fri 10:00AM - 10:50AM",
+                "Overview of class": "Chemistry laboratory techniques applied to materials science and nanotechnology, acid-base chemistry, and chemical kinetics. Planning, data collection, interpretation, and reporting on experiments.\n\nPrerequisites: Chem 151-0 and Chem 161-0 (C- or better in both courses). Students may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\n\nMust be taken concurrently with the Chem 152-0 lecture course.",
+                "Registration Requirements": "Prerequisites: Chem 151-0 and Chem 161-0 (C- or better in both courses).\n\nStudents may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\n\nMust be taken concurrently with the Chem 152-0 lecture course.",
+                "Class Materials (Required)": "Lab coats, which will be provided for use at no cost to students.\nGoggles, which were provided to students in CHEM 161.",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM152-162-Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 152-0 02. Add both classes to the shopping cart and submit together for successful registration. Co-Requisite: Students must also register for CHEM 152-0. Add both classes (CHEM 152-0 & 162-0) to the shopping cart and submit together for successful registration. Pre-Requisites: CHEM 151-0 and 161-0 (both C- or better)."
+            }
+        ]
+    },
+    {
+        "course_number": "172-0",
+        "course_name": "Advanced General Physical Chemistry",
+        "course_reference_number": [
+            "23784"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Advanced General Physical Chemistry",
+                "instructors": [
+                    "Roel Tempelaar"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Roel Tempelaar",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "The course covers elementary physical chemistry. Topics include chemical reaction kinetics and mechanisms and thermodynamics applied to chemical processes with an emphasis on gas phase and acid-base reactions, phase and solubility equilibria, and electrochemistry. The course title, \"Advanced Physical Chemistry\" implies faster coverage, more depth, and challenging problems compared to a standard General Chemistry course. Typically there are three lectures each week in addition to a discussion session and a laboratory lecture.\n\nMust be taken concurrently with the CHEM 182-0 laboratory course.",
+                "Registration Requirements": "Prerequisites: Chem 171-0 and Chem 181-0 (C- or better in both courses).\nStudents may not start the sequence in this course. All Chemistry course sequences start in Fall Quarter.\nMust be taken concurrently with the Chem 182-0 lecture course.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "1. Title: Chemical Principles: The Quest for Insight, any edition\nAuthor: Atkins, Jones & Laverman\nPublisher: W.H. Freeman, 2016\n\n2. Title: Chemical Bonds: An Introduction to Atomic and Molecular Structure\nAuthor: Gray, Harry\nLink to pdf: https://authors.library.caltech.edu/records/9a8mg-92j96\n\n3. Texas Instruments TI-30XIIS Scientific Calculator ($19.98). Graphing calculators are not permitted during exams and quizzes.",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM172-182-Winter2027",
+                "Class Attributes": "Natural Sciences Foundational Discipline",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 182-0. Add both classes to the shopping cart and submit together for successful registration. In order to enroll for this class you must have completed CHEM 171 and 181 with a grade of C- or better OR you must currently be enrolled in CHEM 171.",
+                "Associated Classes": "DIS - Technological Institute LG62: Thurs 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "182-0",
+        "course_name": "Advanced General Physical Chemistry Laboratory",
+        "course_reference_number": [
+            "23818"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Advanced General Physical Chemistry Laboratory",
+                "instructors": [
+                    "Veronica Berns",
+                    "Dylan Bardgett"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Veronica Berns",
+                "Meeting Info": "Tech Institute Lecture Room 3: Tues 1:00PM - 1:50PM",
+                "Overview of class": "Study of physical chemistry (acid base chemistry, thermodynamics, etc.) in the laboratory. Planning, data collection, interpretation, and reporting on these experiments.\n\nChemistry 182-0 is the laboratory course associated with Chemistry 172-0. Students enrolled in Chemistry 172-0 must also enroll in Chemistry 182-0.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in Chem 171-0 and Chem 181-0.\n\nStudents enrolled in Chemistry 172-0 must also enroll in Chemistry 182-0.",
+                "Class Materials (Required)": "Lab coats, which will be provided for use at no cost to students.\nGoggles, which were provided to students in CHEM 181.",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM172-182-Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 172-0. Add both classes to the shopping cart and submit together for successful registration.Students must be registered or completed CHEM 181-0 & 171-0 prior to registering for this course. Prerequisite: Students must have completed CHEM 171-0 and CHEM 181-0 with a C- or better, and must be taken concurrently with CHEM 172-0.",
+                "Associated Classes": "LAB - Technological Institute HG10: Wed 4:10PM - 7:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "215-2",
+        "course_name": "Organic Chemistry II",
+        "course_reference_number": [
+            "23890",
+            "23891"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Organic Chemistry II",
+                "instructors": [
+                    "Stephanie Knezz"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Organic Chemistry II",
+                "instructors": [
+                    "SonBinh Nguyen"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephanie Knezz",
+                "Meeting Info": "Tech Institute Lecture Room 2: Mon, Tues, Wed 9:00AM - 9:50AM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Tues 7:00PM - 9:00PM",
+                "Overview of class": "Fundamental concepts in organic chemistry will be covered. The topics will include important functional groups and will include: nomenclature, structure, properties, and multistep synthesis. Reaction mechanisms for organic transformations will be presented, and synthesis strategies will be covered.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in CHEM 215-1 and 235-1.\n\nStudents enrolled in this course MUST also enroll in the associated laboratory course, CHEM 235-2.",
+                "Class Materials (Required)": "Title: Organic Chemistry, 3rd edition, e-book (includes supplemental materials)\nAuthor: Joel Karty\nPublisher: Norton\nISBN: 9780393877649\nApprox. price: $118 e-book\n\n*Notes:\nWe recommend the e-book, because it includes supplemental materials not offered with the physical book. If you choose to purchase the paper copy of the book instead, you will also be required to purchase a standalone copy of the SmartWork homework platform (Approx $51.95).\n\nThis is the same text used in CHEM 215-1 and 215-3.",
+                "Class Materials (Suggested)": "Molecular Modeling Kit (approx. $30)",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM2152-2352or217-2237-2Winter2027\n\nEvening Midterms: Th Jan 21, Th Feb 11, & Tues March 2",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 235-2-01. Add both classes to the shopping cart and submit together for successful registration. Prerequisite: Student must have received a C- or higher or be currently enrolled in CHEM 215-1 to register for this course.",
+                "Associated Classes": "DIS - Technological Institute M349: Fri 9:00AM - 9:50AM"
+            },
+            {
+                "Instructors": "SonBinh Nguyen",
+                "Meeting Info": "Tech Institute Lecture Room 2: Mon, Tues, Wed 10:00AM - 10:50AM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Thurs 7:00PM - 9:00PM\nLocation of Midterm TBD: Tues 7:00PM - 9:00PM",
+                "Overview of class": "Fundamental concepts in organic chemistry will be covered. The topics will include important functional groups and will include: nomenclature, structure, properties, and multistep synthesis. Reaction mechanisms for organic transformations will be presented, and synthesis strategies will be covered.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in CHEM 215-1 and 235-1.\n\nStudents enrolled in this course MUST also enroll in the associated laboratory course, CHEM 235-2.",
+                "Class Materials (Required)": "Title: Organic Chemistry, 3rd edition, e-book (includes supplemental materials)\nAuthor: Joel Karty\nPublisher: Norton\nISBN: 9780393877649\nApprox. price: $118 e-book\n\n*Notes:\nWe recommend the e-book, because it includes supplemental materials not offered with the physical book. If you choose to purchase the paper copy of the book instead, you will also be required to purchase a standalone copy of the SmartWork homework platform (Approx $51.95).\n\nThis is the same text used in CHEM 215-1 and 215-3.",
+                "Class Materials (Suggested)": "Molecular Modeling Kit (approx. $30)",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM2152-2352or217-2237-2Winter2027\n\nEvening Midterms: Th Jan 21, Th Feb 11, & Tues March 2",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 235-2-02. Add both classes to the shopping cart and submit together for successful registration. Prerequisite: Student must have received a C- or higher or be currently enrolled in CHEM 215-1 to register for this course.",
+                "Associated Classes": "DIS - Frances Searle Building 2378: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "217-2",
+        "course_name": "Accelerated Organic Chemistry II",
+        "course_reference_number": [
+            "23795"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Accelerated Organic Chemistry II",
+                "instructors": [
+                    "Mark D. Aparece"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark D. Aparece",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Tues, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Primarily for chemistry majors and students in ISP. The chemistry of aromatic, carbonyl, and nitrogen compounds; characterization of organic substances by chemical and spectral methods; reaction mechanisms. No P/N registration.",
+                "Registration Requirements": "Prerequisites: CHEM 217-1 and CHEM 237-1 (C- or better). Must be taken concurrently with CHEM 237-2. Students may not receive credit for both CHEM 217-2 and 212-2",
+                "Class Materials (Required)": "Title: Organic Chemistry, 2nd edition\nAuthor: Clayden et al.\nPublisher: Oxford Univ Press\nISBN: 9780199270293\nApprox. price: $130 new, $55 ebook\nNote: this is the same text used in 217-1.",
+                "Class Materials (Suggested)": "1. Title: Solutions Manual to Accompany Organic Chemistry, edition 2\nAuthor: Clayden and Warren\nPublisher: Oxford Univ Press\nISBN: 9780199663347\nApprox. price: $95 new, $43 ebook rental\nNote: this is the same recommended text used in 217-1.\n\n2. Molecular Modeling Kit (approx. $30)",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM2152-2352or217-2237-2Winter2027",
+                "Class Attributes": "Natural Sciences Foundational Discipline",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CHEM 217-1 and CHEM 237-1 (C- or better). Must be taken concurrently with CHEM 237-2. Students may not receive credit for both CHEM 217-2 and 212-2."
+            }
+        ]
+    },
+    {
+        "course_number": "235-2",
+        "course_name": "Organic Chemistry Lab II",
+        "course_reference_number": [
+            "23906",
+            "23907"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Organic Chemistry Lab II",
+                "instructors": [
+                    "Derek Nelson",
+                    "Mark D. Aparece"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Organic Chemistry Lab II",
+                "instructors": [
+                    "Derek Nelson",
+                    "Mark D. Aparece"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Derek Nelson",
+                "Meeting Info": "Tech Institute Lecture Room 2: Thurs 9:00AM - 9:50AM",
+                "Overview of class": "Complete laboratory experiments focusing on standard synthetic organic chemistry will be conducted each week. Students will complete a prelab worksheet including stoichiometric calculations, prediction of reaction outcome, and identification of safety protocols.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in CHEM 215-1 and 235-1.\n\nStudents enrolled in this course MUST also enroll in the associated lecture course, CHEM 215-2.",
+                "Class Materials (Required)": "Lab coats, which will be provided for use at no cost to students.\nGoggles, which were provided to students in CHEM 235-1.",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM2152-2352or217-2237-2Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 215-2-01. Add both classes to the shopping cart and submit together for successful registration. Pre-Requisite: Students must be enrolled or have completed CHEM 215-1 to register for this course."
+            },
+            {
+                "Instructors": "Derek Nelson",
+                "Meeting Info": "Tech Institute Lecture Room 2: Thurs 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 215-2-02. Add both classes to the shopping cart and submit together for successful registration. Pre-Requisite: Students must be enrolled or have completed CHEM 215-1 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "237-2",
+        "course_name": "Accelerated Organic Chemistry Laboratory II",
+        "course_reference_number": [
+            "23823"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Accelerated Organic Chemistry Laboratory II",
+                "instructors": [
+                    "Derek Nelson",
+                    "Mark D. Aparece"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Derek Nelson",
+                "Meeting Info": "Tech Institute Lecture Room 2: Thurs 9:00AM - 9:50AM",
+                "Overview of class": "For ISP students and (prospective or declared) chemistry majors. Techniques of modern organic chemistry including NMR spectroscopy and reactions such as catalytic hydrogenation, electrophilic aromatic substitution, aldol condensation, Robinson annulation, and Diels-Alder reaction.\n\nCHEM 237-2 is the laboratory course associated with CHEM 217-2. Students enrolled in CHEM 217-2 must also enroll in CHEM 237-2.",
+                "Registration Requirements": "Prerequisite: Grade of C- or better in CHEM 217-1 and CHEM 237-1.\n\nStudents enrolled in CHEM 217-2 must also enroll in CHEM 237-2.",
+                "Class Materials (Required)": "Lab coats, which will be provided for use at no cost to students.\nGoggles, which were provided to students in CHEM 237-1.",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "This course will never completely close. If you can't register for the open sections, or if all sections have closed, please fill out this form:",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CHEM 217-1 and CHEM 237-1 (C- or better). Must be taken concurrently with CHEM 217-2. Students may not receive credit for both CHEM 237-2 and 232-2."
+            }
+        ]
+    },
+    {
+        "course_number": "306-0",
+        "course_name": "Environmental Chemistry",
+        "course_reference_number": [
+            "23813"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Environmental Chemistry",
+                "instructors": [
+                    "Omar Farha"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Omar Farha",
+                "Meeting Info": "Technological Institute L361: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Topics in the physical chemistry of the environment. Taught with CHEM 406-0. Prerequisites: CHEM 215-2 or CHEM 217-3 (C- or better); MATH 230-2; PHYSICS 135-1 and PHYSICS 135-2; or consent of instructor.\n\nIn this course, students will gain a solid understanding of the science, economics, and more importantly the environmental impact associated with various technologies, including, but not limited to natural gas, nuclear, wind, etc. Climate change and the potential impact and mitigation will be considered throughout the course.",
+                "Registration Requirements": "Prerequisites: CHEM 215-2 or CHEM 217-3 (C- or better); MATH 230-2; PHYSICS 135-1 and PHYSICS 135-2; or consent of instructor.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "None",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this class is restricted to undergraduate Chemistry Majors. Other students may contact the department to request to be placed on a waitlist. Prerequisites: CHEM 215-2 or CHEM 212-3 or 217-3 (C- or better); MATH 230-2; PHYSICS 135-1 and PHYSICS 135-2; or consent of instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "310-2",
+        "course_name": "Physical Organic Chemistry II",
+        "course_reference_number": [
+            "23916"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Physical Organic Chemistry II",
+                "instructors": [
+                    "Michael Wasielewski"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Wasielewski",
+                "Meeting Info": "Technological Institute M177: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course will focus on modern topics in physical organic chemistry, emphasizing the relationship between structure and reactivity. Topics to be covered include orbital symmetry and reactivity, energy surfaces and Marcus theory, single-electron transfer reactions, solvent effects, nucleophilic and electrophilic reactivity, radical reactions, spin dynamics, photochemistry and photocatalysis, organic electronic materials, and organic materials for quantum information applications.",
+                "Registration Requirements": "Registration is reserved for Chemistry majors and minors, or by consent of the instructor.",
+                "Class Materials (Required)": "1. Title: Modern Physical Organic Chemistry (latest edition)\nAuthor: Anslyn and Dougherty\nPublisher: Univ. Science Books\nISBN: 9781891389313\nApprox. Price: $160 new, $90 rental or ebook\n\n2. Title: Modern Physical Organic Chemistry - Student Solutions Manual (latest edition)\nAuthor: Sponsler\nPublisher: Univ. Science Books\nISBN: 9781891389368\nApprox. Price: $65 new, $30",
+                "Class Materials (Suggested)": "None",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for CHEM majors and minors, or by consent of the instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "319-0",
+        "course_name": "Advanced Organic Synthesis - Concepts and Applications",
+        "course_reference_number": [
+            "23829"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Advanced Organic Synthesis",
+                "instructors": [
+                    "Concepts and Applications",
+                    "Regan Thomson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Regan Thomson",
+                "Meeting Info": "Tech Institute Lecture Room 4: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "The design of synthetic routes to natural products and other medicinally relevant organic compounds will be covered in detail. Retrosynthetic analysis, substructure keying, and pattern recognition, along with other methods for synthetic planning will be discussed within the context of specific case studies. Classic and modern organic reactions, including asymmetric synthesis and catalysis, will be introduced and their application in synthetic planning examined. Case studies will include the synthesis of terpenes, alkaloids, polyketides, steroids, proteins and pharmaceuticals. The end result should be that students are familiar with the important issues associated with synthesis and gain intimate knowledge of a wide variety of chemical reactions. Ultimately, when presented with a given molecule, students should be able to develop a reasonable synthesis plan based on firm ideas and reliable transformations.",
+                "Registration Requirements": "Prerequisites: CHEM 215-3 or CHEM 217-3 (C- or better).",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "Title: Strategic Applications of Named Reactions in Organic Synthesis, 1st Edition\nAuthors: Laszlo Kurti and Barbara Czako\nPublisher: Academic Press, 2005\nISBN: 9780124297852\nApprox. price: $114 new, $41 (ebook)",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this class is restricted to undergraduate Chemistry Majors. Other students may contact the department to request to be placed on a waitlist. Prerequisites: Students must have completed CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better) to enroll."
+            }
+        ]
+    },
+    {
+        "course_number": "342-2",
+        "course_name": "Quantum Mechanics and Spectroscopy",
+        "course_reference_number": [
+            "23796"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Quantum Mechanics and Spectroscopy",
+                "instructors": [
+                    "Franz Geiger"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Franz Geiger",
+                "Meeting Info": "Technological Institute M177: Mon, Wed, Thurs, Fri 11:00AM - 11:50AM",
+                "Overview of class": "This course is an introduction to quantum mechanics and includes applications in spectroscopy. Topics to be covered include: The wave equation (the transition from classical to quantum mechanics), the Schrodinger equation, particle-in-a-box models, QM operators, the postulates of QM, the harmonic oscillator and rigid rotor, the hydrogen atom, multi-electron atoms, and approximate methods for solving the Schroedinger equation.",
+                "Registration Requirements": "Prerequisites: MATH 230-2; PHYSICS 135-1 and 135-2; and CHEM 342-1",
+                "Class Materials (Required)": "Title: Physical Chemistry, 9th edition preferred\nAuthor: Peter Atkins\nPublisher: Freeman Press\nISBN: 9781429218122\nApprox. price: $202 new, $96 rental\n\nNote: this is the same text used in 342-1.",
+                "Class Materials (Suggested)": "Title: Solutions Manual for Physical Chemistry, 9th edition\nAuthor: Peter Atkins & Julio dePaula\nPublisher: Freeman Press\nISBN: 9781429231282\nApprox. price: $76 new, $36 rental\n\nNote: this is the same suggested text used in 342-1.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: MATH 230-2; PHYSICS 135-1 and 135-2; and CHEM 342-1. Prerequisites: MATH 230-2; PHYSICS 135-1 and 135-2; and CHEM 342-1"
+            }
+        ]
+    },
+    {
+        "course_number": "350-2",
+        "course_name": "Advanced Laboratory 2",
+        "course_reference_number": [
+            "23815"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Advanced Laboratory 2",
+                "instructors": [
+                    "Frederick Northrup",
+                    "Omar Farha"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Frederick Northrup",
+                "Meeting Info": "Technological Institute M128: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "In this course you will study advanced techniques of synthetic inorganic chemistry including synthesis of zeolites, MOFs, and bioinorganic compounds and use of a Schlenk line. In addition, you will learn instrumental analysis techniques relevant to analysis of samples in materials chemistry. These techniques will include X-ray crystallography, solid state NMR spectroscopy, electrochemistry, atomic spectroscopy, and a variety of polymer characterization techniques (MALDI-TOF MS, NMR spectroscopy, FTIR spectroscopy, gel permeation chromatography, DSC). Some of these analytical techniques may be used to analyze the inorganic samples you prepare in the course",
+                "Registration Requirements": "Prerequisites: CHEM 333-0 and CHEM 350-1 (C- or better) or equivalent.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "If you can't register for the open sections, or if all sections have closed, please fill out this form: https://bit.ly/CHEM350-2-Winter2027",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "LAB - Technological Institute F281: Mon, Wed 1:00PM - 5:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Undergraduate Seminar",
+        "course_reference_number": [
+            "23798"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Undergraduate Seminar",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "406-0",
+        "course_name": "Environmental Chemistry",
+        "course_reference_number": [
+            "23814"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Environmental Chemistry",
+                "instructors": [
+                    "Omar Farha"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Omar Farha",
+                "Meeting Info": "Technological Institute L361: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this class is restricted to graduate students in the Chemistry Department. Other students may register with department permission."
+            }
+        ]
+    },
+    {
+        "course_number": "410-2",
+        "course_name": "Physical Organic Chemistry II",
+        "course_reference_number": [
+            "23812"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Physical Organic Chemistry II",
+                "instructors": [
+                    "Michael Wasielewski"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Wasielewski",
+                "Meeting Info": "Technological Institute M177: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this class is restricted to graduate students in the Chemistry Department. Other students may register with department permission."
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Organic Spectroscopy",
+        "course_reference_number": [
+            "23799"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Organic Spectroscopy",
+                "instructors": [
+                    "Yongbo Zhang",
+                    "Benjamin Owen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yongbo Zhang",
+                "Meeting Info": "Technological Institute LG72: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Introduction to principles and practice of organic and inorganic synthetic compound characterization by nuclear magnetic resonance spectroscopy (NMR) and mass spectrometry (MS). Topics include NMR instrument operation, spectra interpretation, 2-dimensional NMR spectroscopy, MS ionization and detection schemes, gas chromatography MS, liquid chromatography MS and ionization. The lab component of this class focuses on operations of instrumentation, software tools available in the Integrated Molecular Structure Education and Research Center (IMSERC) and tailoring analytical schemes based on individual research projects.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "Please note: Selecting a specific lab section is a formality requirement only. Given that students will have TA responsibilities unknown at point of registration for this course, lab section assignment will be manually decided and assigned in the first week of class.",
+                "Associated Classes": "LAB - Meets in Non-General PurposeRm: Mon, Wed 1:00PM - 3:30PM"
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Advanced Organic Chemistry",
+        "course_reference_number": [
+            "23803"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Supramolecular and Systems Chemistry",
+                "instructors": [
+                    "Advanced Organic Chemistry",
+                    "William Dichtel"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Supramolecular and Systems Chemistry",
+                "Instructors": "William Dichtel",
+                "Meeting Info": "Technological Institute L160: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "This course will foster a deep understanding of host-guest chemistry and physical organic characterization of binding, adsorption within polymers and solids, dynamic processes (molecular shuttling, ratcheting, molecular machines), and systems chemistry (out of equilibrium and fuel-driven assemblies). It will focus on primary literature and review articles of contemporary interest. Students will be expected to search the chemical literature, lead discussions of relevant papers, write critical assessments of papers and preprints, and write short proposals at the frontiers of these areas.",
+                "Class Materials (Required)": "Course materials will be drawn from the scientific literature",
+                "Class Materials (Suggested)": "None"
+            }
+        ]
+    },
+    {
+        "course_number": "419-0",
+        "course_name": "Advanced Organic Synthesis - Concepts and Applications",
+        "course_reference_number": [
+            "23830"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Advanced Organic Synthesis",
+                "instructors": [
+                    "Concepts and Applications",
+                    "Regan Thomson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Regan Thomson",
+                "Meeting Info": "Tech Institute Lecture Room 4: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "432-0",
+        "course_name": "X-Ray Crystallography",
+        "course_reference_number": [
+            "23831"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "X-Ray Crystallography",
+                "instructors": [
+                    "Chris D. Malliakas"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Chris D. Malliakas",
+                "Meeting Info": "Technological Institute L361: Tues 8:00AM - 9:20AM",
+                "Overview of class": "The class focuses on the Crystallographic structure determination by using X-rays, electrons, and neutrons. The course will include lectures on crystallographic theory applied on single-crystals and powders as well as hands-on experience with X-ray instrumentation, and X-ray structure solution and refinement software. Groups of students will be asked to provide single-crystal samples from their own research (if available) or from their research groups (if applicable) for in-class analysis.\n\nUpon registration, please complete the survey at https://northwestern.az1.qualtrics.com/jfe/form/SV_bfpVuttRst3A2ZT",
+                "Class Materials (Required)": "Title: Crystal Structure Analysis, 3rd edition\nAuthor: Glusker et al.\nPublisher: Oxford University Press\nISBN: 9780199576357\nApprox. Price: $225 new, $67 e-book rental",
+                "Class Materials (Suggested)": "None",
+                "Class Notes": "Upon registration, please complete the survey at https://northwestern.az1.qualtrics.com/jfe/form/SV_bfpVuttRst3A2ZT",
+                "Associated Classes": "LAB - Technological Institute L361: Thurs 8:00AM - 9:20AM"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Advanced Inorganic Chemistry",
+        "course_reference_number": [
+            "23805"
+        ],
+        "course_info": [
+            {
+                "section": "02",
+                "course_name": "Physical Methods and Mechanisms in Transition Meta",
+                "instructors": [
+                    "Advanced Inorganic Chemistry",
+                    "Jesse B. Gordon"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Physical Methods and Mechanisms in Transition Meta",
+                "Instructors": "Jesse B. Gordon",
+                "Meeting Info": "Technological Institute MG51: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Survey of experimental techniques used in catalysis research from an inorganic perspective, with an emphasis on fundamental concepts and physical methods for probing catalytic mechanisms. Topics include electrochemical, photochemical, biological, organometallic, and heterogeneous catalysis, with attention to the roles of electronic structure, bonding, and reactivity across diverse chemical contexts. The course is research-oriented and incorporates modern literature and experimental approaches commonly employed in catalysis-related research.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "None"
+            }
+        ]
+    },
+    {
+        "course_number": "442-2",
+        "course_name": "Quantum Chemistry",
+        "course_reference_number": [
+            "23806"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Quantum Chemistry",
+                "instructors": [
+                    "George C Schatz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "George C Schatz",
+                "Meeting Info": "Technological Institute MG51: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "This course covers time dependent quantum mechanics. Included are applications to molecular optical properties, to the interaction of radiation and matter, to scattering theory and to time-dependent spectroscopy. The classwork includes written homework assignments, a midterm and a final exam.",
+                "Registration Requirements": "Undergraduate and graduate students from any department can register, but it is essential that the student has previously taken an introductory course in quantum mechanics which includes eigenvalues and eigenfunctions as applied to the harmonic oscillator and the hydrogen atom.",
+                "Class Materials (Required)": "Title: Quantum Mechanics in Chemistry\nAuthor: G. C. Schatz and M. A. Ratner\nPublisher: Dover\nISBN: 9780486420035\nApprox. Price: $25 new, $12 rental",
+                "Class Materials (Suggested)": "None"
+            }
+        ]
+    },
+    {
+        "course_number": "443-0",
+        "course_name": "Kinetics and Spectroscopy",
+        "course_reference_number": [
+            "23807"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Kinetics and Spectroscopy",
+                "instructors": [
+                    "James Gaynor"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Gaynor",
+                "Meeting Info": "Technological Institute MG51: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "This graduate level course explores the microscopic dynamics at atomic and molecular levels that give rise to the macroscopic chemical kinetics that are typically understood by a rate of a chemical reaction or process. The course covers a full range of chemical dynamics, beginning with elementary dynamics occurring in gas phases and going up through more complex dynamics of molecular ensembles in condensed phase environments and at interfaces. Our discussion necessarily includes modern spectroscopic methods (steady state and time-resolved spanning terahertz, infrared, visible, UV, and X-ray spectral ranges) that are used to quantify and interpret chemical dynamics in nonequilibrium processes.\n\nThis course is strongly encouraged for graduate students in chemistry and engineering whose research will involve dynamic chemical processes and the use of any spectroscopic method to understand them (e.g., photochemistry, lasers, catalysis, batteries, materials design and synthesis, atmospheric chemistry, chemical reaction engineering and reactor design, electrochemistry, nanoscience, and more!)\n\nThis course is structured to enhance graduate students' ability to understand aspects of their research more deeply and to benefit their progress in graduate school. The course also aims to provide opportunities to seed research collaborations through a brief final group-based project.",
+                "Registration Requirements": "Registration in this class is restricted to graduate students in the Chemistry Department and Chemistry undergraduate majors. Other students may register with department permission.",
+                "Class Materials (Required)": "Required course materials will be provided on Canvas",
+                "Class Materials (Suggested)": "Title: Molecular Reaction Dynamics (2005)\nAuthor: R.D. Levine\nPublisher: Cambridge\nISBN: 052184276X\nApprox. Price: $131 (new); $55 (used rental)\n\nTitle: Theories of Molecular Reaction Dynamics, 2nd Edition (2019)\nAuthor: N.E. Henriksen, F.Y. Hansen\nPublisher: Oxford\nISBN: 9780199652754\nApprox. Price: 50 (new); $21 (used rental)\n\nTitle: Chemical Dynamics in Condensed Phases (2006)\nAuthor: A. Nitzan\nPublisher: Oxford\nISBN: 0198529791\nApprox. Price: $78 (new); $33 (used rental)\n\nTitle: Charge and Energy Transfer Dynamics in Molecular Systems, 2nd Edition (2004)\nAuthor: V. May, O. Kuhn\nPublisher: Wiley\nISBN: 9783527407323\nApprox. Price: $215 (new); $103 (used rental)",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this class is restricted to graduate students in the Chemistry Department and Chemistry undergraduate majors. Other students may register with department permission."
+            }
+        ]
+    },
+    {
+        "course_number": "445-0",
+        "course_name": "Advanced Physical & Analytical Chemistry",
+        "course_reference_number": [
+            "23808",
+            "23809"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Optical Materials and Light-Matter Interactions",
+                "instructors": [
+                    "Advanced Physical & Analytical Chemistry",
+                    "Teri W Odom"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "11:00AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Spin Quantum Physics and Magnetic Resonance",
+                "instructors": [
+                    "Advanced Physical & Analytical Chemistry",
+                    "Songi Han"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Optical Materials and Light-Matter Interactions",
+                "Instructors": "Teri W Odom",
+                "Meeting Info": "Technological Institute M166: Tues, Thurs 9:30AM - 11:00AM",
+                "Overview of class": "This course will focus on the fundamentals and applications of light and its interactions with materials. We will discuss the properties of different materials, relate microscopic descriptions to measured macroscopic properties, connect how size, shape, and structure affect optical properties, and be exposed to state-of-the-art tools necessary for research in nanophotonics. These concepts will be applied and integrated into modern research problems at Northwestern University and applications of current technical interest in society.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "Optical Materials (J.H. Simmons and K.S. Potter), Introduction to Electrodynamics (D.J. Griffiths)"
+            },
+            {
+                "Topic": "Spin Quantum Physics and Magnetic Resonance",
+                "Instructors": "Songi Han",
+                "Meeting Info": "Technological Institute MG51: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This course will focus on concepts in Magnetic Resonance and Quantum Information Science, beginning with the foundations of the quantum mechanics of two-level systems and then applying these concepts across a wide range of topics in solution NMR, solid-state NMR, polarization transfer, and quantum information science. Topics will include introduction to quantum mechanics of two-level systems, the density matrix formalism, spin hamiltonians, time evolution, strong and weak coupling regimes, the product operator formalism, 2D pulse sequences, solid-state NMR, dynamic nuclear polarization, light-activated radical pair systems, nitrogen vacancy centers, and quantum gates and quantum algorithms from the perspective of spin magnetic resonance spectroscopy. This course will begin from the fundamentals before advancing to more complex topics to make it accessible and informative for both novice and experts in magnetic resonance spectroscopy. Lectures will also include demos on the implementation of simulation methods and visualization tools for magnetic resonance. Weekly homework assignments will apply and extend concepts introduced in lecture to physical systems. The final project will be a presentation on a topic of choice in magnetic resonance. This is a graduate level course and will be designed to benefit the student's research directly or indirectly.",
+                "Class Materials (Required)": "Reading material will be provided with the beginning of class",
+                "Class Materials (Suggested)": "None"
+            }
+        ]
+    },
+    {
+        "course_number": "463-0",
+        "course_name": "Seminar in Inorganic Chemistry",
+        "course_reference_number": [
+            "23810"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Seminar in Inorganic Chemistry",
+                "instructors": [
+                    "Sarah H. Petrosko"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah H. Petrosko",
+                "Meeting Info": "Pancoe Building Abbott Aud: Thurs 3:00PM - 3:50PM",
+                "Overview of class": "The International Institute for Nanotechnology (IIN) Frontiers in Nanotechnology seminar series showcases renowned researchers from across the globe, who are making significant impacts in the broad area of nanoscience and technology. Students will learn about cutting-edge research directions, broadening their knowledge base in the field. This seminar series fosters community and collaboration in nanoscience and technology.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "None"
+            }
+        ]
+    },
+    {
+        "course_number": "570-0",
+        "course_name": "Chemistry Colloquium",
+        "course_reference_number": [
+            "23811"
+        ],
+        "course_info": [
+            {
+                "section": "02",
+                "course_name": "Chemistry Colloquium",
+                "instructors": [
+                    "Omar Farha"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Omar Farha",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

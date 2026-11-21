@@ -1,0 +1,24 @@
+[
+    {
+        "course_number": "512-0",
+        "course_name": "Continuous Registration",
+        "course_reference_number": [
+            "22401"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Continuous Registration",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

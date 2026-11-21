@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "201-DL",
+        "course_name": "Principles of Marketing",
+        "course_reference_number": [
+            "20543"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Principles of Marketing",
+                "instructors": [
+                    "Therese Grohman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Therese Grohman",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

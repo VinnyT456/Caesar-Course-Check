@@ -1,0 +1,3726 @@
+[
+    {
+        "course_number": "102-0",
+        "course_name": "First Year Horn Seminar",
+        "course_reference_number": [
+            "22031"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "First Year Horn Seminar",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "RCMA Lower Level 111: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "111-0",
+        "course_name": "Applied Flute for Music Majors",
+        "course_reference_number": [
+            "21757"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Flute for Music Majors",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "112-0",
+        "course_name": "Applied Oboe for Music Majors",
+        "course_reference_number": [
+            "21758",
+            "22032"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "113-0",
+        "course_name": "Applied Clarinet for Music Majors",
+        "course_reference_number": [
+            "21759"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Clarinet for Music Majors",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "114-0",
+        "course_name": "Applied Saxophone for Music Majors",
+        "course_reference_number": [
+            "21760"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Saxophone for Music Majors",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "115-0",
+        "course_name": "Applied Bassoon for Music Majors",
+        "course_reference_number": [
+            "21761"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Bassoon for Music Majors",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "121-0",
+        "course_name": "Applied Trumpet for Music Majors",
+        "course_reference_number": [
+            "21762"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trumpet for Music Majors",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "122-0",
+        "course_name": "Applied French Horn for Music Majors",
+        "course_reference_number": [
+            "21763"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied French Horn for Music Majors",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "123-0",
+        "course_name": "Applied Euphonium for Music Majors",
+        "course_reference_number": [
+            "21764"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Euphonium for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "124-0",
+        "course_name": "Applied Trombone for Music Majors",
+        "course_reference_number": [
+            "21765"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trombone for Music Majors",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "125-0",
+        "course_name": "Applied Tuba for Music Majors",
+        "course_reference_number": [
+            "21766"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Tuba for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "131-0",
+        "course_name": "Applied Percussion for Music Majors",
+        "course_reference_number": [
+            "21767"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Percussion for Music Majors",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "211-0",
+        "course_name": "Applied Flute for Music Majors",
+        "course_reference_number": [
+            "21768"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Flute for Music Majors",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "212-0",
+        "course_name": "Applied Oboe for Music Majors",
+        "course_reference_number": [
+            "21769",
+            "21770"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "213-0",
+        "course_name": "Applied Clarinet for Music Majors",
+        "course_reference_number": [
+            "21771"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Clarinet for Music Majors",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "214-0",
+        "course_name": "Applied Saxophone for Music Majors",
+        "course_reference_number": [
+            "21772"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Saxophone for Music Majors",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "215-0",
+        "course_name": "Applied Bassoon for Music Majors",
+        "course_reference_number": [
+            "21773"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Bassoon for Music Majors",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "221-0",
+        "course_name": "Applied Trumpet for Music Majors",
+        "course_reference_number": [
+            "21774"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trumpet for Music Majors",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "222-0",
+        "course_name": "Applied French Horn for Music Majors",
+        "course_reference_number": [
+            "21775"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied French Horn for Music Majors",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "223-0",
+        "course_name": "Applied Euphonium for Music Majors",
+        "course_reference_number": [
+            "21776"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Euphonium for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "224-0",
+        "course_name": "Applied Trombone for Music Majors",
+        "course_reference_number": [
+            "21777"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trombone for Music Majors",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "225-0",
+        "course_name": "Applied Tuba for Music Majors",
+        "course_reference_number": [
+            "21778"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Tuba for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "231-0",
+        "course_name": "Applied Percussion for Music Majors",
+        "course_reference_number": [
+            "21779"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Percussion for Music Majors",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Warm-Up Class",
+        "course_reference_number": [
+            "22024"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Tuba/Euphonium Warm-Up",
+                "instructors": [
+                    "Warm-Up Class",
+                    "Matthew Gaunt"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "8:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Tuba/Euphonium Warm-Up",
+                "Instructors": "Matthew Gaunt",
+                "Meeting Info": "Regenstein Hall of Music MCR: Fri 8:00AM - 8:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Optional Recital",
+        "course_reference_number": [
+            "21953",
+            "21956",
+            "21957",
+            "21958",
+            "21959",
+            "21960",
+            "21961",
+            "21962",
+            "21963",
+            "21954",
+            "21955"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "8",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "9",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "10",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "Optional Recital",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "311-0",
+        "course_name": "Applied Flute for Music Majors",
+        "course_reference_number": [
+            "21780"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Flute for Music Majors",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Applied Oboe for Music Majors",
+        "course_reference_number": [
+            "21781",
+            "21782"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "313-0",
+        "course_name": "Applied Clarinet for Music Majors",
+        "course_reference_number": [
+            "21783"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Clarinet for Music Majors",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "314-0",
+        "course_name": "Applied Saxophone for Music Majors",
+        "course_reference_number": [
+            "21784"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Saxophone for Music Majors",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "315-0",
+        "course_name": "Applied Bassoon for Music Majors",
+        "course_reference_number": [
+            "21785"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Bassoon for Music Majors",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Applied Trumpet for Music Majors",
+        "course_reference_number": [
+            "21786"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trumpet for Music Majors",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "Applied French Horn for Music Majors",
+        "course_reference_number": [
+            "21787"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied French Horn for Music Majors",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "323-0",
+        "course_name": "Applied Euphonium for Music Majors",
+        "course_reference_number": [
+            "21788"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Euphonium for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "324-0",
+        "course_name": "Applied Trombone for Music Majors",
+        "course_reference_number": [
+            "21789"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trombone for Music Majors",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "325-0",
+        "course_name": "Applied Tuba for Music Majors",
+        "course_reference_number": [
+            "21790"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Tuba for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "331-0",
+        "course_name": "Applied Percussion for Music Majors",
+        "course_reference_number": [
+            "21791"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Percussion for Music Majors",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "345-0",
+        "course_name": "Introduction to Improvisation for Classical Musicians",
+        "course_reference_number": [
+            "22030"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Improvisation for Classical Musicians",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "Pick-Staiger Rehearsal Room: Mon, Wed 12:00PM - 12:50PM",
+                "Overview of class": "This course will provide instruction and practice tools for classical musicians interested in improvising on their instrument. Students will develop aural and rhythmic skills along with the ability to improvise as a soloist and member of an ensemble. The class will primarily work in a free improvisational setting and will briefly introduce basic jazz harmony, form, and style.",
+                "Registration Requirements": "Students must be majoring in Classical Music and studying an instrument or voice with a BSM studio teacher",
+                "Learning Objectives": "Students will participate in both solo and small ensemble improvisational settings. At the end of this course students will be adept at making music on their instruments without standard written notation as a guide.",
+                "Teaching Method": "Ensemble playing, listening and reacting in a group setting, accompanying vs. solo playing, and compositional structure will be emphasized. Students will spontaneously create melodies, sounds, and timbres, sometimes with imposed musical boundaries, other times with complete freedom. Playing simple tunes by ear in twelve keys, call and response drills, intervallic tuning, and pitch/dynamic/timbre matching exercises will enhance each student's aural training.",
+                "Evaluation Method": "Students will be primarily graded on their attendance, participation, and improvement in class activities over the course of term.",
+                "Class Materials (Required)": "instrument/voice",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "357-0",
+        "course_name": "Reed Making",
+        "course_reference_number": [
+            "21792",
+            "21793"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Double Reed",
+                "instructors": [
+                    "Reed Making",
+                    "Robert Morgan"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:15PM",
+                "end_time": "5:05PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Double Reed",
+                "instructors": [
+                    "Reed Making",
+                    "Robert Morgan"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:15PM",
+                "end_time": "5:05PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Double Reed",
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 4:15PM - 5:05PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Double Reed",
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Meets in Non-General PurposeRm: Thurs 4:15PM - 5:05PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "359-0",
+        "course_name": "Teaching Techniques",
+        "course_reference_number": [
+            "21794"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching Techniques",
+                "instructors": [
+                    "Shawn Vondran"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shawn Vondran",
+                "Meeting Info": "RCMA 1-160: Tues 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Junior Recital",
+        "course_reference_number": [
+            "21938",
+            "21941",
+            "21942",
+            "21943",
+            "21944",
+            "21945",
+            "21946",
+            "21947",
+            "21948",
+            "21939",
+            "21940"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "8",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "9",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "10",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Senior Recital",
+        "course_reference_number": [
+            "21795",
+            "21798",
+            "21799",
+            "21800",
+            "21801",
+            "21802",
+            "21803",
+            "21804",
+            "21805",
+            "21796",
+            "21797"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "8",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "9",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "10",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Studio Class",
+        "course_reference_number": [
+            "21972",
+            "21974",
+            "21975",
+            "21976",
+            "21977",
+            "21978",
+            "21979",
+            "21980",
+            "21981",
+            "21973"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Flute",
+                "instructors": [
+                    "Studio Class",
+                    "John Thorne"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Oboe",
+                "instructors": [
+                    "Studio Class",
+                    "Michael Henoch"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Clarinet",
+                "instructors": [
+                    "Studio Class",
+                    "Stephen Williamson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Saxophone",
+                "instructors": [
+                    "Studio Class",
+                    "Taimur Sullivan"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Bassoon",
+                "instructors": [
+                    "Studio Class",
+                    "David McGill"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Trumpet",
+                "instructors": [
+                    "Studio Class",
+                    "David Bilger"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "7",
+                "course_name": "Horn",
+                "instructors": [
+                    "Studio Class",
+                    "Adam Unsworth"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "8",
+                "course_name": "Trombone",
+                "instructors": [
+                    "Studio Class",
+                    "Michael John Mulcahy"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "9",
+                "course_name": "Tuba / Euphonium",
+                "instructors": [
+                    "Studio Class",
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:30PM",
+                "end_time": "8:20PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Percussion",
+                "instructors": [
+                    "Studio Class",
+                    "She-e Wu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Flute",
+                "Instructors": "John Thorne",
+                "Meeting Info": "Regenstein Hall of Music MCR: Fri 12:30PM - 1:50PM",
+                "Class Notes": "This is the undergraduate registration for this course. Graduate, 490."
+            },
+            {
+                "Topic": "Oboe",
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Clarinet",
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon 6:30PM - 7:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Saxophone",
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "RCMA Choral Room 1-190: Wed 6:30PM - 8:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Bassoon",
+                "Instructors": "David McGill",
+                "Meeting Info": "RCMA Choral Room 1-190: Thurs 4:30PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trumpet",
+                "Instructors": "David Bilger",
+                "Meeting Info": "Regenstein Hall of Music MCR: Tues 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Horn",
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "RCMA Opera Theater 1-140: Wed 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trombone",
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "RCMA Opera Theater 1-140: Mon 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Tuba / Euphonium",
+                "Instructors": "John Pokorny",
+                "Meeting Info": "Regenstein Hall of Music MCR: Wed 7:30PM - 8:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Percussion",
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Wed 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "392-0",
+        "course_name": "Studio Ensemble for Music Majors",
+        "course_reference_number": [
+            "21927",
+            "21928",
+            "21929",
+            "21930"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Saxophone Quartet",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Saxophone Ensemble",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "Taimur Sullivan"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Trombone Choir",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "Donald Capshaw"
+                ],
+                "days": [
+                    "Sunday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "7:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Percussion Ensemble",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "She-e Wu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "8:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Saxophone Quartet",
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Saxophone Ensemble",
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "Regenstein Hall of Music MCR: Thurs 12:30PM - 1:50PM\nRCMA Recital Hall 1-100: Tues 7:00PM - 9:30PM\nRCMA Recital Hall 1-100: Wed 7:30PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trombone Choir",
+                "Instructors": "Donald Capshaw",
+                "Meeting Info": "Regenstein Hall of Music 011: Su 5:30PM - 7:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Percussion Ensemble",
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music 011: Mon 7:00PM - 8:20PM\nRegenstein Hall of Music 011: Tues 8:30PM - 9:50PM\nRegenstein Hall of Music 011: Wed 7:00PM - 9:50PM\nPick-Staiger Concert Stage: Fri 4:30PM - 6:30PM\nPick-Staiger Concert Stage: Fri 7:30PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "393-0",
+        "course_name": "Repertoire Studies",
+        "course_reference_number": [
+            "21982",
+            "21983",
+            "21984",
+            "21985",
+            "21986",
+            "21987",
+            "21988"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Wind, Brass, Percussion Orchestral Repertoire",
+                "instructors": [
+                    "Repertoire Studies",
+                    "Shawn Vondran"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Clarinet Orchestral Studies",
+                "instructors": [
+                    "Repertoire Studies",
+                    "Stephen Williamson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "8:00PM",
+                "end_time": "8:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Bassoon Orchestral Studies",
+                "instructors": [
+                    "Repertoire Studies",
+                    "David McGill"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Trumpet Excerpt Class",
+                "instructors": [
+                    "Repertoire Studies",
+                    "David Bilger"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Horn Orchestral Excerpts",
+                "instructors": [
+                    "Repertoire Studies",
+                    "Jonathan Boen"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "7",
+                "course_name": "Tuba/Euphonium",
+                "instructors": [
+                    "Repertoire Studies",
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "8:30PM",
+                "end_time": "9:20PM"
+            },
+            {
+                "section": "8",
+                "course_name": "Percussion Repertoire",
+                "instructors": [
+                    "Repertoire Studies",
+                    "She-e Wu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Wind, Brass, Percussion Orchestral Repertoire",
+                "Instructors": "Shawn Vondran",
+                "Meeting Info": "Pick-Staiger Rehearsal Room: Thurs 12:00PM - 1:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Clarinet Orchestral Studies",
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon 8:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Bassoon Orchestral Studies",
+                "Instructors": "David McGill",
+                "Meeting Info": "RCMA Lower Level 113: Wed 4:30PM - 5:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Trumpet Excerpt Class",
+                "Instructors": "David Bilger",
+                "Meeting Info": "Pick-Staiger Rehearsal Room: Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Horn Orchestral Excerpts",
+                "Instructors": "Jonathan Boen",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Tuba/Euphonium",
+                "Instructors": "John Pokorny",
+                "Meeting Info": "Regenstein Hall of Music MCR: Wed 8:30PM - 9:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Percussion Repertoire",
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "RCMA 1-172: Tues 4:30PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Applied Flute for Music Majors",
+        "course_reference_number": [
+            "21807"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Flute for Music Majors",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "412-0",
+        "course_name": "Applied Oboe for Music Majors",
+        "course_reference_number": [
+            "21808",
+            "21809"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "413-0",
+        "course_name": "Applied Clarinet for Music Majors",
+        "course_reference_number": [
+            "21810"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Clarinet for Music Majors",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "414-0",
+        "course_name": "Applied Saxophone for Music Majors",
+        "course_reference_number": [
+            "21811"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Saxophone for Music Majors",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Applied Bassoon for Music Majors",
+        "course_reference_number": [
+            "21812"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Bassoon for Music Majors",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "421-0",
+        "course_name": "Applied Trumpet for Music Majors",
+        "course_reference_number": [
+            "21813"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trumpet for Music Majors",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Applied French Horn for Music Majors",
+        "course_reference_number": [
+            "21814"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied French Horn for Music Majors",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "423-0",
+        "course_name": "Applied Euphonium for Music Majors",
+        "course_reference_number": [
+            "21815"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Euphonium for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "424-0",
+        "course_name": "Applied Trombone for Music Majors",
+        "course_reference_number": [
+            "21816"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trombone for Music Majors",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Applied Tuba for Music Majors",
+        "course_reference_number": [
+            "21817"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Tuba for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "431-0",
+        "course_name": "Applied Percussion for Music Majors",
+        "course_reference_number": [
+            "21818"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Percussion for Music Majors",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "MM Recital",
+        "course_reference_number": [
+            "21819",
+            "21822",
+            "21823",
+            "21824",
+            "21825",
+            "21826",
+            "21827",
+            "21828",
+            "21829",
+            "21820",
+            "21821"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "8",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "9",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "10",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Studio Class",
+        "course_reference_number": [
+            "21989",
+            "21991",
+            "21992",
+            "21993",
+            "21994",
+            "21995",
+            "21996",
+            "21997",
+            "21998",
+            "21990"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Flute",
+                "instructors": [
+                    "Studio Class",
+                    "John Thorne"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Oboe",
+                "instructors": [
+                    "Studio Class",
+                    "Michael Henoch"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Clarinet",
+                "instructors": [
+                    "Studio Class",
+                    "Stephen Williamson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Saxophone",
+                "instructors": [
+                    "Studio Class",
+                    "Taimur Sullivan"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Bassoon",
+                "instructors": [
+                    "Studio Class",
+                    "David McGill"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Trumpet",
+                "instructors": [
+                    "Studio Class",
+                    "David Bilger"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "7",
+                "course_name": "Horn",
+                "instructors": [
+                    "Studio Class",
+                    "Adam Unsworth"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "8",
+                "course_name": "Trombone",
+                "instructors": [
+                    "Studio Class",
+                    "Michael John Mulcahy"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "9",
+                "course_name": "Tuba / Euphonium",
+                "instructors": [
+                    "Studio Class",
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:30PM",
+                "end_time": "8:20PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Percussion",
+                "instructors": [
+                    "Studio Class",
+                    "She-e Wu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Flute",
+                "Instructors": "John Thorne",
+                "Meeting Info": "Regenstein Hall of Music MCR: Fri 12:30PM - 1:50PM",
+                "Class Notes": "This is the graduate registration of this course. Undergrads, 390."
+            },
+            {
+                "Topic": "Oboe",
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Clarinet",
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon 6:30PM - 7:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Saxophone",
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "RCMA Choral Room 1-190: Wed 6:30PM - 8:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Bassoon",
+                "Instructors": "David McGill",
+                "Meeting Info": "RCMA Choral Room 1-190: Thurs 4:30PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trumpet",
+                "Instructors": "David Bilger",
+                "Meeting Info": "Regenstein Hall of Music MCR: Tues 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Horn",
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "RCMA Opera Theater 1-140: Wed 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trombone",
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "RCMA Opera Theater 1-140: Mon 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Tuba / Euphonium",
+                "Instructors": "John Pokorny",
+                "Meeting Info": "Regenstein Hall of Music MCR: Wed 7:30PM - 8:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Percussion",
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Wed 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "492-0",
+        "course_name": "Studio Ensemble for Music Majors",
+        "course_reference_number": [
+            "22006",
+            "22007",
+            "22008",
+            "22009"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Saxophone Quartet",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Saxophone Ensemble",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "Taimur Sullivan"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Trombone Choir",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "Donald Capshaw"
+                ],
+                "days": [
+                    "Sunday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "7:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Percussion Ensemble",
+                "instructors": [
+                    "Studio Ensemble for Music Majors",
+                    "She-e Wu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "8:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Saxophone Quartet",
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Saxophone Ensemble",
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "Regenstein Hall of Music MCR: Thurs 12:30PM - 1:50PM\nRCMA Recital Hall 1-100: Tues 7:00PM - 9:30PM\nRCMA Recital Hall 1-100: Wed 7:30PM - 9:30PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trombone Choir",
+                "Instructors": "Donald Capshaw",
+                "Meeting Info": "Regenstein Hall of Music 011: Su 5:30PM - 7:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Percussion Ensemble",
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music 011: Mon 7:00PM - 8:20PM\nRegenstein Hall of Music 011: Tues 8:30PM - 9:50PM\nRegenstein Hall of Music 011: Wed 7:00PM - 9:50PM\nPick-Staiger Concert Stage: Fri 4:30PM - 6:30PM\nPick-Staiger Concert Stage: Fri 7:30PM - 9:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "493-0",
+        "course_name": "Repertoire Studies",
+        "course_reference_number": [
+            "21999",
+            "22000",
+            "22001",
+            "22002",
+            "22003",
+            "22004",
+            "22005"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Wind, Brass, Percussion Orchestral Repertoire",
+                "instructors": [
+                    "Repertoire Studies",
+                    "Shawn Vondran"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Clarinet Orchestral Studies",
+                "instructors": [
+                    "Repertoire Studies",
+                    "Stephen Williamson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "8:00PM",
+                "end_time": "8:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Bassoon Orchestral Studies",
+                "instructors": [
+                    "Repertoire Studies",
+                    "David McGill"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Trumpet Excerpt Class",
+                "instructors": [
+                    "Repertoire Studies",
+                    "David Bilger"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Horn Orchestral Excerpts",
+                "instructors": [
+                    "Repertoire Studies",
+                    "Jonathan Boen"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "7",
+                "course_name": "Tuba/Euphonium",
+                "instructors": [
+                    "Repertoire Studies",
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "8:30PM",
+                "end_time": "9:20PM"
+            },
+            {
+                "section": "8",
+                "course_name": "Percussion Repertoire",
+                "instructors": [
+                    "Repertoire Studies",
+                    "She-e Wu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Wind, Brass, Percussion Orchestral Repertoire",
+                "Instructors": "Shawn Vondran",
+                "Meeting Info": "Pick-Staiger Rehearsal Room: Thurs 12:00PM - 1:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Clarinet Orchestral Studies",
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon 8:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Bassoon Orchestral Studies",
+                "Instructors": "David McGill",
+                "Meeting Info": "RCMA Lower Level 113: Wed 4:30PM - 5:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trumpet Excerpt Class",
+                "Instructors": "David Bilger",
+                "Meeting Info": "Pick-Staiger Rehearsal Room: Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Horn Orchestral Excerpts",
+                "Instructors": "Jonathan Boen",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Tuba/Euphonium",
+                "Instructors": "John Pokorny",
+                "Meeting Info": "Regenstein Hall of Music MCR: Wed 8:30PM - 9:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Percussion Repertoire",
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "RCMA 1-172: Tues 4:30PM - 6:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "511-0",
+        "course_name": "Applied Flute for Music Majors",
+        "course_reference_number": [
+            "21831"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Flute for Music Majors",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Applied Oboe for Music Majors",
+        "course_reference_number": [
+            "21832",
+            "21833"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Oboe for Music Majors",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "513-0",
+        "course_name": "Applied Clarinet for Music Majors",
+        "course_reference_number": [
+            "21834"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Clarinet for Music Majors",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "514-0",
+        "course_name": "Applied Saxophone for Music Majors",
+        "course_reference_number": [
+            "21835"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Saxophone for Music Majors",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "515-0",
+        "course_name": "Applied Bassoon for Music Majors",
+        "course_reference_number": [
+            "21836"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Bassoon for Music Majors",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "521-0",
+        "course_name": "Applied Trumpet for Music Majors",
+        "course_reference_number": [
+            "21837"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trumpet for Music Majors",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "522-0",
+        "course_name": "Applied French Horn for Music Majors",
+        "course_reference_number": [
+            "21838"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied French Horn for Music Majors",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "523-0",
+        "course_name": "Applied Euphonium for Music Majors",
+        "course_reference_number": [
+            "21839"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Euphonium for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "524-0",
+        "course_name": "Applied Trombone for Music Majors",
+        "course_reference_number": [
+            "21840"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Trombone for Music Majors",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "525-0",
+        "course_name": "Applied Tuba for Music Majors",
+        "course_reference_number": [
+            "21841"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Tuba for Music Majors",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "531-0",
+        "course_name": "Applied Percussion for Music Majors",
+        "course_reference_number": [
+            "21842"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Percussion for Music Majors",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "580-0",
+        "course_name": "DMA Recital",
+        "course_reference_number": [
+            "21843",
+            "21846",
+            "21847",
+            "21848",
+            "21849",
+            "21850",
+            "21851",
+            "21852",
+            "21853",
+            "21844",
+            "21845"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "John Thorne"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Michael Henoch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Robert Morgan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Stephen Williamson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Taimur Sullivan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "David McGill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "David Bilger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "8",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Adam Unsworth"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "9",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Michael John Mulcahy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "10",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "John Pokorny",
+                    "Matthew Gaunt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "She-e Wu"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Thorne",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Michael Henoch\n847/491-3241\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Robert Morgan\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Stephen Williamson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Taimur Sullivan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "David McGill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "David Bilger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Adam Unsworth",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "Michael John Mulcahy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "John Pokorny",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Instructors": "She-e Wu\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "585-0",
+        "course_name": "DMA Lecture Recital",
+        "course_reference_number": [
+            "21854",
+            "21855"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Document",
+                "instructors": [
+                    "DMA Lecture Recital",
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Coursework",
+                "instructors": [
+                    "DMA Lecture Recital",
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Document",
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            },
+            {
+                "Topic": "Coursework",
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: DMA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "595-0",
+        "course_name": "DMA Research Document",
+        "course_reference_number": [
+            "21856"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "DMA Research Document",
+                "instructors": [
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

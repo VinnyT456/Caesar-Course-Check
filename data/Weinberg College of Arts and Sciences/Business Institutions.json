@@ -1,0 +1,322 @@
+[
+    {
+        "course_number": "301-0",
+        "course_name": "Accounting",
+        "course_reference_number": [
+            "20349",
+            "20350"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Accounting",
+                "instructors": [
+                    "David Wilson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Accounting",
+                "instructors": [
+                    "David Wilson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Wilson\n2010 Sheridan Rd, Evanston, IL 60208\nDavid Wilson will join the Harvey Kapnick Center for Business Institutions at Northwestern University in the Fall 2026 quarter. He previously served as a lecturer in accounting and acting director of the Finance Center at Rice University. His research examines how information affects intraday trading dynamics, with a focus on institutional investors, market intermediation, and market quality. He earned a Ph.D. in accounting and a master’s degree in business from Rice University, and holds a bachelor’s degree in economics from Brigham Young University.",
+                "Meeting Info": "Schapiro Hall 101: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor for \"Accounting\" is: David Wilson.\n\nThis is an introductory survey course in accounting. The course covers both financial and managerial accounting. Students will learn to understand the financial statements of an organization, with emphasis on the Income Statement and Balance Sheet. Students will gain the ability to understand, analyze and explain the financial performance of a company and to make managerial decisions using this information. Students will prepare an in-depth financial analysis of a company.\n\nThis course is taught with an active learning approach. We use in-class cases, exercises and demonstrations to learn the material. Class attendance is crucial. The grade in the course will include homework, cases, two exams and a final project.",
+                "Registration Requirements": "Prerequisites:\nECON 201: Intro to Macroeconomics\nECON 202: Intro to Microeconomics\n*Any combination of ECON 201/ ECON 311/ AP-IB Macro and ECON 202/ ECON 310/ MMSS 211-1/ AP-IB Micro credit is required to register for this course.\n\nAttendance at the first class and first TA session is mandatory.",
+                "Evaluation Method": "",
+                "Class Materials (Required)": "This course requires a textbook and homework software (which comes with a new textbook or the electronic book). Estimated price for course materials is $150.\n\n\nAccounting What the Numbers Mean, 13th edition, Marshall, McManus, Viele.\nYou must have the thirteenth edition.\nThe cost listed here is for the electronic book version. A hard copy version with the homework software is another option, but it is more expensive. All options can be viewed online, but you must purchase an option with Connect: https://www.mheducation.com/highered/product/1264126743.html\n\n\nAccounting What the Numbers Mean (e-book) + Connect, 13th edition, Marshall, McManus, Viele.\nISBN13: 9781265645151\n$149.13 (Approx. Price)\n\n\n*Please note that if you choose to purchase a used hard copy book, you will still need to buy the homework software, which is packaged with the electronic book at a cost of $149.13. You cannot buy the homework software alone.\n\n\nCase pack from Harvard includes Chemalite\nhttp://cb.hbsp.harvard.edu/cbmp/access/65200479\n$4.25 (Approx. Cost)",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nStudents are required to enroll in the discussion section. If you're unable to attend the discussion section, please enroll in the course at another quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Any combination of ECON 201/ECON 311/AP-IB Macro AND ECON 202/ECON 310/MMSS 211-1/AP-IB Micro credit is required to register for this course."
+            },
+            {
+                "Instructors": "David Wilson\n2010 Sheridan Rd, Evanston, IL 60208\nDavid Wilson will join the Harvey Kapnick Center for Business Institutions at Northwestern University in the Fall 2026 quarter. He previously served as a lecturer in accounting and acting director of the Finance Center at Rice University. His research examines how information affects intraday trading dynamics, with a focus on institutional investors, market intermediation, and market quality. He earned a Ph.D. in accounting and a master’s degree in business from Rice University, and holds a bachelor’s degree in economics from Brigham Young University.",
+                "Meeting Info": "Schapiro Hall 101: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor for \"Accounting\" is: David Wilson.\n\nThis is an introductory survey course in accounting. The course covers both financial and managerial accounting. Students will learn to understand the financial statements of an organization, with emphasis on the Income Statement and Balance Sheet. Students will gain the ability to understand, analyze and explain the financial performance of a company and to make managerial decisions using this information. Students will prepare an in-depth financial analysis of a company.\n\nThis course is taught with an active learning approach. We use in-class cases, exercises and demonstrations to learn the material. Class attendance is crucial. The grade in the course will include homework, cases, two exams and a final project.",
+                "Registration Requirements": "Prerequisites:\nECON 201: Intro to Macroeconomics\nECON 202: Intro to Microeconomics\n*Any combination of ECON 201/ ECON 311/ AP-IB Macro and ECON 202/ ECON 310/ MMSS 211-1/ AP-IB Micro credit is required to register for this course.\n\nAttendance at the first class and first TA session is mandatory.",
+                "Evaluation Method": "",
+                "Class Materials (Required)": "This course requires a textbook and homework software (which comes with a new textbook or the electronic book). Estimated price for course materials is $150.\n\n\nAccounting What the Numbers Mean, 13th edition, Marshall, McManus, Viele.\nYou must have the thirteenth edition.\nThe cost listed here is for the electronic book version. A hard copy version with the homework software is another option, but it is more expensive. All options can be viewed online, but you must purchase an option with Connect: https://www.mheducation.com/highered/product/1264126743.html\n\n\nAccounting What the Numbers Mean (e-book) + Connect, 13th edition, Marshall, McManus, Viele.\nISBN13: 9781265645151\n$149.13 (Approx. Price)\n\n\n*Please note that if you choose to purchase a used hard copy book, you will still need to buy the homework software, which is packaged with the electronic book at a cost of $149.13. You cannot buy the homework software alone.\n\n\nCase pack from Harvard includes Chemalite\nhttp://cb.hbsp.harvard.edu/cbmp/access/65200479\n$4.25 (Approx. Cost)",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nStudents are required to enroll in the discussion section. If you're unable to attend the discussion section, please enroll in the course at another quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Any combination of ECON 201/ECON 311/AP-IB Macro AND ECON 202/ECON 310/MMSS 211-1/AP-IB Micro credit is required to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Marketing Management",
+        "course_reference_number": [
+            "20358"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Marketing Management",
+                "instructors": [
+                    "Ginger Pennington"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ginger Pennington\n847/467-3041\nSwift Hall, 2029 Sheridan Road, Evanston\nOffice Hours: By Appointment\nProfessor Ginger Pennington is Assistant Professor of Instruction in Northwesterns Business Institutions Program and the Department of Psychology. Professor Pennington earned her Ph.D. in Social Psychology from Northwestern University and her B.A., magna cum laude, in Psychology and Sociology/Anthropology from Knox College. Dr. Pennington¿s academic research focuses on human motivation and self-regulation and has been published in journals including Journal of Consumer Research, Journal of Personality and Social Psychology, and Journal of Experimental Social Psychology. In addition, she conducts applied research as a marketing consultant, specializing in brand strategy, consumer perceptions, and non-profit organizations.",
+                "Meeting Info": "555 Clark B01: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor of \"Marketing Management\" is: Ginger Pennington.\n\nThis class is geared toward students without prior coursework in marketing. You will learn basic principles and key marketing concepts, develop the ability to critically analyze marketing-related problems, and gain experience formulating strategy. We will examine how businesses and organizations go about deciding which customers to serve, which products and services to offer, and how to effectively deliver and promote their offerings through strategic communications. In addition to learning important marketing principles, we will explore ethical issues related to marketing practices and consider the social impact of marketing.",
+                "Registration Requirements": "Prerequisites: ECON 201-0 (Macroeconomics) and ECON 202-0 (Microeconomics) or equivalents.",
+                "Learning Objectives": "By the end of this course, you will understand the basic processes involved in marketing management -- how to determine which customers your organization should serve, which products and services it should offer them, and how. You will know how to read and interpret marketing case studies, and have experience applying strategic frameworks to analyze business situations.",
+                "Evaluation Method": "",
+                "Class Materials (Required)": "Open-source textbook: Albrecht, M.G., Green, M., & Hoffman, L. (2023). Principles of Marketing. OpenStax. https://openstax.org/books/principles-marketing/pages/1-unit-introduction",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Any combination of ECON 201/ECON 311/AP-IB Macro AND ECON 202/ECON 310/MMSS 211-1/AP-IB Micro credit is required to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "303-0",
+        "course_name": "Leadership in Organizations",
+        "course_reference_number": [
+            "20359"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Leadership in Organizations",
+                "instructors": [
+                    "Kylie Hwang"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kylie Hwang",
+                "Meeting Info": "Frances Searle Building 2107: Mon 2:00PM - 4:50PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor of this course is Kylie Hwang.\n\nThis course provides students with the social science tools needed to solve organizational problems and influence the actions of individuals, groups and organizations. It prepares managers to understand how to best organize and motivate the human capital of the firm, manage social networks and alliances, and execute strategic change. This is accomplished through knowledge of competitive decision making, reward system design, team building, strategic negotiation, political dynamics, corporate culture and strategic organizational design.\n\nThe goal of this course is to create, develop, and enhance your leadership skills. The course is designed to prepare you to lead high-performing, successful firms in the future and to effectively steer your own careers. These will be the twin themes of the course: (1) how to establish, manage, and lead prosperous firms and (2) how to develop a thriving career for oneself.\n\nA key leadership task is to assemble the skills, talents, and resources of individuals and groups into those combinations that best solve the organizational problem at hand. You must manage people, information, and processes to accomplish organizational goals. You must make things happen, often under conditions or time frames that are not of your own choosing. The successful execution of these goals requires leaders to be able to diagnose problems, make effective decisions, influence, and motivate others, manage the diversity of their personal contacts, tap into and motivate the human and social capital of organizational members, optimize cross-functional teams, and drive organizational change.\n\nThis course prepares you to achieve these objectives. You will learn fundamental tools from the behavioral and social sciences that will improve your ability to analyze organizational dynamics and take robust action.",
+                "Registration Requirements": "Prerequisites: ECON 201-0 (Macroeconomics) and ECON 202-0 (Microeconomics) or equivalents.",
+                "Evaluation Method": "Your final grade is composed of:",
+                "Class Materials (Required)": "No traditional textbook is required. Study.net course packet will cost approximately $70.45. Other class material will be available to students via Course Reserves and Canvas.",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nAttendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Any combination of ECON 201/ECON 311/AP-IB Macro AND ECON 202/ECON 310/MMSS 211-1/AP-IB Micro credit is required to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "304-0",
+        "course_name": "Corporate Finance",
+        "course_reference_number": [
+            "20360",
+            "20361"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Corporate Finance",
+                "instructors": [
+                    "Torben Andersen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Corporate Finance",
+                "instructors": [
+                    "Torben Andersen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Torben Andersen\nOffice Hours: Please email to schedule an appointment.\n<p>Professor Andersen has published widely in asset pricing, empirical finance, and empirical market microstructure. His work centers on the modeling of volatility fluctuations in financial returns with applications to asset and derivatives pricing, portfolio selection, and the term structure of interest rates. His current work explores the use of large sets of high-frequency data for volatility forecasting, portfolio choice and risk management. He has received grants from the National Science Foundation, the Sloan Foundation, and the Institute for Quantitative Research in Finance (the Q-Group). He served as the editor-in-chief for the Journal of Business and Economic Statistics in 2004-2006, Co-Editor for the Journal of Financial Econometrics, 2009-2014, and has served on the editorial board of leading journals, including the Journal of Finance, Review of Financial Studies, Econometric Theory, and Management Science.</p>",
+                "Meeting Info": "Frances Searle Building 2107: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor of this course is Torben Andersen.\n\nCorporate Finance with Professor Andersen covers managers' and investors' most fundamental finance decision: how to value a project or an asset. Managers must determine the value of building a factory, entering a new market, or purchasing an entire firm, when deciding in which projects to invest. Similarly, individuals must assess the value of financial securities to decide how to invest their wealth. Corporate Finance teaches methods for valuing projects or assets. These valuation tools lay the foundation for all work in capital markets and corporate finance.",
+                "Registration Requirements": "Prerequisites: ECON 201, 202, STAT 210 or equivalent, MATH 212 or 220, and BUS INST 301.\nStudents may not receive credit for both this course and ECON 360-1. Not for students who have previously taken KELLG_FE 310-0.",
+                "Class Materials (Required)": "There will be a study.net course packet available for purchase online. Approximate cost will be: $20\n\nLecture slides, topic videos, cases, and readings as assigned. Lecture slides, video links, and readings\nwill be posted on the course website. Cases will be distributed via the Study.Net link on Canvas.\nAll course materials are the intellectual property of the instructor. You may not distribute class materials\nelectronically or in any form to anyone - inside or outside of Northwestern. In particular, you may not\nshare course materials with other students or with your employers after graduating.",
+                "Class Materials (Suggested)": "Please check with the professor for more information regarding the textbook.\n\nTitle: CORPORATE FINANCE\nEdition: 6\nAuthor: Berk & DeMarzo\nISBN: 9780137844906\nPublisher: PEARSON\nEstimated Price (eBook): $10.99/mo\nRecommended, but optional.\n\nhttps://www.pearson.com/en-us/subject-catalog/p/corporate-finance/P200000009791/9780137844906",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have credit for ECON 201, ECON 202, STAT 210, MATH 218-1 or 220-1, and BUS_INST 301, or equivalent courses. Students that previously took KELLG_FE 310-0 may not register for this course."
+            },
+            {
+                "Instructors": "Torben Andersen\nOffice Hours: Please email to schedule an appointment.\n<p>Professor Andersen has published widely in asset pricing, empirical finance, and empirical market microstructure. His work centers on the modeling of volatility fluctuations in financial returns with applications to asset and derivatives pricing, portfolio selection, and the term structure of interest rates. His current work explores the use of large sets of high-frequency data for volatility forecasting, portfolio choice and risk management. He has received grants from the National Science Foundation, the Sloan Foundation, and the Institute for Quantitative Research in Finance (the Q-Group). He served as the editor-in-chief for the Journal of Business and Economic Statistics in 2004-2006, Co-Editor for the Journal of Financial Econometrics, 2009-2014, and has served on the editorial board of leading journals, including the Journal of Finance, Review of Financial Studies, Econometric Theory, and Management Science.</p>",
+                "Meeting Info": "Frances Searle Building 2107: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor of this course is Torben Andersen.\n\nCorporate Finance with Professor Andersen covers managers' and investors' most fundamental finance decision: how to value a project or an asset. Managers must determine the value of building a factory, entering a new market, or purchasing an entire firm, when deciding in which projects to invest. Similarly, individuals must assess the value of financial securities to decide how to invest their wealth. Corporate Finance teaches methods for valuing projects or assets. These valuation tools lay the foundation for all work in capital markets and corporate finance.",
+                "Registration Requirements": "Prerequisites: ECON 201, 202, STAT 210 or equivalent, MATH 212 or 220, and BUS INST 301.\nStudents may not receive credit for both this course and ECON 360-1. Not for students who have previously taken KELLG_FE 310-0.",
+                "Class Materials (Required)": "There will be a study.net course packet available for purchase online. Approximate cost will be: $20\n\nLecture slides, topic videos, cases, and readings as assigned. Lecture slides, video links, and readings\nwill be posted on the course website. Cases will be distributed via the Study.Net link on Canvas.\nAll course materials are the intellectual property of the instructor. You may not distribute class materials\nelectronically or in any form to anyone - inside or outside of Northwestern. In particular, you may not\nshare course materials with other students or with your employers after graduating.",
+                "Class Materials (Suggested)": "Please check with the professor for more information regarding the textbook.\n\nTitle: CORPORATE FINANCE\nEdition: 6\nAuthor: Berk & DeMarzo\nISBN: 9780137844906\nPublisher: PEARSON\nEstimated Price (eBook): $10.99/mo\nRecommended, but optional.\n\nhttps://www.pearson.com/en-us/subject-catalog/p/corporate-finance/P200000009791/9780137844906",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have credit for ECON 201, ECON 202, STAT 210, MATH 218-1 or 220-1, and BUS_INST 301, or equivalent courses. Students that previously took KELLG_FE 310-0 may not register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Business and Economic Institutions in Historical Perspective",
+        "course_reference_number": [
+            "20363"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Business and Economic Institutions in Historical Perspective",
+                "instructors": [
+                    "Carola Frydman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carola Frydman\n847/467-4457\nJacobs Center Room 418\nOffice Hours: Please Email\nCarola Frydman is an Associate Professor of Finance at the Kellogg School of Management. Her work has been published at journals such as the Journal of Political Economy, the Journal of Financial Economics, and the Journal of Economic History, and featured in The Wall Street Journal, the New York Times, and The Economist. Prior to joining Kellogg, Professor Frydman was an Assistant Professor of Finance at the MIT Sloan School of Management (2006-2011) and an Assistant Professor of Economics at Boston University (2011-2016). She holds a Ph.D. in Economics from Harvard University, and B.A. and M.A. degrees in Economics from Universidad de San Andres, Argentina, and is a Faculty Research Fellow at the National Bureau of Economic Research.",
+                "Meeting Info": "2001 Sheridan GPC GN200: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "BUS INST 321 is an introduction to business and economic history - the study of the structure and performance of economies through time, and the implications of economic choices in the past on today's choices and constraints. The course will develop an understanding of the long-run process of economic growth, focusing on the factors that allow economies to grow as well as the challenges that they face to achieve economic success. The goal is to apply economic theory and quantitative reasoning to highlight the important interaction of economic theory, empirical research, and historical experience.",
+                "Registration Requirements": "Prerequisites: ECON 201, 202, STAT 210, and MATH 212 or 220, or equivalents.",
+                "Class Materials (Required)": "Class materials will be available via Canvas.",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Requisite: Students must have taken ECON 201 and 202, STAT 210 or equivalent, and MATH 212 or 220 in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "331-0",
+        "course_name": "Real Estate Finance & Investment",
+        "course_reference_number": [
+            "20364"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Real Estate Finance & Investment",
+                "instructors": [
+                    "Craig Furfine"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Craig Furfine\n847/467-2905\nKellogg Global Hub #4373\nOffice Hours: By Appointment\nFurfine studies the functioning of interbank markets, commercial mortgage securitization, and real estate finance, having published in scholarly journals including the Review of Corporate Finance Studies, the Journal of Business, the Journal of Monetary Economics and the Journal of Money, Credit, and Banking. He currently serves as an Associate Chair of the Finance Department, Associate Editor of the Journal of Money, Credit, and Banking and Treasurer of the Midwest Finance Association. Prior to joining the Kellogg School faculty, he was an economic advisor in the economic research department at the Federal Reserve Bank of Chicago. Furfine teaches corporate finance, multiple courses on real estate finance, and has written eighteen case studies covering a wide range of topics in real estate finance. He received a PhD in economics from Stanford University.",
+                "Meeting Info": "555 Clark B01: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor of this course is: Craig Furfine\n\nThis course is an introduction to the most fundamental concepts, principles, analytical methods and tools useful for making investing and financing decisions regarding income-producing property. We begin the course by considering how to estimate the cash flows and discount rates for investment property, allowing us to estimate a property's fundamental value. We next discuss how investment property is generally financed by a close examination of real estate debt markets as well as real estate private equity. We consider the taxation of property as well as how investors should think about the risks to investing in property. We conclude with important considerations for investors when their investment thesis does not come to fruition. We will study property investment using the tools and framework of modern corporate finance and investments, while focusing on the institutional features unique to the real estate industry. As such, the course is designed for students with or without a real estate background, who may be interested in learning about investing in property, either personally or professionally.",
+                "Registration Requirements": "Prerequisites: ECON 201-0, ECON 202-0, STAT 210-0 or equivalent, BUS_INST 304-0 or equivalent.\n\n(ENTREP 330: Startup Accounting and Finance is not an equivalent course to BUS_INST 304-0).\n\nBUS_INST 304-0 (Corporate Finance) may not be taken concurrently with BUS_INST 331-0.",
+                "Evaluation Method": "Your grade in the course will be based on the maximum of the following:",
+                "Class Materials (Required)": "Practical Finance for Property Investment 1st Edition by Craig Furfine\nISBN-13: 978-0367333041\nApprox Cost: $54.00 on Amazon; $78.00 New at NU Bookstore",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: ECON 201-0, ECON 202-0, STAT 210-0 or equivalent, BUS_INST 304-0 or equivalent."
+            }
+        ]
+    },
+    {
+        "course_number": "394-LK",
+        "course_name": "Professional Linkage Seminar",
+        "course_reference_number": [
+            "20353",
+            "20354"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Lessons in Non-Profit Management (campusCATALYST)",
+                "instructors": [
+                    "Professional Linkage Seminar",
+                    "Sol Anderson"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Theories and Practice of Investment Management",
+                "instructors": [
+                    "Professional Linkage Seminar",
+                    "Amy Falls"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "8:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Lessons in Non-Profit Management (campusCATALYST)",
+                "Instructors": "Sol Anderson",
+                "Meeting Info": "Kresge Centennial Hall 2-410: Tues 2:00PM - 4:50PM",
+                "Overview of class": "*INFORMATION IS SUBJECT TO CHANGE*\n\nThe instructor of \"Lessons in Non-Profit Management\" is: Sol Anderson\n\nThis course is jointly sponsored by Business Institutions and a student organization called campusCatalyst. The course is taught by a leader in the Chicagoland non-profit community and combines both a consulting experience with area non-profits facing organizational strategy issues with classroom lectures and discussions on the nonprofit sector. The class is composed of 15 students who are split into teams of five, and matched with local non-profit organizations to work on quarter-long consulting engagements. Students directly engage with their client organizations in the field and then collectively meet once per week to discuss issues and problems they are facing with one another and their instructor, as well as to attend a series of classroom lectures on the nonprofit sector. To inform and guide students' interactions with non-profits, the classroom sessions will provide an overview of the non-profit sector and the growing trends towards greater accountability, transparency and performance management. Students will explore the changing roles and responsibilities of non-profits, as shaped by both the public and private sector, and they will examine the implications of these trends. The course curriculum has two parts: 1) introducing students to the so-called Third Sector and the present political and economic systems that influence how it serves the public good and 2) examining business strategy and management and their applicability to non-profits. The over-arching goal of the course is to create a foundation of knowledge from which students can draw upon as they work together with community non-profits. This course is an opportunity to innovate, collaborate, learn and apply a new set of skills and knowledge while impacting the community.",
+                "Registration Requirements": "Students must apply to take this course.\n\nInformation about application deadlines for future quarters and how to apply as well as more information about campusCatalyst can be found at: campuscatalyst.northwestern.edu",
+                "Learning Objectives": "",
+                "Class Materials (Required)": "All course texts will be available on Canvas.",
+                "Class Notes": "Application-only course.\n\nApply online: campuscatalyst.northwestern.edu\n\nThose accepted to cC (Campus Catalyst) will be given permission to enroll in this course.\n\n*Winter 2027: Final Presentations (in-person) are scheduled for TBD.",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            },
+            {
+                "Topic": "Theories and Practice of Investment Management",
+                "Instructors": "Amy Falls\nOffice Hours: By appointment.\nAmy Falls, Vice President & Chief Investment Officer <p> With over 30 years of investment management experience across all asset classes, Amy Falls has one of the best performance records of CIOs in the education endowment space. Currently, she serves as the Chief Investment Officer of Northwestern University, overseeing its $13.7 billion endowment, one of the largest university endowments currently run by a woman. Prior to joining Northwestern in 2021, she served as CIO of Rockefeller University, where she restructured and managed the investment office for a $2.3 billion university endowment and generated top decile results among endowments greater than $1 billion.",
+                "Meeting Info": "2001 Sheridan GPC 1105: Tues 5:30PM - 8:20PM",
+                "Overview of class": "Theories and Practice of Investment Management\n\nThis course studies the field of investment management for institutional portfolios. It is intended as a combination of modern financial theory and industry practice, giving insight into the investment process used in large foundations, endowments, and pension funds. It covers best practices in risk management, diversification theory, modern portfolio theory, and new issues in investment management. In particular, the field of alternative investments namely, hedge funds, private equity, venture capital, and real asset-based investments will be featured.\n\nThe course will include some financial theory. Comfort with basic statistical and financial math including discount rates, volatility and standard deviation calculations and correlation analysis will be important.",
+                "Registration Requirements": "STAT 210: Introductory Statistics for the Social Sciences (Courses that can be substituted for STAT 210 include: BMD_ENG 220; CHEM_ENG 312; EECS 302; IEMS 201; IEMS 202; Math 310-1; Math 311-1; Math 314; Math 383; Math 385; PSYCH 201; POLI_SCI 312; SESP 210; STAT 202; STAT 320)",
+                "Class Materials (Required)": "",
+                "Class Materials (Suggested)": "",
+                "Class Notes": "This class does not have a wait list and we do not issue permissions to exceed enrollment capacity. If the class fills up before your registration time, we suggest checking CAESAR regularly for an available seat. Roster changes frequently occur during the first two weeks of registration and just before the start of a new quarter.\n\nFor more information about the course, please refer to the sample syllabus on the Kapnick Center website: https://businessinstitutions.northwestern.edu/courses/course-descriptions/index.html\n\n*IMPORTANT DATES for Winter 2027:",
+                "Class Attributes": "Attendance at 1st class mandatory\nJuniors/Seniors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed STAT 202-0 or 210-0 to enroll in this course."
+            }
+        ]
+    }
+]

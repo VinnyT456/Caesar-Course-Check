@@ -1,0 +1,281 @@
+[
+    {
+        "course_number": "388-0",
+        "course_name": "Field Studies in Business Culture",
+        "course_reference_number": [
+            "28662"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Field Studies in Business Culture",
+                "instructors": [
+                    "Nick Dorzweiler"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nick Dorzweiler",
+                "Meeting Info": "Online: Mon 7:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Course Meets Online\nSynchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "392-0",
+        "course_name": "Field Studies in Public Health",
+        "course_reference_number": [
+            "28661"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Field Studies in Public Health",
+                "instructors": [
+                    "Jessica Ibrahim Puri"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jessica Ibrahim Puri",
+                "Meeting Info": "Parkes Hall 212: Thurs 6:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity"
+            }
+        ]
+    },
+    {
+        "course_number": "393-0",
+        "course_name": "Field Studies in the Modern Workplace",
+        "course_reference_number": [
+            "28664",
+            "28665",
+            "28666"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Field Studies in the Modern Workplace",
+                "instructors": [
+                    "Megan Jean Whitaker"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:00PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Field Studies in the Modern Workplace",
+                "instructors": [
+                    "Jessica Ibrahim Puri"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:30PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Field Studies in the Modern Workplace",
+                "instructors": [
+                    "Sarah Silins"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "10:00AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Megan Jean Whitaker",
+                "Meeting Info": "Parkes Hall 215: Mon 7:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl"
+            },
+            {
+                "Instructors": "Jessica Ibrahim Puri",
+                "Meeting Info": "Parkes Hall 212: Tues 6:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl"
+            },
+            {
+                "Instructors": "Sarah Silins",
+                "Meeting Info": "University Hall 112: Tues 8:00AM - 10:00AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl"
+            }
+        ]
+    },
+    {
+        "course_number": "394-0",
+        "course_name": "Legal Field Studies",
+        "course_reference_number": [
+            "28663"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Legal Field Studies",
+                "instructors": [
+                    "Sarah Silins"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah Silins",
+                "Meeting Info": "Parkes Hall 212: Mon 6:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Business Field Studies",
+        "course_reference_number": [
+            "28667",
+            "28668",
+            "28669"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Business Field Studies",
+                "instructors": [
+                    "Nina Wieda"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:00PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Business Field Studies",
+                "instructors": [
+                    "Nina Wieda"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "2:00PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Business Field Studies",
+                "instructors": [
+                    "Nina Wieda"
+                ],
+                "days": [
+                    "Sunday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "2:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nina Wieda",
+                "Meeting Info": "Parkes Hall 212: Fri 3:00PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl"
+            },
+            {
+                "Instructors": "Nina Wieda",
+                "Meeting Info": "Parkes Hall 212: Sa 12:00PM - 2:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl"
+            },
+            {
+                "Instructors": "Nina Wieda",
+                "Meeting Info": "Parkes Hall 212: Su 12:00PM - 2:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl"
+            }
+        ]
+    },
+    {
+        "course_number": "397-0",
+        "course_name": "Field Studies in Civic Engagement",
+        "course_reference_number": [
+            "28659"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Field Studies in Civic Engagement",
+                "instructors": [
+                    "Sarah Silins"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah Silins",
+                "Meeting Info": "Parkes Hall 215: Tues 6:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity"
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Field Studies in Humanities",
+        "course_reference_number": [
+            "28660"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Field Studies in Humanities",
+                "instructors": [
+                    "Liz McCabe"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Liz McCabe",
+                "Meeting Info": "Parkes Hall 212: Wed 6:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Literature and Arts Foundational Discipline"
+            }
+        ]
+    }
+]

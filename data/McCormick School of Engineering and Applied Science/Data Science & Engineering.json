@@ -1,0 +1,32 @@
+[
+    {
+        "course_number": "200-0",
+        "course_name": "Foundations of Data Science",
+        "course_reference_number": [
+            "26785"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Foundations of Data Science",
+                "instructors": [
+                    "Moses Chan"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Moses Chan",
+                "Meeting Info": "2001 Sheridan GPC 1105: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    }
+]

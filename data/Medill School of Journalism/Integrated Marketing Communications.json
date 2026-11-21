@@ -1,0 +1,869 @@
+[
+    {
+        "course_number": "300-0",
+        "course_name": "Introduction to Integrated Marketing Communications",
+        "course_reference_number": [
+            "21371"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Integrated Marketing Communications",
+                "instructors": [
+                    "Paul Wang"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paul Wang",
+                "Meeting Info": "Fisk Hall 311: Wed 6:00PM - 8:50PM",
+                "Overview of class": "An introduction to principles of integrated marketing communications that includes consumer insight, research, market segmentation, brand positioning, communications messages and marketing planning. Overviews the tactical areas of marketing communications including branding, advertising, digital media and corporate communications as well as launching new products. (Cannot be counted toward the IMC Certificate.)\n\nAttendance at the first class is mandatory.",
+                "Class Materials (Required)": "HBR course packet: instructor will share link to purchase",
+                "Class Materials (Suggested)": "none",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Freshmen may not register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Consumer Insight",
+        "course_reference_number": [
+            "21370"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Consumer Insight",
+                "instructors": [
+                    "Carolyn Wells Keller"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carolyn Wells Keller",
+                "Meeting Info": "Fisk Hall 311: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Focuses on social science theories that help explain why and how individuals, families, and groups acquire, consume, and dispose of goods, services, ideas, brands, and experiences. Emphasizes the goals and experiences people have to better understand them as consumers. Examines psychological, economic, communication, anthropological, and sociological perspectives on human action that provide insight into consumer behavior.",
+                "Class Materials (Required)": "Required reading:\n\nSolomon, Michael R., Consumer behavior, buying, having, and being, (14th ed.), Upper Saddle River, NJ: Pearson.\n\nhttps://www.pearson.com/en-us/subject-catalog/p/consumer-behavior-buying-having-being/P200000009740/9780138170806",
+                "Class Materials (Suggested)": "Recommended reading:\n\nKahneman, Daniel (2011), Thinking, Fast and Slow. New York: Farrar, Straus and Giroux.\n\nUnderhill, Paco (2008), Why We Buy: The Science of Shopping, New York: Simon & Schuster.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for IMC Certificate Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Research and Data Analytics",
+        "course_reference_number": [
+            "21355",
+            "21356"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Research and Data Analytics",
+                "instructors": [
+                    "Carolyn Wells Keller"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Research and Data Analytics",
+                "instructors": [
+                    "Ed Hunt"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carolyn Wells Keller",
+                "Meeting Info": "McCormick Foundation Ctr 3127: Mon, Wed 9:00AM - 10:50AM",
+                "Overview of class": "Covers analytic methods and metrics to develop, execute and evaluate marketing communications. Students learn how to design questionnaires and analyze survey results, and evaluate customer behavior by analyzing customer databases. Covers methods to evaluate media use including web analytics and social media metrics. Develops hands-on analytic skills with Qualtrics survey software and SPSS statistics software.",
+                "Class Materials (Required)": "Required: HBR course-pack: link will be shared by instructor",
+                "Class Materials (Suggested)": "Recommended: Basic Marketing Research (9th edition) by Tom Brown, Tracy A. Suter, Gilbert A. Churchill",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for IMC Certificate Students only."
+            },
+            {
+                "Instructors": "Ed Hunt",
+                "Meeting Info": "Fisk Hall 311: Tues, Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for IMC Certificate Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "303-0",
+        "course_name": "Integrated Marketing Communications Strategy",
+        "course_reference_number": [
+            "21378"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Integrated Marketing Communications Strategy",
+                "instructors": [
+                    "Jacqueline Babb"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacqueline Babb",
+                "Meeting Info": "McCormick Foundation Ctr 3127: Wed 11:00AM - 1:50PM",
+                "Overview of class": "The strategic marketing communications process that includes consumer insight and research, market segmentation, brand positioning, communication messages and media decisions. Integrates brand communications with other aspects of marketing including product strategy, pricing, retailing. Students perform case studies and complete a series of writing-intensive assignments. Prerequisite: IMC 301, 302, admission to IMC Certificate Program (may be taken in the same quarter student applies for program admission).",
+                "Class Materials (Required)": "No Textbook. A link to a required course packet containing the assigned cases is on Canvas. Approx cost: $43.40.\n\nAdditional content and readings are available on Canvas in weekly modules and in Course Reserves. Students should read and understand all materials in each weekly module prior to the first class of the week.\n\nMost course content and readings, especially breaking news, will be available through WARC. IMC Students have access to the WARC database for free. WARC is a great tool for research and breaking news about the industry and developments. It is helpful when you are applying for various internships and jobs. Please consider subscribing to their newsletters.\n\nGo to www.warc.com/security/login/\n\nYou will be prompted to enter a personal username. Please use your NU email address. Enter a private password. Enter your personal preferences for the service.\n\nAdditional Resources are available through the library and contain sources and links to content we will consider and discuss.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for IMC Certificate Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "304-0",
+        "course_name": "Digital Media Strategies",
+        "course_reference_number": [
+            "21357"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Digital Media Strategies",
+                "instructors": [
+                    "Yu Xu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yu Xu",
+                "Meeting Info": "Fisk Hall 115: Thurs 10:00AM - 12:50PM",
+                "Overview of class": "Explores the contemporary media landscape and how brand communications adapt to media technology and usage. Uses current case studies to understand the transition from passive consumption of traditional media to active participation in digital and social media. Focuses on engaging consumers and other audiences and communicating effectively with them through media. Prerequisites: IMC 303, and admission to IMC Certificate Program.",
+                "Class Materials (Required)": "None\n\nAll reading materials are freely available online. Harvard Business Review articles can be downloaded through the Business Source Ultimate database, accessible at https://libguides.northwestern.edu/c.php?g=114783&p=749670",
+                "Class Materials (Suggested)": "The optional textbook is Franks, J. (2025). Media from chaos to clarity and back again. Bloomsbury.",
+                "Class Notes": "This course is reserved for IMC certificate students.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Perquisite: Students must have completed IMC 301, IMC 302, and IMC 303 to enroll"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Analytics to Activation",
+        "course_reference_number": [
+            "21374"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Analytics to Activation",
+                "instructors": [
+                    "David Bryla",
+                    "Alpesh Patel"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Bryla",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Mon 6:00PM - 8:50PM",
+                "Overview of class": "Analytics to Activation is a case study course taught by active industry leaders that will build upon the learning you gained in 301, 302 and 303. Instructors will further develop data collection techniques and analytic tools that will help you best define your target audience, evaluate your product or service offering, and optimize your brand activations to maximize return on investment. You will work individually and in teams on a variety of cases that require you to collect and interpret qualitative and quantitative data. Cases, podcasts, articles, and occasional guest speakers will introduce you to emerging technology platforms that can strengthen returns. Cases have been selected that demonstrate the technologies that drive marketing and communications in today's complex business environment. You will use the presentations and tools to create a data-driven brief to develop content that will minimize risk and maximize revenue and EBITDA growth of your efforts. You will present your work in every class and receive live feedback from your instructors just as if you are working at a client, an agency, or a consulting practice.\n\nPrerequisites: IMC 303",
+                "Class Materials (Required)": "HBR course packet: cost approximately $15.30\n\nInstructor will share the link to purchase.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Perquisite: Students must have completed IMC 301, IMC 302, and IMC 303 to enroll Prerequisite: IMC 303-0"
+            }
+        ]
+    },
+    {
+        "course_number": "306-0",
+        "course_name": "Strategic Communications",
+        "course_reference_number": [
+            "21375"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Strategic Communications",
+                "instructors": [
+                    "Dr. Rafael O. Matos"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dr. Rafael O. Matos",
+                "Meeting Info": "McCormick Foundation Ctr 3107: Tues 11:00AM - 1:50PM",
+                "Overview of class": "Emphasizes the development and execution of communications strategies and relationship building with numerous stakeholders including employees, the news media, government, investors and the general public. Covers traditional print and broadcast media as well as contemporary communication channels including blogs, social media platforms and emerging technologies. Students perform several exercises in written communications. Prerequisites: for non-Medill students: IMC 303 and admission to the IMC Certificate Program; for Medill students: JOUR 301.",
+                "Class Materials (Required)": "Readings will be posted on Canvas",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Perquisite: Students must have completed IMC 301, IMC 302, and IMC 303 to enroll"
+            }
+        ]
+    },
+    {
+        "course_number": "310-0",
+        "course_name": "IMC Law, Ethics and Technology",
+        "course_reference_number": [
+            "21376"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "IMC Law, Ethics and Technology",
+                "instructors": [
+                    "Thomas Hayden"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Hayden",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Tues 11:00AM - 1:50PM",
+                "Overview of class": "Provides students with the foundation to make better decisions and improve marketing communications by understanding legal and ethical issues and the policy side of communications, media and marketing. Covers media law, First Amendment protection of commercial speech, contracts, intellectual property, privacy and ethics. Prerequisites: for Medill students: JOUR 301; for non-Medill students: IMC 303, and admission to IMC Certificate Program.",
+                "Class Materials (Required)": "Readings will be posted online.",
+                "Class Notes": "This class is reserved for IMC certificate students.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Perquisite: Students must have completed IMC 301, IMC 302, and IMC 303 to enroll Reserved for IMC Certificate Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "404-0",
+        "course_name": "IMC Strategy",
+        "course_reference_number": [
+            "21358"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "IMC Strategy",
+                "instructors": [
+                    "Francis Mulhern",
+                    "Judy Franks",
+                    "Ryan Reis"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Francis Mulhern",
+                "Meeting Info": "McCormick Foundation Ctr Forum: Mon 3:00PM - 4:50PM",
+                "Overview of class": "IMC Strategy introduces students to the core principles of IMC and its focus on customer centricity and stakeholder management to deliver reciprocal value for consumers and the organizations that serve them. The course answers the following questions:\n\n1. How is IMC a differentiated approach to marketing strategy?\n2. How does segmentation and valuation of heterogenous customers create value for the organization?\n3. How can stakeholders both within and outside the organization contribute to the aims of IMC?\n4. How can customer experience design ensure that IMC is a guiding force throughout the relationship?\n5. How can organizations and brands engage audiences in today's digitally networked media landscape?",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only.",
+                "Associated Classes": "DIS - McCormick Foundation Ctr 3119: Wed 11:00AM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "420-0",
+        "course_name": "Brand Management Foundations",
+        "course_reference_number": [
+            "21382"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Brand Management Foundations",
+                "instructors": [
+                    "Gerry Chiaro"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gerry Chiaro",
+                "Meeting Info": "McCormick Foundation Ctr Forum: Tues 1:00PM - 2:50PM",
+                "Overview of class": "Brand Management Foundations will examine the key frameworks that comprise a successful modern brand identity including Promise, Purpose, Values, Personality and Story. Buyers today expect brands to provide a consistent and superior customer experience. These expectations coupled with increasing competition place enormous pressure on brands to stay authentic and gain the trust of their customers. In this course, students will learn how different strategic frameworks are applied in real world and digital-first situations to create, develop and nurture strong brands.",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only.",
+                "Associated Classes": "DIS - McCormick Foundation Ctr 3127: Thurs 10:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "440-0",
+        "course_name": "Strategic Communications Foundations",
+        "course_reference_number": [
+            "21379"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Strategic Communications Foundations",
+                "instructors": [
+                    "Jeffrey Treem"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeffrey Treem",
+                "Meeting Info": "McCormick Foundation Ctr 3127: Mon 11:00AM - 1:50PM",
+                "Overview of class": "Strategic Communications Foundations provides an overview of the diverse theories, practices, and applications that constitute strategic communications as a discipline, function, and professional role. In this course students will learn how to identify and manage relationships with various stakeholders relevant to organizations. Topics covered will include employee engagement, investor relations, crisis communication, and corporate social responsibility. The primary focus will be learning different ways that strategic communications are connected, directly and indirectly, to various outcomes relevant to employees, communities, organizations, and institutions. Particular emphasis will be placed on the ways that strategic communications decisions are informed by data, and the different opportunities for observing, evaluating, and analyzing stakeholder activities. Assignments will involve reflection on the types of decisions faced by strategic communications professionals, as well as the development of strategic planning materials.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "450-0",
+        "course_name": "Media Foundations",
+        "course_reference_number": [
+            "21363",
+            "21364"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Media Foundations",
+                "instructors": [
+                    "Judy Franks"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Media Foundations",
+                "instructors": [
+                    "Judy Franks"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Judy Franks",
+                "Meeting Info": "Fisk Hall 115: Tues 10:00AM - 12:50PM",
+                "Overview of class": "Media Foundations is designed to help students demystify the current turmoil in the media world by providing the necessary history and context that helps to explain where we are today and where we may be headed. This course will equip students with theories and frameworks that can give them the confidence to make bold decisions and defend their strategies. The course uses a diversity of learning techniques: from self-reflection, to collaborative quizzes, to group debates of issues for which there is no right/wrong answer and also a critique of contemporary media cases. The course will help students gain a better understanding of the evolving media landscape, the role of marketers in shaping the media economy, new digital media marketplaces and how the IMC process can help marketers make sound media allocation decisions using technology and Big Data.",
+                "Class Materials (Required)": "Required Books: There is no formal textbook. Rather, students will be required to purchase the following book:\n\nNapoli, P.M. (2003). Audience Economics: Media Institutions and the Audience Marketplace. New York, NY: Columbia. We will be reading the Intro through Chapter Four.\n[ISBN-13: 978-0-9834662-3-9]\n\nAdditional readings (chapter excerpts, white papers and topical articles) will be provided directly in the appropriate course module in Canvas.\n\n*Note: Professor Franks will be sharing excerpts from the unpublished manuscript of \"Media: From Chaos to Clarity\" (3rd Edition) directly on Canvas. These readings are highly confidential and students may not share them outside of their course studies.\n\nRequired Case Studies: The course uses two case studies:\n\nMediaCorp \"From Broadcaster to National Media Network: Tracing MediaCorp's Evolution to a Transmedia Ecosystem\"\nhttps://hbsp.harvard.edu/import/1226843\n\nSainsbury's \"How an Idea Helped Make Sainsbury's Great Again\"\n(Case retrieved from the WARC database and will be uploaded directly to Canvas)\n\n\nCourse materials cost:\n\n\"Audience Economics\" can be purchased in paperback and/or Kindle editions on Amazon for approximately $25. Students can likely find used copies for resale at a lower price.\n\nMediaCorp Case Study can be purchased for $4.95 per student\nSainsbury's Case Study is access free of charge through the WARC database",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            },
+            {
+                "Instructors": "Judy Franks",
+                "Meeting Info": "Fisk Hall 115: Tues 3:00PM - 5:50PM",
+                "Overview of class": "Media Foundations is designed to help students demystify the current turmoil in the media world by providing the necessary history and context that helps to explain where we are today and where we may be headed. This course will equip students with theories and frameworks that can give them the confidence to make bold decisions and defend their strategies. The course uses a diversity of learning techniques: from self-reflection, to collaborative quizzes, to group debates of issues for which there is no right/wrong answer and also a critique of contemporary media cases. The course will help students gain a better understanding of the evolving media landscape, the role of marketers in shaping the media economy, new digital media marketplaces and how the IMC process can help marketers make sound media allocation decisions using technology and Big Data.",
+                "Class Materials (Required)": "Required Books: There is no formal textbook. Rather, students will be required to purchase the following book:\n\nNapoli, P.M. (2003). Audience Economics: Media Institutions and the Audience Marketplace. New York, NY: Columbia. We will be reading the Intro through Chapter Four.\n[ISBN-13: 978-0-9834662-3-9]\n\nAdditional readings (chapter excerpts, white papers and topical articles) will be provided directly in the appropriate course module in Canvas.\n\n*Note: Professor Franks will be sharing excerpts from the unpublished manuscript of \"Media: From Chaos to Clarity\" (3rd Edition) directly on Canvas. These readings are highly confidential and students may not share them outside of their course studies.\n\nRequired Case Studies: The course uses two case studies:\n\nMediaCorp \"From Broadcaster to National Media Network: Tracing MediaCorp's Evolution to a Transmedia Ecosystem\"\nhttps://hbsp.harvard.edu/import/1226843\n\nSainsbury's \"How an Idea Helped Make Sainsbury's Great Again\"\n(Case retrieved from the WARC database and will be uploaded directly to Canvas)\n\n\nCourse materials cost:\n\n\"Audience Economics\" can be purchased in paperback and/or Kindle editions on Amazon for approximately $25. Students can likely find used copies for resale at a lower price.\n\nMediaCorp Case Study can be purchased for $4.95 per student\nSainsbury's Case Study is access free of charge through the WARC database",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Data Science Foundations",
+        "course_reference_number": [
+            "21386",
+            "21387"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Science Foundations",
+                "instructors": [
+                    "Edward Malthouse"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data Science Foundations",
+                "instructors": [
+                    "Edward Malthouse"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Edward Malthouse",
+                "Meeting Info": "Fisk Hall 115: Mon, Wed 9:00AM - 10:50AM",
+                "Overview of class": "Data Science Foundations will introduce students to fundamental statistical theories and methods. The course will cover advanced concepts on probability theory, hypothesis testing, multiple regression and cluster analysis. Students will gain hands-on experience carrying out analysis of real world data and thus have a better understanding of contemporary methods used in marketing research. This course will lay the foundation for students who wish to take more advanced courses on marketing models and machine learning.",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            },
+            {
+                "Instructors": "Edward Malthouse",
+                "Meeting Info": "Fisk Hall 115: Tues, Thurs 1:00PM - 2:50PM",
+                "Overview of class": "Data Science Foundations will introduce students to fundamental statistical theories and methods. The course will cover advanced concepts on probability theory, hypothesis testing, multiple regression and cluster analysis. Students will gain hands-on experience carrying out analysis of real world data and thus have a better understanding of contemporary methods used in marketing research. This course will lay the foundation for students who wish to take more advanced courses on marketing models and machine learning.",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "461-0",
+        "course_name": "Data Management ",
+        "course_reference_number": [
+            "21380",
+            "21381"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Management",
+                "instructors": [
+                    "Christopher Cahill"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data Management",
+                "instructors": [
+                    "Christopher Cahill"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Cahill",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Thurs 12:00PM - 2:50PM",
+                "Overview of class": "Data Management and Visualization helps students understand how to prepare data sets that can be analyzed with the methods covered in IMC 401, 430 and IMC 404. The course will devote a significant amount of time on understanding relational databases which consist of multiple, inter-related tables. The course will cover SAS programming in detail and includes a module on Structured Query Language (SQL). The programming strategies covered in this class could be implemented in other programming languages such as Python, R or SPSS. Students should be able to pass the SAS Base Programming certification exam by week 8, and the SAS Advanced Programming certification exam after the quarter is over.",
+                "Class Materials (Required)": "1. R Studio software (free)\n2. Required: Visualize This - Nathan Yau (available at Amazon)\n3. Other materials will be posted to Canvas.\n\nCourse materials cost: $25",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            },
+            {
+                "Instructors": "Christopher Cahill",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Thurs 5:00PM - 7:50PM",
+                "Overview of class": "Data Management and Visualization helps students understand how to prepare data sets that can be analyzed with the methods covered in IMC 401, 430 and IMC 404. The course will devote a significant amount of time on understanding relational databases which consist of multiple, inter-related tables. The course will cover SAS programming in detail and includes a module on Structured Query Language (SQL). The programming strategies covered in this class could be implemented in other programming languages such as Python, R or SPSS. Students should be able to pass the SAS Base Programming certification exam by week 8, and the SAS Advanced Programming certification exam after the quarter is over.",
+                "Class Materials (Required)": "1. R Studio software (free)\n2. Required: Visualize This - Nathan Yau (available at Amazon)\n3. Other materials will be posted to Canvas.\n\nCourse materials cost: $25",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "498-0",
+        "course_name": "Practicum",
+        "course_reference_number": [
+            "21365",
+            "21366",
+            "21367"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Visualization and Storytelling",
+                "instructors": [
+                    "Practicum",
+                    "Carolyn Tang"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data Visualization and Storytelling",
+                "instructors": [
+                    "Practicum",
+                    "Carolyn Tang"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Data Visualization and Storytelling",
+                "instructors": [
+                    "Practicum",
+                    "Carolyn Tang"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Data Visualization and Storytelling",
+                "Instructors": "Carolyn Tang",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Fri 9:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            },
+            {
+                "Topic": "Data Visualization and Storytelling",
+                "Instructors": "Carolyn Tang",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Fri 9:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            },
+            {
+                "Topic": "Data Visualization and Storytelling",
+                "Instructors": "Carolyn Tang",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Fri 1:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for IMC Full-Time Students only."
+            }
+        ]
+    },
+    {
+        "course_number": "502-0",
+        "course_name": "Financial Accounting",
+        "course_reference_number": [
+            "21388",
+            "21389"
+        ],
+        "course_info": [
+            {
+                "section": "40",
+                "course_name": "Financial Accounting",
+                "instructors": [
+                    "Anthony Jr Poidomani"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            },
+            {
+                "section": "41",
+                "course_name": "Financial Accounting",
+                "instructors": [
+                    "Anthony Jr Poidomani"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anthony Jr Poidomani",
+                "Meeting Info": "Online: Mon 6:00PM - 8:00PM",
+                "Overview of class": "Financial Accounting provides an overview of the principles of corporate finance including financial statement analysis, business performance measurement, budgeting, long-term forecasting, and investment analysis. Emphasis will be placed on understanding the economic rationale for managerial decision-making as it relates to corporate strategy in general and marketing programs in particular. Students learn return-on-investment (ROI) methodologies for assessing the effectiveness of marketing programs.",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only"
+            },
+            {
+                "Instructors": "Anthony Jr Poidomani",
+                "Meeting Info": "Online: Tues 6:00PM - 8:00PM",
+                "Overview of class": "Financial Accounting provides an overview of the principles of corporate finance including financial statement analysis, business performance measurement, budgeting, long-term forecasting, and investment analysis. Emphasis will be placed on understanding the economic rationale for managerial decision-making as it relates to corporate strategy in general and marketing programs in particular. Students learn return-on-investment (ROI) methodologies for assessing the effectiveness of marketing programs.",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "503-0",
+        "course_name": "Marketing Strategy",
+        "course_reference_number": [
+            "21390"
+        ],
+        "course_info": [
+            {
+                "section": "60",
+                "course_name": "Marketing Strategy",
+                "instructors": [
+                    "Frank Dudley"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Frank Dudley",
+                "Meeting Info": "Online: Thurs 6:00PM - 8:00PM",
+                "Overview of class": "Marketing Strategy introduces students to the fundamentals of strategy that they will be regularly using as a marketing practitioner. The course will familiarize students with different types of business strategies and models. Students will also learn the key components of a marketing strategy and how they are applied to different business situations. Finally, the course will introduce students to the concept of customer centricity and its role in developing an IMC strategy. The course readings, case studies and other instructional material will help students understand how business and marketing strategies crafted from an IMC point of view drive superior financial and marketplace outcomes.",
+                "Class Materials (Required)": "TBA",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "504-0",
+        "course_name": "IMC Strategic Process",
+        "course_reference_number": [
+            "21391"
+        ],
+        "course_info": [
+            {
+                "section": "40",
+                "course_name": "IMC Strategic Process",
+                "instructors": [
+                    "Jacqueline Babb"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacqueline Babb",
+                "Meeting Info": "Online: Tues 6:00PM - 8:00PM",
+                "Overview of class": "A core course in the curriculum, IMC Strategic Process, will introduce students to strategic frameworks and marketing metrics that focus on the core concept of customer centricity. Using customer value as a guide, students will learn how brands can map customer journeys, transform brands into platforms, and co-create experiences with collaborators in the ecosystem to generate value and drive growth. In addition to classroom lectures and discussions, students will read the latest and classic articles on strategy, work in teams on case studies, and complete individual assignments. This course will provide students with a foundational understanding of customer centricity needed for future classes in IMC.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "510-0",
+        "course_name": "Law, Policy and Ethics for IMC Leaders",
+        "course_reference_number": [
+            "21393"
+        ],
+        "course_info": [
+            {
+                "section": "60",
+                "course_name": "Law, Policy and Ethics for IMC Leaders",
+                "instructors": [
+                    "Thomas Hayden"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Hayden",
+                "Meeting Info": "Online: Tues 6:00PM - 8:00PM",
+                "Overview of class": "IMC Law, Policy and Ethics for IMC Leaders enhances students' abilities to make better marketing communications and business decisions. This will be achieved through an in-depth study of the areas of law and ethics that are the most critical to business judgment and decision making. Students delve into 1) The First Amendment and its protection of commercial speech, the legal basis for marketing communications, 2) The U.S. legal system and its relevant statutory, administrative and case law, 3) Contracts, 4) Intellectual Property including copyright and trademark law, 5) Privacy, as it pertains to the collection, aggregation, sale and use of personal data, and 6) Ethics, as there is significant overlap between law and ethics when it comes to making good business and policy decisions.",
+                "Class Materials (Required)": "Readings will be posted on Canvas",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Culture and Inclusion in Marketing",
+        "course_reference_number": [
+            "21397"
+        ],
+        "course_info": [
+            {
+                "section": "60",
+                "course_name": "Culture and Inclusion in Marketing",
+                "instructors": [
+                    "Danielle Robinson Bell"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danielle Robinson Bell",
+                "Meeting Info": "Online: Wed 6:00PM - 8:00PM",
+                "Overview of class": "Culture and Inclusion in Marketing examines the growing impact of culturally inclusive advertising, branding, communications, and media on business outcomes. This course will feature conceptual foundations anchored in academic research, current marketplace examples, and hands-on skill development and application to deepen students' knowledge of inclusive marketing principles and best practices and develop competency in inclusive marketing content strategy and execution. When possible, industry leaders will be invited to speak to help punctuate lesson topics and discussion.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "552-0",
+        "course_name": "Marketing in the Age of AI",
+        "course_reference_number": [
+            "21399"
+        ],
+        "course_info": [
+            {
+                "section": "40",
+                "course_name": "Marketing in the Age of AI",
+                "instructors": [
+                    "Suraj Rajdev",
+                    "Roy Wollen"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Suraj Rajdev",
+                "Meeting Info": "Online: Mon 6:00PM - 8:00PM",
+                "Overview of class": "Marketing in the Age of AI is a graduate-level course created to help the next generation of marketers as they apply Artificial Intelligence (AI) to solve marketing problems. It is a survey course, and broad in scope, covering a wide range of topics so marketing leaders can train themselves and their teams, and anticipate how AI will disrupt marketing as it evolves.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only Antirequisite: Students cannot concurrently be enrolled in IMC 591-0."
+            }
+        ]
+    },
+    {
+        "course_number": "561-0",
+        "course_name": "Marketing Metrics",
+        "course_reference_number": [
+            "21398"
+        ],
+        "course_info": [
+            {
+                "section": "60",
+                "course_name": "Marketing Metrics",
+                "instructors": [
+                    "Roy Wollen"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Roy Wollen",
+                "Meeting Info": "Online: Thurs 6:00PM - 8:00PM",
+                "Overview of class": "Marketing Metrics delivers an applied understanding of tools, methods and organizational approaches that will let students connect the dots between digital analytics and digital communications strategy, design and delivery. The goal of the course is to give students the capability to lead the evolution of digital marketing practices in their organizations through an understanding of the collection and application of data to solve marketing problems. Students will have exposure to an array of the most current digital analytics tools, and will conduct exercises and engage in discussions that illustrate how data and analytics should ideally shape marketing planning, content strategy, digital design and marketing performance evaluation. The course will cover the collection of data from web, email, social, mobile and paid display media through tagging, testing and survey, and will explore the marketing and business application of this data for performance evaluation, communications planning, design and content development & targeting. The application of marketing analytics in the overall emerging \"big data\" structures in organizations will be explored. The progression toward increasing capabilities for real-time 1:1 marketing through algorithmic targeting and content personalization will also be discussed in this context, as will the ever changing privacy landscape and questions around who \"owns\" consumers' digital data.",
+                "Class Attributes": "Attendance at 1st class mandatory",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only Antirequisite: Students cannot concurrently be enrolled in IMC 598-0."
+            }
+        ]
+    },
+    {
+        "course_number": "599-0",
+        "course_name": "Independent Study",
+        "course_reference_number": [
+            "21396"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Independent Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: IMC Professional Students Only\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

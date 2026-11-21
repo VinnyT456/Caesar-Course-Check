@@ -1,0 +1,150 @@
+[
+    {
+        "course_number": "407-0",
+        "course_name": "Research Data Plan, Collection, and Analysis",
+        "course_reference_number": [
+            "26996"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Research Data Plan, Collection, and Analysis",
+                "instructors": [
+                    "Mark Engberg",
+                    "Gregory Wolniak"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Engberg",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Thurs 6:00PM - 8:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for MS_HE Only"
+            }
+        ]
+    },
+    {
+        "course_number": "465-0",
+        "course_name": "Legal and Ethical Issues in Higher Education",
+        "course_reference_number": [
+            "27005"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Legal and Ethical Issues in Higher Education",
+                "instructors": [
+                    "Daniel Kaufman",
+                    "Karen Courtheoux"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Kaufman",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for MS_HE Only"
+            }
+        ]
+    },
+    {
+        "course_number": "466-0",
+        "course_name": "Finance and Budget in Higher Education",
+        "course_reference_number": [
+            "27008"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Finance and Budget in Higher Education",
+                "instructors": [
+                    "Andrea Conklin Bueschel"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrea Conklin Bueschel",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Wed 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for MS_HE Only"
+            }
+        ]
+    },
+    {
+        "course_number": "477-0",
+        "course_name": "Leadership Development and Coaching for Higher Education Organizations",
+        "course_reference_number": [
+            "27015"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Leadership Development and Coaching for Higher Education Organizations",
+                "instructors": [
+                    "Julie Payne-Kirchmeier",
+                    "Kelly Schaefer"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Julie Payne-Kirchmeier",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Tues 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "485-1",
+        "course_name": "Navigating the Organization and Your Career",
+        "course_reference_number": [
+            "27020"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Navigating the Organization and Your Career",
+                "instructors": [
+                    "Andrea Conklin Bueschel",
+                    "Lauren Faucette"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrea Conklin Bueschel",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Hybrid: Remote component and in-person mtgs"
+            }
+        ]
+    }
+]

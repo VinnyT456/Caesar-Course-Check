@@ -1,0 +1,92 @@
+[
+    {
+        "course_number": "403-DL",
+        "course_name": "Introduction to U.S. Healthcare, Digital Health & Analytics",
+        "course_reference_number": [
+            "20463"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Introduction to U.S. Healthcare, Digital Health & Analytics",
+                "instructors": [
+                    "Imran Khan"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Imran Khan",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "412-DL",
+        "course_name": "Feature Engineering and Unstructured Data",
+        "course_reference_number": [
+            "20464"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Feature Engineering and Unstructured Data",
+                "instructors": [
+                    "Regina M Schwind"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Regina M Schwind",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: MHDS 405"
+            }
+        ]
+    },
+    {
+        "course_number": "422-DL",
+        "course_name": "Practical Machine Learning and AI in Healthcare",
+        "course_reference_number": [
+            "20465"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Practical Machine Learning and AI in Healthcare",
+                "instructors": [
+                    "Lynd Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lynd Bacon",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: MHDS 409"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1451 @@
+[
+    {
+        "course_number": "101-2",
+        "course_name": "Elementary Spanish",
+        "course_reference_number": [
+            "27859",
+            "27860",
+            "27861",
+            "27862",
+            "27863",
+            "27864",
+            "27865",
+            "27866",
+            "27867",
+            "27868",
+            "27869",
+            "27870",
+            "27871"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Raquel Amorese"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Johan R Gotera Osorio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "27",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Heather Colburn"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "29",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Raquel Amorese"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "30",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Heather Colburn"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "31",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Johan R Gotera Osorio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "32",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Johan R Gotera Osorio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "33",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Irene Finestrat Martinez"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "34",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Irene Finestrat Martinez"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "35",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Mauricio Oportus"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "36",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Christian Elias Martinez Arias"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "37",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Gabriel Restrepo Parrado"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "38",
+                "course_name": "Elementary Spanish",
+                "instructors": [
+                    "Mirella Gomes da Silva"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Raquel Amorese\n847/467-7451\n3-530 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Johan R Gotera Osorio",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Heather Colburn\n847/491-8276\n3-538 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Raquel Amorese\n847/467-7451\n3-530 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Heather Colburn\n847/491-8276\n3-538 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Johan R Gotera Osorio",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Johan R Gotera Osorio",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Irene Finestrat Martinez",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Irene Finestrat Martinez",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Mauricio Oportus",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Christian Elias Martinez Arias",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Gabriel Restrepo Parrado",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            },
+            {
+                "Instructors": "Mirella Gomes da Silva\nKresge 3544\nOffice Hours: MWF 11am",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Prerequisite: Spanish 101-1",
+                "Registration Requirements": "Prerequisite: Spanish 101-1\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12-month KWL Hub license available at Norris Bookstore and the official Klett World Languages website.",
+                "Class Notes": "*NOTE: If you have taken any Spanish courses in high school upon entrance to Northwestern University, please take the placement exam online before registering for this course!",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 101-1 or have sufficient placement test score."
+            }
+        ]
+    },
+    {
+        "course_number": "105-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "27941"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "What is it like speaking Spanish in the U.S.? An e",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "César Enrique Hoyos Álvarez"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "What is it like speaking Spanish in the U.S.? An e",
+                "Instructors": "César Enrique Hoyos Álvarez",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "What is it like speaking Spanish in the U.S.? An exploration of language and raciolinguistic ideologies\n\nThis writing seminar examines the intersections between language, identity, race, and power through the lived experiences of Spanish-speaking communities in the United States. Drawing on sociolinguistic and critical perspectives, we will explore how historical, social, and political forces have shaped perceptions of Spanish and its speakers, and how language ideologies are (re)produced and challenged through everyday discourse and institutional practices. Topics include the sociohistorical context of Spanish in the U.S., bilingualism, linguistic discrimination, racialization, language and identity, and inequalities in education.\n\nThroughout the quarter, students will engage critically with academic readings and multimodal materials, including videos, podcasts, and examples of public discourse. Class discussions and collaborative activities will encourage students to examine different scholarly perspectives, question taken-for-granted assumptions about language, and connect theoretical concepts to everyday experiences.\n\nAs a writing seminar, the course emphasizes critical literacy, evidence-based argumentation, and academic writing development. Students will complete two analytical essays: a linguistic autoethnography examining their own language histories and identities, and an argumentative essay investigating language ideologies within their academic fields. They will also collaborate on a linguistic landscape project to examine how languages are represented and valued in public spaces. Writing workshops, peer feedback, and revision will be integrated throughout the quarter to help students develop their analytical skills and academic voice.",
+                "Learning Objectives": "- Critically analyze language ideologies: Identify and critically examine how beliefs about language, race, and identity shape perceptions of Spanish-speaking communities and influence social and institutional practices in the United States.\n\n- Apply sociolinguistic and raciolinguistic perspectives: Use key course concepts to analyze personal linguistic experiences, educational contexts, and representations of language in public spaces, connecting individual experiences to broader historical, social, and political structures.\n\n- Construct evidence-based arguments: Develop clear, organized, and well-supported written arguments by critically evaluating, synthesizing, and integrating evidence from academic readings and other relevant sources.\n\n- Make intentional rhetorical choices: Analyze how authors use language, style, and rhetorical strategies for different audiences and purposes, and apply these insights to develop their own academic writing and voice.\n\n- Engage in writing as a process: Plan, draft, evaluate, and revise academic writing using peer and instructor feedback to strengthen the clarity, organization, and effectiveness of their arguments.\n\n- Collaborative critical inquiry: Engage in constructive academic dialogue by discussing complex ideas, responding to differing perspectives, and providing evidence-based feedback to peers.",
+                "Class Materials (Required)": "Speaking Spanish in the US: The Sociopolitics of Language by Janet M. Fuller, Jennifer Leeman\nhttps://www.multilingual-matters.com/page/detail/Speaking-Spanish-in-the-US/?k=9781788928281\n\nISBN: 9781788928274\n\nAll other materials will be provided for students on Canvas.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "115-1",
+        "course_name": "Accelerated Elementary Spanish",
+        "course_reference_number": [
+            "27888",
+            "27889",
+            "27890",
+            "27891",
+            "27892",
+            "27893",
+            "27894"
+        ],
+        "course_info": [
+            {
+                "section": "23",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "Maria Teresa Villanueva"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "Stephen McNabb"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "27",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "Elisa Baena"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "31",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "Elisa Baena"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "34",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "César Enrique Hoyos Álvarez"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "48",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "Jacob Charles Brown"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "49",
+                "course_name": "Accelerated Elementary Spanish",
+                "instructors": [
+                    "Stephen McNabb"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maria Teresa Villanueva\n847/467-7461\n3-145 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Stephen McNabb",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Elisa Baena\n847/491-8280\n3-532 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Elisa Baena\n847/491-8280\n3-532 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "César Enrique Hoyos Álvarez",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Jacob Charles Brown\n847/491-4389\n3-149 Crowe Hall",
+                "Meeting Info": "Kresge Centennial Hall 2-331: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Stephen McNabb",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. Prerequisite: Spanish Language Placement Exam.",
+                "Registration Requirements": "To enroll in Spanish 115-1, students must place into the course through the Spanish Language Placement Test. Students may not enroll in 115-2 without having completed 115-1.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 1, Barcelona, Difusión, 2020. ISBN: 978-84-18224-00-3. Textbook + 12 months Blinklearning license available at Norris Bookstore.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Sufficient score on the Spanish Language Placement Exam."
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Intermediate Spanish",
+        "course_reference_number": [
+            "27872",
+            "27873",
+            "27874",
+            "27875",
+            "27876",
+            "27877",
+            "27878",
+            "27879",
+            "27880",
+            "27881",
+            "27882",
+            "27883",
+            "27884",
+            "27885",
+            "27886",
+            "27887"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Tasha Ann Seago-Ramaly"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Ana Maria Alejos Rios"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "27",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Julia Oliver Rajan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "28",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Estilita Maria Cassiani Obeso"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "31",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Alba Girons"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "37",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Estilita Maria Cassiani Obeso"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "38",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Marta Agüero Guerra"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "41",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Marta Agüero Guerra"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "45",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Julia Oliver Rajan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "46",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Maria Camila Palacio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "48",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Shannon Millikin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "49",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Alba Girons"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "50",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Shannon Millikin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "51",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Fernando Castro Ortiz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "54",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Maria Camila Palacio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "55",
+                "course_name": "Intermediate Spanish",
+                "instructors": [
+                    "Fernando Castro Ortiz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tasha Ann Seago-Ramaly\n847/467-2612\n3-155 Crowe",
+                "Meeting Info": "Elder Hall 030 Seminar Room: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Ana Maria Alejos Rios",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Julia Oliver Rajan",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Estilita Maria Cassiani Obeso",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Alba Girons",
+                "Meeting Info": "Kresge Centennial Hall 2-331: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Estilita Maria Cassiani Obeso",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Marta Agüero Guerra",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Marta Agüero Guerra",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Julia Oliver Rajan",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Maria Camila Palacio",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Shannon Millikin\n847/467-0227\n3-132 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Alba Girons",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Shannon Millikin\n847/467-0227\n3-132 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Fernando Castro Ortiz",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Maria Camila Palacio",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Fernando Castro Ortiz",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. Prerequisite: 121-1.",
+                "Registration Requirements": "Prerequisite: 121-1\nNo P/N\nAttendance at first class is required.",
+                "Class Materials (Required)": "Contreras, Pérez, and Rosales. Proyectos 2 (ebook or print textbook) + KWL Hub) Barcelona, Difusión, 2020. ISBN: NP12819072580 (e-book+ The KWL Hub) or ISBN: 9788418224010 (print textbook + The KWL Hub)\nTo order your textbook, go to: https://klettwl.com/store/content/northwesternspanish",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed Spanish 121-1, OR receive sufficient score on the Spanish Language Placement Exam."
+            }
+        ]
+    },
+    {
+        "course_number": "200-0",
+        "course_name": "Advanced Spanish for Heritage Learners: Claiming Our Stories",
+        "course_reference_number": [
+            "27938"
+        ],
+        "course_info": [
+            {
+                "section": "22",
+                "course_name": "Advanced Spanish for Heritage Learners: Claiming Our Stories",
+                "instructors": [
+                    "Julia Oliver Rajan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Julia Oliver Rajan",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "This course prepares language students for advanced studies by examining contemporary issues in the Spanish-speaking world and how history shapes the present in Latin America, Spain, and U.S. Latine communities. Students develop critical awareness of bilingualism and strengthen reading and writing skills. This course is for heritage learners, equivalent to SPANISH 201-0 and SPANISH 204-0. Offered in fall and winter. Prerequisite: Spanish heritage learners currently enrolled in or who have taken and passed SPANISH 127-0, OR have an AP score of 4, OR sufficient score on the Spanish Language Placement Exam.",
+                "Registration Requirements": "Prerequisite: Spanish heritage learners currently enrolled in or who have taken and passed SPANISH 127-0, OR have an AP score of 4, OR sufficient score on the Spanish Language Placement Exam.",
+                "Class Materials (Required)": "OER Historias compartidas. Available on Canvas.",
+                "Class Attributes": "U.S. Perspectives on Power, Justice, and Equity\nAttendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Spanish heritage learners currently enrolled in or who have taken and passed Spanish 127, OR have an AP score of 4, OR sufficient score on the Spanish Language Placement Exam.ANTIREQ: SPANISH 200/201."
+            }
+        ]
+    },
+    {
+        "course_number": "201-0",
+        "course_name": "Advanced Spanish I: Contemporary Latin America",
+        "course_reference_number": [
+            "27895",
+            "27896"
+        ],
+        "course_info": [
+            {
+                "section": "24",
+                "course_name": "Advanced Spanish I: Contemporary Latin America",
+                "instructors": [
+                    "Wilmar Lopez-Barrios"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "26",
+                "course_name": "Advanced Spanish I: Contemporary Latin America",
+                "instructors": [
+                    "Wilmar Lopez-Barrios"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wilmar Lopez-Barrios",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Second language learners currently enrolled in or who have taken and passed SPANISH 121-3 or SPANISH 125-0, OR have an AP score of 4, OR sufficient score on the Spanish Language Placement Exam. ANTIREQ: SPANISH 200/201"
+            },
+            {
+                "Instructors": "Wilmar Lopez-Barrios",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Second language learners currently enrolled in or who have taken and passed SPANISH 121-3 or SPANISH 125-0, OR have an AP score of 4, OR sufficient score on the Spanish Language Placement Exam. ANTIREQ: SPANISH 200/201"
+            }
+        ]
+    },
+    {
+        "course_number": "204-0",
+        "course_name": "Advanced Spanish II: Artivism in the Spanish-Speaking World",
+        "course_reference_number": [
+            "27899",
+            "27900",
+            "27901"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Advanced Spanish II: Artivism in the Spanish-Speaking World",
+                "instructors": [
+                    "Denise Bouras"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Advanced Spanish II: Artivism in the Spanish-Speaking World",
+                "instructors": [
+                    "Claudia Quevedo-Webb"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "27",
+                "course_name": "Advanced Spanish II: Artivism in the Spanish-Speaking World",
+                "instructors": [
+                    "Claudia Quevedo-Webb"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Denise Bouras\n847/491-8089\n3-534 Kresge",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "This course is designed to develop all communication modes in Spanish at the advanced-low level of proficiency, through the exploration, interpretation and analysis of multimodal texts centered around socially engaged art. The course will explore the role that the creative arts played in 20th-century Spain and Latin America while connecting these movements to current times. Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam.",
+                "Registration Requirements": "Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam.\n\nThis course is not required for heritage learners.",
+                "Class Materials (Required)": "Course materials available in Canvas.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nAttendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Claudia Quevedo-Webb",
+                "Meeting Info": "Kresge Centennial Hall 2-331: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "This course is designed to develop all communication modes in Spanish at the advanced-low level of proficiency, through the exploration, interpretation and analysis of multimodal texts centered around socially engaged art. The course will explore the role that the creative arts played in 20th-century Spain and Latin America while connecting these movements to current times. Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam.",
+                "Registration Requirements": "Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam.\n\nThis course is not required for heritage learners.",
+                "Class Materials (Required)": "Course materials available in Canvas.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nAttendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam."
+            },
+            {
+                "Instructors": "Claudia Quevedo-Webb",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "This course is designed to develop all communication modes in Spanish at the advanced-low level of proficiency, through the exploration, interpretation and analysis of multimodal texts centered around socially engaged art. The course will explore the role that the creative arts played in 20th-century Spain and Latin America while connecting these movements to current times. Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam.",
+                "Registration Requirements": "Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam.\n\nThis course is not required for heritage learners.",
+                "Class Materials (Required)": "Course materials available in Canvas.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nAttendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Second language learners currently enrolled in or who have passed SPANISH 201-0, OR have an AP score of 5, OR a sufficient score on the Spanish Language Placement Exam."
+            }
+        ]
+    },
+    {
+        "course_number": "205-0",
+        "course_name": "Spanish for Professions: Health Care",
+        "course_reference_number": [
+            "27913"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Spanish for Professions: Health Care",
+                "instructors": [
+                    "Maria Teresa Villanueva"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maria Teresa Villanueva\n847/467-7461\n3-145 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Advanced course to develop communication skills in Spanish for healthcare purposes. Emphasis on language skills for the medical field, specialized terminology and vocabulary, and cultural nuances in the Spanish-speaking world. Prerequisite: Students must currently be enrolled in or have taken and passed SPAN 200-0, SPAN 201-0, OR have an AP score of 5, OR sufficient score on the Spanish Language Placement Exam.",
+                "Registration Requirements": "Prerequisite: Students must currently be enrolled in or have taken and passed SPAN 200-0, SPAN 201-0, OR have an AP score of 5, OR sufficient score on the Spanish Language Placement Exam.\nNo P/N",
+                "Learning Objectives": "Specific Spanish 205-0 Course Goals\n• Further develop communicative and cultural competence within the medical context of the Spanishspeaking\nworld.\n• Ability to utilize problem-solving skills, advocate the communication process, solicit and take down accurate\ninformation while conducting interviews with Spanish speakers.\n• Ability to research and present concrete and factual health topics and/or diseases in formal and informal\nsituations.\n• Expand student's functional vocabulary, in particular, the language and colloquial terms Hispanics use in\nmedical settings.\n• Develop a greater understanding of Hispanic cultural medical practices, the patient-doctor relationship and\ncommon home remedies used to treat illnesses.\n• Gain greater insights of the needs and problems that many Hispanics and health care institutions face due\nto a language barrier.\n\nLearning Outcomes\nBy the end of this course, students will:\n• Handle a variety of communicative tasks using the past, present, and future tenses, as well as complex\ntenses and grammatical structures. Errors rarely interfere with communication.\n• Speak in a natural and continuous speech; use of connectors to link sentences into paragraph-length\ndiscourse.\n• Express and support ideas based on the information studied, as well as to express agreement or\ndisagreement to interlocutor's arguments, and express counter points effectively and persuasively.\n• Have control of common, general vocabulary, and some use of specialized medical terminology.\n• Write work with few errors in agreement, punctuation, etc.\n• Articulate arguments justified with examples, counter-examples, and real information, in formal and\ninformal discourse.",
+                "Evaluation Method": "Preparedness, Attendance & Participation = 15% of final grade\nScripted Video Medical Consultations = 10% of final grade\nIn-Class Quizzes = 15% of final grade\nJournals = 10% of final grade\nRoundtables = 15% of final grade\nFinal (Clinical) Presentation = 15% of final grade\nFinal Mock Medical Consultations and Essay = 20% of final grade",
+                "Class Materials (Required)": "Spanish 205-0 Course Packet (available on Canvas)\nAny additional course materials distributed throughout the quarter.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must currently be enrolled in or have taken and passed SPANISH 200-0 or SPANISH 201-0, OR have an AP score of 5, OR sufficient score on the Spanish Language Placement Exam."
+            }
+        ]
+    },
+    {
+        "course_number": "222-0",
+        "course_name": "The Novel in Latin America: Society, State, Nature (Taught in English)",
+        "course_reference_number": [
+            "27942"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "The Novel in Latin America: Society, State, Nature (Taught in English)",
+                "instructors": [
+                    "Jorge Coronado"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jorge Coronado\n847/491-8277\n3-135 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-319: Mon, Wed 9:00AM - 9:50AM",
+                "Overview of class": "Can novels help us understand what Latin America means now and what it has meant in the past? Can they help us understand what the world beyond the region means? This course will examine the modern Latin American novel in terms of three of its obsessions: society, state, and nature. We will explore canonical—and blockbuster—novels of the so-called Boom period with an eye to their elaborate articulations of the region, its inhabitants and their identities. Beyond proposals of magical realities, we will focus on the ways in which identity becomes a point of resolution and problem for understanding Latin American societies as well as, crucially, grasping the region's place in global history. We will also interrogate the way in which these novels, at times anachronistically, undercut the fixation on identity by introducing doubts concerning nationalism, the individual, class hierarchies, capitalism and, especially, the way in which these have intersected with the state in the region. We will pay special attention to what, if anything, is \"Latin American\" about these novels. Finally, we will read a novel from the same period that, turning away from what one critic has called \"mestizo-criollo-elite\" literary practices, leaves behind simplifying representations of nature as anti-civilization in order to claim the natural broadly conceived as a site of knowledge and epistemology. Importantly, it hinges on the centrality of indigenous peoples and indigeneity not to regional identity but rather to a redefinition of what we understand humanity to be and how it has been defined in Latin American and world history. This course is taught in English.",
+                "Learning Objectives": "• Observe the forms, content, and specificities of the novel in Latin America through the 20th century through practices of close reading and analysis.\n• Develop an understanding of the social, political, and cultural contexts shaping Latin American novels, including issues related to class, identity, nature, society and state.\n• Assess how literature portrays diverse Latin American identities, analyzing the intersections of regional, national, ethnic, class and gendered identities and how they contribute to or challenge cultural unity.\n• Students will produce persuasive interpretations, analyses, and commentaries through class participation and writing assignments. They will also enhance their writing proficiency and refine their skills in interpretation and critique. This will include summarizing, close reading, contextualizing, and synthesizing analyses of course texts in various short writing assignments, culminating in a final exam.",
+                "Evaluation Method": "One Hundred Years of Solitude, Gabriel García Márquez (1967), trans. Gregory Rabasa\nISBN 978-0060883287\n\nPedró Páramo, Juan Rulfo (1955), trans. Douglas Weatherford\nISBN 978-0802160935\n\nThe Hour of the Star, Clarice Lispector (1977) trans. Benjamin Moser\nISBN 978-0811230049\n\nOther course materials will be provided via email.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro",
+                "Associated Classes": "DIS - Kresge Centennial Hall 2-319: Fri 9:00AM - 9:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "251-0",
+        "course_name": "Literature in Spain since 1700",
+        "course_reference_number": [
+            "27897"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Literature in Spain since 1700",
+                "instructors": [
+                    "Miguel Caballero"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Miguel Caballero",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This survey course examines the literature in Spain since the eighteenth to the twenty-first century with a focus on poetry. The study of poetry allows to develop an intimate relation with the language, its grammatical constructions, its meaning-making, and its sound patterns in a creative way. We will identify key literary movements (neoclassicism, Romanticism, realism, modernism, avant-garde, existentialism, and others) and explore canonic and non-canonic authors. We will also explore the parallel socio-political and economic transformations, including the emergence of the construction of a liberal state, the persistence of authoritarianism, colonial and decolonial processes, war and exile, and the integration in the European Union. Students will embark in a poetic journey through the history of modern Spain, will streghen their command of Spanish by looking closely into poetic language. Furthermore, they will explore different methodologies of literary analysis and the technicality of building a poem. Prerequisite: SPANISH 200-0 or SPANISH 204-0 (may be taken concurrently), OR have an AP score of 5 for heritage students, OR an AP of 5 in both the Spanish Language and Literature exams for non-heritage students, OR sufficient score on the Spanish Language Placement Exam.",
+                "Learning Objectives": "1) Learn the literary history of Spain through poetry, from the 18th century to the present through the study of literary theory and close reading practices.\n2) Engage with scholarship describing the historical and contemporary structures, processes, human-environment relationships, and practices that shape literature in Spain.\n3) Gain awareness of the social, political, and cultural factors influencing, and being influenced by, literary expression, the relations between the writer, the state, and the public, and the potentials of literature to challenge or affirm social and cultural norms. We will explore issues including nationality, cultural identity, empire, colonialism, migration, war, democracy, education, and travel.\n4) Explore how literature reveals cultural differences and continuities, serving as both an instrument of power and an instrument of emancipation.\n5) Learn how to question traditional taxonomies and the construction of literary canons and counter-canons.\n6) Produce persuasive interpretations of literary texts through class participation and writing assignments.\n7) Improve their writing skills in Spanish.\n8) Improve their spoken Spanish.\n9) Improve their listening skills in Spanish.\n10) Improve their reading skills in Spanish.",
+                "Class Materials (Required)": "All course materials will be provided on Canvas.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre/Co: SPANISH 200-0 or 204-0 (may be taken concurrently), OR have an AP score of 5 for heritage students, OR an AP of 5 in both the Spanish Language and Literature exams for non-heritage students, OR sufficient Spanish Language Placement Exam score."
+            }
+        ]
+    },
+    {
+        "course_number": "261-0",
+        "course_name": "Literature in Modern Latin America",
+        "course_reference_number": [
+            "27898"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Literature in Modern Latin America",
+                "instructors": [
+                    "Nathalie Bouzaglo"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nathalie Bouzaglo\n847/467-1543\n3-139 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This course provides an overview of some of the major trends in Latin American literatures since 1888, while at the same time offering opportunities to improve students' oral and written Spanish. The course will emphasize various literary styles and ideological constructions that, in different ways, reflect the complexity of Latin American writing. While introducing students to the social and historical context in which the works were written, the course will focus on the following issues: the cultural and political dimensions of literature; the representation of class, gender, and race; the formative impact of nationalism and internationalism; and the concern for finding autochthonous modes of expression. Prerequisites: SPANISH 200-0 or SPANISH 204-0 (may be taken concurrently), OR have an AP score of 5 for heritage students, OR an AP of 5 in both the Spanish Language and Literature exams for non-heritage students, OR sufficient score on the Spanish Language Placement Exam.",
+                "Learning Objectives": "• Observe the forms, genres, and styles of literary expression in Latin America from the end of the 19th century to the present through close reading and analysis.\n• Gain awareness of the social, political, cultural, and historical factors influencing artistic expression, the relations between the artist and the public, and the potential of creative art to challenge or affirm social and cultural norms.\n• Appreciate how literature reveals the differences and diversity, as well as the continuity and unity, of human cultures.\n• Through class participation and writing assignments, produce persuasive interpretation, analysis, and commentary on literature and art, both spoken and written.\n• Develop speaking and writing skills in Spanish and sharpen powers of interpretation, critique, and aesthetic perception through summarizing, close reading, contextualizing, and synthesizing analyses in short writing assignments and a final portfolio.",
+                "Class Materials (Required)": "All course materials will be available in Canvas.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre/Co: SPANISH 200-0 or 204-0 (may be taken concurrently), OR have an AP score of 5 for heritage students, OR an AP of 5 in both the Spanish Language and Literature exams for non-heritage students, OR sufficient Spanish Language Placement Exam score."
+            }
+        ]
+    },
+    {
+        "course_number": "277-0",
+        "course_name": "Introduction to Latinx Literature (Taught in English)",
+        "course_reference_number": [
+            "24697"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Latinx Literature (Taught in English)",
+                "instructors": [
+                    "Mariajose Rodriguez Pliego"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mariajose Rodriguez Pliego",
+                "Meeting Info": "Swift Hall 107: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "In the United States, we often talk about Latinx people using blurry labels. We discuss the Latino vote, the Hispanic population, and the Latinx community. This course explores the nuances of these labels through the stories that Latinx authors have been narrating for the past six decades. As we follow characters through conflicts and inhabit their quotidian lives, we will navigate between the specificity of a story and the complexity of a Latinx identity. Class discussions will study emotional ties to places and languages, feminist thought, and the racial and ethnic diversity within the Latinx community. We will read authors such as Gloria Anzaldúa, Justin Torres, Helena Maria Viramontes, and Yxta Maya Murray.\n\nA one-quarter course cannot do justice to the rich genealogy of Latinx writing. This course follows an illustrative sample of authors from the 1970s onward and focuses on short stories, poetry, and essays. It aims to provide students with a historical, political, and literary foundation for further exploration of Latinx literature.(Taught in English)",
+                "Evaluation Method": "Attendance and participation, papers, creative assignment.",
+                "Class Materials (Required)": "- We the Animals, Justin Torres, 9780547844190\n- God Went Like That, Yxta Maya Murray, 9780810146020",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro",
+                "Associated Classes": "DIS - University Hall 018 English: Fri 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Advanced Grammar",
+        "course_reference_number": [
+            "27916"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Grammar",
+                "instructors": [
+                    "Maria Barros Garcia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maria Barros Garcia\n847/491-8278\n3-117 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "This advanced course aims to strengthen students' linguistic accuracy and proficiency in Spanish through the systematic study and development of Spanish grammar knowledge and skills. Special attention is given to grammatical features that are typically challenging for Spanish learners. Students are expected to incorporate newly acquired knowledge into both oral and written production. Prerequisite: Students must currently be enrolled in or have taken and passed SPANISH 200-0 or SPANISH 204-0, OR have an AP score of 5 for heritage students, OR an AP of 5 in both the Spanish Language and Literature exams for non-heritage students, OR sufficient score on the Spanish Language Placement Exam.",
+                "Registration Requirements": "No P/N\nAttendance at first class is required.",
+                "Learning Objectives": "• Demonstrate an advanced understanding of the functions and nuances of the major parts of speech in Spanish.\n• Explain and accurately apply the principal uses of the subjunctive mood.\n• Distinguish among different types of subordinate clauses.\n• Use definite and indefinite articles, relative pronouns, and prepositions with greater accuracy and sophistication.\n• Analyze and appropriately employ the Spanish past tenses in a variety of contexts.\n• Accurately use non-finite verb forms, including infinitives, gerunds, and participles.",
+                "Class Materials (Required)": "All course materials will be available on Canvas.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Must be enrolled in or have passed SPANISH 200-0 or SPANISH 204-0, have an AP score of 5 for heritage students, an AP of 5 in the Spanish Language and Literature exams for non-heritage students, or Spanish Language Placement Exam score."
+            }
+        ]
+    },
+    {
+        "course_number": "340-0",
+        "course_name": "Colonial Latin American Literature",
+        "course_reference_number": [
+            "27902"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Colonial Latin American Literature",
+                "instructors": [
+                    "Caroline Egan"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Caroline Egan",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0"
+            }
+        ]
+    },
+    {
+        "course_number": "348-0",
+        "course_name": "Readings in Latin American Short Fiction",
+        "course_reference_number": [
+            "27919"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Readings in Latin American Short Fiction",
+                "instructors": [
+                    "S. B. West"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "S. B. West",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Indigenous Writers of Latin America: Short Stories and Legends\n\nThis course explores the rich and vibrant traditions of contemporary Indigenous storytelling and their relationship to the short story genre. We will engage with a diverse array of stories written, told, and performed by Yucatec Maya, Mapuche, Quechua, and other Indigenous authors, situating each work within its own cultural and historical context. Alongside these stories, we will examine scholarship on gender, race, class, and ethnicity to consider how and why Indigenous narratives have often been excluded from, or marginalized within, the Latin American short story tradition. Through this comparative approach, we will explore the ways Indigenous storytellers challenge conventional literary categories and expand our understanding of what constitutes a short story. Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.",
+                "Class Materials (Required)": "Course materials will be provided on Canvas.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0"
+            }
+        ]
+    },
+    {
+        "course_number": "361-0",
+        "course_name": "Latin America: Studies in Culture and Society",
+        "course_reference_number": [
+            "27911"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Women Who Kill: Criminality and Gender in Latin Am",
+                "instructors": [
+                    "Latin America: Studies in Culture and Society",
+                    "Mauricio Oportus"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Women Who Kill: Criminality and Gender in Latin Am",
+                "Instructors": "Mauricio Oportus",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Women Who Kill: Criminality and Gender in Latin American Culture\n\nIn Women Who Kill: Criminality and Gender in Latin American Culture, we will confront the unsettling figure of the woman who kills—whether she murders, is murdered, or turns violence upon herself—as a mirror through which Latin American culture reveals its deepest anxieties about law, justice, and gender. What does it mean for a woman to kill in a world where the law, medicine, and literature have long defined her as victim, patient, or saint? How do acts of female violence—real or symbolic—unsettle social order and expose the patriarchal structures that sustain it?\nSpanning from the late 19th century to the present, this course examines how literature and film transform women's transgression into a space for reimagining justice, power, and representation. By tracing stories of real and fictional women who kill, we will interrogate the fragile boundaries between justice and vengeance, sanity and hysteria, the private and the public—rethinking how gender and law shape one another within cultural discourse. Readings will include works by Juana Manuela Gorriti, Emilia Pardo Bazán, Jorge Luis Borges, Roberto Bolaño, Mariana Enriquez, Ariel Dorfman, and Alia Trabucco Zerán. Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.",
+                "Learning Objectives": "This course aims to develop a critical understanding of how women who kill are represented in Latin American literature and culture, tracing these portrayals from the 19th century to today. Students will explore the intersections of gender, law, and justice, analyzing how female criminality challenges and reshapes social norms, legal frameworks, and cultural narratives. Through close engagement with diverse texts—including literature and film—students will deepen their ability to interpret themes related to gendered violence, power, and resistance within historical and political contexts. Additionally, the course fosters skills in critical discussion and collaborative analysis, encouraging students to articulate their insights both orally and in creative group projects that integrate digital media tools.",
+                "Class Materials (Required)": "All course materials will be available on Canvas.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0."
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Topics in Film in Latin America and/or Spain",
+        "course_reference_number": [
+            "27903"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Dystopian Latin America: Literature and Film after",
+                "instructors": [
+                    "Topics in Film in Latin America and/or Spain",
+                    "Gabriel Restrepo Parrado"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Dystopian Latin America: Literature and Film after",
+                "Instructors": "Gabriel Restrepo Parrado",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Dystopian Latin America: Literature and Film after 1990\n\nDystopia is everywhere. From Marvel blockbusters to daily headlines warning of ecological collapse driven by extractive industries, we are constantly exposed to dire visions of the future. In Latin America, dystopia has long been more than a spectacle of catastrophe; it is a sharp critique of the present that still holds onto utopian hope, that is, the belief that collective resistance can avert disaster and imagine better worlds. Latin American dystopias channel anxieties born of histories of authoritarianism, racial violence, and environmental devastation, while protesting against futures of dispossession. This course offers an overview of dystopian imaginaries across Latin America through short stories, films and TV series. We will explore ecological, political, and racial dystopias to understand how these narratives articulate our deepest fears and anxieties, but also how they gesture toward alternatives rooted in communal memory, solidarity, and imagination. Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.",
+                "Learning Objectives": "• Familiarize yourself with different definitions and expressions of dystopia.\n• Compare how dystopias articulate present anxieties in different parts of Latin America.\n• Identify the tools dystopias offer to creatively think about how to prevent future crises.\n• Develop the ability to close read literary and cinematic texts",
+                "Class Materials (Required)": "S. Schweblin, Distancia de Rescate (2014). ISBN: 978-6073851015 (Kindle or paperback)\n\nAll other materials will be available on Canvas.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0."
+            }
+        ]
+    }
+]

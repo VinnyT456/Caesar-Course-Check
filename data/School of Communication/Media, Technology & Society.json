@@ -1,0 +1,124 @@
+[
+    {
+        "course_number": "503-0",
+        "course_name": "The Practice of Scholarship",
+        "course_reference_number": [
+            "24526"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Practice of Scholarship",
+                "instructors": [
+                    "Calvin Liang"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Calvin Liang",
+                "Meeting Info": "Frances Searle Building 2107: Wed 2:00PM - 4:50PM",
+                "Overview of class": "This course is a study of basic protocols of scholarly research and writing in the social sciences. Course work is focused on bringing a research project to the point at which an article is ready (or nearly so) for submission to a conference or a publication.",
+                "Class Attributes": "PhD Course\nGraduate Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "525-0",
+        "course_name": "Special Topics Research Seminar",
+        "course_reference_number": [
+            "24454",
+            "24455",
+            "24456",
+            "24457"
+        ],
+        "course_info": [
+            {
+                "section": "11",
+                "course_name": "Network Science for Sociotechnical Systems",
+                "instructors": [
+                    "Special Topics Research Seminar",
+                    "Agnes Horvat"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "12",
+                "course_name": "Intersectionality & New Media",
+                "instructors": [
+                    "Special Topics Research Seminar",
+                    "Aymar Jean Escoffery"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "13",
+                "course_name": "Theory Building in the Social Sciences",
+                "instructors": [
+                    "Special Topics Research Seminar",
+                    "Erik C Nisbet"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "14",
+                "course_name": "Stirring Up Sh*t in the Field of Communication",
+                "instructors": [
+                    "Special Topics Research Seminar",
+                    "Nathan Walter"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Network Science for Sociotechnical Systems",
+                "Instructors": "Agnes Horvat",
+                "Meeting Info": "Annenberg Hall G28: Thurs 9:30AM - 12:20PM",
+                "Class Attributes": "PhD Course\nGraduate Students Only"
+            },
+            {
+                "Topic": "Intersectionality & New Media",
+                "Instructors": "Aymar Jean Escoffery",
+                "Meeting Info": "Frances Searle 1180-Dean Conf: Tues 2:00PM - 4:50PM",
+                "Overview of class": "How do sexuality, race, gender, and class shape new media? This course explores the role of intersectional identity in technological transformations in media, focusing on the transition from analog to digital. Students will read historical case studies and theoretical essays on such topics as how social media affect how queer users interact and self-identify and how race influences cable TV distribution. The course is organized into three key areas of inquiry -- culture, organization, and technology -- with the goal of understanding the complex ways they interrelate. It is rooted in black feminism and queer of color critique but introduces a range of epistemologies. It focuses on visual media - art, television, film, games, social media, and AI.",
+                "Class Attributes": "PhD Course\nGraduate Students Only"
+            },
+            {
+                "Topic": "Theory Building in the Social Sciences",
+                "Instructors": "Erik C Nisbet",
+                "Meeting Info": "Technological Institute LG62: Wed 9:30AM - 12:20PM",
+                "Overview of class": "This theory construction course is intended for doctoral students who engage in scholarship from a social science perspective and further their development as a social scientist. This course explores the combination of intellectual rigor and creativity in social science theory development that is the hallmark of good social science. The class will begin laying a conceptual foundation regarding social science theory and theory development. Subsequent weeks will combine discussion of readings with brief updates by students about their progress in their efforts at original theory development. Lecture will be kept to a minimum as one learns to think about theory by actively thinking about and discussing theory and theory-building. Therefore, this class will have a strong \"workshop\" element, with students developing their ideas in an intellectual community with feedback from fellow students as well as from their mentors and instructor.",
+                "Class Attributes": "PhD Course\nGraduate Students Only"
+            },
+            {
+                "Topic": "Stirring Up Sh*t in the Field of Communication",
+                "Instructors": "Nathan Walter",
+                "Meeting Info": "Abbott 1518: Fri 9:00AM - 11:50AM",
+                "Overview of class": "The goal of this course is to improve students' critical engagement with key findings, theories, perspectives, and moments throughout the history of communication research. In order to achieve this goal, we will center our discussions on controversies, provocations, and polemics that came to define the field of communication. From the collision between administrative and critical research and the debate surrounding the effects of violent video games on aggression, to competing interpretations of cultivation and two-step flow data, calls to retire certain theories and concepts, disagreements between proponents and opponents of open science practices, and, most recently, the remarkably calm and measured scholarly discussion over whether artificial intelligence will improve human life, destroy human relationships, eliminate our jobs, save our jobs, make us smarter, or make us stupider, the course treats disagreement as a central feature of how scholarship develops. As such, this course provides a unique perspective on the history, present, and future of the field while demonstrating several effective approaches for navigating scholarly disagreements.",
+                "Class Attributes": "PhD Course\nGraduate Students Only"
+            }
+        ]
+    }
+]

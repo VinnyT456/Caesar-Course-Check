@@ -1,0 +1,122 @@
+[
+    {
+        "course_number": "131-CN",
+        "course_name": "Fundamentals of Chemistry I",
+        "course_reference_number": [
+            "20544"
+        ],
+        "course_info": [
+            {
+                "section": "65",
+                "course_name": "Fundamentals of Chemistry I",
+                "instructors": [
+                    "Ryan Bethel"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ryan Bethel",
+                "Meeting Info": "Tech Institute Lecture Room 4: Wed 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Req: Students must also register for CHEM 141-CN. Add both classes (CHEM 141-CN & 131-CN) to the shopping cart and submit together for successful registration. Pre-Req: CHEM 110-CN Co-Req: Students must also register for CHEM 141-CN. Add both classes (CHEM 141-CN & 131-CN) to the shopping cart and submit together for successful registration. Pre-Req: CHEM 110-CN"
+            }
+        ]
+    },
+    {
+        "course_number": "141-CN",
+        "course_name": "Fundamentals of Chemistry Laboratory I",
+        "course_reference_number": [
+            "20545"
+        ],
+        "course_info": [
+            {
+                "section": "100",
+                "course_name": "Fundamentals of Chemistry Laboratory I",
+                "instructors": [
+                    "Dylan Bardgett"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dylan Bardgett",
+                "Meeting Info": "Tech Institute Lecture Room 4: Sa 9:00AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Req.: Students must also register for CHEM 131-CN. Add both classes (CHEM 131-CN & 141-CN) to the shopping cart and submit together for successful registration. Pre-Requisite: CHEM 110-CN Co-Req.: Students must also register for CHEM 131-CN. Add both classes (CHEM 131-CN & 141-CN) to the shopping cart and submit together for successful registration. Pre-Requisite: CHEM 110-CN"
+            }
+        ]
+    },
+    {
+        "course_number": "215-B",
+        "course_name": "Organic Chemistry II",
+        "course_reference_number": [
+            "20565"
+        ],
+        "course_info": [
+            {
+                "section": "65",
+                "course_name": "Organic Chemistry II",
+                "instructors": [
+                    "Derek Nelson"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Derek Nelson",
+                "Meeting Info": "Tech Institute Lecture Room 5: Wed 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req.: CHEM 215-A"
+            }
+        ]
+    },
+    {
+        "course_number": "235-B",
+        "course_name": "Organic Chemistry Lab II",
+        "course_reference_number": [
+            "20566"
+        ],
+        "course_info": [
+            {
+                "section": "100",
+                "course_name": "Organic Chemistry Lab II",
+                "instructors": [
+                    "Mohammad Shehab"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "1:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mohammad Shehab",
+                "Meeting Info": "Tech Institute Lecture Room 5: Sa 9:00AM - 1:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: CHEM 215-A"
+            }
+        ]
+    }
+]

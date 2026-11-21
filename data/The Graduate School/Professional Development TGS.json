@@ -1,0 +1,28 @@
+[
+    {
+        "course_number": "572-0",
+        "course_name": "Course Design & Assessment",
+        "course_reference_number": [
+            "22795"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Course Design & Assessment",
+                "instructors": [
+                    "Greg Siering"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Greg Siering",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

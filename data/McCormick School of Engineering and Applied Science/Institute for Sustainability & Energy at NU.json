@@ -1,0 +1,248 @@
+[
+    {
+        "course_number": "401-0",
+        "course_name": "History & Politics of Resource Innovation",
+        "course_reference_number": [
+            "21350"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "History & Politics of Resource Innovation",
+                "instructors": [
+                    "Mark Lillie"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Lillie",
+                "Meeting Info": "Frances Searle Building 2107: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Restricted to Students in Program Only",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the MS Energy and Sustainability program."
+            }
+        ]
+    },
+    {
+        "course_number": "404-0",
+        "course_name": "Resource Markets Design, Regulation and Reform",
+        "course_reference_number": [
+            "21347"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Resource Markets Design, Regulation and Reform",
+                "instructors": [
+                    "Mark J Pruitt"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark J Pruitt",
+                "Meeting Info": "Technological Institute M164: Thurs 9:00AM - 10:20AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Restricted to Students in Program Only",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the MS Energy and Sustainability program.",
+                "Associated Classes": "DIS - Annenberg Hall G01: Thurs 10:30AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Carbon Accounting and Corporate Sustainability Reporting",
+        "course_reference_number": [
+            "21353"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Carbon Accounting and Corporate Sustainability Reporting",
+                "instructors": [
+                    "Alexander Polzin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alexander Polzin",
+                "Meeting Info": "555 Clark B03: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Restricted to Students in Program Only",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the MS Energy and Sustainability program."
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Electrify Everything: Beneficial Electrification, EVs and Beyond",
+        "course_reference_number": [
+            "21352"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Electrify Everything: Beneficial Electrification, EVs and Beyond",
+                "instructors": [
+                    "Holland Troy"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Holland Troy",
+                "Meeting Info": "Technological Institute L160: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open to students in the program, all other grad students by permission. Please see notes for link to google form."
+            }
+        ]
+    },
+    {
+        "course_number": "440-0",
+        "course_name": "Energy Project Finance and Development",
+        "course_reference_number": [
+            "21341"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Energy Project Finance and Development",
+                "instructors": [
+                    "Christopher Moscardelli",
+                    "Alison Gilbert"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Moscardelli",
+                "Meeting Info": "Locy Hall 214: Wed 1:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open to students in the program, all other grad students by permission. Please see notes for link to google form."
+            }
+        ]
+    },
+    {
+        "course_number": "463-0",
+        "course_name": "Circular Economy: Restorative and Regenerative System by Design",
+        "course_reference_number": [
+            "21351"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Circular Economy: Restorative and Regenerative System by Design",
+                "instructors": [
+                    "Jenny Carney"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jenny Carney",
+                "Meeting Info": "Technological Institute L160: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open to students in the program, all other grad students by permission. Please see notes for link to google form."
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Topics in Energy and Sustainability",
+        "course_reference_number": [
+            "21345"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Industrl Energy Mgmt & Utiliz",
+                "instructors": [
+                    "Special Topics in Energy and Sustainability",
+                    "Manohar Kulkarni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Industrl Energy Mgmt & Utiliz",
+                "Instructors": "Manohar Kulkarni\n847/467-6741\nTechnological Institute, Rm B290, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M177: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open to students in the program, all other grad students by permission. Please see notes for link to google form."
+            }
+        ]
+    },
+    {
+        "course_number": "497-1",
+        "course_name": "Strategy and Project Management Fundamentals (for MSES Practicum)",
+        "course_reference_number": [
+            "21354"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Strategy and Project Management Fundamentals (for MSES Practicum)",
+                "instructors": [
+                    "Holland Troy"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Holland Troy",
+                "Meeting Info": "Technological Institute L211: Tues 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Restricted to Students in Program Only",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the MS Energy and Sustainability program."
+            }
+        ]
+    }
+]

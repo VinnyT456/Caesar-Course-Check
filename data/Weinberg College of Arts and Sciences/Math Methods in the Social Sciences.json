@@ -1,0 +1,99 @@
+[
+    {
+        "course_number": "211-2",
+        "course_name": "Social Science Theories & Meth-First Yr",
+        "course_reference_number": [
+            "28196"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Social Science Theories & Meth-First Yr",
+                "instructors": [
+                    "William Rogerson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "William Rogerson",
+                "Meeting Info": "555 Clark B01: Mon, Wed, Fri 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only"
+            }
+        ]
+    },
+    {
+        "course_number": "311-1",
+        "course_name": "Social Science Theories & Meth-2nd Yr",
+        "course_reference_number": [
+            "28197"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Game theory",
+                "instructors": [
+                    "Social Science Theories & Meth-2nd Yr",
+                    "Jeffrey Ely"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Game theory",
+                "Instructors": "Jeffrey Ely",
+                "Meeting Info": "555 Clark B03: Mon, Wed, Fri 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only"
+            }
+        ]
+    },
+    {
+        "course_number": "398-2",
+        "course_name": "Senior Seminar",
+        "course_reference_number": [
+            "28198"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Senior Seminar",
+                "instructors": [
+                    "Gaston Illanes"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gaston Illanes",
+                "Meeting Info": "555 Clark B01: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Advanced Expression",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only"
+            }
+        ]
+    }
+]

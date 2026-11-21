@@ -1,0 +1,63 @@
+[
+    {
+        "course_number": "100-DL",
+        "course_name": "Quantitative Reasoning",
+        "course_reference_number": [
+            "20568"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Quantitative Reasoning",
+                "instructors": [
+                    "Noah Riggenbach"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Noah Riggenbach",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Analysis of real-life problems from a quantitative perspective. Students develop skills in estimation, financial literacy, probability, and statistics. Focus on the organization of complex ideas into simple, quantifiable parts.\n\nThis course is conducted completely online. A technology fee will be added to tuition.\n\nCarries science distribution credit for BSGS, BPhil, or BPhilComm degrees; Scientific Inquiry and Quantitative Reasoning distribution credit for online Bachelor of Science degrees.",
+                "Registration Requirements": "None.",
+                "Learning Objectives": "By the end of this course, you will be able to:\n\nSolve problems involving calculation or estimation of quantities by separating the problem into smaller components and developing a strategy for approaching each component.\nClearly write down assumptions made and known quantities used when calculating or estimating an unknown amount.\nOrganize your thoughts and work when estimating quantities in a way that allows you to refine your initial calculation to arrive at a more precise answer.\nApply relevant vocabulary and mathematical methods to ask and answer basic questions dealing with finance.\nInterpret real-world statements involving probability and statistics.\nApply techniques of unit conversion to visualize and understand data involving units of measure.\nMake basic computations involving probability and statistics.\nIdentify the benefits and drawbacks of analyzing a situation in purely mathematical terms.",
+                "Class Materials (Required)": "Your textbook will be Quantitative Reasoning: Thinking in Numbers (2020), by Eric Zaslow.",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "220-B",
+        "course_name": "Single-Variable Integral Calculus",
+        "course_reference_number": [
+            "20551"
+        ],
+        "course_info": [
+            {
+                "section": "64",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Amy Alznauer"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Amy Alznauer",
+                "Meeting Info": "Lunt Hall 107: Tues 6:15PM - 9:15PM",
+                "Overview of class": "This course covers the following: definite integrals, antiderivatives, and the fundamental theorem of calculus; transcendental and inverse functions; areas and volumes; techniques of integration, numerical integration, and improper integrals; first-order linear and separable ordinary differential equations.",
+                "Registration Requirements": "Prerequisite: MATH 220-A.",
+                "Class Materials (Required)": "Your calculus course requires access to MyLab Math (also called MyMathLab). MyLab Math is an online platform that serves as an electronic textbook, an enrichment resource, and a homework portal. MyLab Math includes access to an electronic copy of the textbook; you do not need to purchase a paper copy of the book. You can acquire the course materials in several ways: MyLab Math Only - Direct Purchase MyLab Math access directly from the publisher (Pearson) after setting up your account using instructions provided on the course Canvas site. This should cost $80 (+ tax). MyLab Math Only - Bookstore Purchase MyLab Math access from the Northwestern Bookstore, and then set up your account using instructions provided on the course Canvas site. This should cost $106.65 (+ tax). MyLab Math and Looseleaf Book Bundle Purchase access to MyLab Math bundled with a looseleaf copy of the textbook from the Northwestern Bookstore, and then set up your account using instructions provided on the course Canvas site. This should cost $146.65 (+ tax). MyLab Math Only and Used Book Purchase access to MyLab Math using one of the first two options above (setting up your account using instructions provided on the course Canvas site), and acquire a used copy of the book separately. IMPORTANT: MyLab Math access codes from any source other than Pearson (following the instructions provided on the course Canvas Site) or the Northwestern Bookstore will not work. The access you purchase for your course can be used across multiple quarters of calculus courses at Northwestern that use the same textbook (MATH 220-A, 220-B, 226-CN, 230-A, 230-B).",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    }
+]

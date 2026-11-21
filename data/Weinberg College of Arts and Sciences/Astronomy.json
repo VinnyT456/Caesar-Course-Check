@@ -1,0 +1,471 @@
+[
+    {
+        "course_number": "101-0",
+        "course_name": "Modern Cosmology",
+        "course_reference_number": [
+            "27028"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Modern Cosmology",
+                "instructors": [
+                    "Michael Smutko"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Smutko\n847/491-4568\nDearborn Observatory (2131 Tech Drive), Room 9A, Evanston",
+                "Meeting Info": "Tech Institute Lecture Room 2: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "The modern Big Bang perspective on the origin, structure, evolution, and fate of the universe. Topics to be discussed include the extragalactic distance scale, the Hubble expansion, the large-scale clustering of galaxies, cosmic inflation and the early universe, Big Bang nucleosynthesis, the cosmic microwave background radiation, dark matter, dark energy, and the recent evidence for acceleration in the expansion of the universe. This WCAS FD-NS course (formerly called Area 1) is designed for non-science majors, but all are welcome",
+                "Registration Requirements": "WCAS Natural Science foundational discipline (FD-NS) course\nNo prerequisites",
+                "Evaluation Method": "Three quizzes\nTwo midterm exams and a cumulative final exam",
+                "Class Materials (Required)": "1) Singh, \"Big Bang\" 4th Estate/Harper Collins\n2004, ISBN 0-00-716220-0\n\n2) Fraknoi, Morrison, & Wolff, \"Astronomy\"\nOpenStax Astronomy 2e\nhttps://openstax.org/details/books/astronomy-2e (FREE!)\nISBN-13: 978-1-951693-50-3",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "105-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "27302"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "First-Year Writing Seminar",
+                "instructors": [
+                    "Melville Ulmer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melville Ulmer\n847/491-5633\nDearborn Observatory (2131 Tech Drive), Room 3B, Evanston\nOffice Hours: M, W, F 3:00-4:00pm (but call ahead for exceptions or if you can't make those times).",
+                "Meeting Info": "Dearborn Observatory 23: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "We will discuss a book in class, with one discussion leader assigned to each meeting, which will be held twice a week. The book is written for non-experts interested in the topic of cosmology.\n\nThe book approaches cosmology from a historical perspective and demonstrates how, time after time, previously accepted worldviews were proven incorrect. Today, on the one hand, cosmologists have developed a model that fits together beautifully. On the other hand, its agreement with observations depends on invoking Dark Energy and Dark Matter, neither of which has been verified in a laboratory. The book asks the question: \"Based on history, are we sure we have the correct model now?\"\n\nThe alternative theory proposed by the author is too complex for this course and is therefore replaced with a set of recent articles written for non-experts. These additional articles challenge the book's theme that astronomers today have completely accepted the so-called concordance model of cosmology, which includes Dark Energy and Dark Matter.\n\nIn addition to being a useful resource for learning basic astronomy and cosmology, the book demonstrates, by example, how to analyze cosmological models and is therefore an excellent resource for developing critical-thinking skills.\n\nThe book is: Facts and Speculations in Cosmology by Jayant Narlikar.",
+                "Evaluation Method": "Students will write three original papers based on the book readings. Paper 3 should be written specifically to address the WCAS Writing Place Rubrics. An additional graded assignment will be a revision of either Paper 1 or Paper 2.\n\nStudents will also be required to give a 10-minute presentation at the end of the quarter based on the paper of their choice. This presentation will be graded.",
+                "Class Materials (Required)": "\"Facts and Speculations in Cosmology\" by Jayant Narlikar, ISBN-10: 0521865042",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "314-0",
+        "course_name": "Planetary Astrophysics",
+        "course_reference_number": [
+            "27299"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Planetary Astrophysics",
+                "instructors": [
+                    "Jason Wang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Wang",
+                "Meeting Info": "Technological Institute L168: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This course is an introduction to planets and planetary systems. We will learn about the structure, origin, and evolution of planets---including both the planets in the Solar System and the many recently discovered extrasolar planets.",
+                "Registration Requirements": "The course is intended for advanced undergraduates and graduate students. Students are expected to have taken year-long courses in calculus and physics. Classical Mechanics at the level of Physics 330-1,2 is strongly encouraged. Students should also know a bit of computer programming, or be prepared to learn.",
+                "Learning Objectives": "-The dynamical processes through which planets form and evolve\n-The physics of planetary atmospheres and interiors\n-The techniques to detect and characterize other worlds, including the search for life",
+                "Teaching Method": "Lectures and assignments",
+                "Evaluation Method": "Evaluation will be based on assignments, class participation, and exams",
+                "Class Materials (Required)": "None.",
+                "Class Materials (Suggested)": "Fundamental Planetary Science: Physics, Chemistry and Habitability by J. J. Lissauer & I. de Pater (2019). Publisher: Cambridge U. Press. ISBN: 9781108411981 Please use the latest edition.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "325-0",
+        "course_name": "Stellar Astrophysics",
+        "course_reference_number": [
+            "27058"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Stellar Astrophysics",
+                "instructors": [
+                    "Wen-fai Fong"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wen-fai Fong",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course explores the underlying physical processes at play during the lives and deaths of stars. Basic principles and mathematical theory that govern the interiors, atmospheres and evolution of stars will be presented. Topics to be covered include pre-main sequence evolution, main sequence evolution, red giant and asymptotic branch phases, and white dwarfs and neutron stars.",
+                "Registration Requirements": "Prerequisite: ASTRON 220-1 or 220-2.",
+                "Teaching Method": "Lecture and small discussion-based.",
+                "Evaluation Method": "Homework, participation, and a final project",
+                "Class Materials (Required)": "Stars and Stellar Processes\nMike Guidry\nISBN-10: 1107197880\nISBN-13: 978-1107197886\n\nhttps://www.amazon.com/Stars-Stellar-Processes-Mike-Guidry/dp/1107197880/",
+                "Class Notes": "Undergraduate pre-requisites are enforced. Please contact Adrienne Mintz (adrienne.mintz@northwestern.edu) to request a permission number after you've spoken to the professor if you don't have those pre-requisites.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: Students must have taken ASTRON 220-1 or ASTRON 220-2 to successfully enroll in this course."
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Honors Independent Study",
+        "course_reference_number": [
+            "27029",
+            "27030",
+            "27031",
+            "27032",
+            "27033",
+            "27034",
+            "27035",
+            "27036",
+            "27037",
+            "27038",
+            "27039",
+            "27040",
+            "27041",
+            "27042"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Claude-Andre Faucher-Giguere"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "22",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Wen-fai Fong"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "24",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Vicky Kalogera"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Yoram Lithwick"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "35",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Adam A Miller"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "38",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Elena Murchikova"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "40",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Giles Novak"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "55",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Frederic Rasio"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "57",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Allison Strom"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "59",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Sasha Tchekhovskoy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "60",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Melville Ulmer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "70",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Jason Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "80",
+                "course_name": "Honors Independent Study",
+                "instructors": [
+                    "Farhad Zadeh"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "90",
+                "course_name": "Honors Independent Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Claude-Andre Faucher-Giguere\nTech F243",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Wen-fai Fong",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Vicky Kalogera\n847/491-5669\nTechnological Institute Building (2145 Sheridan Road), Room F-234, Evanston\nOffice Hours: By Appointment (e-mail anytime)",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Yoram Lithwick\n2145 Sheridan Road, Tech- T-239, Evanston, IL 60208",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Adam A Miller",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Elena Murchikova",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Giles Novak\n847/491-8645\nTechnological Institute (2145 Sheridan Road), Room F253, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Frederic Rasio\n847/491-7904\nTechnological Institute (2145 Sheridan Road), Room F-213, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Allison Strom",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sasha Tchekhovskoy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Melville Ulmer\n847/491-5633\nDearborn Observatory (2131 Tech Drive), Room 3B, Evanston\nOffice Hours: M, W, F 3:00-4:00pm (but call ahead for exceptions or if you can't make those times).",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Jason Wang",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Farhad Zadeh\n847/491-8147\nTechnological Institute Building (2145 Sheridan Road), Room F-215, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-0",
+        "course_name": "Planetary Astrophysics",
+        "course_reference_number": [
+            "27300"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Planetary Astrophysics",
+                "instructors": [
+                    "Jason Wang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Wang",
+                "Meeting Info": "Technological Institute L168: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This course is an introduction to planets and planetary systems. We will learn about the structure, origin, and evolution of planets---including both the planets in the Solar System and the many recently discovered extrasolar planets.",
+                "Registration Requirements": "The course is intended for advanced undergraduates and graduate students. Students are expected to have taken year-long courses in calculus and physics. Classical Mechanics at the level of Physics 330-1,2 is strongly encouraged. Students should also know a bit of computer programming, or be prepared to learn.",
+                "Learning Objectives": "•The dynamical processes through which planets form and evolve\n•The physics of planetary atmospheres and interiors\n•The techniques to detect and characterize other worlds, including the search for life",
+                "Teaching Method": "Lectures and assignments",
+                "Evaluation Method": "Evaluation will be based on assignments, class participation, and exams",
+                "Class Materials (Suggested)": "Fundamental Planetary Science: Physics, Chemistry and Habitability by Jack J. Lissauer (2019)\nhttps://www.cambridge.org/highereducation/books/fundamental-planetary-science/8FD11659BE64C35A172DF0432D7FCFA4#overview"
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Stellar Astrophysics",
+        "course_reference_number": [
+            "27057"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Stellar Astrophysics",
+                "instructors": [
+                    "Wen-fai Fong"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wen-fai Fong",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course explores the underlying physical processes at play during the lives and deaths of stars. Basic principles and mathematical theory that govern the interiors, atmospheres and evolution of stars will be presented. Topics to be covered include pre-main sequence evolution, main sequence evolution, red giant and asymptotic branch phases, and white dwarfs and neutron stars.",
+                "Teaching Method": "Lecture and small discussion-based",
+                "Evaluation Method": "Homework, participation, and a final project.",
+                "Class Materials (Required)": "Stars and Stellar Processes\nMike Guidry\nISBN-10: 1107197880\nISBN-13: 978-1107197886\n\nhttps://www.amazon.com/Stars-Stellar-Processes-Mike-Guidry/dp/1107197880/",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "448-0",
+        "course_name": "Interstellar Matter and Star Formation",
+        "course_reference_number": [
+            "27059"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Interstellar Matter and Star Formation",
+                "instructors": [
+                    "Giles Novak"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Giles Novak\n847/491-8645\nTechnological Institute (2145 Sheridan Road), Room F253, Evanston",
+                "Meeting Info": "Parkes Hall 212: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "The class aims to provide insight into how processes involving interstellar and intergalactic gas and dust are treated, including interpreting absorption and emission lines, absorption and emission by dust, continuum radio emission, interstellar magnetic fields, supernova remnants, and formation of stars and planets in molecular clouds. A key component of the class is the independent research project, for which students work in small groups to apply concepts and techniques learned to topics that relate to their anticipated Ph.D. research areas.",
+                "Registration Requirements": "ASTRON 425 or permission of instructor.",
+                "Teaching Method": "Several class meetings per week, problem sets, and independent research project.",
+                "Evaluation Method": "Class participation, problem sets, and the independent research project which includes both a written report and a class presentation near the end of the quarter.",
+                "Class Materials (Required)": "Physics of the Interstellar and Intergalactic Medium\nby Bruce T. Draine\nPrinceton University Press\nISBN: 9780691122144\n\nPrevious Editions: Not applicable\nOnline/eBook available: Yes\nPrice Range: $74-$122\nOther Purchases: None"
+            }
+        ]
+    }
+]

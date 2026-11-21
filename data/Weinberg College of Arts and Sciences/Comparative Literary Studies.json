@@ -1,0 +1,722 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "24060"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Making of Modern Tragedy",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Sophia Robbins Elzie"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Making of Modern Tragedy",
+                "Instructors": "Sophia Robbins Elzie",
+                "Meeting Info": "Willard Hall B72: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "A mother who murders her children. A young woman condemned to death by her future father-in-law for burying her brother. Displaced by war, women gather to learn their fates. These are not newspaper headlines: they are the plots of Greek tragedies, dating back to Athens in the fifth century BCE. But what happens to these stories when they are retold by contemporary playwrights, authors, and filmmakers? How do they redefine tragedy in the 21st century? In this course, you will develop your writing skills through a wide-ranging exploration of what we mean when we classify a work of literature as a \"tragedy.\"",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "200-0",
+        "course_name": "Introduction to Literary Theory",
+        "course_reference_number": [
+            "24059"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "What is Comp Lit?",
+                "instructors": [
+                    "Introduction to Literary Theory",
+                    "Alejandra Uslenghi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "What is Comp Lit?",
+                "Instructors": "Alejandra Uslenghi\n847/467-1713\n3-113 Crowe",
+                "Meeting Info": "Kresge Centennial Hall 2-435: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "What is Comparative Literature? How do we compare literary traditions?\n\nIn this class we explore the foundational questions of Comp Lit as a field of inquiry as well as a methodology for literary analysis. We read and discuss literary theory as a framework to develop answers to: What is Fiction? And how literary prose is different from other forms of narrative? How we move from a text in one \"original\" language to read its translation in another? How we traverse and cross the boundaries of languages and literature traditions?\n\nWe explore the ways in which we move beyond boundaries — in languages, time period, regions, art forms and disciplinary discourses— when reading literature across these differences. We reflect on how our imaginaries about the World or the Nation are informed by these cultural boundaries.\n\nWe explore the very definition of aesthetic experience and aesthetic forms as Humanist modes of knowledge, building on a critical vocabulary borrow from philosophical reflections that are anchored in our contemporary perspectives.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "201-0",
+        "course_name": "Reading World Literature",
+        "course_reference_number": [
+            "24835",
+            "24054"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to German Literature: 1766-2019",
+                "instructors": [
+                    "Reading World Literature",
+                    "Erica Weitzman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "20",
+                "course_name": "Global Campus Novel",
+                "instructors": [
+                    "Reading World Literature",
+                    "Laura Brueck"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Introduction to German Literature: 1766-2019",
+                "Instructors": "Erica Weitzman\n847/467-1849\n1880 Campus Drive, Kresge Hall, Rm 3333\nOffice Hours: Tues, 3:30-5:30 PM and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Note: Class taught in German\n\nThis course, designed for both majors and non-majors, presents an overview of modern German literary history from the late eighteenth century to the present day. Students will learn to examine representative texts in German-language literature through the ages, looking at works of poetry and prose with a special focus on the ever-changing connection between history and literature and the many cultural transformations that the German-speaking world has undergone over the past two and a half centuries. As a small seminar setting, there will also be ample opportunity to practice speaking and writing in German, and to devoting time to the close analysis of celebrated works of literature in a foreign language.\n\nPrerequisite in German: One 200-level course in German or permission of the DUS.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Global Campus Novel",
+                "Instructors": "Laura Brueck\n847/467-4746\n1880 Campus Drive, Kresge Hall, Office 4-427\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Fisk Hall 114: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This course considers the popular genre of the \"campus novel\" (and the occasional film) over time and around the world. Spanning works of mystery, comedy, social realism, and literary fiction from the 1950s to today and across the United States, India, and Africa, what these novels share is the setting of the college or university campus as site of social idealism or ruin. They serve as vehicles for evolving ideas around education, class, identity politics, and gendered and racial faultlines. Throughout we will ask why, as the idea of the American university comes under increasing threat, this genre not only persists, but is arguably more popular than ever.",
+                "Learning Objectives": "In this class you will learn to read literature closely and apply critical frameworks to literary texts, familiarize yourself with the elements of the campus novel genre, and think comparatively and across global forms of the campus novel as world literature.",
+                "Teaching Method": "Lecture and discussion",
+                "Evaluation Method": "Grades will be based on preparation and participation in class, in-class writing assignments and quizzes, and out-of-class prepared oral presentations.",
+                "Class Materials (Required)": "Vladimir Nabokov, Pnin (1957)\nJulie Schumacher, Dear Committee Members (2014)\nAmanda Cross, Death in a Tenured Position (1981)\nBrandon Taylor, Real Life (2020)\nDavid McGlynn, Liberal Arts (2026)\nJM Coetzee, Disgrace (1999)\nChimamanda Ngozi Adichie, Half of a Yellow Sun (2006)\nUday Prakash, The Girl with the Golden Parasol (2001)\nAruni Kashyap, How to Date a Fanatic (2026)",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "202-0",
+        "course_name": "Interpreting Culture",
+        "course_reference_number": [
+            "28612"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Pasternak's Dr. Zhivago: Text and Context",
+                "instructors": [
+                    "Interpreting Culture",
+                    "Nina Gurianova"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Pasternak's Dr. Zhivago: Text and Context",
+                "Instructors": "Nina Gurianova\n847/491-2937\n1880 Campus Dr. #3365\nOffice Hours: Wednesdays 1:00-2:00pm and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-435: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Pasternak's Dr. Zhivago: Text and Context\n\nDoctor Zhivago was harshly criticized and censored in Soviet Union, then smuggled to the West with the help of the CIA to be preserved and published for the first time, finally becoming a world literary sensation and winning the Nobel Prize (1958). Through the tumultuous publication history of this manuscript, students can gain a foundational knowledge of the history of the Soviet Union, and an understanding of the changes in the literary climate throughout the history of Soviet Russia.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "207-0",
+        "course_name": "Introduction to Critical Theory",
+        "course_reference_number": [
+            "20923"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Critical Theory",
+                "instructors": [
+                    "Mark Alznauer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Alznauer\n847/491-2559\nKresge 3-417",
+                "Meeting Info": "Harris Hall 107: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "In this class, we will focus on the foundations of critical theory in the works of Marx, Nietzsche, Freud, and Weber, paying particular attention to the methods they deploy in the treatment of moral and religious phenomena. Lectures will primarily involve a close analysis and discussion of the readings. Understand the basic methods involved in classical critical theory.",
+                "Evaluation Method": "Class participation\nExams\nPapers\nFinal paper",
+                "Class Materials (Required)": "Class materials must be purchased:\nKarl Marx and Friedrich Engels, The Marx-Engels Reader, second edition, edited by Richard Tucker (Norton, 1978) ISBN-10: 9780393090406\n\nFriedrich Nietzsche, 'On the Genealogy of Morality' and Other Writings: Revised Student Edition (Cambridge Texts in the History of Political Thought) [STUDENT EDITION] ISBN-10: 052169163X/ ISBN-13: 978-0521691635.\n\nSigmund Freud, Civilization and Its Discontents, edited by Todd Dufresne (Broadview Press) ISBN: 978-1-55481-140-3.",
+                "Class Attributes": "Ethical and Evaluative Thinking Foundational Disci\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro",
+                "Associated Classes": "DIS - Kresge Centennial Hall 2-435: Fri 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Studies in World Literature",
+        "course_reference_number": [
+            "24802"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Maghreb and the Middle East",
+                "instructors": [
+                    "Studies in World Literature",
+                    "Nasrin Qader"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Maghreb and the Middle East",
+                "Instructors": "Nasrin Qader\n847/491-8263\n1860 S. Campus Drive, Crowe Hall #2-129\nOffice Hours: Thursdays 1:30-3:30 or by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course offers the students the opportunity to discover the influential work of the renowned Moroccan thinker and writer, Abdelkebir Khatibi. An innovative writer, philosopher, essayist, and poet, the significance of Khatibi's thought on contemporary decolonial thought across disciplines, notably sociology, anthropology, political, literary and aesthetics cannot be overestimated. While much of his theoretical insights are based in the history and aesthetic cultures of Morocco, his concepts and methodologies have given new and nuanced breath to how scholars think, write, and study non-Western histories and cultures. His novel Amour bilingue as well as his collections of essays collected in Maghreb Pluriel and La blessure du nom propre are today necessary references for all serious students and scholars of postcolonial and decolonial thought.\n\nIn this course, we will begin by first historicizing the Maghreb (Francophone North Africa) as a geographical, historical, and political configuration in order to understand the background of some of Khatibi's thinking. We will then read several essays and two novels, and autobiography by Khatibi and will consult some helpful critical readings on his key notions. The aim of the course is to familiarize students with one of the leading voices in contemporary debates in postcolonial and decolonial studies.",
+                "Registration Requirements": "Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.",
+                "Learning Objectives": "● Observe the forms, genres, and styles of literary expression through practices of close reading and analysis;\n● Gain awareness of the philosophical, cultural, and historical factors in shaping thought;\n● Enhance spoken and written skills in literary and theoretical interpretation, analysis, and commentary;\n● Sharpen powers of interpretation, critique, and aesthetic perception;\n● Enlarge conceptual vocabulary to understand and express abstract notions.",
+                "Evaluation Method": "Peer assessment 10%",
+                "Class Materials (Required)": "Tentative Reading: (materials will be made available on Canvas)\nTalbayev \"Khatibi Mediterranean » (article)\nAlison Rice « Etranger Professionnel\" (article)\nMatt Reeck « Tattoo—Writing with Dots\" (article)\nAbdelmajid Hannoum The Invention of the Maghreb (selections) (pdf)\nAbdelkebir Khatibi Amour bilingue (novel) (out of print) pdf\n------. « L'exote » (pdf)\n------. La blessure du nom propre (essays ; selections) (pdf)\n------. Langue de l'autre (essays ; selections) (pdf)\n------. Maghreb Pluriel (essays ; selections) (pdf)\n------. Le Scribe et son ombre (autobiography—out of print) (pdf)\n------. Un été à Stokholm (novel) (out of print) (pdf)",
+                "Class Notes": "• Please no eating during class. Drink is fine.\n• Please turn off your phones before walking in the classroom. No texting, surfing the internet, social media, checking email during class.\n• You are expected to be in class for the duration of the quarter (this means from the first day of the quarter to the last day of classes and for any meetings during reading week. Since your final paper will be submitted by email, you are free to send it after your departure from campus if you are done with exams before the end of exam week).\n• No make up or late work will be accepted unless pre-arranged and pre-approved. Please familiarize yourself with university guidelines for missing classes.\n• Accessibility requests must be made in advance.\n\nAI Policy: Assignements for this course must be entirely student work, even if there are imperfections. Self-correction is the best tool for learning and sharpening one's thinking. Assignments will be scrutinized for AI content and if work is found not to have been done by the student, it will be deemed equivalent to cheating.\n\n- Include any restrictions upon registration here.\n\n- Please note: No instructor bio or teaching philosophy statements should be entered here. If those are desired, please edit the instructor information above and check the \"Include Instructor Bio\" box.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Reading Across Disciplines",
+        "course_reference_number": [
+            "24055",
+            "28735"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "On Violence & the Prefigurative",
+                "instructors": [
+                    "Reading Across Disciplines"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Reading Across Disciplines",
+                "instructors": [
+                    "Lakshmi Padmanabhan"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "On Violence & the Prefigurative",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Wed 1:00PM - 3:50PM",
+                "Overview of class": "On Violence and the Prefigurative: Abolition, Deposition, Mourning, and Strike.\n\nWhen we grieve communally, we go on a general strike. We demand a suspension and an interruption, the condition of possibility for a beginning that will unfold otherwise. We join forces with the prefigurative, the unthought, and the uncaptured; when we pause, we coalesce with the temporal plasticity of the possible, with that which resists and survives what philosopher María Zambrano calls \"sacrificial history.\"\n\nIn this course we will read and respond, through collective and experimental writing, to a series of texts that insists that to change the world means both to invent a new language and to unearth the language of the buried, the unseen, and the unheard. We will focus on the force of the prefigurative and will study forms of counter-history that acknowledge that both the polysemy and ubiquity of violence pose a problem that can only be disentangled through an insurgent poetic transmutation.\n\nAmong others prefigurative propositions, we might encounter Rosa Luxemburg's general strike; W.E.B. Du Bois abolition-democracy; Walter Benjamin deposition of the law as a form of counter-violence; Eleni Stecoupoulos's abaton; Denise Ferreira Da Silva's multiple uses of Leibniz's corpus infinitum; Werner Hamacher's afformative strike; Fred Moten's chromatic saturation; Sarah Jaffe's excessive and revolutionary grief; Peter Dimock's injunction to write a love song for imperial times; Paul B. Preciado's dysphoria mundi; Cristina Rivera Garza's forensics of the unbearable in Liliana's Invincible Summer; or Christina Sharpe's wake work. Additionally, all participants will bring their own examples taken from a variety of artistic practices.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Lakshmi Padmanabhan",
+                "Meeting Info": "Annie May Swift Hall 219: Tues 3:00PM - 5:50PM",
+                "Overview of class": "Cinemas of Global Solidarity\n\nThis seminar surveys a range of transnational cinematic practices of politically committed filmmaking, focusing on the global emergence of revolutionary thought and political action through filmmaking in the mid-20th century. This course will provide students an introduction to key films and filmmakers operating outside formal institutions of the film industry and their interventions in the history of film and a their theories of political aesthetics. Topics we will cover will include anticolonial aesthetics in African cinema, the rise and spread of Third Cinema practices in Latin America, the aesthetics of protest in globalized Asia, and the practices of solidarity in an age of digital media.",
+                "Class Materials (Required)": "All readings will be available on Canvas.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Studies in Film, Media, and Visual Culture",
+        "course_reference_number": [
+            "24804"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Studies in Film, Media, and Visual Culture",
+                "instructors": [
+                    "Alessia Ricciardi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alessia Ricciardi\n847/491-8259\n1860 S. Campus Drive, Crowe Hall #2-133",
+                "Meeting Info": "Locy Hall 106: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "The course will explore films by Michelangelo Antonioni and filmmakers he has influenced, including Wim Wenders, Wong Kar-wai, and Sofia Coppola. We will examine how their distinct cinematic languages express the loneliness, displacement, alienation, and desire for connection that characterize modern life.\n\nAlthough emerging from different cinematic traditions, the films we will study develop a remarkably resonant visual and narrative language for articulating experiences of loneliness and longing. These are not merely emotional states but also ways of experiencing the visual and sensory dimensions of modernity, particularly in an age of increased mobility, technological mediation, and geographic displacement. Through music, fragmented narration, repetition, editing, and color, longing becomes almost tangible, as fleeting moments are transformed into enduring affective experiences.\n\nWe will focus on how these directors transform cinematic space into a medium of emotional intensity and render longing an aesthetic experience.\n\nTaught in English, Seminar Style",
+                "Evaluation Method": "Evaluation: Participation in class discussion (20%), Oral presentation (20%), short essay (3-4pages) (20%), Final Oral Exam (40%)",
+                "Class Notes": "Taught in English, Seminar Style",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "307-0",
+        "course_name": "Studies in Gender, Sexuality & Representation",
+        "course_reference_number": [
+            "24805"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Studies in Gender, Sexuality & Representation",
+                "instructors": [
+                    "Ty Blakeney"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ty Blakeney",
+                "Meeting Info": "University Hall 122: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Sailors played a paradoxical role in European imperial projcts in the modern period. On the one hand, they were the agents of empire, spreading European civilization throughout the world. On the other, they were often drawn from the lower classes of society, and, in the case of France, from Brittany, a region of France that was itself a kind of colonized space, where residents mostly spoke Breton rather than French. The sailor was also closely associated with supposedly asocial behaviors: criminality, same-sex sexuality, rampant non-monogamous heterosexuality, and interracial relationships. In this class, we will explore these paradoxes of the figure of the sailor in French literature and film of the 19th and 20th centuries, through the works of Melville, Pierre Loti, Joseph Conrad, Jean Cocteau, RW Fassbinder, and Claire Denis.",
+                "Learning Objectives": "Literature and Arts\nIn this course, students will learn to:\n● Observe the forms of expression, in words, images, cultural and everyday practices by\nway of close analysis.\n● Gain awareness of the philosophical, cultural, and historical factors influencing the\nproblematic we are studying in our course.\n● Appreciate how the works we read across various historical periods and cultural and\npolitical landscapes reveal the differences and diversities as well as the continuity and\nunity of questions about human culture and thought.\n● Enhance the skills of literary and cultural interpretation, analysis, and commentary,\nspoken, visual and written.\n● Develop writing and oral skills by sharpening powers of interpretation, critique, and\naesthetic perception.\n● Enlarge your conceptual vocabulary to understand and express abstract notions.\nGlobal Overlay\nIn this course, students will learn to:\n● Engage with visual, literary and cultural works to reflect on global intercultural relations\namong groups, cultural traditions, and/or nations, in French and Francophone contexts.\n● Explore the social, political, historical, and cultural bases of identity, be it national,\nregional, racial, culture, and how they constitute themselves and are constituted by\nothers.\n● Understand how such differences as race, class, ethnicity, gender, and sexual\norientation are historically contingent and participate in the construction of otherness\nand sameness.\n● Analyze the key issue of colonialism.\nAdvanced Expression\nThe written and oral assignments in this course serve to:\n● Focus on effective communication, be it through writing, speaking or other modes of\ncommunication, in specific disciplinary or interdisciplinary contexts.\n● Understand and emulate field-specific conventions and protocols for communicating\nfindings to a range of audiences.\n● Develop the relationship between their voice and field-specific norms of expression,\naiming to achieve control over persuasive rhetoric.\n● Pay attention to style, precision of language, the nature and potential of words for\nthinking.\n● Develop an individual style of argumentation and presentation of research.",
+                "Class Materials (Required)": "Class materials will be made available through Canvas.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Special Topics in Comparative Literature",
+        "course_reference_number": [
+            "28577"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Ecologies of Resistance",
+                "instructors": [
+                    "Special Topics in Comparative Literature",
+                    "Evan Mwangi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Ecologies of Resistance",
+                "Instructors": "Evan Mwangi",
+                "Meeting Info": "Harris Hall L06: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Ecologies of Resistance (Post 1830/Postcolonial & Comparative Literatures)\n\nThis course explores how postcolonial writers engage the environment not as passive backdrop but as a contested site of struggle, survival, and resistance. Students examine how colonialism and global capitalism have reshaped relationships to land, water, animals, and climate, and how literature responds to environmental violence, dispossession, and ecological crisis while imagining alternative modes of care, belonging, and sustainability.\n\nIn addition to novels and memoir, the course features brief poetry interludes, engaging short works by writers such as Niyi Osundare, Kofi Awoonor, Gcina Mhlophe, and Benjamin Zephaniah, among others, foregrounding poetry as a vital form of ecological critique, protest, and cultural memory. Literary texts are paired with accessible theoretical readings in postcolonial ecocriticism and environmental humanities by thinkers such as Rob Nixon (slow violence, environmental injustice), Homi Bhabha (hybridity, colonial ambivalence), Robert J. C. Young (colonialism, decolonization, resistance), Cajetan Iheka (African ecologies, resistance aesthetics), and Elizabeth DeLoughrey (islands, oceanic ecologies, empire), alongside other scholars at the intersection of postcolonialism, ecology, and resistance. The course emphasizes close reading, historical context, and comparative analysis.",
+                "Teaching Method": "Interactive lectures, guided discussion, close reading workshops, small group activities, short contextual presentations, comparative analysis across genres, and occasional low stakes reflective or creative exercises. Emphasis is placed on discussion based learning and sustained engagement with primary texts.",
+                "Evaluation Method": "Short response papers or reading reflections, one midterm analytical essay, one final essay or project; participation, including discussion and in class writing.",
+                "Class Materials (Required)": "• Amitav Ghosh - The Hungry Tide. Publisher: Mariner Books. ISBN 13: 978 0618869843\n• Indra Sinha - Animal's People. Publisher: Simon & Schuster. ISBN 13: 978 1416523325\n• Jamaica Kincaid - A Small Place. Publisher: Farrar, Straus and Giroux. ISBN 13: 978 0374527071\n• Ken Saro Wiwa - A Month and a Day: A Detention Diary. Publisher: Penguin Books. ISBN 13: 978 0140255379\n• Linda Hogan - Solar Storms. Publisher: W. W. Norton & Company. ISBN 13: 978 0393343687\n• Nnedi Okorafor - Lagoon. Publisher: William Morrow Paperbacks. ISBN 13: 978 0062299039\n• Poetry Packet (Canvas)\nSelected poems by Niyi Osundare, David Rubadiri, Kofi Awoonor, Benjamin Zephaniah, and women poets such as Gcina Mhlophe (orality, land, communal memory), Kristina Rungano (land, political struggle), Grace Nichols (Caribbean ecologies, embodiment), Warsan Shire (displacement, environmental precarity), and Safia Elhillo (diaspora, memory, landscape), among others, engaging environmental crisis and resistance through diverse poetic forms.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Critical Practices",
+        "course_reference_number": [
+            "24834"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "History of Aesthetics",
+                "instructors": [
+                    "Critical Practices",
+                    "Erica Weitzman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "History of Aesthetics",
+                "Instructors": "Erica Weitzman\n847/467-1849\n1880 Campus Drive, Kresge Hall, Rm 3333\nOffice Hours: Tues, 3:30-5:30 PM and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon 2:00PM - 4:50PM",
+                "Overview of class": "History of Aesthetics\n\nThis course provides an introduction to foundational texts in the history of modern western (primarily German) theoretical aesthetics. Starting from Alexander Gottlieb Baumgarten's emphatic appropriation the term \"aesthetics\" to designate the study of beauty and good taste, the course will move chronologically through major texts of aesthetic theory from the eighteenth to the twenty-first century. The course will simultaneously examine the specific problems and questions raised by the course texts and consider the texts as historical documents, looking at the ways in which they both respond to one another and to the political and cultural tensions of their respective eras. We will also consider the ways in which these texts cross disciplinary boundaries or indeed are always already transdisciplinary, constantly moving from the fields of artistic and literary criticism to fundamental issues of ethics, epistemology, politics, and psychology and back again, always asking ourselves the questions: What are the historical and political conditions of the ways in which we make and/or think about works of art, broadly conceived, and how do these historical and political conditions, in turn, shape the world that art is said to reflect?",
+                "Registration Requirements": "Graduate students (advanced undergraduates with instructor permission)",
+                "Learning Objectives": "- To learn about the history and background of modern western aesthetics in its historical, social, and philosophical contexts\n- To be able to draw on this background in relation to individual works of art, literature, and culture\n- To gain skills in analyzing and discussing theoretical and philosophical texts on a professional level",
+                "Evaluation Method": "Attendance\nClass participation\nPaper, final\nPresentations",
+                "Class Materials (Required)": "1) Immanuel Kant, Critique of the Power of Judgment. Edited by Paul Guyer, translated by Paul Guyer and Eric Mathews. Cambridge and New York: Cambridge University Press, 2000. ISBN: 9780521348928\n2) Friedrich Schiller, On the Aesthetic Education of Man. Edited and translated by Reginald Snell. Mineola, NY: Dover, 2004. ISBN: 9780486437392"
+            }
+        ]
+    },
+    {
+        "course_number": "481-0",
+        "course_name": "Studies in Literary Theory",
+        "course_reference_number": [
+            "27826"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Russian Formalism",
+                "instructors": [
+                    "Studies in Literary Theory",
+                    "Nina Gurianova"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Russian Formalism",
+                "Instructors": "Nina Gurianova\n847/491-2937\n1880 Campus Dr. #3365\nOffice Hours: Wednesdays 1:00-2:00pm and by appointment",
+                "Meeting Info": "Kresge 3364 Slavic Seminar Rm: Mon 4:00PM - 6:50PM",
+                "Overview of class": "Russian Formalism\n\nThis seminar will examine the school and theory of Russian Formalism, which influenced and informed many developments in the 20th century literary and art theory, from Prague Linguistic Circle through Structuralism and Semiotics. Along with the detailed study of the critical and theoretical essays by such adherents of Formalism as Victor Shklovsky, Roman Jacobson, Yuri Tynianov, Boris Eikhenbaum, et al., we will be exploring the major works of Russian modernism and avant-garde in literature and film through the methodological approach of Formalist theory. Special focus on the issues of Formalism and Marxism, Formalism and History, and the interconnections between culture and politics of the time.\nDiscussion and presentations in English."
+            }
+        ]
+    },
+    {
+        "course_number": "486-0",
+        "course_name": "Studies in Literature & the Disciplines",
+        "course_reference_number": [
+            "24696",
+            "24056"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Green Materialisms",
+                "instructors": [
+                    "Studies in Literature & the Disciplines",
+                    "Tristram Wolff"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "20",
+                "course_name": "Spatial Thought and the Production of Culture",
+                "instructors": [
+                    "Studies in Literature & the Disciplines",
+                    "Corey Byrnes"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Green Materialisms",
+                "Instructors": "Tristram Wolff",
+                "Meeting Info": "University Hall 018 English: Wed 2:00PM - 4:50PM",
+                "Overview of class": "This course introduces students to a sequence of \"materialisms\" worked out from the (long) 18th century to the present. While readings and discussions will gravitate toward contemporary Marxist and post-Marxist ecological thought (including the afterlives of ideas like \"primitive accumulation\" and \"metabolic rift\" in recent feminist, anti-colonial, and environmental frameworks), we will also spend substantial time looking at the writings and influence of earlier thinkers whose controversial materialisms have returned to critical attention in recent decades (e.g. Spinoza, Herder). A guiding aim of the course is to assemble a fuller sense of the historical and conceptual underpinnings of first-world environmentalism; so we will ask what \"matters,\" and to whom, in large part by putting the nature of \"greenness\" under scrutiny as a critical category. Readings will emphasize theory and philosophy, but please note there is a strong and central emphasis on poetry throughout, as well.",
+                "Teaching Method": "Short lectures and seminar discussions.",
+                "Evaluation Method": "Attendance & participation; short midterm essay; longer final essay.\n\nYour grade for this course will be based on your attendance and regular participation, a shorter midterm essay, and a longer final essay in the form of a 10pp \"conference paper.\" Assignment structure and expectations will be circulated separately for each.",
+                "Class Materials (Required)": "All readings will be made available through Canvas. I will recommend editions of Spinoza's Ethics and Marx's early writings.\n\n• Spinoza, Ethics (any edition, Penguin Classics preferred)\n• Marx, Early Writings (any edition, Penguin Classics preferred)"
+            },
+            {
+                "Topic": "Spatial Thought and the Production of Culture",
+                "Instructors": "Corey Byrnes\n847/467-3314\n1880 Campus Drive, Kresge Hall, Office 4-548\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 2:00PM - 4:50PM",
+                "Overview of class": "Spatial Thought and the Production of Culture\n\nThis course offers an introduction to key theories of space alongside a broader consideration of the practice and politics of spatial representation in literary and visual cultures. We will juxtapose readings from the fields of philosophy, landscape studies, art history, critical geography, the history of cartography, the environmental humanities, and infrastructure studies with creative works that \"map\" and theorize space through alternative means. Our sources will be culturally heterogenous but with a slight emphasis on material from Sinophone contexts.",
+                "Registration Requirements": "Graduate standing or permission of instructor",
+                "Evaluation Method": "Midterm Project --> 25%\nFinal Project -->50%\nParticipation --> 25%",
+                "Class Materials (Required)": "There will be a course reader available for download and/or purchase"
+            }
+        ]
+    },
+    {
+        "course_number": "488-0",
+        "course_name": "Special Topics in Comparative Literature",
+        "course_reference_number": [
+            "24651"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Nahda",
+                "instructors": [
+                    "Special Topics in Comparative Literature",
+                    "Rebecca Johnson"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Nahda",
+                "Instructors": "Rebecca Johnson\n847/467-1365\nUniversity Hall 225",
+                "Meeting Info": "University Hall 418: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "This course is an introduction to Arabic literary production of the long nineteenth century as it engages the \"nahḍa\" (awakening), understood variously as a discourse on modernity, a utopian social project, and an epistemological rupture wrought by colonialism and capitalism. With special emphasis on the genealogies, practices, and problematics of Arabic literary modernity, this course will introduce students to the major works of Arabic literature produced in the nineteenth and early twentieth centuries and to the major debates, social changes, and material developments that attend the period, including (but not limited to) language reform, migration, print capitalism, imperialism, and nationalism. In short, we will try to understand how these authors, through their texts, both produced and theorized modernity for their readers in the localized contexts of Imperial influence and control on the one hand, and the global-though uneven-nineteenth-century processes of social, political, economic, and technological change.",
+                "Evaluation Method": "Short paper, seminar paper.",
+                "Class Materials (Required)": "• Rifa' al-Tahtawi, Imam in Paris [The Extraction of Gold from a Description of Paris] (1826).\n• Ahmad Faris al-Shidyaq, Leg over Leg, vols. 1-2 and 3-4 (1855).\n• Muhammad al-Muwaylihi, What Isa Ibn Hisham Told Us (1907).\n• Tarek El-Ariss, Ed., The Arab Renaissance: A Bilingual Anthology of the Nahḍa (2018).\n• Qāsim Amīn, The Liberation of Women (1899), The New Woman (1900)."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Independent Reading",
+        "course_reference_number": [
+            "24043",
+            "24044",
+            "24045",
+            "24046",
+            "24047",
+            "24048",
+            "24049",
+            "24050",
+            "24051",
+            "28814",
+            "28815",
+            "28826"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Alejandra Uslenghi"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "21",
+                "course_name": "Independent Reading",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "22",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Daniel Majchrowicz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "23",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Daniel Majchrowicz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "24",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Mark Alznauer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "25",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Evan Mwangi"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "26",
+                "course_name": "Independent Reading",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "27",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Marianne Hopman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "28",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Michal Wilczewski"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "29",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Alejandra Uslenghi"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Jorge Coronado"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "40",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Laura Brueck"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alejandra Uslenghi\n847/467-1713\n3-113 Crowe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Daniel Majchrowicz\n847/467-5829\n1880 Campus Drive, Kresge Hall, Office 4-423\nOffice Hours: varies by quarter, please contact instructor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Daniel Majchrowicz\n847/467-5829\n1880 Campus Drive, Kresge Hall, Office 4-423\nOffice Hours: varies by quarter, please contact instructor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Mark Alznauer\n847/491-2559\nKresge 3-417",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Evan Mwangi",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Marianne Hopman\n847/491-8361\nKresge Hall 4361\nOffice Hours: Tu/Th from 3:30-4:30pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michal Wilczewski\n847 4676485\n1880 Campus Dr., Kresge Hall, Suite 3305 (Office 3359), Evanston, IL 60208\nOffice Hours: Tuesdays and Thursdays 11am-12pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Alejandra Uslenghi\n847/467-1713\n3-113 Crowe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Jorge Coronado\n847/491-8277\n3-135 Crowe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Laura Brueck\n847/467-4746\n1880 Campus Drive, Kresge Hall, Office 4-427\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "course_number": "203-0",
+        "course_name": "Introduction to Computer Engineering",
+        "course_reference_number": [
+            "25799"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Computer Engineering",
+                "instructors": [
+                    "Hai Zhou"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hai Zhou",
+                "Meeting Info": "Technological Institute A110: Mon, Tues, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "205-0",
+        "course_name": "Fundamentals of Computer System Software",
+        "course_reference_number": [
+            "25781"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Computer System Software",
+                "instructors": [
+                    "Russ Joseph"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Russ Joseph",
+                "Meeting Info": "Technological Institute M345: Mon, Tues, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "334-0",
+        "course_name": "Fundamentals of Blockchains and Decentralization",
+        "course_reference_number": [
+            "28416"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Blockchains and Decentralization",
+                "instructors": [
+                    "Dongning Guo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dongning Guo",
+                "Meeting Info": "Technological Institute LG52: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "346-0",
+        "course_name": "Microcontroller System Design",
+        "course_reference_number": [
+            "25782"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Microcontroller System Design",
+                "instructors": [
+                    "Stephen Xia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Xia",
+                "Meeting Info": "Technological Institute L150: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite: CE or EE major only and COMP_SCI 211-0 and (COMP_ENG 205-0 or COMP_SCI 213-0)",
+                "Associated Classes": "LAB - Technological Institute L221: Fri 3:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "347-1",
+        "course_name": "Microprocessor Systems Project I",
+        "course_reference_number": [
+            "25807"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Microprocessor Systems Project I",
+                "instructors": [
+                    "David Zaretsky"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Zaretsky",
+                "Meeting Info": "Tech Institute CG50 - EECS T-L: Mon, Wed, Fri 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "356-0",
+        "course_name": "Introduction to Formal Specification & Verification",
+        "course_reference_number": [
+            "25798"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Formal Specification & Verification",
+                "instructors": [
+                    "Hai Zhou"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hai Zhou",
+                "Meeting Info": "Frances Searle Building 2370: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "358-0",
+        "course_name": "Introduction to Parallel Computing",
+        "course_reference_number": [
+            "28337"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Parallel Computing",
+                "instructors": [
+                    "Joseph Hummel"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joseph Hummel",
+                "Meeting Info": "Tech Institute Lecture Room 3: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CS 213 or (CE 205 & 211) or MS CS/CE major or PhDs CS/CE major or permission of Instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "362-0",
+        "course_name": "Computer Architecture Projects",
+        "course_reference_number": [
+            "25789"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computer Architecture Projects",
+                "instructors": [
+                    "David Zaretsky"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Zaretsky",
+                "Meeting Info": "Tech Institute CG50 - EECS T-L: Mon, Wed, Fri 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have completed EECS 361 and EECS 230 or EECS 211 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "366-0",
+        "course_name": "Embedded Systems",
+        "course_reference_number": [
+            "25811"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Embedded Systems",
+                "instructors": [
+                    "Qi Zhu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Qi Zhu",
+                "Meeting Info": "Technological Institute L251: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "387-0",
+        "course_name": "Real-Time Digital Systems Design and Verification with FPGAs",
+        "course_reference_number": [
+            "25952"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Real-Time Digital Systems Design and Verification with FPGAs",
+                "instructors": [
+                    "David Zaretsky"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Zaretsky",
+                "Meeting Info": "Technological Institute L150: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "391-0",
+        "course_name": "CMOS VLSI Circuit Design",
+        "course_reference_number": [
+            "25792"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "CMOS VLSI Circuit Design",
+                "instructors": [
+                    "Jie Gu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jie Gu",
+                "Meeting Info": "Technological Institute L221: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Computer Engineering",
+        "course_reference_number": [
+            "25814",
+            "25815",
+            "28769"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Connected and Autonomous Vehicles: Challenges and",
+                "instructors": [
+                    "Special Topics in Computer Engineering",
+                    "Qi Zhu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Embodied Systems",
+                "instructors": [
+                    "Special Topics in Computer Engineering",
+                    "Nivedita Arora"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "5:10PM",
+                "end_time": "6:30PM"
+            },
+            {
+                "section": "4",
+                "course_name": "FPGA-based Quantum Computer Controller Design",
+                "instructors": [
+                    "Special Topics in Computer Engineering",
+                    "Jakub Szefer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Connected and Autonomous Vehicles: Challenges and",
+                "Instructors": "Qi Zhu",
+                "Meeting Info": "Technological Institute L150: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Embodied Systems",
+                "Instructors": "Nivedita Arora",
+                "Meeting Info": "Technological Institute M164: Wed, Fri 5:10PM - 6:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "FPGA-based Quantum Computer Controller Design",
+                "Instructors": "Jakub Szefer",
+                "Meeting Info": "Technological Institute LG72: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "466-0",
+        "course_name": "Embedded Systems",
+        "course_reference_number": [
+            "25810"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Embedded Systems",
+                "instructors": [
+                    "Qi Zhu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Qi Zhu",
+                "Meeting Info": "Technological Institute L251: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Topics in Computer Engineering",
+        "course_reference_number": [
+            "25855",
+            "25856"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Connected and Autonomous Vehicles: Challenges and",
+                "instructors": [
+                    "Special Topics in Computer Engineering",
+                    "Qi Zhu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Embodied Systems",
+                "instructors": [
+                    "Special Topics in Computer Engineering",
+                    "Nivedita Arora"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "5:10PM",
+                "end_time": "6:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Connected and Autonomous Vehicles: Challenges and",
+                "Instructors": "Qi Zhu",
+                "Meeting Info": "Technological Institute L150: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Embodied Systems",
+                "Instructors": "Nivedita Arora",
+                "Meeting Info": "Technological Institute M164: Wed, Fri 5:10PM - 6:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

@@ -1,0 +1,363 @@
+[
+    {
+        "course_number": "401-DL",
+        "course_name": "The American Healthcare System: Patient, Payor, and Provider",
+        "course_reference_number": [
+            "20454"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "The American Healthcare System: Patient, Payor, and Provider",
+                "instructors": [
+                    "Christian Wallis"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christian Wallis",
+                "Meeting Info": "Online: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "402-DL",
+        "course_name": "Clinical Thinking for Healthcare Administrators and Clinical Managers",
+        "course_reference_number": [
+            "20450"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Clinical Thinking for Healthcare Administrators and Clinical Managers",
+                "instructors": [
+                    "Diane Muench"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Diane Muench",
+                "Meeting Info": "Online: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "403-DL",
+        "course_name": "People Leadership and Change Management in Healthcare (HR1)",
+        "course_reference_number": [
+            "20455"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "People Leadership and Change Management in Healthcare (HR1)",
+                "instructors": [
+                    "David C Ruhland"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David C Ruhland",
+                "Meeting Info": "Online: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "404-DL",
+        "course_name": "Financial Management in Healthcare Organizations (Finance 1)",
+        "course_reference_number": [
+            "20451"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Financial Management in Healthcare Organizations (Finance 1)",
+                "instructors": [
+                    "Christopher Coccitto"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Coccitto",
+                "Meeting Info": "Online: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "405-DL",
+        "course_name": "Data-Driven Healthcare Management: Why Data Matters",
+        "course_reference_number": [
+            "20456"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Data-Driven Healthcare Management: Why Data Matters",
+                "instructors": [
+                    "Pradeep Sama"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pradeep Sama",
+                "Meeting Info": "Online: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "410-DL",
+        "course_name": "Leading Quality Care and Ethical Compliance",
+        "course_reference_number": [
+            "20446"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Leading Quality Care and Ethical Compliance",
+                "instructors": [
+                    "Cynthia Barnard"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cynthia Barnard",
+                "Meeting Info": "Online: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "411-DL",
+        "course_name": "Leadership Development and Organizational Behavior (HR2)",
+        "course_reference_number": [
+            "20452"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Leadership Development and Organizational Behavior (HR2)",
+                "instructors": [
+                    "HEATHER KEIRNAN"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "HEATHER KEIRNAN",
+                "Meeting Info": "Online: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: HCA 403"
+            }
+        ]
+    },
+    {
+        "course_number": "412-DL",
+        "course_name": "Healthcare Value and Revenue Cycle Management (Finance 2)",
+        "course_reference_number": [
+            "20447"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Healthcare Value and Revenue Cycle Management (Finance 2)",
+                "instructors": [
+                    "Mark Muench"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Muench",
+                "Meeting Info": "Online: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: HCA 404"
+            }
+        ]
+    },
+    {
+        "course_number": "413-DL",
+        "course_name": "Healthcare Organizations: Operations and Performance Improvement",
+        "course_reference_number": [
+            "20453"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Healthcare Organizations: Operations and Performance Improvement",
+                "instructors": [
+                    "Justin Gray"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Justin Gray",
+                "Meeting Info": "Online: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: HCA 405"
+            }
+        ]
+    },
+    {
+        "course_number": "420-DL",
+        "course_name": "Operating in the Patient-Centric Healthcare Environment and Structures",
+        "course_reference_number": [
+            "20448"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Operating in the Patient-Centric Healthcare Environment and Structures",
+                "instructors": [
+                    "Gayle Kricke"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gayle Kricke",
+                "Meeting Info": "Online: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: HCA 401"
+            }
+        ]
+    },
+    {
+        "course_number": "430-DL",
+        "course_name": "Defining Value in a Healthcare Market: Strategic Planning and Marketing",
+        "course_reference_number": [
+            "20445"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Defining Value in a Healthcare Market: Strategic Planning and Marketing",
+                "instructors": [
+                    "Brian Dennen"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brian Dennen",
+                "Meeting Info": "Online: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "498-DL",
+        "course_name": "Capstone - Final Business Project and Program Development",
+        "course_reference_number": [
+            "20449"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Capstone",
+                "instructors": [
+                    "Final Business Project and Program Development",
+                    "Rebecca L Caires"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rebecca L Caires",
+                "Meeting Info": "Online: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: HCA Capstone"
+            }
+        ]
+    }
+]

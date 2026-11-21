@@ -1,0 +1,172 @@
+[
+    {
+        "course_number": "446-0",
+        "course_name": "System Thinking for Sustainable Design",
+        "course_reference_number": [
+            "26532"
+        ],
+        "course_info": [
+            {
+                "section": "5",
+                "course_name": "System Thinking for Sustainable Design",
+                "instructors": [
+                    "Helen J Kessler"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Helen J Kessler",
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "463-0",
+        "course_name": "Construction Law and Risk Management",
+        "course_reference_number": [
+            "26525"
+        ],
+        "course_info": [
+            {
+                "section": "10",
+                "course_name": "Construction Law and Risk Management",
+                "instructors": [
+                    "Kenneth Roberts"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kenneth Roberts",
+                "Meeting Info": "Online: Tues 6:30PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "465-0",
+        "course_name": "Due Diligence Considerations for Engineering Firms",
+        "course_reference_number": [
+            "26526"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Due Diligence Considerations for Engineering Firms",
+                "instructors": [
+                    "Karen P Layng"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karen P Layng",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "467-0",
+        "course_name": "Human Resource Management",
+        "course_reference_number": [
+            "26527"
+        ],
+        "course_info": [
+            {
+                "section": "5A",
+                "course_name": "Human Resource Management",
+                "instructors": [
+                    "Patrick McGowan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patrick McGowan",
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "476-0",
+        "course_name": "Creating a Firm-Ambassador Culture",
+        "course_reference_number": [
+            "26536"
+        ],
+        "course_info": [
+            {
+                "section": "5PA",
+                "course_name": "Creating a Firm-Ambassador Culture",
+                "instructors": [
+                    "Jackie Loewe"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jackie Loewe",
+                "Meeting Info": "Online: Wed 6:30PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Selected Topics in Executive Management for Design & Construction",
+        "course_reference_number": [
+            "26531"
+        ],
+        "course_info": [
+            {
+                "section": "25PA",
+                "course_name": "Managing Innovation",
+                "instructors": [
+                    "Selected Topics in Executive Management for Design & Construction",
+                    "Christian Burger"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Managing Innovation",
+                "Instructors": "Christian Burger",
+                "Meeting Info": "Online: Wed 6:30PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

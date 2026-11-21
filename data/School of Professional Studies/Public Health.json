@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "342-DL",
+        "course_name": "Epidemiology and Biostatistics",
+        "course_reference_number": [
+            "20584"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Epidemiology and Biostatistics",
+                "instructors": [
+                    "Jerry Lassa"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jerry Lassa",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

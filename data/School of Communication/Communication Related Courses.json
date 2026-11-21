@@ -1,0 +1,543 @@
+[
+    {
+        "course_number": "101-0",
+        "course_name": "SoC First Year Seminar: Interdisciplinary Topics in Communication Arts & Sciences",
+        "course_reference_number": [
+            "28071",
+            "28072",
+            "28073",
+            "28074"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Modes of Media Reception: Seeing, Listening, Readi",
+                "instructors": [
+                    "SoC First Year Seminar: Interdisciplinary Topics in Communication Arts & Sciences",
+                    "Dilip Gaonkar",
+                    "Neil Verma"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Global Pop: Musical Voices in Practice and History",
+                "instructors": [
+                    "SoC First Year Seminar: Interdisciplinary Topics in Communication Arts & Sciences",
+                    "Shayna Silverstein",
+                    "Melissa Foster"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Persuasive Communication",
+                "instructors": [
+                    "SoC First Year Seminar: Interdisciplinary Topics in Communication Arts & Sciences",
+                    "Mehrnoosh Fetrat",
+                    "Bryan Markovitz"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Black Social Dances Go Viral",
+                "instructors": [
+                    "SoC First Year Seminar: Interdisciplinary Topics in Communication Arts & Sciences",
+                    "Moya Bailey",
+                    "Nadine George"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Modes of Media Reception: Seeing, Listening, Readi",
+                "Instructors": "Dilip Gaonkar\n847/491-5853\n2240 Campus Dr. Rm 2-148 Frances Searle Building",
+                "Meeting Info": "Wirtz 235 Seminar Room: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This is an audience-centered course in media studies. It will focus on and examine three modalities of media reception: seeing, listening, reading. These three modalities, while distinct and independent to a degree, are deeply interconnected. For instance, the physical act of reading involves visually following graphemes or letters on paper or on screen, and occasionally, hearing oneself read. Our focus in this course, however, is socio-cultural. We will explore how audiences engage in acts of \"seeing, listening, reading\" within a given media ecology, which in turn is shaped by larger societal forces, especially capitalist market economy and the new technologies of information and communication. This course will also offer a historical perspective on how our modes of perception, of which acts of seeing, listening, and reading are integral parts, have changed noticeably since the onset of modernity (however one might date it) and how they continue to change in the present.",
+                "Registration Requirements": "Registration is limited to SoC First-Year students assigned to take a first-year seminar in Fall 2026. If attempting to swap a section after registration, please reach out to dear-soc@northwestern.edu for assistance.",
+                "Learning Objectives": "Learning Goal: Engage critical thinking skills while exploring the breadth of School of\nCommunication creative and research endeavors.\n\nLearning Outcome: Students will identify key factors relevant to the course topic,\ndifferentiate between multiple perspectives and interpretations, and explain how at least\ntwo School of Communication disciplines might approach a given topic.\n\nLearning Goal: Experiment with research and communication conventions associated with\nSchool of Communication disciplines.\n\nLearning Outcome: Students will demonstrate their ability to communicate ideas and/or\nexperiences compellingly by using appropriate research tools, soliciting feedback,\nemploying disciplinary conventions, and addressing audience expectations.\n\nLearning Goal: Collaborate with peers from different SoC majors to highlight the benefits of\ninterdisciplinary inquiry.\n\nLearning Outcome: Students will collaborate with peers across different majors to\nsuccessfully complete at least one group project and reflect upon the skills employed to\naccomplish that task.",
+                "Class Attributes": "SOC First-Year Seminar"
+            },
+            {
+                "Topic": "Global Pop: Musical Voices in Practice and History",
+                "Instructors": "Shayna Silverstein\nshayna.silverstein@northwestern.edu",
+                "Meeting Info": "Wirtz 201 Performnce Black Box: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Explore pop and pop-adjacent music styles of the US and beyond. Through listening, readings, discussion, and in-class group vocal activities, this course will examine the sounds, histories, and politics of popular music worldwide.",
+                "Registration Requirements": "This course is open to School of Communication first-year students who were assigned to take CMN 101 in the Winter quarter.",
+                "Learning Objectives": "Learning Goal: Engage critical thinking skills while exploring the breadth of School of\nCommunication creative and research endeavors.\n\nLearning Outcome: Students will identify key factors relevant to the course topic,\ndifferentiate between multiple perspectives and interpretations, and explain how at least\ntwo School of Communication disciplines might approach a given topic.\n\nLearning Goal: Experiment with research and communication conventions associated with\nSchool of Communication disciplines.\n\nLearning Outcome: Students will demonstrate their ability to communicate ideas and/or\nexperiences compellingly by using appropriate research tools, soliciting feedback,\nemploying disciplinary conventions, and addressing audience expectations.\n\nLearning Goal: Collaborate with peers from different SoC majors to highlight the benefits of\ninterdisciplinary inquiry.\n\nLearning Outcome: Students will collaborate with peers across different majors to\nsuccessfully complete at least one group project and reflect upon the skills employed to\naccomplish that task.",
+                "Class Attributes": "SOC First-Year Seminar"
+            },
+            {
+                "Topic": "Persuasive Communication",
+                "Instructors": "Mehrnoosh Fetrat",
+                "Meeting Info": "University Hall 101: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This seminar examines the power of persuasion through speech, writing, and media, with a particular emphasis on performance and cinema as influential forms of communication. We will explore how creators employ spoken language, written text, and visual imagery to shape opinions and construct narratives that are both persuasive and resonant with audiences. Through the lens of film and media, students will critically analyze rhetorical strategies, framing techniques, and storytelling structures that make communication compelling and impactful. The course integrates theory and practice: students will engage with readings, class exercises, and media-making assignments designed to strengthen their persuasive communication skills. This project-based seminar emphasizes active participation through discussions, written reflections, and creative projects that experiment with a range of persuasive modes and techniques.",
+                "Registration Requirements": "This course is open to School of Communication first-year students who were assigned to take CMN 101 in the Winter quarter.",
+                "Learning Objectives": "Learning Goal: Engage critical thinking skills while exploring the breadth of School of\nCommunication creative and research endeavors.\n\nLearning Outcome: Students will identify key factors relevant to the course topic,\ndifferentiate between multiple perspectives and interpretations, and explain how at least\ntwo School of Communication disciplines might approach a given topic.\n\nLearning Goal: Experiment with research and communication conventions associated with\nSchool of Communication disciplines.\n\nLearning Outcome: Students will demonstrate their ability to communicate ideas and/or\nexperiences compellingly by using appropriate research tools, soliciting feedback,\nemploying disciplinary conventions, and addressing audience expectations.\n\nLearning Goal: Collaborate with peers from different SoC majors to highlight the benefits of\ninterdisciplinary inquiry.\n\nLearning Outcome: Students will collaborate with peers across different majors to\nsuccessfully complete at least one group project and reflect upon the skills employed to\naccomplish that task.",
+                "Class Attributes": "SOC First-Year Seminar"
+            },
+            {
+                "Topic": "Black Social Dances Go Viral",
+                "Instructors": "Moya Bailey",
+                "Meeting Info": "Wirtz 201 Performnce Black Box: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Black Social Dances Go Viral invites students into the history of Black social dances and their viral spread in the past and present. Students will learn both dance and social media history as well as how they conspire to make some of the most viral media moments of before and today. We will discuss the erasure of Black choreographers from their art form and resistance movements that have reshaped our media landscape.",
+                "Registration Requirements": "Registration is limited to SoC First-Year students assigned to take a first-year seminar in Fall 2026. If attempting to swap a section after registration, please reach out to dear-soc@northwestern.edu for assistance.",
+                "Learning Objectives": "Learning Goal: Engage critical thinking skills while exploring the breadth of School of\nCommunication creative and research endeavors.\n\nLearning Outcome: Students will identify key factors relevant to the course topic,\ndifferentiate between multiple perspectives and interpretations, and explain how at least\ntwo School of Communication disciplines might approach a given topic.\n\nLearning Goal: Experiment with research and communication conventions associated with\nSchool of Communication disciplines.\n\nLearning Outcome: Students will demonstrate their ability to communicate ideas and/or\nexperiences compellingly by using appropriate research tools, soliciting feedback,\nemploying disciplinary conventions, and addressing audience expectations.\n\nLearning Goal: Collaborate with peers from different SoC majors to highlight the benefits of\ninterdisciplinary inquiry.\n\nLearning Outcome: Students will collaborate with peers across different majors to\nsuccessfully complete at least one group project and reflect upon the skills employed to\naccomplish that task.",
+                "Class Attributes": "SOC First-Year Seminar"
+            }
+        ]
+    },
+    {
+        "course_number": "110-0",
+        "course_name": "Research Fundamentals in Communication",
+        "course_reference_number": [
+            "28086"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Research Fundamentals in Communication",
+                "instructors": [
+                    "Sharra Vostral"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sharra Vostral",
+                "Meeting Info": "Frances Searle Building 3220: Mon 4:00PM - 4:50PM",
+                "Overview of class": "Occurring simultaneously with a first-year research award, this weekly seminar provides a structured approach to understanding the processes of academic research investigations. This course supplements the topic-specific experiential learning occurring with a faculty research mentor. Through short readings, discussions, class speakers, and preparation of research presentation materials, students learn how to approach the problem of a research question, the ways investigative techniques contribute to knowledge production and new understandings, and how to communicate findings. Each session offers strategies for improving the research experience, understanding research thinking, and addressing issues that can arise in the lab or with a research project. Intended to be repeated in sequence Winter and Spring quarters.",
+                "Registration Requirements": "Students must have been accepted into the SPARK program to enroll.",
+                "Learning Objectives": "By the end of the two-quarter sequence associated with a first-year research award, students will:\n\n1. Use research thinking to develop questions and frame processes to generate findings that will extend an academic conversation,\n2. Develop skills of collaboration to foster inquiry and discovery,\n3. Articulate research purposes with lay public and professionals in a field of interest,\n4. Reflect critically on the research process and their personal development as a researcher."
+            }
+        ]
+    },
+    {
+        "course_number": "300-0",
+        "course_name": "School of Communication EPICS Internship Analysis",
+        "course_reference_number": [
+            "28060"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "School of Communication EPICS Internship Analysis",
+                "instructors": [
+                    "Kate Holst Test"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kate Holst Test",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Asynchronous, online course for School of Communication students who intern 8-40 hours per week with employers throughout the world. Requires the submission of a Handshake application, midterm assessment and final evaluation. Students should consult their academic advisor before applying.",
+                "Learning Objectives": "Develop insights and demonstrate a greater understanding of career goals through reflection of professional experimentation and exploration of chosen industry."
+            }
+        ]
+    },
+    {
+        "course_number": "325-0",
+        "course_name": "School of Communication EPICS Internship Seminar",
+        "course_reference_number": [
+            "28061"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "School of Communication EPICS Internship Seminar",
+                "instructors": [
+                    "Kate Holst Test"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kate Holst Test",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Course for School of Communication students who intern 8-40 hours per week with employers throughout the world. Requires the submission of a Handshake application, participation in an asynchronous, online course, midterm assessment and final evaluation. May be subject to internship course-credit limits; students should consult their academic advisor before applying.",
+                "Learning Objectives": "1. Develop insights and demonstrate a greater understanding of career goals through active reflection of professional experimentation and exploration of chosen industry.\n2. Collaborate with instructor and supervisor to create personal objectives to expand current skills and identify development opportunities."
+            }
+        ]
+    },
+    {
+        "course_number": "340-0",
+        "course_name": "School of Communication EPICS Internship Seminar",
+        "course_reference_number": [
+            "28062",
+            "28063"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "School of Communication EPICS Internship Seminar",
+                "instructors": [
+                    "Kate Holst Test"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:20PM"
+            },
+            {
+                "section": "40",
+                "course_name": "Extra Credit",
+                "instructors": [
+                    "School of Communication EPICS Internship Seminar",
+                    "Kate Holst Test"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kate Holst Test",
+                "Meeting Info": "Frances Searle Building 1483: Mon 6:00PM - 7:20PM",
+                "Overview of class": "This course is available to School of Communication students who intern 8-40 hours per week. Occurring simultaneously with the internship, this course provides a structured approach to experiential learning and career development. Through readings, reflections, projects, and other assignments, students will assess their own skills, experiences, and interests to develop a personal plan on how to further their career development and individualized goals.",
+                "Registration Requirements": "Students will need to submit a Handshake application. They will be enrolled in the course by the EPICS Office.",
+                "Learning Objectives": "1. Develop skills, gain insight into typical workplace rules and engage in experiential learning in a professional environment.\n2. Increase critical thinking and creative solutions by developing personal learning objectives to expand current skills and identify development opportunities.\n3. Connect theory to professional experience, reflect on career insights, and develop action steps to demonstrate innovation and professional creativity.\n4. Utilize networking skills to create new connections that assist in furthering professional goals.\n5. Demonstrate a greater understanding of career goals through experience and exposure to industry to increase understanding of career readiness and advancement.",
+                "Class Attributes": "Attendance at 1st class mandatory\nFace to face: In person, in campus space"
+            },
+            {
+                "Topic": "Extra Credit",
+                "Instructors": "Kate Holst Test",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "This course is available to School of Communication students who intern 8-40 hours per week. Occurring simultaneously with the internship, this course provides a structured approach to experiential learning and career development. Through readings, reflections, projects, and other assignments, students will assess their own skills, experiences, and interests to develop a personal plan on how to further their career development and individualized goals.",
+                "Registration Requirements": "Students will need to submit a Handshake application. They will be enrolled in the course by the EPICS Office.",
+                "Learning Objectives": "1. Develop skills, gain insight into typical workplace rules and engage in experiential learning in a professional environment.\n2. Increase critical thinking and creative solutions by developing personal learning objectives to expand current skills and identify development opportunities.\n3. Connect theory to professional experience, reflect on career insights, and develop action steps to demonstrate innovation and professional creativity.\n4. Utilize networking skills to create new connections that assist in furthering professional goals.\n5. Demonstrate a greater understanding of career goals through experience and exposure to industry to increase understanding of career readiness and advancement."
+            }
+        ]
+    },
+    {
+        "course_number": "350-0",
+        "course_name": "Global Media & Communications Seminar (GMCS)",
+        "course_reference_number": [
+            "28070"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Global Media & Communications Seminar (GMCS)",
+                "instructors": [
+                    "Melissa Blanco"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melissa Blanco",
+                "Meeting Info": "University Library 3622: Wed 10:00AM - 12:50PM",
+                "Overview of class": "How does a performance become valuable? Who decides, and in whose name? This seminar treats dance, theatre and their media circulation as places where value, belonging and identity are produced, branded and contested. We move from semiotics and theories of value through branding, nation branding and institutional diversity work, to citizenship, choreopolitics and the new pressures of platforms and artificial intelligence.\n\nLondon is the culminating case study. Its arts ecology is shaped by public funding, post-imperial nation branding, and very public debates about diversity and citizenship, which makes a useful contrast with the philanthropic model we know in Chicago. After ten weeks of preparation, we spend a week in London seeing performances and meeting artists, administrators and scholars at a variety of institutions.",
+                "Learning Objectives": "The learning objectives for this course are for students to be able to: (1) Collaboratively assess how creative industries are structured and create value for particular global cities, (2) Experiment with different media formats to demonstrate how creative work differs across transnational contexts, and (3) Explore how global, digitally connected markets impact media making groups, movements, and cultures.",
+                "Teaching Method": "Lecture/demonstrations, discussions, workshops, guest and student presentations and site visits.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Module Capstone",
+        "course_reference_number": [
+            "28080",
+            "28081",
+            "28082",
+            "28083",
+            "28075",
+            "28076",
+            "28077",
+            "28078",
+            "28087"
+        ],
+        "course_info": [
+            {
+                "section": "3",
+                "course_name": "Comedy Arts",
+                "instructors": [
+                    "Module Capstone",
+                    "Eliza Bent"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Creating the Musical",
+                "instructors": [
+                    "Module Capstone",
+                    "Ryan Nelson",
+                    "Masi Asare"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Digital Media",
+                "instructors": [
+                    "Module Capstone",
+                    "Jeremy Birnholtz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Directing for the Screen",
+                "instructors": [
+                    "Module Capstone",
+                    "Spencer Parsons"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "Playwriting",
+                "instructors": [
+                    "Module Capstone",
+                    "Laura Schellhardt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "12",
+                "course_name": "Strategic & Organizational Communication",
+                "instructors": [
+                    "Module Capstone",
+                    "Michelle Shumate"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "15",
+                "course_name": "Theatre Management",
+                "instructors": [
+                    "Module Capstone",
+                    "Barbara Butts",
+                    "Caitlin Body"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "16",
+                "course_name": "Theatrical Design",
+                "instructors": [
+                    "Module Capstone",
+                    "Eric Southern"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "17",
+                "course_name": "Theatre for Young Audiences",
+                "instructors": [
+                    "Module Capstone",
+                    "Lynn Kelso",
+                    "Elizabeth Brendel Horn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Comedy Arts",
+                "Instructors": "Eliza Bent",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Creating the Musical",
+                "Instructors": "Ryan Nelson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Digital Media",
+                "Instructors": "Jeremy Birnholtz",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Directing for the Screen",
+                "Instructors": "Spencer Parsons",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Playwriting",
+                "Instructors": "Laura Schellhardt",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Strategic & Organizational Communication",
+                "Instructors": "Michelle Shumate",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Theatre Management",
+                "Instructors": "Barbara Butts\n847/491-3121\n1949 Campus Drive, Evanston, IL\nOffice Hours: As posted",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Theatrical Design",
+                "Instructors": "Eric Southern",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Theatre for Young Audiences",
+                "Instructors": "Lynn Kelso\n847/491-5378\nRyan Center for the Musical Arts, Room 5-178, Evanston\nOffice Hours: M-F: 9:00-11:00",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "396-0",
+        "course_name": "Student Organized Seminar",
+        "course_reference_number": [
+            "28064"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "10-Minute Play Festival",
+                "instructors": [
+                    "Student Organized Seminar",
+                    "Laura Schellhardt"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "10-Minute Play Festival",
+                "Instructors": "Laura Schellhardt",
+                "Meeting Info": "Wirtz 230 Instruct Black Box: Fri 12:00PM - 2:50PM",
+                "Overview of class": "The seminar involves weekly workshops of each writer's play, weekly writing assignments designed to aid\nrevision, and conversations around best new play development practices. Each writer will be given a faculty or\nalumni mentor to act as an additional guide for revisions. Students are evaluated on their contribution to a\nsupportive workshop environment, their ability to meet deadlines, and the growth of their plays based on goals\nthey articulate early in the process.",
+                "Registration Requirements": "Class attendees are based on selection by a panel of judges. Students will submit ten minute plays that will be evaluated based on plot, strength of characters, and overall writing. A panel consisting of the ten minute teachers, Laura Schellhardt and Julie Marie Myatt will pick 5 plays, and those students will be a part of this class.",
+                "Learning Objectives": "- Discuss each writer's work in a generative and supportive manner.\n- Identify opportunities for improvement in their own work\n- Practice the craft of creative workshops among peers.\n- Navigate the writer's involvement in director selection and casting\n- Communicate with directors and actors during the rehearsal process\n- Showcase their work for an audience of peers and professionals",
+                "Class Materials (Required)": "I Am Not Batman by Marco Ramirez\n3:59 Drag Race by Marco Ramirez\nAdditionally, various 10 minute plays will be brought in by students, and it will be required that they are read\nbefore class for discussion of techniques used in the plays.",
+                "Class Attributes": "Permission of department"
+            }
+        ]
+    },
+    {
+        "course_number": "398-2",
+        "course_name": "SoC Capstone: Lab",
+        "course_reference_number": [
+            "28084",
+            "28085"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Interdisciplinary",
+                "instructors": [
+                    "SoC Capstone: Lab",
+                    "J. Grace Weir"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Entertainment & Media",
+                "instructors": [
+                    "SoC Capstone: Lab",
+                    "Scott Adkins"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Interdisciplinary",
+                "Instructors": "J. Grace Weir",
+                "Meeting Info": "Frances Searle Building 3220: Wed 12:30PM - 1:50PM",
+                "Overview of class": "CMN 398 SoC Capstone: a topic-based, post-graduation-focused course. In the capstones, instructors from the School of Communication, along with faculty, alumni, and professionals, leverage their expertise to guide students in exploring and navigating careers, further education, and other post-graduation opportunities within communication arts and sciences. Through collaborative efforts with instructors, peers, and guest speakers, students engage in discussions about trends, skills, and best practices of their chosen path. These courses encourage students to delve into their undergraduate journey and reflect on the knowledge, skills, values, and relationships they have acquired. Students will construct a comprehensive portfolio showcasing how their experiences align with the demands of their chosen post-graduation path, effectively demonstrating their qualifications and accomplishments.",
+                "Registration Requirements": "Enrollment is restricted to SoC juniors and seniors.",
+                "Learning Objectives": "Learning Goal: Explore and reflect on knowledge, skills, values, and relationships gained through coursework, internships, research, independent studies, employment, personal experience, and creative and co-curricular activities as they relate to the student's chosen post-graduate path/field. Potential Learning Outcome: Reflect on and articulate how at least two skills, values, or relationships developed or refined during your time at Northwestern connect to the skills, values, or relationships needed for your chosen post-graduate path or field. Learning Goal: Collaborate with instructor, peers, and guest speakers to identify and discuss field-specific trends, skills, and best practices. Potential Learning Outcome: Describe at least three trends, skills, or best practices in your chosen path or field. Learning Goal: Construct a portfolio to demonstrate how student's experiences, transferable skills, and accomplishments apply to the knowledge, skills, values, and best practices of their chosen field/path. Potential Learning Outcome: Construct a portfolio which includes a tailored introduction and at least two relevant artifacts or examples of skills to demonstrate understanding of your chosen field/path.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Juniors & Seniors"
+            },
+            {
+                "Topic": "Entertainment & Media",
+                "Instructors": "Scott Adkins",
+                "Meeting Info": "Frances Searle Building 2378: Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course is a culminating experience designed to help students integrate and synthesize knowledge gained from coursework, internships, research, independent studies, employment, personal experience, and creative and co-curricular activities into portfolios and presentations that showcase wide-ranging career readiness skills. This section will explore careers in entertainment and media through industry research and guest speakers and practitioners from various corners of the industry.",
+                "Registration Requirements": "Enrollment is restricted to SoC juniors and seniors.",
+                "Learning Objectives": "Learning Goal: Explore and reflect on knowledge, skills, values, and relationships gained through coursework, internships, research, independent studies, employment, personal experience, and creative and co-curricular activities as they relate to the student's chosen post-graduate path/field. Potential Learning Outcome: Reflect on and articulate how at least two skills, values, or relationships developed or refined during your time at Northwestern connect to the skills, values, or relationships needed for your chosen post-graduate path or field. Learning Goal: Collaborate with instructor, peers, and guest speakers to identify and discuss field-specific trends, skills, and best practices. Potential Learning Outcome: Describe at least three trends, skills, or best practices in your chosen path or field. Learning Goal: Construct a portfolio to demonstrate how student's experiences, transferable skills, and accomplishments apply to the knowledge, skills, values, and best practices of their chosen field/path. Potential Learning Outcome: Construct a portfolio which includes a tailored introduction and at least two relevant artifacts or examples of skills to demonstrate understanding of your chosen field/path.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Juniors & Seniors"
+            }
+        ]
+    }
+]

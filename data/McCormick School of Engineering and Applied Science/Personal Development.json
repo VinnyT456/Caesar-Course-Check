@@ -1,0 +1,1352 @@
+[
+    {
+        "course_number": "101-2",
+        "course_name": "McCormick First-Year Experience",
+        "course_reference_number": [
+            "26728",
+            "26739",
+            "26749",
+            "26760",
+            "26771",
+            "26773",
+            "26774",
+            "26775",
+            "26776",
+            "26729",
+            "26730",
+            "26731",
+            "26732",
+            "26733",
+            "26734",
+            "26735",
+            "26736",
+            "26737",
+            "26738",
+            "26740",
+            "26741",
+            "26742",
+            "26743",
+            "26744",
+            "26745",
+            "26746",
+            "26747",
+            "26748",
+            "26750",
+            "26751",
+            "26754",
+            "26755",
+            "26756",
+            "26757",
+            "26752",
+            "26758",
+            "26759",
+            "26761",
+            "26762",
+            "26763",
+            "26764",
+            "26765",
+            "26766",
+            "26767",
+            "26768",
+            "26769",
+            "26770",
+            "26772"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:00PM"
+            },
+            {
+                "section": "4",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "5",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "7",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "8",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "9",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "10",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "11",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "12",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "13",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "14",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "15",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "16",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "17",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "18",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "19",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "20",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "24",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "25",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "26",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "27",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "28",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "31",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "32",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "33",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "34",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "35",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "7:20PM"
+            },
+            {
+                "section": "36",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "37",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "38",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "39",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "40",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "41",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "42",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "43",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "44",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "45",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "7:20PM"
+            },
+            {
+                "section": "46",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "47",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "48",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "49",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "50",
+                "course_name": "McCormick First-Year Experience",
+                "instructors": [
+                    "Vanessa Magallanes",
+                    "Ken Gentry",
+                    "Heather K Bacon"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Tues 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG72: Tues 7:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Tues 6:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute L160: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute L160: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Tues 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 101: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute L158: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Mon 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 101: Fri 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Thurs 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Kresge Centennial Hall 2-410: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Fri 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 101: Tues 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute M349: Wed 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute M120: Fri 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Elder Hall 032 Seminar Room: Tues 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG72: Tues 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute M166: Tues 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 101: Wed 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG66: Thurs 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 103: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Wed 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Wed 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 101: Tues 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "University Library 3670: Tues 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Annenberg Hall G28: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Elder Hall 032 Seminar Room: Thurs 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG62: Thurs 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Annenberg Hall G31: Wed 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute L170: Mon 6:30PM - 7:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 101: Wed 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Wed 7:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Elder Hall 030 Seminar Room: Thurs 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Elder Hall 030 Seminar Room: Fri 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Tues 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG72: Tues 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Schapiro Hall 101: Mon 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute MG51: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute L170: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG72: Thurs 6:30PM - 7:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG68: Tues 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute LG68: Mon 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute L158: Mon 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Lunt Hall 103: Wed 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vanessa Magallanes",
+                "Meeting Info": "Technological Institute F281: Mon 6:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students who have fewer than 12 units & are in the School of Engineering.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "200-0",
+        "course_name": "PATH (Personal Development Studio Lab)",
+        "course_reference_number": [
+            "26789",
+            "26790",
+            "26791",
+            "26792",
+            "26793",
+            "26794",
+            "26795",
+            "26796",
+            "26797",
+            "26798",
+            "26799"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "8:30PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "02",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "11",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:00PM"
+            },
+            {
+                "section": "12",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            },
+            {
+                "section": "13",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            },
+            {
+                "section": "14",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            },
+            {
+                "section": "15",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            },
+            {
+                "section": "16",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "6:30PM"
+            },
+            {
+                "section": "17",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "6:30PM"
+            },
+            {
+                "section": "18",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:00PM"
+            },
+            {
+                "section": "19",
+                "course_name": "PATH (Personal Development Studio Lab)",
+                "instructors": [
+                    "Joseph Holtgreive",
+                    "Elizabeth Block"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Technological Institute L170: Mon 8:30PM - 9:30PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute L221: Mon 3:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute M166: Mon 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute LG68: Mon 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute F280: Tues 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute L158: Tues 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute LG72: Wed 5:30PM - 6:30PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute LG68: Wed 5:30PM - 6:30PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute M120: Thurs 3:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Joseph Holtgreive",
+                "Meeting Info": "Technological Institute M166: Fri 12:00PM - 1:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "300-0",
+        "course_name": "Designing Your Life",
+        "course_reference_number": [
+            "26777",
+            "26778"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Designing Your Life",
+                "instructors": [
+                    "Bruce E Ankenman",
+                    "Sabrina Rahman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "02",
+                "course_name": "Designing Your Life",
+                "instructors": [
+                    "Rebeca Khorzad",
+                    "Mark Livshots"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bruce E Ankenman",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Associated Classes": "DIS - Technological Institute LG66: Thurs 6:00PM - 7:30PM"
+            },
+            {
+                "Instructors": "Rebeca Khorzad",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Associated Classes": "DIS - Technological Institute LG52: Thurs 6:00PM - 7:30PM"
+            }
+        ]
+    },
+    {
+        "course_number": "345-0",
+        "course_name": "Whole-Body Thinking: Collaborative Problem Solving through Partner Dancing",
+        "course_reference_number": [
+            "26753"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Whole-Body Thinking: Collaborative Problem Solving through Partner Dancing",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

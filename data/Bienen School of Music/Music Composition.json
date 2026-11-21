@@ -1,0 +1,636 @@
+[
+    {
+        "course_number": "112-0",
+        "course_name": "Applied Composition for Music Majors",
+        "course_reference_number": [
+            "22136",
+            "22137",
+            "22138",
+            "22139",
+            "22140"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Milan Mincek"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Kelley Sheehan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Jay Alan Yim"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Mathew Arrellin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Milan Mincek",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Kelley Sheehan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Jay Alan Yim\n847/467-2030\njaymar@northwestern.edu\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Mathew Arrellin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "211-0",
+        "course_name": "Class Composition",
+        "course_reference_number": [
+            "22209"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Class Composition",
+                "instructors": [
+                    "Wookhyun Lacey Kwon"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wookhyun Lacey Kwon",
+                "Meeting Info": "RCMA Lower Level 111: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This course approaches composition through the fundamental elements of music. We will examine what these elements are, how they have been used, and how far their possibilities have been extended in contemporary musical practices. Through listening, analysis, discussion, and hands-on creative exercises, we will explore how musical materials can be selected, developed, and organized into a composition. The primary focus of the course is the creation of original work. Student composition projects may take many forms, from conventionally notated music to text or graphic scores, electronic sound, improvisation, and experimental performance. No prior composition experience is required.",
+                "Class Materials (Required)": "None required for purchase.",
+                "Class Attributes": "20th/21st c. Music Studies Elective\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "212-0",
+        "course_name": "Applied Composition for Music Majors",
+        "course_reference_number": [
+            "22141",
+            "22142",
+            "22143",
+            "22144",
+            "22145"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Milan Mincek"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Kelley Sheehan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Jay Alan Yim"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Mathew Arrellin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Milan Mincek",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Kelley Sheehan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Jay Alan Yim\n847/467-2030\njaymar@northwestern.edu\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Mathew Arrellin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Applied Composition for Music Majors",
+        "course_reference_number": [
+            "22146",
+            "22147",
+            "22148",
+            "22149",
+            "22150"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Milan Mincek"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Kelley Sheehan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Jay Alan Yim"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Mathew Arrellin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Milan Mincek",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Kelley Sheehan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Jay Alan Yim\n847/467-2030\njaymar@northwestern.edu\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Mathew Arrellin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "337-0",
+        "course_name": "Topics in Contemporary Repertoire",
+        "course_reference_number": [
+            "22180"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Materialist Perspective",
+                "instructors": [
+                    "Topics in Contemporary Repertoire",
+                    "Kelley Sheehan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Materialist Perspective",
+                "Instructors": "Kelley Sheehan",
+                "Meeting Info": "RCMA Lower Level 111: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "we begin with the question: what could happen if we were to consider material things and instruments as lively agents? Topics include Instrumental Hybrids and \"Chimeras\", Cybernetics, and Instrumental Augmentations both in the acoustic and digital realms.\nReadings including those of Donna Haraway, Karen Barad, and Kevin Toksöz Fairbairn.\nStudents will become familiar with the artistic practices of performers such as Laetitia Sonami and Chiara Percivati. They will also analyze the repertoire of Nicolas Collins, Malin Bang, Alvin Lucier, and others. A contemporary repertoire focused course.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "339-0",
+        "course_name": "Compositional Concepts and Techniques",
+        "course_reference_number": [
+            "22178"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Aesthetics for Composers",
+                "instructors": [
+                    "Compositional Concepts and Techniques",
+                    "Jay Alan Yim"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Aesthetics for Composers",
+                "Instructors": "Jay Alan Yim\n847/467-2030\njaymar@northwestern.edu\nOffice Hours: By appointment",
+                "Meeting Info": "RCMA 1-180: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The class will survey and discuss aesthetic positions of the 20th and 21st centuries and examine their impact on contemporary music and sound art. A selection of texts that have influenced cultural production and reception will be read, by writers such as Borges, Higgins, Said, Morton, Foucault, Baudrillard, Jameson, Deleuze & Guattari, DeLanda, and others. A central part of the course discussion will be to interrogate the ways that these ideas support, oppose, and elaborate upon each other, and in particular, to observe how the perspectives presented by these writers have served as fodder for contemporary sonic praxes, and ultimately to construct the recently minted traditions that undergird our own sound-making as we enter the second quarter of the 21st Century. We will also be exploring non-linear connections and the conceptual framework of the grid and its utility in assisting those non-linear connections.",
+                "Registration Requirements": "Permission numbers are not needed. Freshmen up to doctoral students are welcome. Students must be capable of reading essays and other texts, discussing the content of those texts, and writing short responses (7-10 sentences, on average) to those texts, and to the responses of other students in the class.",
+                "Learning Objectives": "Students will have encountered a range of critical texts by important authors.",
+                "Teaching Method": "Students read assigned essays and other texts, discuss the content of those texts in class, and wrie short responses (7-10 sentences, on average) to those texts, and to the responses of other students in the class.",
+                "Evaluation Method": "Class participation is a crucial part of the course activities, and taken together with the written responses will comprise each student's cumulative grade.",
+                "Class Materials (Required)": "All reading materials will be distributed via Canvas.",
+                "Class Attributes": "20th/21st c. Music Studies Elective\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Junior Recital",
+        "course_reference_number": [
+            "22172"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Junior Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: Course is restircted to Juniors and above."
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Senior Recital",
+        "course_reference_number": [
+            "22151"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: Course is restircted to Juniors and above."
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Composition Colloquium",
+        "course_reference_number": [
+            "22152"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Composition Colloquium",
+                "instructors": [
+                    "Milan Mincek"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Milan Mincek",
+                "Meeting Info": "RCMA Lower Level 121: Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "439-0",
+        "course_name": "Compositional Concepts and Techniques",
+        "course_reference_number": [
+            "22184"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Aesthetics for Composers",
+                "instructors": [
+                    "Compositional Concepts and Techniques",
+                    "Jay Alan Yim"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Aesthetics for Composers",
+                "Instructors": "Jay Alan Yim\n847/467-2030\njaymar@northwestern.edu\nOffice Hours: By appointment",
+                "Meeting Info": "RCMA 1-180: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The class will survey and discuss aesthetic positions of the 20th and 21st centuries and examine their impact on contemporary music and sound art. A selection of texts that have influenced cultural production and reception will be read, by writers such as Borges, Higgins, Said, Morton, Foucault, Baudrillard, Jameson, Deleuze & Guattari, DeLanda, and others. A central part of the course discussion will be to interrogate the ways that these ideas support, oppose, and elaborate upon each other, and in particular, to observe how the perspectives presented by these writers have served as fodder for contemporary sonic praxes, and ultimately to construct the recently minted traditions that undergird our own sound-making as we enter the second quarter of the 21st Century. We will also be exploring non-linear connections and the conceptual framework of the grid and its utility in assisting those non-linear connections.",
+                "Registration Requirements": "Permission numbers are not needed. Freshmen up to doctoral students are welcome. Students must be capable of reading essays and other texts, discussing the content of those texts, and writing short responses (7-10 sentences, on average) to those texts, and to the responses of other students in the class.",
+                "Learning Objectives": "Students will have encountered a range of critical texts by important authors.",
+                "Teaching Method": "Students read assigned essays and other texts, discuss the content of those texts in class, and wrie short responses (7-10 sentences, on average) to those texts, and to the responses of other students in the class.",
+                "Evaluation Method": "Class participation is a crucial part of the course activities, and taken together with the written responses will comprise each student's cumulative grade.",
+                "Class Materials (Required)": "All reading materials will be distributed via Canvas."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Composition Colloquium",
+        "course_reference_number": [
+            "22181"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Composition Colloquium",
+                "instructors": [
+                    "Milan Mincek"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Milan Mincek",
+                "Meeting Info": "RCMA Lower Level 121: Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Applied Composition for Music Majors",
+        "course_reference_number": [
+            "22155",
+            "22156",
+            "22157",
+            "22158"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Milan Mincek"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Kelley Sheehan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Applied Composition for Music Majors",
+                "instructors": [
+                    "Jay Alan Yim"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Milan Mincek",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kelley Sheehan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Jay Alan Yim\n847/467-2030\njaymar@northwestern.edu\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "580-0",
+        "course_name": "Doctoral Recital",
+        "course_reference_number": [
+            "22159"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Doctoral Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

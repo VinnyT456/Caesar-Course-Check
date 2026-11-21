@@ -1,0 +1,30 @@
+[
+    {
+        "course_number": "331-DL",
+        "course_name": "Social Justice Movements",
+        "course_reference_number": [
+            "20578"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Social Justice Movements",
+                "instructors": [
+                    "Melissa Joy Sedlacek"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melissa Joy Sedlacek",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "This course explores the theory and practice of social justice movements. It covers power, activism, differences, protest, and unity. Through a multidisciplinary approach, students study historical and contemporary movements, analyze strategies, and assess societal impact. By course end, students gain a strong foundation and skills to engage in and contribute to social change efforts.\n\nThis course is conducted completely online. A technology fee will be added to tuition.",
+                "Registration Requirements": "This course is limited to School of Professional Studies students only. Undergraduate students in other schools at Northwestern are not permitted to enroll in this course.",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

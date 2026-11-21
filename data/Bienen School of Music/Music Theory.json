@@ -1,0 +1,363 @@
+[
+    {
+        "course_number": "325-0",
+        "course_name": "Style and Phrase",
+        "course_reference_number": [
+            "22161"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Style and Phrase",
+                "instructors": [
+                    "Vasili Byros"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vasili Byros\n847/467-2032\nv-byros@northwestern.edu",
+                "Meeting Info": "RCMA 1-176: Thurs 11:00AM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "335-0",
+        "course_name": "Selected Topics in Music Theory",
+        "course_reference_number": [
+            "22125",
+            "22126"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "BEETHOVEN",
+                "instructors": [
+                    "Selected Topics in Music Theory",
+                    "Vasili Byros"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Theory of Melody",
+                "instructors": [
+                    "Selected Topics in Music Theory",
+                    "Danuta Mirka"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "BEETHOVEN",
+                "Instructors": "Vasili Byros\n847/467-2032\nv-byros@northwestern.edu",
+                "Meeting Info": "RCMA Lower Level 115: Mon 11:00AM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Theory of Melody",
+                "Instructors": "Danuta Mirka",
+                "Meeting Info": "RCMA Lower Level 113: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Theory of melody emerged in the eighteenth century to supplement theories of counterpoint and harmony in the training of young composers. Launched by Johann Mattheson and further developed by Joseph Riepel, Friedrich Wilhelm Marpurg, Johann Philipp Kirnberger, and Heinrich Christoph Koch, this theory was guided by the metaphor of music as language. This is why composition handbooks of the era are full of concepts derived from grammar and rhetoric. Starting with these concepts and following the most authoritative composition handbook by Heinrich Christoph Koch, the course will guide you step-by-step from smallest musical building blocks up to entire compositions, and it will teach you how to apply concepts developed by eighteenth-century music theorists in analyses of pieces by Haydn, Mozart and Beethoven. Your skills developed in class will be tested in two quizzes and two analytical papers related to Haydn's string quartets and Mozart's symphonies.\n\nThe course will appeal to students in music theory as well as performance, musicology, music education, conducting and composition.",
+                "Registration Requirements": "To succeed in this class, students should have obtained the grade of 90% or more in the undergraduate music theory sequence.",
+                "Learning Objectives": "By the end of the class the student will be expected to have learned the eighteenth-century terminology related to phrase structure and form and have acquired the ability of using it in music analysis in order to describe and explain a range of means by which eighteenth-century composers crafted their pieces.",
+                "Class Materials (Required)": "No textbooks required. Reading materials will be provided by the instructor and posted on Canvas.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "355-0",
+        "course_name": "Analysis of Post-Tonal Music",
+        "course_reference_number": [
+            "22127"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Analysis of Post-Tonal Music",
+                "instructors": [
+                    "Danuta Mirka"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danuta Mirka",
+                "Meeting Info": "RCMA Lower Level 113: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Dissolution of functional tonality in the first decades of the twentieth century was a complex process which took different routes in different countries and led to different rules of pitch organization adopted by different composers—not infrequently inspired by their philosophical outlooks, religious beliefs or artistic agendas. This complexity of historical process and multiplicity of compositional techniques is obliterated by the uniformity of analytical method (pitch-class set theory) that dominates the field of post-tonal analysis today. The course will not be a systematic presentation of this method, but a series of glimpses into compositional techniques developed by some of the most prominent twentieth-century composers, and it will teach you how to use concepts derived from these techniques in analysis of their music. This twofold—theoretical and analytical—orientation will be reflected in the course design, in which discussion of concepts will be followed by analytical exercises. The assessment will include preparation for and participation in the discussion (20%), and two analytical papers (40% each).\n\nThe course will be of particular interest for students in music theory and composition, and it will appeal to some students in music performance, conducting, and musicology.",
+                "Learning Objectives": "By the end of the class the student will be expected to have become familiar with compositional techniques by some of the most important twentieth-century composers and learned how to apply them in analysis of their music.",
+                "Class Materials (Required)": "No textbooks required.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "385-0",
+        "course_name": "Senior Project",
+        "course_reference_number": [
+            "22128"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Project",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Music Theory Colloquium",
+        "course_reference_number": [
+            "22129"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music Theory Colloquium",
+                "instructors": [
+                    "Richard Ashley"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Richard Ashley\n847/491-5720\nr-ashley@northwestern.edu\nOffice Hours: W 10-11 and by appt.",
+                "Meeting Info": "RCMA 1-172: Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "401-0",
+        "course_name": "Graduate Review of Music Theory",
+        "course_reference_number": [
+            "22160"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Graduate Review of Music Theory",
+                "instructors": [
+                    "Gavin Chuck"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "8:30AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gavin Chuck\ng-chuck@northwestern.edu",
+                "Meeting Info": "RCMA 1-172: Mon, Wed 8:30AM - 9:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "410-0",
+        "course_name": "Music Theory Pedagogy",
+        "course_reference_number": [
+            "22163"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music Theory Pedagogy",
+                "instructors": [
+                    "Susan Piagentini"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Piagentini\n847/491-5704\nRCMA 4-175, 70 Arts Circle Dr, Evanston, IL",
+                "Meeting Info": "RCMA 1-176: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Many graduate students will inevitably serve as theory instructors as part of future positions upon graduation from Northwestern. The practicum will provide first-hand experience in the implementation and design of an undergraduate theory curriculum and the development of lesson plans and materials. (Although you will experience some review as you observe classes, it is not a replacement for an upper-level theory analysis course.)\n\nStudents may also consider the concepts presented in this course as inspiration for the inclusion of theoretical concepts in other professional endeavors such as studio teaching, teaching in other disciplines, coaching, and conducting.",
+                "Registration Requirements": "graduate student (MM, DM, PhD in Music)",
+                "Learning Objectives": "• practice and refine teaching skills through model teaching exercises and observations;\n• become acquainted with trends in the teaching of music theory/aural skills on the college\nlevel;\n• develop a clear plan for creating lesson plans, materials, and syllabi to support a college level\ncourse.",
+                "Teaching Method": "• weekly topics: exploring trends in the field & course design\n• discussion of readings/materials\n• informal practice teaching exercises",
+                "Evaluation Method": "• Weekly observation of core undergraduate courses (1/week = 8 total; weeks 2-9)\n• One online journal entry post per week summarizing response to a weekly topic prompt &\nweekly core classroom observation (weeks 1-3 and 5-9) Weekly observation of core\nundergraduate courses (1/week = 8 total; weeks 2-9)\n• Textbook review and presentation (3)\n• Designing course materials (classroom activity handouts, assignments)\n• Final Curriculum Essay/Syllabus Project",
+                "Class Materials (Required)": "none"
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Style and Phrase",
+        "course_reference_number": [
+            "22210"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Style and Phrase",
+                "instructors": [
+                    "Vasili Byros"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vasili Byros\n847/467-2032\nv-byros@northwestern.edu",
+                "Meeting Info": "RCMA 1-176: Thurs 11:00AM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Selected Topics in Music Theory",
+        "course_reference_number": [
+            "22131",
+            "22132"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "BEETHOVEN",
+                "instructors": [
+                    "Selected Topics in Music Theory",
+                    "Vasili Byros"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Theory of Melody",
+                "instructors": [
+                    "Selected Topics in Music Theory",
+                    "Danuta Mirka"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "BEETHOVEN",
+                "Instructors": "Vasili Byros\n847/467-2032\nv-byros@northwestern.edu",
+                "Meeting Info": "RCMA Lower Level 115: Mon 11:00AM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Theory of Melody",
+                "Instructors": "Danuta Mirka",
+                "Meeting Info": "RCMA Lower Level 113: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Theory of melody emerged in the eighteenth century to supplement theories of counterpoint and harmony in the training of young composers. Launched by Johann Mattheson and further developed by Joseph Riepel, Friedrich Wilhelm Marpurg, Johann Philipp Kirnberger, and Heinrich Christoph Koch, this theory was guided by the metaphor of music as language. This is why composition handbooks of the era are full of concepts derived from grammar and rhetoric. Starting with these concepts and following the most authoritative composition handbook by Heinrich Christoph Koch, the course will guide you step-by-step from smallest musical building blocks up to entire compositions, and it will teach you how to apply concepts developed by eighteenth-century music theorists in analyses of pieces by Haydn, Mozart and Beethoven. Your skills developed in class will be tested in two quizzes and two analytical papers related to Haydn's string quartets and Mozart's symphonies.\n\nThe course will appeal to students in music theory as well as performance, musicology, music education, conducting and composition.",
+                "Registration Requirements": "To succeed in this class, students should have obtained the grade of 90% or more in the undergraduate music theory sequence.",
+                "Learning Objectives": "By the end of the class the student will be expected to have learned the eighteenth-century terminology related to phrase structure and form and have acquired the ability of using it in music analysis in order to describe and explain a range of means by which eighteenth-century composers crafted their pieces."
+            }
+        ]
+    },
+    {
+        "course_number": "485-0",
+        "course_name": "MM Project",
+        "course_reference_number": [
+            "22133"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MM Project",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Music Theory Colloquium",
+        "course_reference_number": [
+            "22182"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music Theory Colloquium",
+                "instructors": [
+                    "Richard Ashley"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Richard Ashley\n847/491-5720\nr-ashley@northwestern.edu\nOffice Hours: W 10-11 and by appt.",
+                "Meeting Info": "RCMA 1-172: Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

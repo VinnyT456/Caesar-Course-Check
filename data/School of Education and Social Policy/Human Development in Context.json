@@ -1,0 +1,97 @@
+[
+    {
+        "course_number": "205-0",
+        "course_name": "Coming of Age and Growing Old in the 21st Century",
+        "course_reference_number": [
+            "26364"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Coming of Age and Growing Old in the 21st Century",
+                "instructors": [
+                    "Sneha Kumar"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sneha Kumar",
+                "Meeting Info": "2001 Sheridan GPC 2109: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This course introduces students to sociological and life course perspectives on adulthood and aging. It focuses on how sociohistorical context, social location or category, and early life conditions influence individuals' pathways to adulthood and old age. The first half of this course looks at what it means to come of age today. We will study why the traditional markers of adulthood - leaving home, completing education, being financially independent, getting married, and having children - have become increasingly delayed and disrupted, and briefly consider the consequences of deviating from the \"standard\" life course. We will pay specific attention to how social factors (e.g., immigration status, gender and sexuality, race, class) shape young people's transitions to these stages of adult life. The second half of this course looks at what it means to grow old and age healthily. We will look at the significance of social and intergenerational relationships for older people's health and wellbeing, work/retirement and social integration, and end-of-life issues. While the course predominantly focuses on the United States, we will also draw on empirical findings from other regions across the globe (particularly Asia).",
+                "Learning Objectives": "Understand core concepts and methods of the life course perspective.\nUnderstand how social forces influence individuals' transitions through stages of adult life.\nGain knowledge about social inequalities in adulthood and old age.\nApply life-course and sociological concepts to analyze real-world adulthood and aging issues.\nCommunicate effectively in various formats, including in-class discussions, group presentations, short essays, and interview analysis.",
+                "Class Materials (Required)": "All readings for the course will be made available on the Canvas course website. If you are unable to access or find the reading on Canvas, enter the article or chapter title in NU Library search and you should be able to find a downloadable or online read-only copy. You are expected to complete assigned readings for the day before coming to class.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Students cannot enroll in and receive credit for both HDC 205-0 and SESP 251-0, \"Coming of Age and Growing Old.\""
+            }
+        ]
+    },
+    {
+        "course_number": "309-0",
+        "course_name": "Team Dynamics",
+        "course_reference_number": [
+            "26358"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Team Dynamics",
+                "instructors": [
+                    "Mindy Magrane"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mindy Magrane",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "In this course, we will explore team dynamics, those forces that influence a team's behavior and performance and can enhance or hinder potential for impact. We will analyze the contributors to team functioning and their interrelationships at multiple levels: intrapersonal, interpersonal, group and organizational. Key topics include team development, team make-up and roles, leadership and followership, decision-making, navigating conflict, collaboration and competition, effective communication, content vs. process, diversity and in-group/out-group tensions. Throughout the class, students will be analyzing and applying concepts through case studies and simulations. Assignments to demonstrate mastery include regular written individual papers and a team project. This course is suitable for undergraduate students in LOC, Human Development in Context, and related majors throughout Northwestern that are interested in leadership, teams/groups or organizational change.",
+                "Evaluation Method": "Individual Papers, Team Project & Presentation, Attendance & Participation",
+                "Class Materials (Required)": "All materials available in Canvas. No need to purchase.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "315-0",
+        "course_name": "Identities, Intersections, and Organizations",
+        "course_reference_number": [
+            "26362"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Identities, Intersections, and Organizations",
+                "instructors": [
+                    "Lilah Shapiro"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lilah Shapiro",
+                "Meeting Info": "2001 Sheridan GPC GN350: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Fundamental to nearly all life experiences is a) who we are - who we understand ourselves to be and who others think we are, b) the organizations and groups of which we are a part, and c) the co-construction and myriad entanglements and interactions of these things. Using primarily seminar-style discussion and a series of case studies, this course focuses on building and analyzing theoretical frameworks to understand the nature of individual, group, and organizational identity, identity politics, theories of intersectionality (that is, the critical interactions/tensions among social roles, histories, identities, social locations, and so on), and how each of these function and manifest in the life of and life in myriad types of organizations. Developing a robust understanding of how to identify and deconstruct the dynamic and varying role that identities play in organizations is key to understanding how/why organizations behave, whose needs they serve/who is left out or marginalized, and the possibility of/conditions for change. Further, the relationship between individuals and organizations is bi-directional, each acting upon and shaping other. The course will also provide the tools to analyze the impact of organizations on the individual/group.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ANTI-REQ: Students may not enroll if they have recieved credit for or are currently enrolled in HDC/LOC 351-0."
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "course_number": "498-0",
+        "course_name": "Advances in Applied Mathematics Research",
+        "course_reference_number": [
+            "28697"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advances in Applied Mathematics Research",
+                "instructors": [
+                    "Hermann Riecke"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:30AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hermann Riecke",
+                "Meeting Info": "Technological Institute M416: Tues 10:30AM - 12:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

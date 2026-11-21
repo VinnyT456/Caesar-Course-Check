@@ -1,0 +1,231 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Korean I",
+        "course_reference_number": [
+            "23664",
+            "23665"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Korean I",
+                "instructors": [
+                    "Ihnhee Kim"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Korean I",
+                "instructors": [
+                    "Ihnhee Kim"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ihnhee Kim\n847/491-2767\n1880 Campus Drive, Kresge Hall, Office 4-417\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Hall 312: Mon, Tues, Wed, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "AY 26-27. This is a year-long first-year course designed for beginning learners without previous knowledge in Korean language. The course aims to build students' all-around communicative ability in speaking, reading, listening and writing with a great emphasis on developing the conversational skill. Students will learn basic aspects of Korean culture throughout the course.",
+                "Registration Requirements": "111-1: None\n\n111-2: Completion of 111-1 with C- or above or the departmental placement test\n\n111-3: Completion of 111-2 with C- or above or the departmental placement test",
+                "Learning Objectives": "This course is designed to have students reach their oral proficiency at the Intermediate Low level of the ACTFL guideline by the end of year. It aims to achieve the competency in interpersonal, presentational and interpretive communication and culture in conjunction with the National Standards.",
+                "Teaching Method": "Students will learn the basic elements of Korean language such as pronunciation, vocabulary, grammar, and sentence structure. In this student-centered class, students will actively participate in speaking, reading, writing and listening activities. Related supplemental materials such as video clips and reading texts will be incorporated to enhance students' listening and reading skills as well as the cultural understanding.",
+                "Evaluation Method": "Grade will be based on attendance and participation, vocabulary quizzes and lesson tests, assignments, oral tests and performance, and final examination.",
+                "Class Materials (Required)": "Integrated Korean (3rd edition): Beginning 1 & 2 (University of Hawaii Press)\n978-0-8248-7619-7 & 978-0-8248-8331-7\n\nWorkbook (3rd edition): Beginning 1 & 2 (University of Hawaii Press)\n978-0-8248-7650-0 & 978-0-8248-8336-2",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Korean 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Korean 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Ihnhee Kim\n847/491-2767\n1880 Campus Drive, Kresge Hall, Office 4-417\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Hall 312: Mon, Tues, Wed, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "AY 26-27. This is a year-long first-year course designed for beginning learners without previous knowledge in Korean language. The course aims to build students' all-around communicative ability in speaking, reading, listening and writing with a great emphasis on developing the conversational skill. Students will learn basic aspects of Korean culture throughout the course.",
+                "Registration Requirements": "111-1: None\n\n111-2: Completion of 111-1 with C- or above or the departmental placement test\n\n111-3: Completion of 111-2 with C- or above or the departmental placement test",
+                "Learning Objectives": "This course is designed to have students reach their oral proficiency at the Intermediate Low level of the ACTFL guideline by the end of year. It aims to achieve the competency in interpersonal, presentational and interpretive communication and culture in conjunction with the National Standards.",
+                "Teaching Method": "Students will learn the basic elements of Korean language such as pronunciation, vocabulary, grammar, and sentence structure. In this student-centered class, students will actively participate in speaking, reading, writing and listening activities. Related supplemental materials such as video clips and reading texts will be incorporated to enhance students' listening and reading skills as well as the cultural understanding.",
+                "Evaluation Method": "Grade will be based on attendance and participation, vocabulary quizzes and lesson tests, assignments, oral tests and performance, and final examination.",
+                "Class Materials (Required)": "Integrated Korean (3rd edition): Beginning 1 & 2 (University of Hawaii Press)\n978-0-8248-7619-7 & 978-0-8248-8331-7\n\nWorkbook (3rd edition): Beginning 1 & 2 (University of Hawaii Press)\n978-0-8248-7650-0 & 978-0-8248-8336-2",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Korean 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Korean 111-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Korean II",
+        "course_reference_number": [
+            "23666",
+            "28833"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Korean II",
+                "instructors": [
+                    "Eun Hee Kim"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Korean II",
+                "instructors": [
+                    "Eun Hee Kim"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eun Hee Kim\n847/467-7419\n1880 Campus Drive, Kresge Hall, 4-415\nOffice Hours: Varies quarter to quarter, please contact instructor",
+                "Meeting Info": "University Hall 218: Mon, Tues, Wed, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "AY 26-27. This is a year-long second-year Korean course for continuing students who finished Korean I or who have the equivalent proficiency. The course aims to further develop students' four skills in speaking, listening, reading, and writing to the next level and to bring up the competency of Communication and Cultural understanding.",
+                "Registration Requirements": "121-1: Completion of 111-3 with C- or above, or the departmental placement test\n\n121-2: Completion of 121-1 with C- or above, or the departmental placement test\n\n121-3: Completion of 121-2 with C- or above, or the departmental placement test",
+                "Learning Objectives": "This course is designed to have students reach their oral proficiency at the Intermediate Mid-level of the ACTFL guideline by the end of year. It aims to achieve interpersonal, presentational, and interpretive communication as well as cultures in conjunction with the National Standards.",
+                "Teaching Method": "Various communicative activities will be employed to develop the interpersonal, interpretive, and presentational skills. Also, authentic reading, writing, and visual materials that cover a wide spectrum of cultural topics will be provided to enhance student's overall competency and cultural understanding.",
+                "Evaluation Method": "Grades will be given based on attendance and class participation, vocabulary quizzes, lesson tests, assignments, oral test and performance, and final examination.",
+                "Class Materials (Required)": "Integrated Korean (3rd edition): Intermediate 1 & 2 (University of Hawaii Press)\n978-0-8248-8677-6 & 978-0-8248-8682-0\n\nWorkbook (3rd edition): Intermediate 1 & 2 (University of Hawaii Press)\n978-0-8248-8676-9 & 978-0-8248-8683-7",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Korean 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Korean 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Eun Hee Kim\n847/467-7419\n1880 Campus Drive, Kresge Hall, 4-415\nOffice Hours: Varies quarter to quarter, please contact instructor",
+                "Meeting Info": "University Library 3370: Mon, Wed, Thurs 11:00AM - 11:50AM\nTBA: Tues 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Korean 121-1 with at least a C- or be placed in according to placement test results.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "125-2",
+        "course_name": "Korean II - Accelerated",
+        "course_reference_number": [
+            "23674"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Korean II",
+                "instructors": [
+                    "Accelerated",
+                    "Eunmi Lee"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eunmi Lee\n8474671323\n1880 Campus Drive, Kresge Hall, Office 4-421\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Hall 218: Mon, Tues, Wed, Thurs 1:00PM - 1:50PM",
+                "Overview of class": "AY26-27 This is a year-long second-year Accelerated Korean course for students with existing proficiencies in speaking/ listening skills and more limited reading /writing skills in Korean. It focuses more on developing students' literacy skills to balance with their oral skills. Students will engage in various literacy activities and authentic materials with community-based cultural activities.",
+                "Registration Requirements": "125-1: The departmental placement test\n\n125-2: Completion of 125-1 with C- or above, or the departmental placement test\n\n125-3: Completion of 125-2 with C- or above, or the departmental placement test",
+                "Learning Objectives": "This course is designed to have students reach their oral proficiency at the Intermediate High level and their writing proficiency at the Intermediate Mid-level of the ACTFL guideline. By the end of year, it aims to achieve interpersonal, presentational, and interpretive communication along with comparisons and cultures of the National Standards.",
+                "Teaching Method": "This class is conducted exclusively in Korean with minimal grammar instruction. Students will be doing extensive writing practice, reading authentic materials, class discussions, and learning various community-related and cultural aspects of Korea.",
+                "Evaluation Method": "Grades will be given based on attendance and performance, vocabulary quizzes and lesson tests, assignments, written assignments, oral performance, and final examination.",
+                "Class Materials (Required)": "Integrated Korean: Accelerated 1 & 2 (University of Hawaii Press, 2020)\n\n978-0-8248-8277-8 & 978-0-8248-8278-5\nIntegrated Korean Workbook: Accelerated 1 & 2 (University of Hawaii Press, 2020)\n\n978-0-8248-8629-5 & 978-0-8248-8630-1",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Korean 125-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Korean 125-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "211-2",
+        "course_name": "Korean III",
+        "course_reference_number": [
+            "23695"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Korean III",
+                "instructors": [
+                    "Eun Hee Kim"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eun Hee Kim\n847/467-7419\n1880 Campus Drive, Kresge Hall, 4-415\nOffice Hours: Varies quarter to quarter, please contact instructor",
+                "Meeting Info": "Locy Hall 106: Mon, Tues, Wed, Thurs 1:00PM - 1:50PM",
+                "Overview of class": "AY 26-27 This is a year-long third-year course designed to further develop students' linguistic and cultural ability, particularly to enhance the overall communicative skills in speaking, listening, reading, and writing toward Advanced level. The vocabulary, contents, tasks, and topics covered in class are to address a wide spectrum of linguistic, discourse and socio-cultural aspects. Students will gain in-depth knowledge in academic discourse skills and understanding of Korean language, culture, and society.",
+                "Registration Requirements": "211-1: Completion of 121-3 or 125-3 with C- or above, or the departmental placement test\n\n211-2: Completion of 211-1 with C- or above, or the departmental placement test\n\n211-3: Completion of 211-2 with C- or above, or the departmental placement test",
+                "Learning Objectives": "This course is designed to have students reach their proficiency at the Intermediate High level of the ACTFL guideline by the end of year in interpersonal, presentational, and interpretive communication along with comparisons and cultures.",
+                "Teaching Method": "Various communicative activities will be employed with the emphasis on developing three modes of communication in advanced proficiency: Interpersonal, interpretive, and presentational communication. Related authentic and cultural materials will be incorporated to enhance intercultural competence.",
+                "Evaluation Method": "Grades will be given based on attendance and class participation, vocabulary quizzes, lesson tests, assignments, essays, oral performance, and final project.",
+                "Class Materials (Required)": "Sogang Korean 4A & 4B Students' Book (2015) Sogang University\n\n978-89-92491-84-6 18710 and 978-89-92491-88-4 18710\n\nSogang Korean 4A & 4B Workbook (2015) Sogang University\n\n978-89-92491-92-1 13710 and 978-89-92491-91-4 13710",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Requisite: Students must have passed Korean 211-1 with at least a C- in order to register for this class or be placed in according to placement test results. Pre-Requisite: Students must have passed Korean 211-1 with at least a C- in order to register for this class or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "410-0",
+        "course_name": "Advanced Study",
+        "course_reference_number": [
+            "23682"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Study",
+                "instructors": [
+                    "Eun Hee Kim"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eun Hee Kim\n847/467-7419\n1880 Campus Drive, Kresge Hall, 4-415\nOffice Hours: Varies quarter to quarter, please contact instructor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

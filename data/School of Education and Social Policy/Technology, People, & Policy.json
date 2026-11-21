@@ -1,0 +1,202 @@
+[
+    {
+        "course_number": "422-0",
+        "course_name": "MTePP Data, Ethics, and Effective Policy Design",
+        "course_reference_number": [
+            "28005"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MTePP Data, Ethics, and Effective Policy Design",
+                "instructors": [
+                    "Nichole Pinkard"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nichole Pinkard",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Wed 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "426-1",
+        "course_name": "Design of Technological Tools for Thinking and Learning",
+        "course_reference_number": [
+            "26459"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design of Technological Tools for Thinking and Learning",
+                "instructors": [
+                    "Uri Wilensky"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Uri Wilensky",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Wed 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "438-0",
+        "course_name": "Computational Tools for Justice and Inquiry-Based Learning",
+        "course_reference_number": [
+            "27027"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computational Tools for Justice and Inquiry-Based Learning",
+                "instructors": [
+                    "Paula Hooper"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paula Hooper",
+                "Meeting Info": "2001 Sheridan GPC GN210: Mon 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "445-0",
+        "course_name": "Technology, Emotion, and Social Relationships",
+        "course_reference_number": [
+            "26357"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Technology, Emotion, and Social Relationships",
+                "instructors": [
+                    "Claudia Haase"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Claudia Haase",
+                "Meeting Info": "TBA: Tues 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "446-0",
+        "course_name": "Navigating AI and Data Governance: Tools and Techniques for Tech Policy Professi",
+        "course_reference_number": [
+            "28006"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Navigating AI and Data Governance: Tools and Techniques for Tech Policy Professi",
+                "instructors": [
+                    "Vien Xuan Nguyen"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vien Xuan Nguyen",
+                "Meeting Info": "2001 Sheridan GPC 4103: Thurs 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Hybrid: Remote component and in-person mtgs"
+            }
+        ]
+    },
+    {
+        "course_number": "451-0",
+        "course_name": "Topics in Tech, People and Policy",
+        "course_reference_number": [
+            "28690"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "AI Studio",
+                "instructors": [
+                    "Topics in Tech, People and Policy",
+                    "Garrett Hedman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "AI Studio",
+                "Instructors": "Garrett Hedman",
+                "Meeting Info": "2001 Sheridan GPC 2109: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "498-1",
+        "course_name": "Technology, People, & Policy Capstone & Mentoring I",
+        "course_reference_number": [
+            "28007"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Technology, People, & Policy Capstone & Mentoring I",
+                "instructors": [
+                    "Vien Xuan Nguyen"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vien Xuan Nguyen",
+                "Meeting Info": "2001 Sheridan GPC 2109: Tues 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "course_number": "301-0",
+        "course_name": "Insurance Planning",
+        "course_reference_number": [
+            "20396"
+        ],
+        "course_info": [
+            {
+                "section": "44",
+                "course_name": "Insurance Planning",
+                "instructors": [
+                    "Jacob Hartz",
+                    "Tamra Wener"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacob Hartz",
+                "Meeting Info": "Wieboldt Hall 406: Wed 5:45PM - 9:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Investment Planning",
+        "course_reference_number": [
+            "20397"
+        ],
+        "course_info": [
+            {
+                "section": "45",
+                "course_name": "Investment Planning",
+                "instructors": [
+                    "Linus Park"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Linus Park",
+                "Meeting Info": "Wieboldt Hall 406: Thurs 6:00PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "314-0",
+        "course_name": "Retirement Planning and Employee Benefits",
+        "course_reference_number": [
+            "20398"
+        ],
+        "course_info": [
+            {
+                "section": "43",
+                "course_name": "Retirement Planning and Employee Benefits",
+                "instructors": [
+                    "Charles Williams"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Charles Williams",
+                "Meeting Info": "Wieboldt Hall 406: Tues 5:45PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    }
+]

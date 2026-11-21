@@ -1,0 +1,1409 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Music Theory II",
+        "course_reference_number": [
+            "22060",
+            "22061",
+            "22062",
+            "22063",
+            "22064"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music Theory II",
+                "instructors": [
+                    "Susan Piagentini"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Music Theory II",
+                "instructors": [
+                    "Kenn A Kumpf"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Music Theory II",
+                "instructors": [
+                    "Susan Piagentini"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "5",
+                "course_name": "Music Theory II",
+                "instructors": [
+                    "Vincent Ip"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "6",
+                "course_name": "Music Theory II",
+                "instructors": [
+                    "Vincent Ip"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Piagentini\n847/491-5704\nRCMA 4-175, 70 Arts Circle Dr, Evanston, IL",
+                "Meeting Info": "RCMA 1-176: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Kenn A Kumpf",
+                "Meeting Info": "RCMA 1-168: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Susan Piagentini\n847/491-5704\nRCMA 4-175, 70 Arts Circle Dr, Evanston, IL",
+                "Meeting Info": "RCMA 1-176: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Vincent Ip",
+                "Meeting Info": "RCMA 1-180: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Vincent Ip",
+                "Meeting Info": "RCMA 1-180: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "126-2",
+        "course_name": "Aural Skills II",
+        "course_reference_number": [
+            "22065",
+            "22066",
+            "22067",
+            "22068",
+            "22069",
+            "22070"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Aural Skills II",
+                "instructors": [
+                    "Jacob Peter de Mallorca Garcia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Aural Skills II",
+                "instructors": [
+                    "Kenn A Kumpf"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Aural Skills II",
+                "instructors": [
+                    "Marie Engle"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Aural Skills II",
+                "instructors": [
+                    "Sion Gethin Edwards"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "5",
+                "course_name": "Aural Skills II",
+                "instructors": [
+                    "Kenn A Kumpf"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Aural Skills II",
+                "instructors": [
+                    "Kenn A Kumpf"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacob Peter de Mallorca Garcia",
+                "Meeting Info": "RCMA 1-172: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Kenn A Kumpf",
+                "Meeting Info": "RCMA 1-168: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Marie Engle",
+                "Meeting Info": "RCMA 1-176: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Sion Gethin Edwards",
+                "Meeting Info": "RCMA 1-168: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Kenn A Kumpf",
+                "Meeting Info": "RCMA 1-168: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Kenn A Kumpf",
+                "Meeting Info": "RCMA 1-168: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "127-2",
+        "course_name": "Keyboard Skills 2",
+        "course_reference_number": [
+            "22198",
+            "22199",
+            "22200",
+            "22201",
+            "22202"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Keyboard Skills 2",
+                "instructors": [
+                    "Karen Kan-Walsh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Keyboard Skills 2",
+                "instructors": [
+                    "Annie Hsiao"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Keyboard Skills 2",
+                "instructors": [
+                    "Annie Hsiao"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Keyboard Skills 2",
+                "instructors": [
+                    "Susan Osborn"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "5",
+                "course_name": "Keyboard Skills 2",
+                "instructors": [
+                    "Susan Osborn"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karen Kan-Walsh\n847/491-3886\nRyan Center for the Musical Arts, Evanston, IL 60208\nOffice Hours: By appointment",
+                "Meeting Info": "RCMA 4-136 Keyboard Lab: Tues, Thurs 1:00PM - 1:50PM",
+                "Overview of class": "Scales, Etudes, Readings small and large, Chord progressions, Repertoire small and quarter-long, Melody harmonizations, Creative activities, Keyboard Ensemble, Sight Reading",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Continued development of a healthful technique, chord progressions transposed to various keys, clear projection of various articulations and dynamic levels, successful mini-recital performance.",
+                "Teaching Method": "Lecture, demonstration, in-class practice and activities in individual and group settings",
+                "Evaluation Method": "Quizzes, exams, and performance",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 1 by Stecher and Horowitz published by Hal Leonard. ISBN 0793552915 or 978-0793552917. $35.59",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Annie Hsiao\n847/491-5736\n1818 Hinman Ave. Evanston IL 60208",
+                "Meeting Info": "RCMA 4-138 Keyboard Lab: Tues, Thurs 9:00AM - 9:50AM",
+                "Overview of class": "Scales, Etudes, Readings small and large, Chord progressions, Repertoire small and quarter-long, Melody harmonizations, Creative activities, Keyboard Ensemble, Sight Reading",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Continued development of a healthful technique, chord progressions transposed to various keys, clear projection of various articulations and dynamic levels, successful mini-recital performance.",
+                "Teaching Method": "Lecture, demonstration, in-class practice and activities in individual and group settings",
+                "Evaluation Method": "Quizzes, exams, and performance",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 1 by Stecher and Horowitz published by Hal Leonard. ISBN 0793552915 or 978-0793552917. $35.59",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Annie Hsiao\n847/491-5736\n1818 Hinman Ave. Evanston IL 60208",
+                "Meeting Info": "RCMA 4-136 Keyboard Lab: Tues, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "Scales, Etudes, Readings small and large, Chord progressions, Repertoire small and quarter-long, Melody harmonizations, Creative activities, Keyboard Ensemble, Sight Reading",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Continued development of a healthful technique, chord progressions transposed to various keys, clear projection of various articulations and dynamic levels, successful mini-recital performance.",
+                "Teaching Method": "Lecture, demonstration, in-class practice and activities in individual and group settings",
+                "Evaluation Method": "Quizzes, exams, and performance",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 1 by Stecher and Horowitz published by Hal Leonard. ISBN 0793552915 or 978-0793552917. $35.59",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Susan Osborn",
+                "Meeting Info": "RCMA 4-138 Keyboard Lab: Tues, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "Scales, Etudes, Readings small and large, Chord progressions, Repertoire small and quarter-long, Melody harmonizations, Creative activities, Keyboard Ensemble, Sight Reading",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Continued development of a healthful technique, chord progressions transposed to various keys, clear projection of various articulations and dynamic levels, successful mini-recital performance.",
+                "Teaching Method": "Lecture, demonstration, in-class practice and activities in individual and group settings",
+                "Evaluation Method": "Quizzes, exams, and performance",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 1 by Stecher and Horowitz published by Hal Leonard. ISBN 0793552915 or 978-0793552917. $35.59",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Susan Osborn",
+                "Meeting Info": "RCMA 4-138 Keyboard Lab: Tues, Thurs 12:00PM - 12:50PM",
+                "Overview of class": "Scales, Etudes, Readings small and large, Chord progressions, Repertoire small and quarter-long, Melody harmonizations, Creative activities, Keyboard Ensemble, Sight Reading",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Continued development of a healthful technique, chord progressions transposed to various keys, clear projection of various articulations and dynamic levels, successful mini-recital performance.",
+                "Teaching Method": "Lecture, demonstration, in-class practice and activities in individual and group settings",
+                "Evaluation Method": "Quizzes, exams, and performance",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 1 by Stecher and Horowitz published by Hal Leonard. ISBN 0793552915 or 978-0793552917. $35.59",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "128-2",
+        "course_name": "Keyboard Skills 2+",
+        "course_reference_number": [
+            "22203"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Keyboard Skills 2+",
+                "instructors": [
+                    "Susan Osborn"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Osborn",
+                "Meeting Info": "RCMA 4-138 Keyboard Lab: Tues, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "Scales, Etudes, Readings small and large, Chord progressions, Repertoire small and quarter-long, Melody harmonizations, Creative activities, Keyboard Ensemble, Sight Reading",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Continued development of a healthful technique, chord progressions transposed to various keys, clear projection of various articulations, dynamic levels, and phrasing, successful mini-recital performance.",
+                "Teaching Method": "Lecture, demonstration, in-class practice and activities in individual and group settings.",
+                "Evaluation Method": "Quizzes, exams, and performance",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 1 by Stecher and Horowitz published by Hal Leonard. ISBN 0793552915 or 978-0793552917. $35.59",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "130-2",
+        "course_name": "Keyboard Skills for Piano Majors",
+        "course_reference_number": [
+            "22204"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Keyboard Skills for Piano Majors",
+                "instructors": [
+                    "Karen Kan-Walsh"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karen Kan-Walsh\n847/491-3886\nRyan Center for the Musical Arts, Evanston, IL 60208\nOffice Hours: By appointment",
+                "Meeting Info": "RCMA 4-136 Keyboard Lab: Mon, Wed 11:00AM - 11:50AM",
+                "Overview of class": "Selected 19th-century pieces, transposed instruments, orchestral scores, ensemble, art songs, rubato study, modulation, melody harmonization, sight reading, creative activities.",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "To be able to assess and negotiate patterns for sight reading 19th century piano literature examples. To play transposed-instrument excerpts at concert pitch. To read selected parts from full orchestral score. To sing/hum an art song while playing the accompaniment. To understand harmonic modulation. To be able to harmonize melodies with 19th century chord vocabulary. To construct creative mini-pieces. To understand and give a presentation on rubato.",
+                "Teaching Method": "Lecture, individual and group practice.",
+                "Evaluation Method": "Quizzes, exams, presentations, performances.",
+                "Class Materials (Required)": "No required text.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "211-2",
+        "course_name": "Music Theory V",
+        "course_reference_number": [
+            "22071",
+            "22072",
+            "22073",
+            "22074",
+            "22075",
+            "22076",
+            "22077"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Emily Warkentin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Robert Reinhart"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Stephen Gabriel Joven-Lee"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Tomas Gueglio Saccone"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "5",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Kim Kawczinski"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "6",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Robert Reinhart"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "7",
+                "course_name": "Music Theory V",
+                "instructors": [
+                    "Tomas Gueglio Saccone"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Emily Warkentin",
+                "Meeting Info": "RCMA 1-180: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Robert Reinhart",
+                "Meeting Info": "RCMA 1-160: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Stephen Gabriel Joven-Lee",
+                "Meeting Info": "RCMA 1-164: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Tomas Gueglio Saccone",
+                "Meeting Info": "RCMA 1-164: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Kim Kawczinski",
+                "Meeting Info": "RCMA 1-172: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Robert Reinhart",
+                "Meeting Info": "RCMA 1-160: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Tomas Gueglio Saccone",
+                "Meeting Info": "RCMA 1-164: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Music as sound in time. Analytical studies in forms, media, and chromatic harmony. Chamber music, vocal literature, and instrumental transposition.",
+                "Registration Requirements": "Prerequisites: MUSIC 211-1",
+                "Class Materials (Required)": "Required course packet, approximate cost of $30",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            }
+        ]
+    },
+    {
+        "course_number": "215-0",
+        "course_name": "Performers and Performance",
+        "course_reference_number": [
+            "22078",
+            "22079"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Performers and Performance",
+                "instructors": [
+                    "Drew Davies"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Performers and Performance",
+                "instructors": [
+                    "Drew Davies"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Drew Davies\n847/467-3367\ndedavies@northwestern.edu",
+                "Meeting Info": "Regenstein Hall of Music MCR: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This core course focuses on what it means to be - or what it meant to be - a musician at different times in history and in different cultural contexts, with a specific focus on our own performance lineages as versatile, yet mostly classical, musicians in 21st-century America. It will explore different types of musical performances, the careers and obstacles faced by specific performers throughout history, look at the roles of contrasting performance venues, and analyze what makes some artists and some performances successful. Case studies presented during the class include the history of conductors, classical music in East Asia, jazz pianists and singers, issues of gender and race in opera, Black musicians in twentieth-century America, and the history of wind bands, among others. By these means, music students will gain introductory literacy in diverse types of performance practices, learn about the legacies of important musicians, and better understand intersections between creativity and commerce in music fields. Among individual projects will be an investigation of the history of performance in each student's specific major, including their lineage of teachers, and a critical analysis of different performance modes.",
+                "Learning Objectives": "• Learn about musicians, their legacies, and the circumstances of their performances in varied global and local contexts\n• Conceive of music history through the lens of performers rather than through the composer or the work\n• Develop a sense of how the concept of a work differs from the concept of performance, and engage, where applicable, with notions of performance practices\n• Experience different types of musical performances and critically engage with them\n• Historicize and locate yourself within a complex landscape of musicians, past and present",
+                "Class Materials (Required)": "No required textbook purchases. Students will be expected to attend live performances of their choice, some of which may charge admission.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Drew Davies\n847/467-3367\ndedavies@northwestern.edu",
+                "Meeting Info": "Regenstein Hall of Music MCR: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This core course focuses on what it means to be - or what it meant to be - a musician at different times in history and in different cultural contexts, with a specific focus on our own performance lineages as versatile, yet mostly classical, musicians in 21st-century America. It will explore different types of musical performances, the careers and obstacles faced by specific performers throughout history, look at the roles of contrasting performance venues, and analyze what makes some artists and some performances successful. Case studies presented during the class include the history of conductors, classical music in East Asia, jazz pianists and singers, issues of gender and race in opera, Black musicians in twentieth-century America, and the history of wind bands, among others. By these means, music students will gain introductory literacy in diverse types of performance practices, learn about the legacies of important musicians, and better understand intersections between creativity and commerce in music fields. Among individual projects will be an investigation of the history of performance in each student's specific major, including their lineage of teachers, and a critical analysis of different performance modes.",
+                "Learning Objectives": "• Learn about musicians, their legacies, and the circumstances of their performances in varied global and local contexts\n• Conceive of music history through the lens of performers rather than through the composer or the work\n• Develop a sense of how the concept of a work differs from the concept of performance, and engage, where applicable, with notions of performance practices\n• Experience different types of musical performances and critically engage with them\n• Historicize and locate yourself within a complex landscape of musicians, past and present",
+                "Class Materials (Required)": "No required textbook purchases. Students will be expected to attend live performances of their choice, some of which may charge admission.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            }
+        ]
+    },
+    {
+        "course_number": "226-2",
+        "course_name": "Aural Skills V",
+        "course_reference_number": [
+            "22080",
+            "22081",
+            "22082",
+            "22083",
+            "22084"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Aural Skills V",
+                "instructors": [
+                    "Victoria Anne Marshall"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Aural Skills V",
+                "instructors": [
+                    "Alissa S Voth"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Aural Skills V",
+                "instructors": [
+                    "Robert Levinger"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Aural Skills V",
+                "instructors": [
+                    "Stephen Gabriel Joven-Lee"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Aural Skills V",
+                "instructors": [
+                    "Dominic Doutney"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Victoria Anne Marshall",
+                "Meeting Info": "RCMA 1-160: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Sight-singing and ear-training; drill in recognition of melodic, rhythmic, formal, and harmonic patterns. Aural analysis through listening, dictation, and error detection. Progresses through six levels of proficiency.",
+                "Class Materials (Required)": "None required",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Alissa S Voth",
+                "Meeting Info": "RCMA 1-180: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Sight-singing and ear-training; drill in recognition of melodic, rhythmic, formal, and harmonic patterns. Aural analysis through listening, dictation, and error detection. Progresses through six levels of proficiency.",
+                "Class Materials (Required)": "None required",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Robert Levinger",
+                "Meeting Info": "RCMA 1-160: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Sight-singing and ear-training; drill in recognition of melodic, rhythmic, formal, and harmonic patterns. Aural analysis through listening, dictation, and error detection. Progresses through six levels of proficiency.",
+                "Class Materials (Required)": "None required",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Stephen Gabriel Joven-Lee",
+                "Meeting Info": "RCMA 1-164: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Sight-singing and ear-training; drill in recognition of melodic, rhythmic, formal, and harmonic patterns. Aural analysis through listening, dictation, and error detection. Progresses through six levels of proficiency.",
+                "Class Materials (Required)": "None required",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Dominic Doutney",
+                "Meeting Info": "RCMA 1-160: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Sight-singing and ear-training; drill in recognition of melodic, rhythmic, formal, and harmonic patterns. Aural analysis through listening, dictation, and error detection. Progresses through six levels of proficiency.",
+                "Class Materials (Required)": "None required",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            }
+        ]
+    },
+    {
+        "course_number": "227-2",
+        "course_name": "Keyboard Skills 5",
+        "course_reference_number": [
+            "22205"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Keyboard Skills 5",
+                "instructors": [
+                    "Annie Hsiao"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Annie Hsiao\n847/491-5736\n1818 Hinman Ave. Evanston IL 60208",
+                "Meeting Info": "RCMA 4-138 Keyboard Lab: Mon, Wed 9:00AM - 9:50AM",
+                "Overview of class": "Technique, Reading, Ensemble, Creative work, Transposition, Harmonization, Repertoire, Accompaniment, Open score reading, Transposed instrument reading.",
+                "Registration Requirements": "Permission number and passed Level 4",
+                "Learning Objectives": "Level 5 is a sequel to Level 4 and provides students of intermediate level with a wide range of keyboard skills emphasizing SATB chorale score reading, accompanying and collaborative skills, and advanced keyboard theory. Other keyboard theory topics include Augmented sixth chords, Neapolitan-sixth chords. Continuing skills are two-hand creative accompaniments from existing harmonizations, and solo repertoire, and technique. Students will also reinforce and apply the theory concepts learned through the quarter in a composition project. The solo piano Quarter-Long Piece will emphasize musical expression and cumulative reading skills in the setting of a class recital.",
+                "Teaching Method": "Lab course (Electronic keyboard lab). Individual and group instruction.",
+                "Evaluation Method": "Quizzes, exams, weekly quiz, homework preparation, weekly progress, final recital, learning attitude, class participation, and attendance.",
+                "Class Materials (Required)": "Keyboard Strategies Master Text 2 by Stecher and Horowitz published by G. Schirmer. ISBN 978-0793552917. $32.00",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "298-0",
+        "course_name": "Student Organized Seminar",
+        "course_reference_number": [
+            "22193",
+            "22194"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "OPUS",
+                "instructors": [
+                    "Student Organized Seminar",
+                    "Pamela Hinchman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Renaissance Singers",
+                "instructors": [
+                    "Student Organized Seminar",
+                    "Andrew Megill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "OPUS",
+                "Instructors": "Pamela Hinchman\n847/467-1408\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Renaissance Singers",
+                "Instructors": "Andrew Megill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "Listening in the Age of the Algorithm",
+        "course_reference_number": [
+            "22216"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Listening in the Age of the Algorithm",
+                "instructors": [
+                    "Daniel Shanahan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Shanahan",
+                "Meeting Info": "Regenstein Hall of Music MCR: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "20th/21st c. Music Studies Elective\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "327-2",
+        "course_name": "Keyboard Skills 8",
+        "course_reference_number": [
+            "22206"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Keyboard Skills 8",
+                "instructors": [
+                    "Karen Kan-Walsh"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karen Kan-Walsh\n847/491-3886\nRyan Center for the Musical Arts, Evanston, IL 60208\nOffice Hours: By appointment",
+                "Meeting Info": "RCMA 4-136 Keyboard Lab: Mon, Wed 9:00AM - 9:50AM",
+                "Overview of class": "Vocal scores, repertoire, technique, ensemble, creative projects, sight-reading and ensemble presentations",
+                "Registration Requirements": "To have passed Mus 327-1",
+                "Learning Objectives": "To be able to play/reduce vocal scores with 5 parts. To be able to play vocal scores with convincing dynamic contrast, musical phrasing and secure rhythmic pulse.",
+                "Teaching Method": "Lab class. Small group and individual instruction.",
+                "Evaluation Method": "Quizzes, exams, mini-recital, attitude and improvement.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "350-0",
+        "course_name": "Alexander Technique",
+        "course_reference_number": [
+            "22085",
+            "22086",
+            "22087",
+            "22088",
+            "22089"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Full Year Sequence- Winds Only",
+                "instructors": [
+                    "Alexander Technique",
+                    "John Henes"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Alexander Technique",
+                "instructors": [
+                    "John Henes"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Alexander Technique",
+                "instructors": [
+                    "John Henes"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Alexander Technique",
+                "instructors": [
+                    "John Henes"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "5",
+                "course_name": "Alexander Technique",
+                "instructors": [
+                    "John Henes"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Full Year Sequence- Winds Only",
+                "Instructors": "John Henes\n847/491-7228",
+                "Meeting Info": "RCMA Lower Level 115: Wed 11:00AM - 11:50AM",
+                "Overview of class": "The Alexander Technique (AT) class serves as an introduction to the AT while practicing ways of applying the principles of the AT to everyday activities, practicing, performing, performance anxiety, and stress management. This class is a hands-on learning experience. See: www.amsatonline.org and www.alexandertechnique.co.uk for a description of the AT.",
+                "Registration Requirements": "Please use the following URL to submit a form request for placement in an Alexander Technique section:\n\nhttps://www.music.northwestern.edu/course-forms.\n\nQuestions can be directed to musicstudentaffairs@northwestern.edu\n\nRegistration is restricted to majors in the Bienen School of Music.",
+                "Class Materials (Required)": "No materials required for purchase.",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "John Henes\n847/491-7228",
+                "Meeting Info": "RCMA Lower Level 115: Mon 9:00AM - 9:50AM",
+                "Overview of class": "The Alexander Technique (AT) class serves as an introduction to the AT while practicing ways of applying the principles of the AT to everyday activities, practicing, performing, performance anxiety, and stress management. This class is a hands-on learning experience. See: www.amsatonline.org and www.alexandertechnique.co.uk for a description of the AT.",
+                "Registration Requirements": "Please use the following URL to submit a form request for placement in an Alexander Technique section:\n\nhttps://www.music.northwestern.edu/course-forms.\n\nQuestions can be directed to musicstudentaffairs@northwestern.edu\n\nRegistration is restricted to majors in the Bienen School of Music.",
+                "Class Materials (Required)": "No materials required for purchase.",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "John Henes\n847/491-7228",
+                "Meeting Info": "RCMA Lower Level 115: Mon 10:00AM - 10:50AM",
+                "Overview of class": "The Alexander Technique (AT) class serves as an introduction to the AT while practicing ways of applying the principles of the AT to everyday activities, practicing, performing, performance anxiety, and stress management. This class is a hands-on learning experience. See: www.amsatonline.org and www.alexandertechnique.co.uk for a description of the AT.",
+                "Registration Requirements": "Please use the following URL to submit a form request for placement in an Alexander Technique section:\n\nhttps://www.music.northwestern.edu/course-forms.\n\nQuestions can be directed to musicstudentaffairs@northwestern.edu\n\nRegistration is restricted to majors in the Bienen School of Music.",
+                "Class Materials (Required)": "No materials required for purchase.",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "John Henes\n847/491-7228",
+                "Meeting Info": "RCMA Lower Level 115: Wed 10:00AM - 10:50AM",
+                "Overview of class": "The Alexander Technique (AT) class serves as an introduction to the AT while practicing ways of applying the principles of the AT to everyday activities, practicing, performing, performance anxiety, and stress management. This class is a hands-on learning experience. See: www.amsatonline.org and www.alexandertechnique.co.uk for a description of the AT.",
+                "Registration Requirements": "Please use the following URL to submit a form request for placement in an Alexander Technique section:\n\nhttps://www.music.northwestern.edu/course-forms.\n\nQuestions can be directed to musicstudentaffairs@northwestern.edu\n\nRegistration is restricted to majors in the Bienen School of Music.",
+                "Class Materials (Required)": "No materials required for purchase.",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "John Henes\n847/491-7228",
+                "Meeting Info": "RCMA Lower Level 115: Thurs 1:00PM - 1:50PM",
+                "Overview of class": "The Alexander Technique (AT) class serves as an introduction to the AT while practicing ways of applying the principles of the AT to everyday activities, practicing, performing, performance anxiety, and stress management. This class is a hands-on learning experience. See: www.amsatonline.org and www.alexandertechnique.co.uk for a description of the AT.",
+                "Registration Requirements": "Please use the following URL to submit a form request for placement in an Alexander Technique section:\n\nhttps://www.music.northwestern.edu/course-forms.\n\nQuestions can be directed to musicstudentaffairs@northwestern.edu\n\nRegistration is restricted to majors in the Bienen School of Music.",
+                "Class Materials (Required)": "No materials required for purchase.",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Career Innovation in Music and the Performing Arts",
+        "course_reference_number": [
+            "22190"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Career Innovation in Music and the Performing Arts",
+                "instructors": [
+                    "Gavin Chuck"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gavin Chuck\ng-chuck@northwestern.edu",
+                "Meeting Info": "RCMA Lower Level 113: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "20th/21st c. Music Studies Elective\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Internship",
+        "course_reference_number": [
+            "22090"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Internship",
+                "instructors": [
+                    "Linda Jacobs"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Linda Jacobs",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Selected Topics",
+        "course_reference_number": [
+            "22197"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Writing/Communication Strategy",
+                "instructors": [
+                    "Selected Topics",
+                    "Shawn Vondran"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Writing/Communication Strategy",
+                "Instructors": "Shawn Vondran",
+                "Meeting Info": "RCMA 1-176: Tues, Thurs 9:00AM - 10:20AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "440-0",
+        "course_name": "Introduction to Music Research",
+        "course_reference_number": [
+            "22195"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Music Research",
+                "instructors": [
+                    "Gregory MacAyeal"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gregory MacAyeal",
+                "Meeting Info": "University Library Video Theat: Tues, Thurs 9:00AM - 9:50AM",
+                "Overview of class": "As an introduction to the basic tools of resources in music research, the class includes study of general library resources, bibliographies of composers, music, music literature, and music sources. Students will experience a broad view of music reference tools and editions of music. Key projects in the class are providing an appropriate bibliography for a selected research topic and selecting an appropriate performing edition for practical use based on a variety of sources.",
+                "Registration Requirements": "Graduate student in master's program",
+                "Learning Objectives": "Through class discussion, readings and assignments, students will:\n• Become familiar with basic music research resources; develop expertise in using standard tools\n• Learn to evaluate information resources\n• Develop an understanding of the research process including citation style/management\n• Use music repertoire guides to identify musical literature\n• Develop expertise needed to evaluate variant editions of musical works\n• Learn a basic understanding of copyright and intellectual property law and practice",
+                "Teaching Method": "Mixed lecture/discussion/assignments",
+                "Evaluation Method": "Weekly assignments and one term length project. There is no final.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Master of Music Students"
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "MM Recital Continuation",
+        "course_reference_number": [
+            "22164"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MM Recital Continuation",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Master of Music Students\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "488-0",
+        "course_name": "Resident MM Study",
+        "course_reference_number": [
+            "22165"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Resident MM Study",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Master of Music Students\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "508-0",
+        "course_name": "Advanced Professional Practicum",
+        "course_reference_number": [
+            "22166"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Professional Practicum",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "511-0",
+        "course_name": "Advanced Professional Practicum",
+        "course_reference_number": [
+            "22093"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Professional Practicum",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "514-0",
+        "course_name": "Advanced Professional Practicum",
+        "course_reference_number": [
+            "22094"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Professional Practicum",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "517-0",
+        "course_name": "DMA Continuation",
+        "course_reference_number": [
+            "22095"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "DMA Continuation",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "520-0",
+        "course_name": "DMA Continuation",
+        "course_reference_number": [
+            "22096"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "DMA Continuation",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

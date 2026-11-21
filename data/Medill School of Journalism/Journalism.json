@@ -1,0 +1,1901 @@
+[
+    {
+        "course_number": "201-1",
+        "course_name": "Fundamentals of Reporting & Writing News",
+        "course_reference_number": [
+            "21235",
+            "21239"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Reporting & Writing News",
+                "instructors": [
+                    "Desiree Hanford"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Fundamentals of Reporting & Writing News",
+                "instructors": [
+                    "Desiree Hanford"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Desiree Hanford",
+                "Meeting Info": "McCormick Foundation Ctr Forum: Mon 10:00AM - 10:50AM",
+                "Overview of class": "This course emphasizes the critical practices of ethical journalism and deadline reporting and writing and builds a strong foundation for all Medill classes. It introduces students to the essentials of accurate journalism regardless of platform or storytelling format. Special attention is given to news and information gathering (including sourcing, interviewing techniques and practices of inclusion and sensitivity), writing, grammar, AP Style and ethical decision-making. The course introduces students to a wide range of story types and career paths in media.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.",
+                "Associated Classes": "LAB - McCormick Foundation Ctr 2111: Mon 11:00AM - 11:50AM\n- McCormick Foundation Ctr 2111: Wed 10:00AM - 11:50AM"
+            },
+            {
+                "Instructors": "Desiree Hanford",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 1:00PM - 1:50PM",
+                "Overview of class": "This course emphasizes the critical practices of ethical journalism and deadline reporting and writing and builds a strong foundation for all Medill classes. It introduces students to the essentials of accurate journalism regardless of platform or storytelling format. Special attention is given to news and information gathering (including sourcing, interviewing techniques and practices of inclusion and sensitivity), writing, grammar, AP Style and ethical decision-making. The course introduces students to a wide range of story types and career paths in media.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.",
+                "Associated Classes": "LAB - Fisk Hall 307: Mon 2:00PM - 2:50PM\n- Fisk Hall 307: Wed 1:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "201-2",
+        "course_name": "Fundamentals of Video Journalism",
+        "course_reference_number": [
+            "21264",
+            "21268"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Video Journalism",
+                "instructors": [
+                    "Caryn Ward"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Fundamentals of Video Journalism",
+                "instructors": [
+                    "Caryn Ward"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Caryn Ward",
+                "Meeting Info": "McCormick Foundation Ctr Forum: Mon 1:00PM - 1:50PM",
+                "Overview of class": "This course creates a base of fundamentals needed for effective, relevant and engaging storytelling for specific audiences using video as the centered platform. Instructors will guide students in development of reporting, interviewing, shooting, editing and researching as they work towards a sophisticated audience understanding.\n\nThrough their exploration of video journalism students will have the skills needed as a base for classes in audio, photojournalism and broadcast.",
+                "Class Materials (Required)": "Students will need a smart device such as a phone or iPad, but can also use a DSLR or other personal camera.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.",
+                "Associated Classes": "LAB - Fisk Hall 309: Mon 2:00PM - 2:50PM\n- Fisk Hall 309: Wed 1:00PM - 2:50PM"
+            },
+            {
+                "Instructors": "Caryn Ward",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 10:00AM - 10:50AM",
+                "Overview of class": "This course creates a base of fundamentals needed for effective, relevant and engaging storytelling for specific audiences using video as the centered platform. Instructors will guide students in development of reporting, interviewing, shooting, editing and researching as they work towards a sophisticated audience understanding.\n\nThrough their exploration of video journalism students will have the skills needed as a base for classes in audio, photojournalism and broadcast.",
+                "Class Materials (Required)": "Students will need a smart device such as a phone or iPad, but can also use a DSLR or other personal camera.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.",
+                "Associated Classes": "LAB - Fisk Hall 309: Mon 11:00AM - 11:50AM\n- Fisk Hall 309: Wed 10:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Journalism in Practice",
+        "course_reference_number": [
+            "21245",
+            "28362"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Solutions Journalism",
+                "instructors": [
+                    "Journalism in Practice",
+                    "Jessica Villagomez"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Pitch. Report. Write. Repeat.",
+                "instructors": [
+                    "Journalism in Practice",
+                    "Karen Springen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Solutions Journalism",
+                "Instructors": "Jessica Villagomez",
+                "Meeting Info": "Fisk Hall 306: Tues 9:00AM - 1:50PM",
+                "Overview of class": "This Chicago neighborhood-centered reporting class involves an introduction to and exploration of Solutions Journalism and the investigative mindset. Students are expected to report on the ground in Latinx neighborhoods in Chicago. This advanced reporting class will provide opportunities for students to dig deeper into systemic inequity in communities of color around the Chicago area, with a focus on social justice issues like education, health and immigration. Students are required to have strong reporting and pitching skills and have an interest in covering solutions across the Latinx community. Though not required, Spanish skills are a plus.\n\nStudents will function in a newsroom setting to submit pitches both pitch and work on stories. Class trips to Latinx neighborhoods will also be central to learning how to work with vulnerable sources.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "Pitch. Report. Write. Repeat.",
+                "Instructors": "Karen Springen",
+                "Meeting Info": "Fisk Hall 308: Mon, Wed 9:00AM - 11:20AM",
+                "Overview of class": "Ready to move beyond basic news stories and \"who, what, why, where, when\"? Learn how to pitch, report and write pieces — Q&A's, profiles, features, essays, service stories, charticles — for magazines and online sites. The goal: finished products that are memorable, thoroughly reported, stylishly written and worthy of publication. To increase the odds, learn how to craft a \"wow\" story by talking with magazine, newspaper and online journalists and by connecting with editors who might run your pieces.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Media History",
+        "course_reference_number": [
+            "28704"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "You Won’t Believe What Happened Next: A History of",
+                "instructors": [
+                    "Media History",
+                    "Michael A. Spikes"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "You Won’t Believe What Happened Next: A History of",
+                "Instructors": "Michael A. Spikes",
+                "Meeting Info": "McCormick Foundation Ctr 3127: Tues 1:00PM - 2:20PM\nLocy Hall 301: Thurs 1:00PM - 2:20PM",
+                "Overview of class": "Publishers learned long before the algorithmic feed that a good story sells. From fabricated stories of life on the moon in the 1830s to today's \"pink slime\" news sites, clickbait headlines, and AI \"slop,\" hoaxes and other attention-grabbing content have been built to enrich their creators or extend their influence. This seminar traces the history of the attention economy from the penny press to today's feeds, and it asks how journalism, propaganda, political messaging, and fake news have competed to capture and shape audiences. Each week pairs a foundational theory from the psychology of narrative and media persuasion with a historical or contemporary case, and students bring examples of their own to further test the theory. Along the way, students examine who profits from our attention, how media frames serve to represent events and communities, and how to build media literacy habits (asking for evidence, reading laterally, and following stories over time) that help us engage with information as active participants instead of passive targets of endless \"engagement.\"",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Freshmen may not register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "303-0",
+        "course_name": "Framed: Media and the Marginalized",
+        "course_reference_number": [
+            "21313"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Framed: Media and the Marginalized",
+                "instructors": [
+                    "Christopher D'Angelo Benson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher D'Angelo Benson",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Stereotypes. Coded language. Unconscious bias. How do these concepts factor into the media search for truth? How might they stand in the way of public understanding of social difference? Clearly, the media affect the way we see one another across social boundaries established by such characteristics as race, ethnicity, gender and sexuality. How do the perspectives formed by this \"mediated reality\" ultimately affect our decisions on public policy in such areas as political participation, equal rights and criminal justice? These and other considerations are central to professional journalism responsibility and enlightened public choice making. Without question, the media are vital to the effective operation of our democratic system by providing information that should be free of the kind of bias that can distort the public participation process.\n\nThrough discussion of principles of media professionalism and ethics, and an examination of some of the hot topics featured in today's headlines, this course will set a framework for recognizing and analyzing media narrative framing, as well as the representation of traditionally marginalized groups within that narrative frame. Ultimately, we will develop a deeper appreciation of media responsibility. Just as important, we will expand our sense of media literacy in considering a path forward—whether as professional journalists or engaged citizens—as we navigate the challenging terrain of an increasingly diverse society and the need for deeper public understanding of this dynamic change in the interest of encouraging meaningful public discourse.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "307-0",
+        "course_name": "Chicago Investigative Prep Course",
+        "course_reference_number": [
+            "21325"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chicago Investigative Prep Course",
+                "instructors": [
+                    "Karin Lydersen"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karin Lydersen",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 9:00AM - 11:50AM",
+                "Overview of class": "Students will gain experience with crucial investigative tools including public records, data, interviews and court-watching, through a real-life team investigation into the workings of Chicago's immigration court. Students will attend immigration court in downtown Chicago and work together on an investigation for publication with professional media partners. The class will operate in tandem with the Medill Investigative Lab-Chicago housed in the MSJ program. BSJ and MSJ classes will be held separately, but students in both programs will have some joint editorial meetings and publish stories as part of a larger package. The lab is led by Medill Assistant Professor Kari Lydersen, who spearheaded previous MIL-Chicago labs publishing stories on immigration court (2026), mental health crisis response and police use of force (2023-2025) and toxic coal ash (2022).",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "311-0",
+        "course_name": "Editing & Producing: Magazine",
+        "course_reference_number": [
+            "21249"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Editing & Producing: Magazine",
+                "instructors": [
+                    "Catherine L'Heureux"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Catherine L'Heureux",
+                "Meeting Info": "Fisk Hall 206: Tues, Thurs 9:00AM - 10:50AM",
+                "Overview of class": "Step inside a newsroom modeled after New York magazine. Taught by a former managing editor, this hands-on course recreates the creative energy, collaboration, and decision-making of a real magazine newsroom. Students will become the editorial leadership team of their own magazine, rotating through roles as they pitch, commission, edit, and produce special themed issues. They'll learn to identify compelling ideas, shape stories, develop a distinctive editorial voice, and make tough decisions about what gets published. With insights from accomplished editors and writers, students will learn to think like editors: recognizing great ideas, making them better, and bringing out the best in the writers they work with. These skills extend beyond journalism, preparing students to shape stories and lead creative work across media and industries.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Prerequisite: Medill Sophomore, Junior, or Senior standing"
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "Storytelling: Interactive News",
+        "course_reference_number": [
+            "21247"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Storytelling: Interactive News",
+                "instructors": [
+                    "Matt Kiefer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt Kiefer",
+                "Meeting Info": "Fisk Hall 111: Mon, Wed 2:00PM - 3:50PM",
+                "Overview of class": "Storytelling: Interactive News explores how newsrooms are using technology in innovative ways to engage their audiences; and also examines how a digital news presentation evolves across various multimedia platforms. This course builds on the foundations of audio, photo, and video storytelling and adds interactivity and engagement techniques -- enabling students to design dynamic, creative digital narratives for news and feature reporting. Students will split their time between reporting, producing multimedia, analyzing current digital stories and learning open-web technologies (HTML, CSS, JavaScript).",
+                "Registration Requirements": "Pre-reqs: JOUR 301-0 or JOUR 384-0",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description",
+                "Enrollment Requirements": "Enrollment Requirements: To register for this course, you must have taken at least one of the following courses: JOUR 301, JOUR 301-1, JOUR 319, JOUR 352,  JOUR 384, JOUR 390 (JOURneys: New York City & the), or JOUR 390 (JOURneys: Exploring Asian Amer)."
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Storytelling: Magazine & Feature Writing",
+        "course_reference_number": [
+            "21248"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Storytelling: Magazine & Feature Writing",
+                "instructors": [
+                    "Mei-Ling Hopgood"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mei-Ling Hopgood",
+                "Meeting Info": "McCormick Foundation Ctr 3107: Mon, Wed 10:00AM - 11:50AM",
+                "Overview of class": "This course introduces students to feature and magazine storytelling. Students will read and deconstruct an array of non-fiction stories, from narratives to profiles to reported essays. Students will report, write, re-write and edit short pieces and one long-form story. You will hear from top reporters, writers and editors about the craft of non-fiction storytelling, from ideation and pitch, to revision and publication. The course aims to inspire students to deliver memorable works of narrative, explanatory and service journalism, with a particular emphasis on expanding your reporting methods and sharpening your prose for particular audiences.",
+                "Registration Requirements": "Pre-reqs: JOUR 301-0, JOUR 301-1, or JOUR 384-0",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description",
+                "Enrollment Requirements": "Enrollment Requirements: To register for this course, you must have taken at least one of the following courses: JOUR 301, JOUR 301-1, JOUR 319, JOUR 352,  JOUR 384, JOUR 390 (JOURneys: New York City & the), or JOUR 390 (JOURneys: Exploring Asian Amer)."
+            }
+        ]
+    },
+    {
+        "course_number": "323-0",
+        "course_name": "Reporting & Producing Social Media Video",
+        "course_reference_number": [
+            "21314"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Reporting & Producing Social Media Video",
+                "instructors": [
+                    "Craig Duff"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Craig Duff",
+                "Meeting Info": "McCormick Foundation Ctr 4200: Tues 9:00AM - 11:50AM",
+                "Overview of class": "As social media continues to dominate as a means of delivering news and entertainment, we'll explore how major media organizations are crafting visual stories and delivering news in video on the various social platforms. We'll look at how outlets like NPR, Planet Money, The Washington Post, The Wall Street Journal, New York Times and others reach audiences on apps like Instagram, TikTok, YouTube stories, etc. We'll learn how they create what they do and develop skills to make similar work ourselves. Each week will include discussions of issues surrounding the apps (algorithms, policy, societal impact, ethics and generative AI), along with learning and practicing a new production skill each week. We'll dive into applications in the Adobe Creative Cloud (including PhotoShop, Illustrator, Premiere Pro (including the new mobile version), After Effects and Adobe Express) as well as other apps like CapCut and Canva. The class comprises lecture/instruction, guest visitors from major social media video news organizations, practice exercises and two reporting assignments.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Prerequisite: Medill Sophomore, Junior, or Senior standing"
+            }
+        ]
+    },
+    {
+        "course_number": "327-0",
+        "course_name": "Social Justice Investigative Primer",
+        "course_reference_number": [
+            "21320"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Social Justice Investigative Primer",
+                "instructors": [
+                    "Debra Cenziper"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Debra Cenziper",
+                "Meeting Info": "Online: Tues 1:00PM - 3:50PM",
+                "Overview of class": "For generations, investigative reporting has proven to be one of the highest and most impactful forms of journalism. It sheds light on wrongdoing, exposes rampant incompetence and calls to account powerful people and institutions, from presidents to Fortune 500 companies to school boards. Over two quarters, students admitted to the Medill Investigative Lab will investigate one local, national or international issue, conduct interviews, probe critical data and trends and ultimately produce a groundbreaking investigative story from the ground up. Students will collaborate with each other, the instructor and potentially other professional investigative journalists to produce stories. If you are successful, your work could potentially make a difference in the lives of vulnerable people. The goal is to publish a significant investigation in a professional media outlet, such as the ProPublica. This is a two-quarter class based in Evanston in the winter and Washington, D.C. in the spring. With approval from the instructor, it is possible to be part of the program remotely in the spring. You can read the published investigations of prior MIL classes here: https://mil.medill.northwestern.edu/",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time\nRegistration is By Application Only",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "342-1",
+        "course_name": "Knight Lab: Studio",
+        "course_reference_number": [
+            "21301"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Knight Lab: Studio",
+                "instructors": [
+                    "Kristian Hammond",
+                    "James Lee"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Fisk Hall 111: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Each quarter, multidisciplinary teams of students, faculty, and professionals come together to collaborate in the Knight Lab Studio to produce cutting-edge digital work, research, and thought, innovating across every part of the media-making process. The Lab places students together on diverse teams to work on an important problem for the future of media, rapidly moving beyond conversation and hypothesis to well-reasoned action during the quarter. Our process combines user and audience research, design thinking, critical and analytical work, iterative building, storytelling, new technology, and a healthy dose of experimentation—often within the confines of a single, specific problem. Projects are open by application. Full project details and application available at studio.knightlab.com.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nRegistration is By Application Only\nNo Freshmen\nSoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions. Prerequisite: Medill Sophomore, Junior, or Senior standing\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "345-SA",
+        "course_name": "Journalism Residency: Argentina",
+        "course_reference_number": [
+            "21303"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Journalism Residency: Argentina",
+                "instructors": [
+                    "Mei-Ling Hopgood"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mei-Ling Hopgood",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "346-SA",
+        "course_name": "Journalism Residency: Argentina",
+        "course_reference_number": [
+            "21304"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Journalism Residency: Argentina",
+                "instructors": [
+                    "Mei-Ling Hopgood"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mei-Ling Hopgood",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "347-0",
+        "course_name": "Journalism Residency",
+        "course_reference_number": [
+            "21300"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Journalism Residency",
+                "instructors": [
+                    "Tracy Van Moorlehem"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tracy Van Moorlehem",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "348-0",
+        "course_name": "Journalism Residency",
+        "course_reference_number": [
+            "21302"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Journalism Residency",
+                "instructors": [
+                    "Tracy Van Moorlehem"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tracy Van Moorlehem",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Sports Writing & Reporting",
+        "course_reference_number": [
+            "21315"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Sports Writing & Reporting",
+                "instructors": [
+                    "Melissa Isaacson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melissa Isaacson",
+                "Meeting Info": "McCormick Foundation Ctr 2107: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course is a multi-faceted look into an industry that is ever-changing, always challenging but continues to serve an eager and discerning audience. What does exceptional sports reporting and storytelling look like in 2025? We will examine both the industry and the craft; the biggest stories and most compelling issues and we will learn how the best reporters are not coincidentally the best writers.\n\nSports writing occupies a unique corner of journalism. Though industry layoffs and economic uncertainty has captured plenty of deserved attention in recent years, there is still a growing demand for content. We'll look at areas of tremendous change and that deserve our attention such as college sports, women's pro sports, the multi-billion dollar betting industry as well as the mental health of athletes.\n\nHow do we write richly reported and engaging stories that will satisfy and compete for the attention of an audience that has such a vast number and variety of sources and platforms to choose from?\n\nThat will be one of our goals this quarter. And to that end, we will hone the fundamentals you first learned in 201-1, work on generating original ideas, crafting stories on deadline and we'll introduce you to sports visualization, all the while being ready to pivot on a daily basis as news and current events occur.\n\nWe will talk to top journalists, industry professionals, coaches and others to glean their wisdom and advice. And finally, along with varied in-class assignments, including the NFL Draft and other reporting opportunities, there will be a trip outside the classroom to cover a WNBA game at Wintrust Arena as credentialed reporters on deadline, which I hope will be one of the highlights of a great quarter!",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Media Law & Ethics",
+        "course_reference_number": [
+            "21250",
+            "21251"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Media Law & Ethics",
+                "instructors": [
+                    "Craig Llewellyn LaMay"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:30AM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Media Law & Ethics",
+                "instructors": [
+                    "Christopher D'Angelo Benson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Craig Llewellyn LaMay",
+                "Meeting Info": "Fisk Hall 311: Tues, Thurs 11:30AM - 12:50PM",
+                "Overview of class": "This course has a professional goal and an academic one. The former is to make you your own best risk counselor in matters of media liability and to prepare you to talk knowledgeably with editors or legal counsel about your work. The latter is to situate those liability risks in the normative, economic and architectural features of the U.S. and international media systems -- in other words, why the system works as it does. The course is rooted in the constitutional, common law, statutory and regulatory systems of media accountability used in the United States as they have developed in the 20th century, and especially since 1964. Since Medill has a campus in Qatar, we consult comparative law examples interpretive of Article 19 of the International Covenant for Civil and Political Rights. We begin the course normatively, by putting all this in the context of First Amendment theory and doctrine. After that it's communications law, and each week we'll consider problems practical and principled, profound and pathetic. Typical topics are incitement, prior restraints, copyrights, defamation, privacy and newsgathering activities. While the course is primarily lecture, on the law school model, I strongly encourage student discussion and to that end we do regular pre-publication review assignments in and out of class.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "There is no text to purchase, though I will recommend an inexpensive casebook as a desk reference. All readings are on Canvas.",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Prerequisite: Medill Sophomore, Junior, or Senior standing"
+            },
+            {
+                "Instructors": "Christopher D'Angelo Benson",
+                "Meeting Info": "McCormick Foundation Ctr 3119: Mon, Wed 1:00PM - 2:20PM",
+                "Overview of class": "As described in the title of this course, we will take up careful consideration of the legal and ethical issues confronting professional journalists during these challenging times. We begin with a discussion of the kinds of ethical dilemmas we face in our work on a daily basis in such areas as individual privacy interests as set against the public right to know. The point throughout the course is to develop an analytical framework to make determinations under the routine pressures of reporting, editing and publishing in a way that meets our responsibility to the public. A significant amount of our time also be devoted to U.S. media law in the broader context of U.S. Constitutional principles and law. We will learn basic legal vocabulary terms in order to facilitate lively debate and understanding of the material. This section of the course relies on the case study method - reading actual judicial opinions to derive the legal \"rule\" that governs various media law disputes - in order to allow students to obtain the most realistic picture of the law obtainable by non-lawyers. Students will engage in written and oral argument using major U.S. Supreme Court cases to more fully understand the difficult job appellate judges have in making sound precedent for society that resonates beyond the facts of a particular case. We cover the basic areas of First Amendment law, such as prior restraint, libel, obscenity and time-place-manner restrictions. Throughout both sections of the course, we will employ a light version of the Socratic Method of teaching through inquiry during classroom discussion. We ask questions. We answer the questions. We question the answers. Apart from the ethical and legal principles we will take up, this kind of in-class discourse prepares students effectively for professional journalism success.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Prerequisite: Medill Sophomore, Junior, or Senior standing"
+            }
+        ]
+    },
+    {
+        "course_number": "376-0",
+        "course_name": "Media Design",
+        "course_reference_number": [
+            "21252"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Media Design",
+                "instructors": [
+                    "Zach Wise"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:20AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zach Wise",
+                "Meeting Info": "McCormick Foundation Ctr 2107: Tues, Thurs 10:20AM - 11:50AM",
+                "Overview of class": "Unlock your creativity and explore your visionary potential. In this course you'll be introduced to creating and developing a visual response to communication problems, including understanding of hierarchy, typography, aesthetics, composition and the construction of meaningful images. Design is approached through giving equal attention to the written and visual aspects of journalism. Students become more visually observant and critical, amplifying their communication problem solving skills including identifying the problem, researching and analyzing, and finding a solution. Ending the quarter with the creation of an amazingly creative and fully functional mobile app/story prototype using no code.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "Adobe Creative Cloud $19.99 per month membership https://www.adobe.com/creativecloud/plans.html\nSmall sketch book $ 2.99",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nJuniors/Seniors Only\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            }
+        ]
+    },
+    {
+        "course_number": "377-0",
+        "course_name": "News by the Numbers: Intro to Data Journalism",
+        "course_reference_number": [
+            "21306"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "News by the Numbers: Intro to Data Journalism",
+                "instructors": [
+                    "Matt Kiefer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "11:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt Kiefer",
+                "Meeting Info": "Fisk Hall 111: Mon, Wed 9:30AM - 11:20AM",
+                "Overview of class": "Delve into the dynamic world of data journalism with this introductory course, designed to equip you with essential tools and techniques for uncovering and telling compelling data-driven stories. This course builds on foundational knowledge to enable you to create impactful narratives through the practical application of data journalism methodologies.\n\nYou will gain hands-on experience with industry-standard tools used by professional data journalists, learning how to harness data to enhance your reporting. Throughout the course, we will explore ethical considerations, challenges, and successes unique to the field of data journalism, ensuring you are prepared to navigate the complex landscape of modern media.\n\nBy the end of this course, you will have produced a data-driven story that demonstrates your ability to integrate data analysis with journalistic storytelling.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing. Prerequisite: Medill Sophomore, Junior, or Senior standing"
+            }
+        ]
+    },
+    {
+        "course_number": "383-0",
+        "course_name": "Health and Science Reporting",
+        "course_reference_number": [
+            "21281"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Health and Science Reporting",
+                "instructors": [
+                    "Patti Wolter"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patti Wolter",
+                "Meeting Info": "Fisk Hall 206: Wed 9:00AM - 11:50AM",
+                "Overview of class": "In this combination writing workshop and seminar, students will read some of the best science and health journalism; meet with expert scientists on campus; and meet the editors and writers from leading scientific journals and publications. Students will learn what makes good science writing, how to find sources, how to evaluate information and how to sort out science from pseudo-science. Students will practice translating research journal articles into consumer news articles and pursue longer, more developed science storytelling.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            }
+        ]
+    },
+    {
+        "course_number": "384-0",
+        "course_name": "Covering Washington, D.C. as a Mobile Journalist",
+        "course_reference_number": [
+            "21284"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Covering Washington, D.C. as a Mobile Journalist",
+                "instructors": [
+                    "Matthew Orr",
+                    "Elizabeth Shogren"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matthew Orr",
+                "Meeting Info": "Washington, DC Bureau: Tues, Wed, Thurs 10:00AM - 5:00PM",
+                "Overview of class": "This class will give you hands-on experience covering the nation's capital as a mobile journalist on a beat, producing up-to-the-minute political stories for the Medill on the Hill website. The primary focus of the course, instant newsgathering and multi-media reporting, will enhance innovative storytelling and deadline skills. The course will teach you not only how to report about federal policy and politics, but how to do so for an audience of young people.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nCourse meets in Washington DC",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "21254",
+            "21255",
+            "21256",
+            "21257",
+            "21258",
+            "28584",
+            "24061",
+            "28608"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Business of Journalism",
+                "instructors": [
+                    "Special Topics",
+                    "Ashirwaad Badami"
+                ],
+                "days": [
+                    "Monday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Audio Newsreporting",
+                "instructors": [
+                    "Special Topics",
+                    "Natalie Moore"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "NUVention: Media and AI",
+                "instructors": [
+                    "Special Topics",
+                    "Lawrence Birnbaum",
+                    "Jeremy Gilbert"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Politics, the Presidency, and the Press",
+                "instructors": [
+                    "Special Topics",
+                    "Rema Rahman"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Journalism as Literature",
+                "instructors": [
+                    "Special Topics",
+                    "Jim DeRogatis"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "26",
+                "course_name": "Every Story is A Money Story",
+                "instructors": [
+                    "Special Topics",
+                    "Desiree Hanford"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "27",
+                "course_name": "The Innovative Editor: Human Smarts with AI",
+                "instructors": [
+                    "Special Topics",
+                    "Mei-Ling Hopgood"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "28",
+                "course_name": "Fieldwork for Journalists",
+                "instructors": [
+                    "Special Topics",
+                    "Ava Francesca Battocchio"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Business of Journalism",
+                "Instructors": "Ashirwaad Badami",
+                "Meeting Info": "Fisk Hall 311: Mon, Fri 11:00AM - 12:50PM",
+                "Overview of class": "Why is the news industry in turmoil, and what can we do about it? This course answers both questions. We start in the past, tracing how the news business took shape and how its early choices set the stage for today's crisis. Along the way, we examine shifting audience behaviors and changing revenue streams, and we test popular claims about the industry's decline to separate fact from fiction. Expect to question what you think you know. Then we put that knowledge to work. Through in-class activities and assigned coursework, you will apply theory to build a new media product that solves a real problem for a defined audience.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "Audio Newsreporting",
+                "Instructors": "Natalie Moore",
+                "Meeting Info": "McCormick Foundation Ctr 4200: Mon, Wed 3:00PM - 4:50PM",
+                "Overview of class": "The class introduces students to the world of audio journalism. You will learn the basics of field recording, scripting and writing for the ear. Students will learn how to do succinct news spots and a short sound-rich feature.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "NUVention: Media and AI",
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Fisk Hall 111: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "This course brings together students from across Northwestern schools to explore how artificial intelligence and computational technologies will shape the future of media, and who want to learn a process for creating new, AI-powered ventures in the news and media space. Student teams will use human-centered design methods to identify an opportunity gap, design interaction and presentation models, build functioning prototypes that fulfill those needs, and develop a compelling pitch and business plan to launch and sustain their product/service. Along the way, students will learn a process of innovation and venture development. Students will interact with industry veterans and domain experts who inspire and guide the student team as they pursue their projects.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2, and Medill sophomore, junior, or senior standing",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "Politics, the Presidency, and the Press",
+                "Instructors": "Rema Rahman",
+                "Meeting Info": "Washington, DC Bureau: Wed 6:00PM - 9:00PM",
+                "Overview of class": "This class is for students participating in the Medill on the Hill program in Washington, D.C.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nCourse meets in Washington DC\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This section is currently closed to registration. Please contact the department directly with any questions.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Topic": "Journalism as Literature",
+                "Instructors": "Jim DeRogatis",
+                "Meeting Info": "McCormick Foundation Ctr 2107: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Students will be introduced to the ideal of bringing the time-honored techniques of the novelist or short-story writer to journalism, establishing a unique, active, and electrifying voice in reporting, with readings from the last 80 years of Literary Journalism. They will respond to the readings in weekly essays, and take turns leading classroom discussions by preparing a presentation on one of the readings.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "Two books, any format or edition acceptable: In Cold Blood by Truman Capote (ISBN-13 978-0679745587, from $1.70 used on Amazon) and The Orchid Thief by Susan Orlean (ISBN-13 978-0449003718, from $1.80 used on Amazon). All other readings will be provided on Canvas.",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "Every Story is A Money Story",
+                "Instructors": "Desiree Hanford",
+                "Meeting Info": "McCormick Foundation Ctr 2131: Tues, Thurs 1:00PM - 2:50PM",
+                "Overview of class": "Money influences nearly every story journalists tell, not only business stories. Whether you're covering sports, politics, entertainment, food, education, health care or even the weather, understanding the role money plays leads to more impactful and insightful stories. Students will learn why financial skills are crucial for all beats and put those skills into practice writing stories throughout the quarter.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "The Innovative Editor: Human Smarts with AI",
+                "Instructors": "Mei-Ling Hopgood",
+                "Meeting Info": "Fisk Hall 111: Mon, Wed 12:00PM - 1:50PM",
+                "Overview of class": "This 10-week course solidifies essential skills— from story ideation to precision in grammar, style, structure, and clarity—before introducing technology as a collaborative tool for innovative problem-solving. Students will review what makes good writing and editing. Then we will apply generative and agentic AI to see if and how technology can help us enhance stories, develop workflows, and address editorial challenges while preserving journalistic integrity, accuracy, authorial voice, and ethical standards.\n\nThis will be a learning lab with hands-on skill development, emphasizing practical editing abilities alongside critical thinking about technology use. We are not trying to master the latest tools or models. We are striving to develop values-based policies and practices and become thoughtful, adaptable editors equipped for the modern newsroom and workplace.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "None",
+                "Class Notes": "Please note that the first week of this class will be virtual, as the instructor will be running the journalism residency program in Argentina",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: JOUR 201-1, 201-2, and Medill sophomore, Junior, or Senior Standing."
+            },
+            {
+                "Topic": "Fieldwork for Journalists",
+                "Instructors": "Ava Francesca Battocchio",
+                "Meeting Info": "McCormick Foundation Ctr 2111: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "As a journalist, you'll often report in communities that are new to you. So how do you come to understand what a neighborhood looks like to the people who live there, what issues matter to them, and how those experiences shape what they expect from the news and what you can offer them? This course teaches you how to answer questions like these, with hands-on instruction and practice in social science methods, like observation, field notes, in-depth interviewing, and analysis, that add to your reporting toolbox.\n\nYou'll practice fieldwork skills on campus and in one Chicago neighborhood you return to all quarter, write short vignettes of a place, a person and a practice, and weave them into a final project. Along the way, you'll compare these methods with how you've reported before and work through where they line up with journalism's expectations, where they diverge, and how you might bring them into your own work.\n\nThis class is a good fit for students who want to get better at connecting with people, including those who find interviewing intimidating. It covers building trust and rapport within a community, becoming more comfortable in spaces where you're new or an outsider, and letting conversations unfold. You'll also learn to use observation to \"read\" people and a community, and develop tools to get more out of the \"data\" you collect. These skills serve any beat and may be of particular interest to students drawn to solutions and community-focused journalism, or interested more broadly in how audiences and communities find and use news. Questions about whether this class is a good fit? Feel free to reach out to Professor Battocchio at afbat@northwestern.edu.",
+                "Registration Requirements": "Pre-reqs: JOUR 201-1, JOUR 201-2",
+                "Class Materials (Required)": "Annette Lareau, Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021). Costs can range from as low as $10 for used copies, with new paperback copies or e-book copies around $26 through UChicago Press.\n\n\nAll other readings will be posted on Canvas. Students will also need a smartphone or recorder for interviews",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "400-0",
+        "course_name": "Foundations of Video",
+        "course_reference_number": [
+            "21286",
+            "21287",
+            "21288"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Foundations of Video",
+                "instructors": [
+                    "Will Sonheim"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "2:20PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Foundations of Video",
+                "instructors": [
+                    "Will Sonheim"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Foundations of Video",
+                "instructors": [
+                    "Marcus Leshock"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Will Sonheim",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Wed 12:30PM - 2:20PM",
+                "Overview of class": "In this dynamic, hands-on course, you will learn the best practices of video storytelling, adding new skills to your repertoire every week. Through an immersive approach—with both classroom exercises and story assignments—students will get lots of practice in reporting, shooting, and editing video. Given the current media environment, these are essential skills regardless of what medium students aspire to work in.",
+                "Class Materials (Required)": "None",
+                "Class Notes": "Note: You will be responsible for your own travel expenses to reporting locations, which may include taxis, rideshares, trains, and other forms of transport other than your CTA card.",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Instructors": "Will Sonheim",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Wed 3:00PM - 4:50PM",
+                "Overview of class": "In this dynamic, hands-on course, you will learn the best practices of video storytelling, adding new skills to your repertoire every week. Through an immersive approach—with both classroom exercises and story assignments—students will get lots of practice in reporting, shooting, and editing video. Given the current media environment, these are essential skills regardless of what medium students aspire to work in.",
+                "Class Materials (Required)": "None",
+                "Class Notes": "Note: You will be responsible for your own travel expenses to reporting locations, which may include taxis, rideshares, trains, and other forms of transport other than your CTA card.",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Instructors": "Marcus Leshock",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Wed 2:00PM - 3:50PM",
+                "Overview of class": "In this dynamic, hands-on course, you will learn the best practices of video storytelling, adding new skills to your repertoire every week. Through an immersive approach—with both classroom exercises and story assignments—students will get lots of practice in reporting, shooting, and editing video. Given the current media environment, these are essential skills regardless of what medium students aspire to work in.",
+                "Class Materials (Required)": "None",
+                "Class Notes": "Note: You will be responsible for your own travel expenses to reporting locations, which may include taxis, rideshares, trains, and other forms of transport other than your CTA card.",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "400-3",
+        "course_name": "Foundations of Interactive Journalism",
+        "course_reference_number": [
+            "21278",
+            "21279",
+            "21280"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Foundations of Interactive Journalism",
+                "instructors": [
+                    "Zach Wise"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Foundations of Interactive Journalism",
+                "instructors": [
+                    "Deborah Douglas"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Foundations of Interactive Journalism",
+                "instructors": [
+                    "Dr. Rafael O. Matos"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zach Wise",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 2:00PM - 2:50PM\nMeets in Non-General PurposeRm: Wed 1:00PM - 2:50PM",
+                "Overview of class": "This course is your entry point into the modern digital newsroom. You will learn how today's journalists create, adapt, and distribute stories across web, social, audio, video, and emerging platforms. Through lectures, labs, newsroom simulations, and portfolio projects, you will practice real skills under real conditions. By the end, you will have a professional portfolio and the confidence to step into a digital producer role.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Instructors": "Deborah Douglas",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 2:00PM - 2:50PM\nMeets in Non-General PurposeRm: Wed 1:00PM - 2:50PM",
+                "Overview of class": "This course is your entry point into the modern digital newsroom. You will learn how today's journalists create, adapt, and distribute stories across web, social, audio, video, and emerging platforms. Through lectures, labs, newsroom simulations, and portfolio projects, you will practice real skills under real conditions. By the end, you will have a professional portfolio and the confidence to step into a digital producer role.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Instructors": "Dr. Rafael O. Matos",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 2:00PM - 2:50PM\nMeets in Non-General PurposeRm: Wed 1:00PM - 2:50PM",
+                "Overview of class": "This course is your entry point into the modern digital newsroom. You will learn how today's journalists create, adapt, and distribute stories across web, social, audio, video, and emerging platforms. Through lectures, labs, newsroom simulations, and portfolio projects, you will practice real skills under real conditions. By the end, you will have a professional portfolio and the confidence to step into a digital producer role.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "405-0",
+        "course_name": "Sports Reporting Seminar",
+        "course_reference_number": [
+            "21298"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Playing the Field: Covering Phoenix Sports",
+                "instructors": [
+                    "Sports Reporting Seminar",
+                    "Melissa Isaacson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Playing the Field: Covering Phoenix Sports",
+                "Instructors": "Melissa Isaacson",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 9:00AM - 11:50AM\nMeets in Non-General PurposeRm: Fri 9:00AM - 11:50AM",
+                "Overview of class": "This quarter, we'll take an up-close look at the fine art of being a general assignment sports reporter, a dive into the professional golf tour and college sports, and how the best sports journalists can cover them all, sometimes at a moment's notice. Even if you came to Medill thinking you'd like to specialize in one sport, there are multiple reasons why leaving yourself open to a variety of assignments will give you a broader perspective and flexibility that will serve you well in your job search. This course will examine how professional journalists become experts in a sport they have never covered or considered covering before. It will demonstrate how covering one sport can make you a more creative and effective writer and reporter in others. We will take an interdisciplinary approach to the physiological, psychological and cultural aspects of various sports and their participants, as well as potential issues regarding gender, race, sexuality and mental health.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            }
+        ]
+    },
+    {
+        "course_number": "407-0",
+        "course_name": "Chicago Investigative Prep Course",
+        "course_reference_number": [
+            "21324"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chicago Investigative Prep Course",
+                "instructors": [
+                    "Karin Lydersen"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karin Lydersen",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 1:00PM - 3:50PM",
+                "Overview of class": "This course is the first part of the Medill Investigative Lab-Chicago, where students will work as a team on an in-depth investigative project for publication, over the course of two academic quarters, while also producing their own in-depth investigative story and learning investigative skills applicable to all topics.\n\nThe program is based in Chicago and investigations are national, with travel possible. This course combines both undergraduate and graduate students; students will work together with the professor and media partners to report, write and produce stories for publication in professional outlets. This year's lab will focus on reporting on immigration court, as part of a collaboration with other universities nationwide; and students will also do investigations on other aspects of immigration, including mental health care for immigrants.\n\nThis winter-quarter course is a mandatory component of the Medill Investigative Lab-Chicago, where we will begin the team investigation that will be completed during the 2-credit spring-quarter course.\n\nIn 2022, the Medill Investigative Lab-Chicago worked with Detroit Public TV and Energy News Network to produce a package of investigations about toxic coal ash. In 2023, 2024 and 2025, the Medill investigative Lab-Chicago worked with various local and national media outlets on stories investigating police response to mental health crises, with students traveling to report in locations including Puerto Rico, Atlanta, Rapid City, Charlottesville, Chapel Hill and Minneapolis. In 2025 the lab did a deep dive into policing of mental health crises in Chicago, and the city's alternate response program, with stories published in the Chicago Sun-Times, MindSite News and South Side Weekly.\n\nIn 2026, the lab reported on Chicago's immigration court and published a series of stories with Borderless Magazine. In 2027, the lab will again focus on immigration court and immigration-related stories.\n\nWhile reporting on the focus topic, students will use investigative tools and techniques including FOIAs and public records, court documents, data, mapping, on-the-ground scouting, interviews and other research, developing skills that are transferable to other topics as well.\n\nThe program involves a systematic team investigation, wherein students will take ownership of different pieces of the investigation and also produce their own stories ideally for publication as part of the larger project.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            }
+        ]
+    },
+    {
+        "course_number": "408-0",
+        "course_name": "Photojournalism",
+        "course_reference_number": [
+            "21283"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Photojournalism",
+                "instructors": [
+                    "Colin Boyle"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Colin Boyle",
+                "Meeting Info": "Meets in Non-General PurposeRm: Thurs 1:00PM - 3:50PM",
+                "Overview of class": "This course will introduce students to the art of photographic journalistic storytelling using the Canon 80D DSLR cameras. Emphasis will be put on using images to portray human stories - ones that surprise, break stereotypes, and capture emotion in dramatic and intimate situations. This class will also focus on basic picture editing in Lightroom Classic and how proper picture selection enhances the total journalistic package. Students will gain an understanding of the ethical responsibility and social value of being a photojournalist. A significant portion of the class will be used for critiques, discussions, and editing of weekly assignments. By the end of the quarter, students should be proficient at using the Medill DSLR camera and all the tools needed to produce powerful images.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "413-0",
+        "course_name": "TV News Producing and Performance",
+        "course_reference_number": [
+            "21289"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "TV News Producing and Performance",
+                "instructors": [
+                    "Elena Eboh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elena Eboh",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 1:00PM - 3:50PM",
+                "Overview of class": "This class will help students build on their writing, editing, and on-camera performance skills though producing news segments in the Chicago studio. We will deploy the standards and pacing of a professional newsroom, with particular emphasis on vocal delivery and \"live\" interviewing techniques. The course is designed to prepare you for work in a television newsroom or a media outlet that requires on-camera presentations and studio production.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "417-0",
+        "course_name": "Medill Explores",
+        "course_reference_number": [
+            "21307",
+            "21308",
+            "21309",
+            "21310",
+            "21311",
+            "21312"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Non-Fiction Visual Reporting in Mexico City",
+                "instructors": [
+                    "Medill Explores",
+                    "Craig Duff"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Byline Austria: Data & Multimedia Reporting in Sal",
+                "instructors": [
+                    "Medill Explores",
+                    "Jill Blackman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Russian Imperialism: The View from Latvia",
+                "instructors": [
+                    "Medill Explores",
+                    "Elizabeth Shogren"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Puerto Rico: Colonialism, Climate Change, Resistan",
+                "instructors": [
+                    "Medill Explores",
+                    "Karin Lydersen"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Super Bowl: Los Angeles 2027",
+                "instructors": [
+                    "Medill Explores",
+                    "Christopher Herring"
+                ],
+                "days": [
+                    "Monday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "25",
+                "course_name": "Business, Money and Markets",
+                "instructors": [
+                    "Medill Explores",
+                    "Ceci Rodgers"
+                ],
+                "days": [
+                    "Monday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Non-Fiction Visual Reporting in Mexico City",
+                "Instructors": "Craig Duff",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 9:00AM - 11:50AM\nMeets in Non-General PurposeRm: Fri 9:00AM - 11:50AM",
+                "Overview of class": "This Medill Explores course offers students a unique opportunity to immerse themselves for one week in Mexico City, a world capital rich in colorful history and culture. In this course, we will develop skills in global journalism by creating visual stories on the people, arts, food and culture of CDMX, as it's known to locals. Using various documentary TV series as a guide — including Anthony Bourdain's \"Parts Unknown\" and \"Street Food Latin America\" and \"High on the Hog\" on Netflix — we'll explore cinematic journalism, engaged and evocative writing, the finer points of editing and the deeply moving nature of people-centered stories. Students will spend the weeks prior to the mid-quarter trip preparing for work on the ground. This will involve weekly readings and viewings, class room discussions, engagement with professionals, exercises with the camera and other assignments designed to help you prepare to create richly visual stories in CDMX. We'll prepare in advance with local support to have stories set up for our week in the city. On the ground, students will work in pairs to create a short video story aiming to emulate the cinematic style of presentation we'll be studying in class. Past stories have gone on to get some great recognition, including local student Emmy awards.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Byline Austria: Data & Multimedia Reporting in Sal",
+                "Instructors": "Jill Blackman",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 9:00AM - 11:50AM\nMeets in Non-General PurposeRm: Fri 9:00AM - 11:50AM",
+                "Overview of class": "This course introduces students to the basics of data journalism, with Salzburg and Vienna serving as real-world classrooms for discovering stories. Vienna, a bustling global capital influenced by politics, culture, and international institutions, offers big-picture perspectives, while Salzburg, a smaller city shaped by tourism and tradition, provides a more local lens. Together, these two settings give students the chance to see how data can be used to tell stories at both global and community levels. No prior experience with data is required. Through approachable lectures and hands-on workshops, students will practice finding and working with beginner-friendly datasets, spotting patterns and trends, and creating simple but effective visualizations. Along the way, they'll learn how to connect data to on-the-ground reporting and turn analysis into clear, engaging stories.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Russian Imperialism: The View from Latvia",
+                "Instructors": "Elizabeth Shogren",
+                "Meeting Info": "Online: Mon 9:00AM - 11:50AM\nOnline: Fri 9:00AM - 11:50AM",
+                "Overview of class": "This immersive class will provide students an opportunity to learn how Russia's aggressions in Ukraine impact its neighbors and all of NATO, including the United States. The centerpiece of the course will be a week-long trip to Latvia, a NATO member which was a republic of the former Soviet Union until 1991. In Latvia, students will interview experts, Russian exiles and local Latvians. Two faculty members who are former foreign correspondents will guide students as they practice foreign reporting, deepen their understanding of world history and current events, and gain experience in being culturally sensitive when reporting in environments different from their own. Before leaving for Latvia, the class has will interview experts on Latvia and Russia. Students will read academic and news articles and book chapters to provide context for the trip and grist for story ideas. Following the trip, students will fill in their gaps in reporting and produce stories for their portfolios.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time"
+            },
+            {
+                "Topic": "Puerto Rico: Colonialism, Climate Change, Resistan",
+                "Instructors": "Karin Lydersen",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 9:00AM - 11:50AM\nMeets in Non-General PurposeRm: Fri 9:00AM - 11:50AM",
+                "Overview of class": "This course will prepare students to report in a new location - Puerto Rico - on complicated, sensitive and newsworthy topics including environmental justice, climate change, disaster recovery, politics, inequity, food security and public health. Students will explore history, politics, journalism and other context relating to Puerto Rico and Chicago's Puerto Rican diaspora, and learn how to identify and produce timely news or feature stories that build on and recognize this context. Students will find and build relationships with sources from afar and on the ground in Puerto Rico, and experience reporting on critical situations like the aftermath of natural disasters and high-stakes battles over land, as well as contentious politics including the debate over Puerto Rico's political status. During the trip, we will be based in the capitol city of San Juan, and also travel to various parts of the island including the mountainous interior and the south coast, the epicenter of struggles over environmental justice, energy production and food security. We will spend time with grassroots activists and environmentalists as well as meeting with professional journalists, artists and academics. Students will work together as a team and also have the opportunity to learn how to arrange their own interviews and logistics during travel reporting. Students will produce one publication-worthy story, package or project as part of the course, as well as coursework including journal entries and a presentation.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Super Bowl: Los Angeles 2027",
+                "Instructors": "Christopher Herring",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Fri 9:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Business, Money and Markets",
+                "Instructors": "Ceci Rodgers",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Fri 9:00AM - 11:50AM",
+                "Overview of class": "What happens on Wall Street impacts Main Street (and the world) every day. Interest rates, oil prices, the stock market and transformational technology, such as AI, create winners and losers in business and in the lives of individuals. This course will help you understand the forces driving money and business and how to write about them, whether you have a little, a lot, or no experience with the subject matter. If you want to learn an area of journalism where jobs are plentiful, this class is for you.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "421-4",
+        "course_name": "News Reporting",
+        "course_reference_number": [
+            "21290",
+            "21291",
+            "21292",
+            "21293",
+            "21294",
+            "21295",
+            "21296"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Magazine",
+                "instructors": [
+                    "News Reporting",
+                    "Karen Springen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data",
+                "instructors": [
+                    "News Reporting",
+                    "Christopher Herring"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Statehouse Beat",
+                "instructors": [
+                    "News Reporting",
+                    "Bob Rowley",
+                    "George Papajohn"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Video",
+                "instructors": [
+                    "News Reporting",
+                    "Caryn Ward"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Video",
+                "instructors": [
+                    "News Reporting",
+                    "Elena Eboh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "25",
+                "course_name": "Audio",
+                "instructors": [
+                    "News Reporting",
+                    "Natalie Moore"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "26",
+                "course_name": "Covering the Third Branch",
+                "instructors": [
+                    "News Reporting",
+                    "Michael Deas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Magazine",
+                "Instructors": "Karen Springen",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "In this hands-on class, you'll learn to pitch, report and write magazine-style pieces - including Q&A's, profiles, features, essays and service stories. Expect to get extensive feedback and suggestions from your instructor on drafts and in one-on-one meetings. You'll also talk with writers and editors who will share tips about how to craft memorable, stylish articles that are worthy of being published, either on the Medill Reports website or at an outside publication.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Data",
+                "Instructors": "Christopher Herring",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This course provides a dynamic introduction to data journalism, guiding students through foundational skills. Students will learn how to identify meaningful questions, form hypotheses, and analyze datasets to reveal patterns, trends, and outliers. As they progress, they'll explore data visualization techniques, starting with basic charts and moving to sophisticated tools like maps and animation, to make data-driven stories clear and impactful. By the end, students will be equipped to craft compelling narratives that resonate with audiences, preparing them to thrive in today's data-driven media landscape.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Statehouse Beat",
+                "Instructors": "Bob Rowley",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This course is an intensive news reporting class focused on Local and State Government and the Illinois Statehouse beat. We will be running this class like a newsroom as part of the Medill Illinois News Bureau (MINB: https://www.medill.northwestern.edu/journalism/graduate-journalism/exclusive-opportunities/medill-illinois-news-bureau.html) based in the Medill Chicago Newsroom. The course and the Bureau's work are a partnership with Capitol News Illinois (CNI: https://capitolnewsillinois.com/), which will be publishing many of the stories of the student fellows admitted to this class. Students must apply for select spots in this class by filing out the Medill Illinois News Bureau - Q2 Reporting Course Selective Application in October and getting accepted into the course in advance as MINB Statehouse Fellows. Students in the Politics, Policy & Foreign Affairs specialization will have the priority in Winter Quarter since they will be in Washington, D.C., Spring and Summer Quarters.\n\nThe course will prepare eight to ten admitted students to report on all aspects of local and state government, the State Legislature, and Illinois and national politics. Stories will range from breaking news and light enterprise to features, investigative and deeper dive stories covering the Illinois and Chicago news and policy beats. This includes state government officials and agencies, the Illinois General Assembly, the governor's office and the executive branch, and even some stories on the Illinois Supreme Court, as well as stories about Chicago's City Hall, Chicago Public Schools and Chicago news conferences with an Illinois focus. This class will include students in the Politics, Policy & Foreign Affairs specialization and also students from other MSJ specializations—and some of those latter students may want to apply again for the advanced reporting class on the Statehouse Beat in the Spring Quarter—if not admitted in Winter Quarter—that will continue using MINB Student Fellows to work on stories and beats with Capitol News Illinois.\n\nStudents will be required to travel to Springfield regularly when the legislature is in session, and students will be getting invaluable, on-the-ground experience reporting from the Illinois State Capitol. Each Statehouse Fellow will be taking three to four trips to Springfield during the quarter and other travels as appropriate for other stories around Illinois. This also means students admitted to this class should not schedule classes on Wednesdays and Thursdays in the Winter Quarter if possible (or try to work with instructors) to allow Tuesday-Thursday travel to Springfield on any given week. Students will explore reporting assignments with Medill's partner, Capitol News Illinois (CNI), and work through an innovative Medill bureau to place stories with CNI (https://capitolnewsillinois.com/news/author/medill/). This course will include discussions, readings and some guest lectures and field trips, and the class will operate like a newsroom with news meetings and one-on-one editing sessions to prepare students to report for the Medill Illinois News Bureau. Statehouse Fellows with the Bureau started working in the Fall Quarter 2024 and worked through Winter, Spring and Summer Quarters in 2025 and 2026 publishing stories for CNI. For the first time, an undergraduate Junior Resident is serving as a Statehouse Fellow this Fall Quarter. Given the policies and conduct of the federal administration, students may cover aspects of local and state government and politics that intersect with that of the current administration and its policies, explaining local and state impacts of those policies.\n\nAmerican politics in the 21st Century have become increasingly divided, bitter and rancorous, culminating in the Jan. 6, 2021, insurrection by a violent mob storming the U.S. Capitol and an attempt by members of Congress to undo the lawful result of the 2020 presidential election. Protests in Chicago and Milwaukee during the 2024 Democratic and Republican National Conventions underscored the divisions in the heartland and across the U.S. on issues ranging from immigration to the war in Gaza to the fights over abortion rights, healthcare, energy and education. The 2024 presidential campaign and the election of Donald Trump to a second term as president has set in motion controversial government policies and programs that will continue to reverberate through state and local government during Winter Quarter, and this course will provide excellent lessons in real time for discussion, brainstorming, and producing stories on state and local government and related national politics, how to cover them, and what reactions they prompt in the legislature and state government. The results of the Nov. 3 Midterm elections will have policy impacts and implications for Illinois programs and policies, providing a range of possible stories for our Statehouse Fellows.",
+                "Class Materials (Required)": "We will use mostly stories and links from news outlets on the Web for coursework and homework, but there is one required book: \"Illinois Politics: A Citizen's Guide to Power, Politics, and Government\" by Melissa Mouritsen, Kent D. Redfield & James D. Nowlan, August 2024 edition (Required - you can get if from Course Reserves on the Canvas site, or for about $22.86 on Amazon (https://www.amazon.com/Illinois-Politics-Citizens-Guide-Government/dp/0252087976) for the paperback edition or cheaper on Thrift Books and other sites. Medill can help with costs.) There will be readings from other books and chapters for most classes. The instructor will recommend other good books, studies, analyses and excerpts too, during the coursework.",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            },
+            {
+                "Topic": "Video",
+                "Instructors": "Caryn Ward",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This class is designed to prepare students for a career in video journalism. The primary emphasis will be on reporting; finding stories, gathering facts, getting the right sources and telling the story in an engaging and understandable way. Students will learn how to operate professional cameras, shoot video, write character-driven stories and edit compelling pieces.This class will provide students with a solid foundation for jobs in television news, interactive web reporting, and documentary making.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Video",
+                "Instructors": "Elena Eboh",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This class is designed to prepare students for a career in video journalism. The primary emphasis will be on reporting; finding stories, gathering facts, getting the right sources and telling the story in an engaging and understandable way. Students will learn how to operate professional cameras, shoot video, write character-driven stories and edit compelling pieces.This class will provide students with a solid foundation for jobs in television news, interactive web reporting, and documentary making.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Audio",
+                "Instructors": "Natalie Moore",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "Audio reporting is how we tell stories with sound. Lean in on the power of the human voice and create scenes that transport audiences into the pieces we create. This class is designed for journalists seeking to learn how to create audio news stories. In this Q2 course, you will replicate work produced in a public radio newsroom. You'll learn how to do vox, spots and one sound-rich feature. Plan, record, edit, and mix audio, but also how to find and shape the kinds of stories found on air in public radio stations across the country. You will create an audio news feature by the end of class.",
+                "Class Materials (Required)": "Required course material: Sound Reporting: The NPR Guide to Audio Journalism and Production, 2008, by Jonathan Kern. $19.60 on Amazon",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Covering the Third Branch",
+                "Instructors": "Michael Deas",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This course prepares journalism students to cover the federal courts accurately and independently. Students will analyze court records and proceedings, develop sources, interpret judicial opinions, assess judicial power and explain court actions and their consequences. Sitting judges will lead legal lectures and interactive sessions, while a Medill instructor will oversee the reporting assignments.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "425-2",
+        "course_name": "Advanced Health and Sciences Reporting",
+        "course_reference_number": [
+            "21282"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Health and Sciences Reporting",
+                "instructors": [
+                    "Abigail Foerstner"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abigail Foerstner",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 1:00PM - 3:50PM",
+                "Overview of class": "Advanced Heath, Environment and Sciences Reporting expands on the specialization skills you built during your seminar and in newsroom reporting while preparing you for embedded reporting. You take your skills and interests to the next level with advanced reporting strategies you will learn to apply as you interview veteran scientists, young inventors, and people impacted by social and economic disrupters. These strategies include deep listening skills, countering bias, and understanding how diverse sources understand an issue. At the heart of Advanced Reporting, you identify five high-impact stories of your choice that you produce in varied media with a deep dive into field reporting, finding stories in data, and applying creative multimedia strategies. In addition, Health, Environment and Science Specialization students in the class will be part of a grant-supported Mediahub for innovative health reporting. Mediahub reporting earns a stipend toward tuition. Take up the challenge of finding underreported stories, prioritizing fundamental social justice issues, and incorporating solutions journalism in all your reporting. Class workshops showcase strategies, experts, and peer discussion. You will learn to utilize investigative clues, tackling data and data visualizations, analyzing research, and reporting with clarity, impact and accuracy. Stretch storytelling boundaries - the hunt is on for dynamic stories we pitch for publication and broadcast media.",
+                "Class Materials (Required)": "Required course material include modules of readings, databases provided for searches, segments of books, and online tools for producing dynamic interactive graphics and maps. All materials and resources will be provided through the Northwestern library, the Knight Lab, and online assets at no cost to you.",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "427-0",
+        "course_name": "Social Justice Investigative Primer",
+        "course_reference_number": [
+            "21321"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Social Justice Investigative Primer",
+                "instructors": [
+                    "Debra Cenziper"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Debra Cenziper",
+                "Meeting Info": "Online: Tues 1:00PM - 3:50PM",
+                "Overview of class": "For generations, investigative reporting has proven to be one of the highest and most impactful forms of journalism. It sheds light on wrongdoing, exposes rampant incompetence and calls to account powerful people and institutions, from presidents to Fortune 500 companies to school boards. Over two quarters, students admitted to the Medill Investigative Lab will investigate one local, national or international issue, conduct interviews, probe critical data and trends and ultimately produce a groundbreaking investigative story from the ground up. Students will collaborate with each other, the instructor and potentially other professional investigative journalists to produce stories. If you are successful, your work could potentially make a difference in the lives of vulnerable people. The goal is to publish a significant investigation in a professional media outlet, such as the ProPublica. This is a two-quarter class based in Evanston in the winter and Washington, D.C. in the spring. With approval from the instructor, it is possible to be part of the program remotely in the spring. You can read the published investigations of prior MIL classes here: https://mil.medill.northwestern.edu/",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time\nRegistration is By Application Only"
+            }
+        ]
+    },
+    {
+        "course_number": "433-0",
+        "course_name": "Media Law and Government Transparency Practicum",
+        "course_reference_number": [
+            "21322"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Media Law and Government Transparency Practicum",
+                "instructors": [
+                    "Doreen Weisenhaus"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:40PM",
+                "end_time": "6:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Doreen Weisenhaus\nOffice Hours: After class and by appointment",
+                "Meeting Info": "Meets in Non-General PurposeRm: Wed 4:40PM - 6:30PM",
+                "Overview of class": "A Chicago police officer fatally shoots a teenager, but police refuse to release dash-cam video until a journalist invokes the Illinois Freedom of Information Act. A lawsuit accusing the Chicago City Council of violating open meeting laws is filed after reporters learn of private discussions on the city's response to the Covid-19 pandemic. Journalists covering protests outside an ICE immigration facility file a federal lawsuit accusing police of violating their First Amendment rights for violently interfering with their news gathering, including spraying them with tear gas. As these and other cases demonstrate, journalists in these contentious times need to turn to the law to confront increasing challenges to newsgathering and investigative reporting. This unique joint Practicum with Northwestern's Pritzker School of Law - comprised of externships and weekly seminars - aims to advance the public's access to information, to hold institutions accountable, and to defend free speech and press freedom. Through externships of 10-12 hours a week at media organizations, non-profits, and press-advocacy groups (provided and matched by faculty), Medill students will learn how to research and prepare access requests and how to research legal or policy matters related to investigative and accountability issues. Through lectures and guest speakers, students will be introduced to the major transparency laws and other topics inherent in the relevant casework. Working collaboratively with law students, Medill students will deepen their understanding of the subject matters, share their experiences on outside projects, and discuss the legal and ethical issues that arise. Students will be matched with existing externships.",
+                "Registration Requirements": "Prerequisite: JOUR 401-0 (Ethics and Law of Journalism)\n\nAcceptance in course by application only by sending CV, writing sample and statement of interest to doreen.weisenhaus@northwestern.edu",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "NUVention: Media & AI",
+        "course_reference_number": [
+            "21263"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "NUVention: Media & AI",
+                "instructors": [
+                    "Lawrence Birnbaum",
+                    "Jeremy Gilbert"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Fisk Hall 111: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "This course brings together students from across Northwestern schools to explore how artificial intelligence and computational technologies will shape the future of media, and who want to learn a process for creating new, AI-powered ventures in the news and media space. Student teams will use human-centered design methods to identify an opportunity gap, design interaction and presentation models, build functioning prototypes that fulfill those needs, and develop a compelling pitch and business plan to launch and sustain their product/service. Along the way, students will learn a process of innovation and venture development. Students will interact with industry veterans and domain experts who inspire and guide the student team as they pursue their projects.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "442-0",
+        "course_name": "Leadership Strategies",
+        "course_reference_number": [
+            "21299"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "London: Designing the Future",
+                "instructors": [
+                    "Leadership Strategies",
+                    "Candy Lee"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "London: Designing the Future",
+                "Instructors": "Candy Lee",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon 9:00AM - 11:50AM\nMeets in Non-General PurposeRm: Fri 9:00AM - 11:50AM",
+                "Overview of class": "For over 2000 years, London has been a cultural and financial capital. Britain led the largest empire in world history, a quarter of the world's land mass. And now it votes to leave Europe! We will explore in a class what makes you a leader, an innovator, a communicator and a decision-maker that leads an organization, a team, a group of peers. We will use London as a means to consider your own capacity to grow and develop in five main ways: how to be the best at oral communication; how to develop and nurture the people who work for you and with you; how to develop and execute good business plans for media and innovation; how to ensure your lens includes financial and economic literacy; how to build your negotiating, decision-making and interviewing skills so you can even negotiate your own career well. All without exams! London, even with Brexit, is still a cultural and financial capital. Are you a confident global cultural and financial media citizen? This course encourages the innovative, executive and communicative capacity that you have within to be a future leader.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            }
+        ]
+    },
+    {
+        "course_number": "444-0",
+        "course_name": "Business of News Media Innovation",
+        "course_reference_number": [
+            "21305"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Business of News Media Innovation",
+                "instructors": [
+                    "Ashirwaad Badami"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ashirwaad Badami",
+                "Meeting Info": "Meets in Non-General PurposeRm: Wed 9:00AM - 11:50AM",
+                "Overview of class": "Media is changing faster than old playbooks can keep up. Newsrooms, startups and independent creators face the same test: build something people value, backed by strategies that earn audience loyalty and revenue. For journalism, the stakes are higher: without a sustainable model, news organizations cannot survive. In this course you will learn to do both by developing the skills to identify audience needs, turn them into viable ideas, design for engagement and build revenue models that fit today's media environment, all in service of an evidence-based plan for your own new media product.",
+                "Class Materials (Required)": "Media: From Chaos to Clarity… is available for purchase on Amazon. Please purchase the Kindle version: https://a.co/d/9nMSa8P ($26.95 as of October 2026)\n\n\nThe following required texts are available online with unlimited access via NU Library. You do not need to purchase these books unless you wish to have a copy of your own.\n\nValue Proposition Design: How to Create Products & Services Customers Love (Papdakos, et al)\n\nBusiness Model Generation: A Handbook for Visionaries, Game Changers…(Osterwalder, Pigeur)\n\nLean Analytics (Croll & Yoskovitz)\n\nAll other course materials take the form of publicly-available information, which I will link to in the Canvas course management platform.",
+                "Class Materials (Suggested)": "The following required texts are available online with unlimited access via NU Library. You do not need to purchase these books unless you wish to have a copy of your own.\n\nValue Proposition Design: How to Create Products & Services Customers Love (Papdakos, et al): https://learning.oreilly.com/library/view/value-proposition-design/9781118968062/?ar=\n\nBusiness Model Generation: A Handbook for Visionaries, Game Changers…(Osterwalder, Pigeur): https://learning.oreilly.com/library/view/business-model-generation/9780470876411/\n\nLean Analytics (Croll & Yoskovitz): https://learning.oreilly.com/library/view/lean-analytics/9781449335687/\n\nAll other course materials take the form of publicly-available information, which I will link to in the Canvas course management platform.",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "28629"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Digital Editing & Engagement for Journalists",
+                "instructors": [
+                    "Special Topics",
+                    "Haley Velasco"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Digital Editing & Engagement for Journalists",
+                "Instructors": "Haley Velasco",
+                "Meeting Info": "Online: Wed 5:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nSynchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "21262",
+            "24063",
+            "28620"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Sports, Media and Society",
+                "instructors": [
+                    "Special Topics",
+                    "Craig Llewellyn LaMay"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Military Journalism",
+                "instructors": [
+                    "Special Topics",
+                    "Colin McMahon"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "The Investigative Data Newsroom",
+                "instructors": [
+                    "Special Topics",
+                    "Jill Blackman"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Sports, Media and Society",
+                "Instructors": "Craig Llewellyn LaMay",
+                "Meeting Info": "Meets in Non-General PurposeRm: Wed 9:00AM - 11:50AM",
+                "Overview of class": "Sport is a social institution no less than education, religion or the military, and outside of the United States is increasingly covered that way. The tension in that coverage stems from the fact that sport is the highest-earning product in the global entertainment industry, while at the same time the \"right to play\" is a basic human right, enshrined in the Universal Declaration of Human Rights. This course will focus on sports in an international context for students who wish to cover sports or study them. Topics will include a basic introduction to the definitions of ‘modern' sport and modern human rights; the global sports media rights market; the work of international sport governing bodies, from the IOC to the CAS; gender and sex issues, particularly regarding women, intersex and transexual athletes; the legacy of colonialism on sports, particularly in Africa and Asia; \"sportswashing\" and the role of the Arab Gulf states in sponsoring and hosting international sports events. We will pay particular attention to human rights issues surrounding the 2026 World Cup and the 2028 Summer Olympic Games in Los Angeles. Primary assignments are weekly reading response paper, a series of student-led debates, and a final paper or book review. There will be guest speakers from the US and around the world during the term, all of them visiting virtually. Students will be expected to lead discussion.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "Military Journalism",
+                "Instructors": "Colin McMahon",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "In this class, students will learn about how to deliver military reporting from the inside out. The class will examine the lives of people in uniform and their role in American society and U.S. national defense. We will study how journalists cover the United States military, war, national security institutions, veterans, and conﬂict abroad. Students will also study the structure and culture of the U.S. armed forces, the evolution of war correspondence, Pentagon reporting, ethics and military technology. The course combines historical case studies, practical reporting, class discussions, readings and guest lectures. Students are expected to put forth a sustained, full-time effort to excel. They will learn best practices on how to cover military personnel and installations while also developing a deeper understanding of the military culture and role in the United States.",
+                "Class Materials (Required)": "Students will be required to read only one of the books below, their choice. They will also be asked to write a piece inspired by the book, whether it be a book review, a thematic piece, a profile of the author or a Q&A with the author.\n\nThe Fighters — C.J. Chivers (from $10.37 on Amazon)\n\nThe Generals — Thomas E. Ricks (from $14.13 on Amazon)\n\nThank You for Your Service — David Finkel (from $13.04 on Amazon)\n\nEach book covers a different aspect of the course, so students will be able to choose the theme and the book that interests them most.",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            },
+            {
+                "Topic": "The Investigative Data Newsroom",
+                "Instructors": "Jill Blackman",
+                "Meeting Info": "Meets in Non-General PurposeRm: Wed 9:00AM - 11:50AM",
+                "Overview of class": "This two-quarter, faculty-led newsroom experience brings students together with a professional news outlet to collaborate on a real-world, data-driven investigation focused on issues of local public interest. Students learn how to use data throughout the investigative reporting process, from finding, collecting and cleaning datasets to analyzing information, identifying patterns, uncovering disparities and developing evidence-based findings. Working as part of an investigative newsroom team, students combine data skills with traditional reporting techniques, including public records requests, source development, interviews and verification. The experience emphasizes collaborative, hands-on investigative journalism, with the goal of contributing to a publishable investigation.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Attendance at 1st class mandatory"
+            }
+        ]
+    },
+    {
+        "course_number": "499-3",
+        "course_name": "Experiential Learning",
+        "course_reference_number": [
+            "21316"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Magazine Mentor Program",
+                "instructors": [
+                    "Experiential Learning",
+                    "Patti Wolter"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Magazine Mentor Program",
+                "Instructors": "Patti Wolter",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nRegistration is By Application Only"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "course_number": "226-DL",
+        "course_name": "Sociological Analysis",
+        "course_reference_number": [
+            "20570"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Sociological Analysis",
+                "instructors": [
+                    "Karrie Snyder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karrie Snyder\n847/467-0517\n1808 Chicago, Room 106",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "This course is an introduction to research methods from a sociological point of view. It aims to show how sociologists (and related social scientists) do research. We will examine fundamental concepts in research design (from sampling to bias), many different types of methods (from experiments to surveys), research ethics, and the benefits and limitations of various methodological approaches. In this hands-on course, we will learn about various methods, research ethics, and the fundamentals of research design by interacting with scholarly articles and practice and by looking at how social science research factors in our everyday lives (from social media posts to stories on the nightly news). A capstone project includes development of a full research proposal.\n\nThis course is conducted completely online. A technology fee will be added to tuition.",
+                "Registration Requirements": "This course is limited to School of Professional Studies students only. Undergraduate students in other schools at Northwestern are not permitted to enroll in this course.\n\nPrerequisites: none.",
+                "Learning Objectives": "By the end of this course, you will be able to:\n\nExplain the methods and methodological approaches social scientists use to conduct research.\nIllustrate how the principles of ethical research relate to research practice and scenarios.\nCritique the appropriateness of research methods and quality of findings for peer-reviewed social science research articles.\nDevelop a research design proposal to conduct an original social science study.",
+                "Class Materials (Required)": "No course materials need to be purchased for this course. All course materials are available through Course Reserves through Canvas or are publicly available online.\n\nDr. Snyder has written an OER (Open Educational Resource) for this course - Discovering Your Sociological Imagination: An Introduction to Sociological Research (2022). This will be the primary reference for this class. Chapters (PDFs) will be uploaded in advance of a weekly module.",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "303-DL",
+        "course_name": "Analysis and Interpretation of Social Data",
+        "course_reference_number": [
+            "20576"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Analysis and Interpretation of Social Data",
+                "instructors": [
+                    "Austin Abernethy Stimpson Jenkins"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Austin Abernethy Stimpson Jenkins",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "This course will introduce students to the techniques, concepts, and terminology used in the quantitative analysis of social data. The course will be grounded in practical exercises in which students will analyze real-world data on health disparities, police interactions with the public, party politics, and other important social issues. Students will learn how to find and access public-use social data and how to import, clean, merge, summarize, and visualize such data in the programming language R. Students will also learn the fundamental principles of probability underlying inferential statistics, or the process of using sample data to make inferences about broader populations. Finally, students will become fluent in the language of statistics, enabling them to discuss their own research in a precise and professional manner and to understand and evaluate quantitative research done by others. Prerequisite: none.\n\nThis course is conducted completely online. A technology fee will be added to tuition.",
+                "Registration Requirements": "This course is limited to School of Professional Studies students only. Undergraduate students in other schools at Northwestern are not permitted to enroll in this course.\n\nPrerequisites: none",
+                "Learning Objectives": "By the end of this course, students will be able to:\n\nRecognize, define, and properly use the basic terminology of statistics\nFind and download public-use social data from government agencies and scholarly archives\nImport, clean, merge, summarize and visualize social data in R\nUse sample data to construct confidence intervals for population parameters\nConduct basic hypothesis tests, including for differences in two proportions, differences in two or more means, the significance of regression coefficients, and overall model significance\nInterpret regression models and compare them by fit and parsimony\nIdentify and address common problems in quantitative analysis, including sampling bias, omitted variable bias, and violations of model assumptions",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "318-DL",
+        "course_name": "Sociology of Law",
+        "course_reference_number": [
+            "20579"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Sociology of Law",
+                "instructors": [
+                    "Austin Abernethy Stimpson Jenkins"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Austin Abernethy Stimpson Jenkins",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Law is not just a set of rules that control behavior. Real law is also cultural. Law depends on institutions and organizations. Social forces shape the people who write, enforce, and fall before the law. In this course, students will learn how sociologists have attempted to make sense of law in its entirety, as something that real people do under the weight of history. In addition to outlining the subfield of the sociology of law and its intellectual context, this course will introduce students to comparative legal studies, legal consciousness and legal narratives, intersectionality and the law, the relationship between law and science, sociological jurisprudence, American civil rights law, and law as profession. Course materials will include texts on social and legal theory, empirical legal studies scholarship, journalistic accounts of trials, and primary legal sources. Students will be able to pick topics and readings based on their interests.\n\nThis course is conducted completely online. A technology fee will be added to tuition.\n\nFoundational disciplines / distribution: social sciences. Meets requirement for course that applies perspectives on power, justice, and equity within the U.S.",
+                "Registration Requirements": "This course is limited to School of Professional Studies students only. Undergraduate students in other schools at Northwestern are not permitted to enroll in this course.\n\nPrerequisites: none",
+                "Learning Objectives": "By the end of this course, you will be able to:\n\nDelineate the structure of the contemporary U.S. legal system.\nDefine the sociology of law and describe how it differs from other kinds of legal scholarship, including jurisprudence and doctrinal analysis.\nExplain how Durkheim, Weber, and Foucault used international and historical comparisons to understand how legal systems have changed over time.\nIdentify the role of legal norms and concepts in everyday life and describe the roles of culture and personal narratives in legal discourse.\nDescribe how law both shapes, and is shaped by, cultural understandings of race, gender, class, and other social categories.\nDefine the co-production of law and scientific expertise and apply a co-productionist perspective to real legal disputes.\nIdentify examples of natural law, positivist, formalist, interpretivist, and realist legal reasoning.\nDiagnose major structural causes of the U.S. legal system's failures to guarantee rights and settle disputes equitably.\nDescribe how the organizational and professional context of legal work shapes legal outcomes.",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "course_number": "957-0",
+        "course_name": "Responsible Data and AI in Business",
+        "course_reference_number": [
+            "20335"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Responsible Data and AI in Business",
+                "instructors": [
+                    "Anne Bradley",
+                    "Emily White"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "4:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anne Bradley",
+                "Meeting Info": "Rubloff Building 203: Mon, Tues, Wed, Thurs 9:00AM - 4:30PM\nRubloff Building 203: Fri 9:00AM - 1:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registrar enrollment; not a biddable class\nMSL Students Only",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment only open to MSL degree candidates."
+            }
+        ]
+    }
+]

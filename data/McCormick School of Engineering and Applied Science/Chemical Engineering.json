@@ -1,0 +1,586 @@
+[
+    {
+        "course_number": "101-0",
+        "course_name": "Getting to Know Chemical Engineering",
+        "course_reference_number": [
+            "23776"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Getting to Know Chemical Engineering",
+                "instructors": [
+                    "Muzhou Wang"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Muzhou Wang",
+                "Meeting Info": "Technological Institute M345: Thurs 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "211-0",
+        "course_name": "Thermodynamics",
+        "course_reference_number": [
+            "23704"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Thermodynamics",
+                "instructors": [
+                    "Jeffrey Lopez"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeffrey Lopez",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Mon, Tues, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed CHEM_ENG 210 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "275-0",
+        "course_name": "Molecular & Cell Biology for Engineers",
+        "course_reference_number": [
+            "23779"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Molecular & Cell Biology for Engineers",
+                "instructors": [
+                    "Abbie Bellis Stringer"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abbie Bellis Stringer",
+                "Meeting Info": "Technological Institute A110: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed CHEM_ENG 132-0, 152-0, or 172-0."
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Artifical Life",
+        "course_reference_number": [
+            "25008"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Artifical Life",
+                "instructors": [
+                    "Sam Kriegman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sam Kriegman\n847/467-6631\nTechnological Institute, Rm A293, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Schapiro Hall 101: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Comp_sci 214 or Permission of Instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Probability and Statistics for Chemical Engineering",
+        "course_reference_number": [
+            "23705"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Probability and Statistics for Chemical Engineering",
+                "instructors": [
+                    "Liese Dallbauman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Liese Dallbauman",
+                "Meeting Info": "Annenberg Hall G15: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: MATH 220-1, 220-2, 228-1, 228-2 or equivalent; COMP_SCI 150-0, GEN_ENG 150, or GEN_ENG 151-0"
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "Heat Transfer",
+        "course_reference_number": [
+            "23706"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Heat Transfer",
+                "instructors": [
+                    "Abbie Bellis Stringer"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abbie Bellis Stringer",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Mon, Tues, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "341-0",
+        "course_name": "Dynamics and Control of Chemical and Biological Processes",
+        "course_reference_number": [
+            "23707"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Dynamics and Control of Chemical and Biological Processes",
+                "instructors": [
+                    "Ashty Karim"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ashty Karim",
+                "Meeting Info": "Technological Institute A110: Mon, Tues, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed CHEM_ENG 307 & be Senior Standing. Corequisite: Concurrent enrollment in CHEM_ENG 340-0."
+            }
+        ]
+    },
+    {
+        "course_number": "342-0",
+        "course_name": "Chemical Engineering Laboratory",
+        "course_reference_number": [
+            "23708"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chemical Engineering Laboratory",
+                "instructors": [
+                    "James Rekoske"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "5:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Rekoske",
+                "Meeting Info": "Ford Eng Design Cntr SB335: Thurs 9:00AM - 5:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken CHEM_ENG 212-0, 307-0, 321-0, 322-0, and 323-0 in order to register for this course.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "345-0",
+        "course_name": "Process Optimization for Energy and Sustainability",
+        "course_reference_number": [
+            "23709"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Process Optimization for Energy and Sustainability",
+                "instructors": [
+                    "Liese Dallbauman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Liese Dallbauman",
+                "Meeting Info": "Technological Institute M164: Mon, Wed, Fri 11:00AM - 11:50AM\nTechnological Institute L168: Tues 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "351-0",
+        "course_name": "Process Economics, Design, & Evaluation",
+        "course_reference_number": [
+            "23710"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Process Economics, Design, & Evaluation",
+                "instructors": [
+                    "Jennifer Cole"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jennifer Cole\n847/497-5712\nTech E178 - (Mail to: E136)",
+                "Meeting Info": "Technological Institute L158: Mon, Tues, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken CHEM_ENG 212-0, 307-0, 321-0, 322-0, and 323-0 in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "352-0",
+        "course_name": "Chemical Engineering Design Projects",
+        "course_reference_number": [
+            "23711"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chemical Engineering Design Projects",
+                "instructors": [
+                    "Jennifer B. Dunn",
+                    "Ian Horn"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jennifer B. Dunn",
+                "Meeting Info": "Technological Institute L150: Wed 3:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed CHEM_ENG 351 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "372-0",
+        "course_name": "Bionanotechnology",
+        "course_reference_number": [
+            "23777"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Bionanotechnology",
+                "instructors": [
+                    "Igor Kourkine"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Igor Kourkine",
+                "Meeting Info": "Technological Institute M128: Mon, Tues, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "375-0",
+        "course_name": "Biochemical Engineering",
+        "course_reference_number": [
+            "23712"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Biochemical Engineering",
+                "instructors": [
+                    "Keith Tyo",
+                    "Danielle Tullman-Ercek"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Keith Tyo",
+                "Meeting Info": "Technological Institute M345: Mon, Tues, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "378-0",
+        "course_name": "Engineering Biology II: Developing synthetic biology technologies across scales",
+        "course_reference_number": [
+            "23781"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Biology II: Developing synthetic biology technologies across scales",
+                "instructors": [
+                    "Krishna Shrinvias"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Krishna Shrinvias",
+                "Meeting Info": "Frances Searle Building 1441: Tues, Thurs 3:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CHEM_ENG 275-0 or BIOL_SCI 201-0 or BIOL_SCI 202-0 or MBIOTECH 304-0 or CHEM_ENG 376-0"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Chemical Engineering",
+        "course_reference_number": [
+            "23713",
+            "23783"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Electrochemical Energy Storage",
+                "instructors": [
+                    "Special Topics in Chemical Engineering",
+                    "Jeffrey Lopez"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Differential Geometry and Tensor Calculus",
+                "instructors": [
+                    "Special Topics in Chemical Engineering",
+                    "Gregory Ryskin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Electrochemical Energy Storage",
+                "Instructors": "Jeffrey Lopez",
+                "Meeting Info": "Technological Institute LG66: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Differential Geometry and Tensor Calculus",
+                "Instructors": "Gregory Ryskin\nChBE Dept, Tech E136, Evanston",
+                "Meeting Info": "Technological Institute M120: Mon, Wed 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "420-0",
+        "course_name": "Transport Phenomena",
+        "course_reference_number": [
+            "23782"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Transport Phenomena",
+                "instructors": [
+                    "Krishna Shrinvias"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Krishna Shrinvias",
+                "Meeting Info": "Technological Institute L221: Mon, Wed 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "451-0",
+        "course_name": "Applied Molecular Modeling",
+        "course_reference_number": [
+            "23778"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Applied Molecular Modeling",
+                "instructors": [
+                    "Randall Snurr",
+                    "Ella King"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Randall Snurr",
+                "Meeting Info": "Technological Institute LG66: Mon, Tues, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "510-0",
+        "course_name": "Seminar",
+        "course_reference_number": [
+            "23774"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar",
+                "instructors": [
+                    "Danielle Tullman-Ercek"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danielle Tullman-Ercek",
+                "Meeting Info": "Technological Institute M345: Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

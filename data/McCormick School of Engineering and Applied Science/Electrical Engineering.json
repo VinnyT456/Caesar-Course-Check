@@ -1,0 +1,675 @@
+[
+    {
+        "course_number": "221-0",
+        "course_name": "Fundamentals of Circuits",
+        "course_reference_number": [
+            "25800"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Circuits",
+                "instructors": [
+                    "Pedram Khalili"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pedram Khalili",
+                "Meeting Info": "Technological Institute M164: Mon, Tues, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken EECS 202-0 in order to register for this course.",
+                "Associated Classes": "LAB - Technological Institute CG10: Wed 3:00PM - 5:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "222-0",
+        "course_name": "Fundamentals of Signals & Systems",
+        "course_reference_number": [
+            "25796"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Signals & Systems",
+                "instructors": [
+                    "Randall Berry"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Randall Berry",
+                "Meeting Info": "Technological Institute A110: Mon, Tues, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken EECS 202-0 in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "224-0",
+        "course_name": "Fund of Electromagnetics & Photonics",
+        "course_reference_number": [
+            "25803"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fund of Electromagnetics & Photonics",
+                "instructors": [
+                    "Prem Kumar"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Prem Kumar",
+                "Meeting Info": "Technological Institute L158: Mon, Tues, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken EECS 202-0, EECS 221-0, PHYSICS 135-2, and MATH 234-0 in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "225-0",
+        "course_name": "Fundamentals of Electronics",
+        "course_reference_number": [
+            "25804"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Electronics",
+                "instructors": [
+                    "John Grosspietsch"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Grosspietsch",
+                "Meeting Info": "Lunt Hall 104: Mon, Tues, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken ELEC_ENG 221 in order to register for this course.",
+                "Associated Classes": "LAB - TBA: TBA"
+            }
+        ]
+    },
+    {
+        "course_number": "326-0",
+        "course_name": "Electronic System Design I",
+        "course_reference_number": [
+            "25813"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Electronic System Design I",
+                "instructors": [
+                    "Ilya Mikhelson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ilya Mikhelson",
+                "Meeting Info": "Technological Institute M164: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed (ELEC_ENG 225-0 and COMP_SCI 211-0), or MECH_ENG 333-0, or graduate standing, or instructor consent."
+            }
+        ]
+    },
+    {
+        "course_number": "334-0",
+        "course_name": "Fundamentals of Blockchains and Decentralization",
+        "course_reference_number": [
+            "28417"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Blockchains and Decentralization",
+                "instructors": [
+                    "Dongning Guo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dongning Guo",
+                "Meeting Info": "Technological Institute LG52: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Introduction to Feedback Systems",
+        "course_reference_number": [
+            "25784"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Feedback Systems",
+                "instructors": [
+                    "Randy Freeman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Randy Freeman",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Requisite: ELEC_ENG 222-0 or MECH_ENG 390-0 or BMD_ENG 309-0 or equivalent"
+            }
+        ]
+    },
+    {
+        "course_number": "363-0",
+        "course_name": "Digital Filtering",
+        "course_reference_number": [
+            "25790"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Digital Filtering",
+                "instructors": [
+                    "Arthur Butz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arthur Butz",
+                "Meeting Info": "Technological Institute LG72: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "372-1",
+        "course_name": "Robot Design Studio",
+        "course_reference_number": [
+            "25950"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Robot Design Studio",
+                "instructors": [
+                    "Ed Colgate",
+                    "Raphael Cherney"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ed Colgate\n847/491-4264\nTechnological Institute, Rm B282, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M166: Mon, Wed, Fri 1:00PM - 2:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Wireless Communications",
+        "course_reference_number": [
+            "25791"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Wireless Communications",
+                "instructors": [
+                    "Igor Kadota"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Igor Kadota",
+                "Meeting Info": "Technological Institute MG28: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed EECS 378-0 in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "388-0",
+        "course_name": "Nanotechnology",
+        "course_reference_number": [
+            "25797"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Nanotechnology",
+                "instructors": [
+                    "Manijeh Razeghi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Manijeh Razeghi",
+                "Meeting Info": "Technological Institute L158: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken EECS 223-0 or obtain consent of the instructor in order to register for this course or graduate standing.",
+                "Associated Classes": "LAB - Technological Institute CG10: Thurs 4:00PM - 7:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Electrical Engineering",
+        "course_reference_number": [
+            "25775",
+            "25776",
+            "25777"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Cardiovascular Instrumentation",
+                "instructors": [
+                    "Special Topics in Electrical Engineering",
+                    "Alan Varteres Sahakian"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Magnetic Materials, Devices, and Spintronics",
+                "instructors": [
+                    "Special Topics in Electrical Engineering",
+                    "Pedram Khalili"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "11",
+                "course_name": "Quantum Engineering",
+                "instructors": [
+                    "Special Topics in Electrical Engineering",
+                    "Mahdi Hosseini"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Cardiovascular Instrumentation",
+                "Instructors": "Alan Varteres Sahakian",
+                "Meeting Info": "Technological Institute L221: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Magnetic Materials, Devices, and Spintronics",
+                "Instructors": "Pedram Khalili",
+                "Meeting Info": "Technological Institute M349: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Quantum Engineering",
+                "Instructors": "Mahdi Hosseini",
+                "Meeting Info": "Technological Institute M120: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "402-0",
+        "course_name": "Advanced Electronic Devices",
+        "course_reference_number": [
+            "25793"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Electronic Devices",
+                "instructors": [
+                    "Hooman Mohseni"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hooman Mohseni",
+                "Meeting Info": "2001 Sheridan GPC 2109: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Fundamentals and Applications of Special Relativity",
+        "course_reference_number": [
+            "25812"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals and Applications of Special Relativity",
+                "instructors": [
+                    "Selim Shahriar"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Selim Shahriar",
+                "Meeting Info": "Technological Institute MG28: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Random Processes in Communications and Control 1",
+        "course_reference_number": [
+            "25794"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Random Processes in Communications and Control 1",
+                "instructors": [
+                    "Dongning Guo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dongning Guo",
+                "Meeting Info": "Technological Institute M349: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "432-0",
+        "course_name": "Advanced Computer Vision",
+        "course_reference_number": [
+            "25806"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Computer Vision",
+                "instructors": [
+                    "Ying Wu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ying Wu",
+                "Meeting Info": "Technological Institute MG28: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "433-0",
+        "course_name": "Statistical Pattern Recognition",
+        "course_reference_number": [
+            "28418"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Statistical Pattern Recognition",
+                "instructors": [
+                    "Ying Wu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ying Wu",
+                "Meeting Info": "Technological Institute MG28: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Requisite: Students must have taken EECS 302 in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Topics in Electrical Engineering",
+        "course_reference_number": [
+            "25778",
+            "25779",
+            "25780"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Cardiovascular Instrumentation",
+                "instructors": [
+                    "Special Topics in Electrical Engineering",
+                    "Alan Varteres Sahakian"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Magnetic Materials, Devices, and Spintronics",
+                "instructors": [
+                    "Special Topics in Electrical Engineering",
+                    "Pedram Khalili"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "11",
+                "course_name": "Game Theory and Networked Systems",
+                "instructors": [
+                    "Special Topics in Electrical Engineering",
+                    "Randall Berry"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Cardiovascular Instrumentation",
+                "Instructors": "Alan Varteres Sahakian",
+                "Meeting Info": "Technological Institute L221: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Magnetic Materials, Devices, and Spintronics",
+                "Instructors": "Pedram Khalili",
+                "Meeting Info": "Technological Institute M349: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Game Theory and Networked Systems",
+                "Instructors": "Randall Berry",
+                "Meeting Info": "Technological Institute M177: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "510",
+        "course_name": "Seminar",
+        "course_reference_number": [
+            "25899"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Seminar",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    }
+]

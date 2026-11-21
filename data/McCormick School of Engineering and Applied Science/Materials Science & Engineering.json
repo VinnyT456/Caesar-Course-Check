@@ -1,0 +1,1626 @@
+[
+    {
+        "course_number": "195-0",
+        "course_name": "Introductory Special Topics in Materials Science and Engineering",
+        "course_reference_number": [
+            "26707"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introductory Special Topics in Materials Science and Engineering",
+                "instructors": [
+                    "Rajan Kumar"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rajan Kumar",
+                "Meeting Info": "Technological Institute MG51: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Associated Classes": "LAB - Cook Hall 2-022: Wed 3:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "201-0",
+        "course_name": "Introduction to Materials Science and Engineering Principles",
+        "course_reference_number": [
+            "26544"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Materials Science and Engineering Principles",
+                "instructors": [
+                    "Jacob Zeitlin Kelter"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacob Zeitlin Kelter",
+                "Meeting Info": "Technological Institute L361: Tues, Thurs 9:30AM - 10:50AM\nPancoe Building Abbott Aud: Wed 4:00PM - 8:00PM\nPancoe Building Abbott Aud: Wed 4:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CHEM 131-0, CHEM 151-0, or CHEM 171-0. Antirequisite: Students cannot concurrently be enrolled in MAT_SCI 301-0.",
+                "Associated Classes": "DIS - Technological Institute LG66: Mon 9:00AM - 9:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "315-0",
+        "course_name": "Phase Equilibria & Diffusion of Materials",
+        "course_reference_number": [
+            "26549"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Phase Equilibria & Diffusion of Materials",
+                "instructors": [
+                    "Jonathan Emery"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jonathan Emery",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Mon, Tues, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: MAT_SCI 201-0 or MAT_SCI 301-0 or equivalent and MAT_SCI 314-0 or equivalent.",
+                "Associated Classes": "LAB - Cook Hall 2-022: Mon 3:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "318-0",
+        "course_name": "Materials Selection",
+        "course_reference_number": [
+            "26673"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Materials Selection",
+                "instructors": [
+                    "Jonathan Emery"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jonathan Emery",
+                "Meeting Info": "Technological Institute M152: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: MAT_SCI 201 or 301 or faculty consent."
+            }
+        ]
+    },
+    {
+        "course_number": "331-0",
+        "course_name": "Soft Materials",
+        "course_reference_number": [
+            "26557"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Soft Materials",
+                "instructors": [
+                    "Ryan Truby"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ryan Truby\n847/467-2341",
+                "Meeting Info": "Technological Institute M164: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: MAT_SCI 301-0 or equivalent; MAT_SCI 314-0 or CHEM 342-1; MAT_SCI 316-1 and MAT_SCI 316-2."
+            }
+        ]
+    },
+    {
+        "course_number": "351-2",
+        "course_name": "Introductory Physics of Materials",
+        "course_reference_number": [
+            "26558"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introductory Physics of Materials",
+                "instructors": [
+                    "David Barton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Barton",
+                "Meeting Info": "Technological Institute M128: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: MAT_SCI 301-0 or equivalent or consent of instructor; MAT_SCI 351-2; GEN_ENG 205-4, GEN_ENG 206-4, or GEN_ENG 251-0; PHYSICS 135-2; PHYSICS 135-3.",
+                "Associated Classes": "LAB - Cook Hall 2-022: Tues 9:30AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "358-0",
+        "course_name": "Modeling and Simulation in Materials Science and Engineering",
+        "course_reference_number": [
+            "26705"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Modeling and Simulation in Materials Science and Engineering",
+                "instructors": [
+                    "James M Rondinelli"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James M Rondinelli\n847/491-3198\n3037 Cook Hall\nOffice Hours: Wednesdays, 9-11 am",
+                "Meeting Info": "Technological Institute M120: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-reqs: Mat_Sci 314, Mat_Sci 315, Mat_Sci 316-1, Mat_Sci 351-1"
+            }
+        ]
+    },
+    {
+        "course_number": "361-0",
+        "course_name": "Crystallography & Diffraction",
+        "course_reference_number": [
+            "26565"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Crystallography & Diffraction",
+                "instructors": [
+                    "Michael Bedzyk"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Bedzyk\n847/491-3570\nCook Hall, Room 1139 (2220 Campus Dr.), Evanston, IL 60208-3108",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 205-4, GEN_ENG 206-4, or GEN_ENG 251-0; PHYSICS 135-2; PHYSICS 135-3."
+            }
+        ]
+    },
+    {
+        "course_number": "381-0",
+        "course_name": "Materials for Energy-Efficient Technology",
+        "course_reference_number": [
+            "26674"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Materials for Energy-Efficient Technology",
+                "instructors": [
+                    "David C Dunand"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David C Dunand",
+                "Meeting Info": "Technological Institute LG52: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: MAT_SCI 201-0, MAT_SCI 301-0, or consent of instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "394-0",
+        "course_name": "Honors Project in Materials Science",
+        "course_reference_number": [
+            "26572",
+            "26582",
+            "26566",
+            "26567",
+            "26568",
+            "26569",
+            "26570",
+            "26571",
+            "26573",
+            "26574",
+            "26575",
+            "26576",
+            "26577",
+            "26578",
+            "26579",
+            "26580",
+            "26581",
+            "26583",
+            "26584",
+            "26585",
+            "26586",
+            "26587",
+            "26588",
+            "26589",
+            "26590",
+            "26591",
+            "26592",
+            "26593",
+            "26594",
+            "26595",
+            "26596"
+        ],
+        "course_info": [
+            {
+                "section": "3",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Scott Barnett"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Michael Bedzyk"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "12",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Cecile Chazot"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "15",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Yip-Wah Chung"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "18",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Vinayak Dravid"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "21",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "David C Dunand"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "26",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Sossina M. Haile"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "27",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Mark Hersam"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Ian McCue"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "33",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Derk Joester"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "36",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Lincoln J Lauhon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "39",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Erik Luijten"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "42",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "David Barton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "45",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Tobin Jay Marks"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "48",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Thomas Mason"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "54",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Chad Mirkin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "57",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Teri W Odom"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "63",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "M Olvera de la Cruz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "66",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Amanda K Petford-Long"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "72",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "John Rogers"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "73",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "James M Rondinelli"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "75",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "David N Seidman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "81",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Kenneth Shull"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "82",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "G. Jeffrey Snyder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "84",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Samuel Stupp"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "87",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "John M Torkelson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "90",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Peter Voorhees"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "93",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Ryan Truby"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "96",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Christopher Wolverton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "97",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "98",
+                "course_name": "Honors Project in Materials Science",
+                "instructors": [
+                    "Jennifer Fowlie"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Scott Barnett\n847/491-2447\n4037 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Michael Bedzyk\n847/491-3570\nCook Hall, Room 1139 (2220 Campus Dr.), Evanston, IL 60208-3108",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Cecile Chazot",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Yip-Wah Chung",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Vinayak Dravid\n847/467-1363\n1133 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "David C Dunand",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Sossina M. Haile",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Mark Hersam\n847/491-2696\nRoom 1135 Cook Hall\nOffice Hours: Wednesday, 2-4 pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Ian McCue",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Derk Joester",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Lincoln J Lauhon\n3017 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Erik Luijten\n847/491-4097\n3011 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "David Barton",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Tobin Jay Marks",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Thomas Mason\n847/491-3198\nCook Hall 3037",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Chad Mirkin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Teri W Odom",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "M Olvera de la Cruz",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Amanda K Petford-Long",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "John Rogers",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "James M Rondinelli\n847/491-3198\n3037 Cook Hall\nOffice Hours: Wednesdays, 9-11 am",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "David N Seidman\n847/491-4391\n1013 Cook Hall\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Kenneth Shull",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "G. Jeffrey Snyder",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Samuel Stupp",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "John M Torkelson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Peter Voorhees",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Ryan Truby\n847/467-2341",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Christopher Wolverton\n847/467-0593\n3013A Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            },
+            {
+                "Instructors": "Jennifer Fowlie",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Materials Science and Engineering",
+        "course_reference_number": [
+            "26597"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biomaterials",
+                "instructors": [
+                    "Special Topics in Materials Science and Engineering",
+                    "Christine Wang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Biomaterials",
+                "Instructors": "Christine Wang",
+                "Meeting Info": "Technological Institute LG52: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "396-1",
+        "course_name": "Senior Project in Materials Science and Engineering",
+        "course_reference_number": [
+            "26598",
+            "28816"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Senior Project in Materials Science and Engineering",
+                "instructors": [
+                    "Kathleen A Stair"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Senior Project in Materials Science and Engineering",
+                "instructors": [
+                    "Kathleen A Stair"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kathleen A Stair",
+                "Meeting Info": "Tech Institute C115 Bodeen Lab: Wed 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Instructors": "Kathleen A Stair",
+                "Meeting Info": "Tech Institute C115 Bodeen Lab: Wed 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "396-2",
+        "course_name": "Senior Project in Materials Science and Engineering",
+        "course_reference_number": [
+            "26599",
+            "28817"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Project in Materials Science and Engineering",
+                "instructors": [
+                    "Kathleen A Stair"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Senior Project in Materials Science and Engineering",
+                "instructors": [
+                    "Kathleen A Stair"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kathleen A Stair",
+                "Meeting Info": "Tech Institute C115 Bodeen Lab: Wed 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Instructors": "Kathleen A Stair",
+                "Meeting Info": "Tech Institute C115 Bodeen Lab: Wed 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "404-1",
+        "course_name": "Fundamentals of Soft Matter",
+        "course_reference_number": [
+            "26712"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Soft Matter",
+                "instructors": [
+                    "Kenneth Shull"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kenneth Shull",
+                "Meeting Info": "Swift Hall 107: Mon, Wed, Thurs, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "405-0",
+        "course_name": "Physics of Solids",
+        "course_reference_number": [
+            "26634"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Physics of Solids",
+                "instructors": [
+                    "Lincoln J Lauhon"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lincoln J Lauhon\n3017 Cook Hall",
+                "Meeting Info": "2001 Sheridan GPC 1440: Mon, Tues, Wed, Fri 1:00PM - 1:50PM\nPancoe Building Abbott Aud: Wed 6:00PM - 8:00PM\nPancoe Building Abbott Aud: Tues 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "431-0",
+        "course_name": "Physical Chemistry of Polymers",
+        "course_reference_number": [
+            "26713"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Physical Chemistry of Polymers",
+                "instructors": [
+                    "Cecile Chazot"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cecile Chazot",
+                "Meeting Info": "Technological Institute LG52: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "458-0",
+        "course_name": "Atomic Scale Computational Materials Science",
+        "course_reference_number": [
+            "26675"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Atomic Scale Computational Materials Science",
+                "instructors": [
+                    "Christopher Wolverton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Wolverton\n847/467-0593\n3013A Cook Hall",
+                "Meeting Info": "Tech Institute Lecture Room 4: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "465-0",
+        "course_name": "Advanced Electron Microscopy & Diffraction",
+        "course_reference_number": [
+            "26636"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Electron Microscopy & Diffraction",
+                "instructors": [
+                    "Roberto dos Reis"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Roberto dos Reis",
+                "Meeting Info": "Technological Institute LG68: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "510-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "28434"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Paths of the Profession",
+                "instructors": [
+                    "Special Topics",
+                    "Jonathan Emery"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Paths of the Profession",
+                "Instructors": "Jonathan Emery",
+                "Meeting Info": "Technological Institute M152: Wed 3:00PM - 4:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "596-0",
+        "course_name": "MS Thesis Research",
+        "course_reference_number": [
+            "26676",
+            "26677",
+            "26678",
+            "26679",
+            "26680",
+            "26681",
+            "26682",
+            "26683",
+            "26684",
+            "26685",
+            "26686",
+            "26687",
+            "26688",
+            "26689",
+            "26690",
+            "26691",
+            "26692",
+            "26693",
+            "26694",
+            "26695",
+            "26696",
+            "26697",
+            "26698",
+            "26699",
+            "26700",
+            "26701",
+            "26702",
+            "26703",
+            "26704",
+            "28748"
+        ],
+        "course_info": [
+            {
+                "section": "03",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Scott Barnett"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "06",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Michael Bedzyk"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "12",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Cecile Chazot"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "15",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Yip-Wah Chung"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "18",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Vinayak Dravid"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "21",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "David C Dunand"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "26",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Sossina M. Haile"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "27",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Mark Hersam"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Ian McCue"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "33",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Derk Joester"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "36",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Lincoln J Lauhon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "39",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Erik Luijten"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "42",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "David Barton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "45",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Tobin Jay Marks"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "54",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Chad Mirkin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "57",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Teri W Odom"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "63",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "M Olvera de la Cruz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "66",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Amanda K Petford-Long"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "67",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Kenneth Poeppelmeier"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "72",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "John Rogers"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "73",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "James M Rondinelli"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "75",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "David N Seidman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "81",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Kenneth Shull"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "82",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "G. Jeffrey Snyder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "84",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Samuel Stupp"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "87",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "John M Torkelson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "90",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Peter Voorhees"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "93",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Ryan Truby"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "96",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Christopher Wolverton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "97",
+                "course_name": "MS Thesis Research",
+                "instructors": [
+                    "Rajan Kumar"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Scott Barnett\n847/491-2447\n4037 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael Bedzyk\n847/491-3570\nCook Hall, Room 1139 (2220 Campus Dr.), Evanston, IL 60208-3108",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Cecile Chazot",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Yip-Wah Chung",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Vinayak Dravid\n847/467-1363\n1133 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David C Dunand",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sossina M. Haile",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Mark Hersam\n847/491-2696\nRoom 1135 Cook Hall\nOffice Hours: Wednesday, 2-4 pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Ian McCue",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Derk Joester",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Lincoln J Lauhon\n3017 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Erik Luijten\n847/491-4097\n3011 Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David Barton",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Tobin Jay Marks",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Chad Mirkin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Teri W Odom",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "M Olvera de la Cruz",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Amanda K Petford-Long",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kenneth Poeppelmeier",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Rogers",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "James M Rondinelli\n847/491-3198\n3037 Cook Hall\nOffice Hours: Wednesdays, 9-11 am",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "David N Seidman\n847/491-4391\n1013 Cook Hall\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kenneth Shull",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "G. Jeffrey Snyder",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Samuel Stupp",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John M Torkelson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Peter Voorhees",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Ryan Truby\n847/467-2341",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Wolverton\n847/467-0593\n3013A Cook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Rajan Kumar",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

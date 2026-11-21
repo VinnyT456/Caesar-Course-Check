@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# App build output
+*.spec
+.pw-profile/
+frontend/node_modules/
+caesar_checker/static/
+
+# OS / editor / tool state
+.DS_Store
+.vscode/
+.gemini/
+.claude/
+.impeccable/review/
+storage_state.json
+app.log

@@ -1,0 +1,124 @@
+[
+    {
+        "course_number": "101-2",
+        "course_name": "Elementary Latin",
+        "course_reference_number": [
+            "24019"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Elementary Latin",
+                "instructors": [
+                    "Nava Rebecca Cohen"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nava Rebecca Cohen",
+                "Meeting Info": "Kresge Centennial Hall 2-319: Mon, Tues, Wed, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "Elementary Latin is a year-long course designed to provide students with the basic skills for reading, understanding, and translating both Latin prose and poetry. In the second quarter of the sequence students continue to acquire knowledge of the grammar and syntax of the Latin language, work on strengthening and expanding their Latin vocabulary, and develop an ability to read, understand, and translate more complex passages in both adapted and unadapted Latin. In addition to the exercises and readings included in the textbooks, students will see and read Latin as it appeared on ancient monuments, walls, coins, and everyday objects. By uniting the study of language and culture, this course provides unique insight into the daily life of the people who spoke Latin in the Roman world.",
+                "Class Materials (Required)": "LaFleur, Richard A., ed. Wheelock's Latin, 7th edition. New York: Harper Collins, 2011. ISBN: 9780062094827\n\nGroton, Anne H., and James M. May. 38 Latin Stories. Wauconda, Illinois: Bolchazy-Carducci, 2004. ISBN: 9780865162891",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "201-2",
+        "course_name": "Introduction to Latin Literature",
+        "course_reference_number": [
+            "24020",
+            "24021"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Virgil's Aeneid",
+                "instructors": [
+                    "Introduction to Latin Literature",
+                    "Francesca Tataranni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Virgil's Aeneid",
+                "instructors": [
+                    "Introduction to Latin Literature",
+                    "Francesca Tataranni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Virgil's Aeneid",
+                "Instructors": "Francesca Tataranni\n847/491-8029\nKresge Hall 4363",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Latin 201-2 is designed to help students develop confidence and fluency in reading Latin poetry through a close reading of Vergil's \"Aeneid.\" Class activities will include careful reading of the Latin text with special attention to grammar, vocabulary, and style combined with literary discussion and interpretation. The course also provides a systematic introduction to the basics of Latin meter and scansion.",
+                "Class Materials (Required)": "Boyd, Barbara Weiden. \"Vergil's Aeneid. Expanded Collection.\" Wauconda, IL.: Bolchazy Carducci, 2013. ISBN 0865167893",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Virgil's Aeneid",
+                "Instructors": "Francesca Tataranni\n847/491-8029\nKresge Hall 4363",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Latin 201-2 is designed to help students develop confidence and fluency in reading Latin poetry through a close reading of Vergil's \"Aeneid.\" Class activities will include careful reading of the Latin text with special attention to grammar, vocabulary, and style combined with literary discussion and interpretation. The course also provides a systematic introduction to the basics of Latin meter and scansion.",
+                "Class Materials (Required)": "Boyd, Barbara Weiden. \"Vergil's Aeneid. Expanded Collection.\" Wauconda, IL.: Bolchazy Carducci, 2013. ISBN 0865167893",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "310-0",
+        "course_name": "Readings in Latin Literature",
+        "course_reference_number": [
+            "24022"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Readings in Latin Literature",
+                "instructors": [
+                    "Francesca Tataranni"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Francesca Tataranni\n847/491-8029\nKresge Hall 4363",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Book 7 of the \"Aeneid\" marks a turning point both in Aeneas's journey and the poem as a whole, inaugurating the so-called \"Iliadic\" half of the epic. At the beginning of the book, Aeneas reaches Latium, where he is fated to found a city and ultimately the Roman people. His world, however, is quickly engulfed by violent fury, when the goddess Juno unleashes a war that will consume Italy and dominate the rest of the poem. As Vergil announces, \"maius opus moveo\" (7.45), the subject matter of the second part of the poem will be grander and the stakes significantly higher. \"How was [Vergil] to create a worthy prehistory for Rome? How to express his love of Italy while showing its ambiguous nature? How to paint the Trojan arrival as both a return home and an invasion? The war in Latium as both a civil war, a replay of the Trojan war, and a pre-enactment of historical Rome's fifth- and fourth-century Latin wars as well as the civil wars of the poet's own day?\" [Sara Mack in \"Reading Vergil's Aeneid,\" 1999, 128] Alongside these questions, we will explore the book's focus on female characters, from Aeneas's nurse Caieta at the beginning of the book to Lavinia, Amata and Allecto at its center, and to Camilla at its end.",
+                "Class Materials (Required)": "Ganiban, Randall T. \"Aeneid Book 7\". Indianapolis. Hackett Publishing (The Focus Vergil Aeneid Commentaries). 2021. ISBN: 978-1-58510-994-4",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Additional Distro"
+            }
+        ]
+    }
+]

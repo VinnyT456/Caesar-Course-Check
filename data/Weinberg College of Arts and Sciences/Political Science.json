@@ -1,0 +1,1277 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "27497"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Polarization and American Politics",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Laurel Harbridge-Yong"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Polarization and American Politics",
+                "Instructors": "Laurel Harbridge-Yong\n847 4671147\n601 University Place #312A",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "210-0",
+        "course_name": "Introduction to Empirical Methods in Political Science",
+        "course_reference_number": [
+            "27489"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Empirical Methods in Political Science",
+                "instructors": [
+                    "Gustavo Diaz"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gustavo Diaz\n2001 Sheridan Road, 3152\nOffice Hours: By appointment only",
+                "Meeting Info": "University Hall 122: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This class provides an introduction to the tools political scientists use to answer questions about politics. How qualitative, quantitative, and experimental research designs help us answer difficult descriptive and causal questions.",
+                "Learning Objectives": "Identify types of research designs, assess their strengths and weaknesses, evaluate inferential claims, communicate research processes and findings",
+                "Teaching Method": "Lecture and discussion",
+                "Evaluation Method": "Quizzes, Research design critiques, AI memos, Discussion participation",
+                "Class Materials (Suggested)": "No",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Kresge Centennial Hall 2-329: Thurs 4:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "220-0",
+        "course_name": "American Government and Politics",
+        "course_reference_number": [
+            "27307"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "American Government and Politics",
+                "instructors": [
+                    "Elizabeth L Thom"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elizabeth L Thom\n847/467-7443\n2001 Sheridan Road, 3207\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1440: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course introduces students to the institutions and processes of American government from the nation's founding to the present. We will cover a range of topics, including the philosophical and cultural foundations of the republic; the legislative, executive, and judicial branches; the development of political parties and theories of representation; federalism and state and local politics; the policymaking process; interest groups; the role of the media in a changing information environment; and major social movements that have shaped the trajectory of American politics. Throughout the course, we will focus on how power is exercised and contested, and how both formal and informal mechanisms underpin American democracy. The goal is to prepare students to be informed observers and participants in contemporary American politics.",
+                "Learning Objectives": "There are five main learning objectives for the course. By the end of the quarter, students should be able to:",
+                "Evaluation Method": "Participation; Midterm and Final Exams; Observe and Write about a Political Process",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 2109: Thurs 4:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "240-0",
+        "course_name": "Introduction to International Relations",
+        "course_reference_number": [
+            "27315"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to International Relations",
+                "instructors": [
+                    "Isabella Bellezza"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Isabella Bellezza\n2001 Sheridan Road, 3215\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1440: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "In Introduction to International Relations (IR), students will be introduced to key historical moments, core concepts, and major theoretical approaches used to understand conflict and cooperation in world affairs. We will apply these tools to central topics in both international security (such as the causes of war, alliance politics, nuclear weapons, and terrorism) and international political economy (such as international trade, finance, borders, and the environment), as well as to topics of current political concern (such as new technologies, democratic backsliding, and outer space).",
+                "Learning Objectives": "By the end of the course, students should be able to:",
+                "Evaluation Method": "Students will be evaluated with two in-class exams, one in-class communication exercise, and section participation.",
+                "Class Materials (Required)": "Jeffry A. Frieden, David A. Lake, and Kenneth A. Schultz. World Politics: Interests, Interactions, Institutions, 6th Edition. WW Norton & Company, 2026.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 1135: Wed 4:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Introduction to Comparative Politics",
+        "course_reference_number": [
+            "27322"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Comparative Politics",
+                "instructors": [
+                    "Iza Ding"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Iza Ding\n2001 Sheridan Road, 3136\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1440: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This course examines how political systems function across the world and why political outcomes differ among nations. Students explore key questions in comparative politics, such as why some countries are rich while others remain poor, how democracies emerge or collapse, and why inequality persists. Through global case studies, the course introduces core theories, concepts, and methods of political analysis.",
+                "Learning Objectives": "The course equips students to think critically about political information, apply the scientific method to political inquiry, and produce rigorous comparative political analysis.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 1125: Wed 4:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "309-0",
+        "course_name": "Political Theories of the Rule of Law",
+        "course_reference_number": [
+            "27327"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Political Theories of the Rule of Law",
+                "instructors": [
+                    "Jacqueline Stevens"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacqueline Stevens\n847/467-2093\n2001 Sheridan Road, 3162\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Mon 9:00AM - 11:50AM",
+                "Overview of class": "The phrase \"rule of law\" conveys a range of expectations we have of government and each other. Is the rule of law a meaningful aspiration for a legal system that is fair and ensures everyone, including government officials are equally accountable? Or is the phrase a cynical ruse on behalf of the powerful to control wealth, territory, and populations? This course will explore the origins of the rule of law in European political thought and compare selected theorists' descriptions of the relation between law and politics.\nThe course will focus on the use of state violence and civil penalties in contexts of war, disobedience, families, and corporations, including the university. The jurisprudence of U.S. statutory interpretation will be explored through analysis of debates about the implementation of national security and sexual harassment policies. The frameworks of ancient Greece will be foregrounded to put in conversation assigned texts by Franz Kafka, Carl Schmitt, Lon Fuller, Jeremy Waldron, Catherine MacKinnon, and Janet Halley, among others. Arguments will be compared for their usefulness in understanding the interpretation of contemporary laws and imagining alternatives.",
+                "Registration Requirements": "Attendance at first class required",
+                "Learning Objectives": "This class introduces students to the primary texts, theories, and techniques necessary for grasping the rule of law in the United States today. The objective is to improve basic legal literacy in the context of larger questions of political and legal theory. Students will become familiar with conducting legal research using online databases, including LexisUni, and Proquest Congressional research databases, and also understand the U.S. Code and Code of Federal Regulations. Students will learn these skills in the context of reflecting on larger principles of statutory interpretation -- does a law mean what the plain text says, what Congress \"intends,\" or a \"purpose\" imputed to law by judges?",
+                "Evaluation Method": "Your grade will be based in-class analysis applying readings to a current event; a class presentation; participation; and a final paper.",
+                "Class Attributes": "Ethical and Evaluative Thinking Foundational Disci\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Student may not receive credit for both LEGAL_ST 309-0 and POLI_SCI 309-0."
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Statistical Research Methods",
+        "course_reference_number": [
+            "27478"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Statistical Research Methods",
+                "instructors": [
+                    "Jaye Seawright"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jaye Seawright\n847/467-1148\n2001 Sheridan Road, 3203\nOffice Hours: By appointment only",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "How much political violence is there in the average American community, and why is there more in some places than in others? Why can't Democrats and Republicans just get along? Does a country's colonial experience shape its future political and economic possibilities? These questions, and many more, have been addressed by statistical research in political science. This course explores quantitative/statistical research methods in the social sciences, with the goal of determining what makes a good descriptive or causal inference about politics. In this course, we will review the basics of statistical theory and quantitative research design, and then we will proceed to carefully examine in practical terms how to carry out and particularly analyze a quantitative study in political science.\n\nThroughout the quarter, you will work with a team on hands-on projects involving a real-world political-science research question and data set. In the process, you will learn not only how to evaluate other people's statistical work, but also how to design, execute, and interpret your own statistical models. real-world political-science research question and data set. In the process, you will learn not only how to evaluate other people's statistical work, but also how to design, execute, and interpret your own statistical models",
+                "Learning Objectives": "By the end of the course, students will",
+                "Teaching Method": "lecture, group work, discussion section, hands-on exercises",
+                "Evaluation Method": "Grades will be based on seven hands-on assignments (5% each for a total of 35%),\n\nparticipation in projects and discussions in each class meeting (35%), and\n\na final group project (30%).",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC/WCAS 5228: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "313-0",
+        "course_name": "Experiments in Political Science",
+        "course_reference_number": [
+            "27498"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Experiments in Political Science",
+                "instructors": [
+                    "Alexander Coppock"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alexander Coppock\n2001 Sheridan Road, 3154\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 3111: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Randomized experiments have become indispensable tools for businesses, nonprofits, and social scientists for assessing causal effects. Tech companies like Meta, Spotify, or Netflix subject nearly every element of their interfaces to intense testing via randomized experimentation to optimize engagement. Political organizations randomize the type and frequency of voter contacts to maximize their chances of electoral and legislative success. Social scientists use the results of randomized experiments to develop and test theories of human behavior. At the end of this course, all students will be able to design, execute, and analyze randomized experiments. The goal is to enable students to evaluate the impact of real-world interventions on well-defined political, economic, and social outcomes. We will cover field and survey experiments, though nearly all of the design and analysis principles extend to lab and so-called ``natural'' experiments as well. While some research methods classes (rightly) cover a wide variety of research tools, this course will focus narrowly on the strengths and weaknesses of a single method: randomized experimentation.",
+                "Class Materials (Required)": "Field Experiments\nDesign, Analysis, and Interpretation\nby Alan S Gerber Donald P Green",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis"
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "The American Presidency",
+        "course_reference_number": [
+            "27328"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The American Presidency",
+                "instructors": [
+                    "Daniel Galvin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Galvin\n847 491 2641\n2001 Sheridan Road, 3174\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC GN210: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This course examines major themes in the study of the presidency, with particular emphasis on the tension between executive power and democracy. Topics include the nature and scope of executive power, presidential selection, presidential vs. parliamentary systems, executive aggrandizement, and prominent scholarly theories of presidential power, strategy, and leadership. While we will discuss current events, the aim of the course is to develop analytical tools to better understand and evaluate the past, present, and future of presidential politics.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Urban Politics",
+        "course_reference_number": [
+            "27312"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Urban Politics",
+                "instructors": [
+                    "Reuel Rogers"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Reuel Rogers\n847/491-2644\n2001 Sheridan Road, 3223\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC GN210: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course charts the dynamics of urbanization in the United States, paying close attention to its major political ramifications. We survey developments dating from the early mercantile cities of the 19th century to today's fragmented metropolitan areas. We focus on how changes in the urban political economy have generated challenges to democracy like the problem of inequality, and how political power has been marshaled and organized at the local level to address them. The course is suitable for first- to fourth-year students.",
+                "Learning Objectives": "By the end of the course, students should have a comprehensive understanding of the relationship between the macro-level dynamics of urbanization, the politics of American cities, and prospects for democratic representation and equality at the local level.",
+                "Teaching Method": "Lecture, discussion sections, and some discussion during lecture",
+                "Evaluation Method": "Final exam (35%); Midterm Exam (30%); Short paper (20%); Class participation (15%)",
+                "Class Materials (Required)": "Political Change in the Metropolis, 8th edition. Ronald K. Vogel and John J. Harrigan. Routledge. 2006. ISBN 0321202287",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Annenberg Hall G32: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "324-0",
+        "course_name": "Political Parties and Elections",
+        "course_reference_number": [
+            "27331"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Political Parties and Elections",
+                "instructors": [
+                    "Matt R Pryor"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt R Pryor\n2001 Sheridan Road, 3317\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 4103: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Elections have regularly occurred since the inception of this country. Highly visible elections occur every 2 to 4 years, and less visible elections occur more frequently. How do political campaigns and elections produce representation? And how do citizens assess how well they are represented? This class addresses these questions by focusing on three domains. First, we will examine how the process and structures of representation and American Elections. Then, we will investigate the contributions of key political actors to campaigns: parties, interest groups, and the media, and they interact through elections. Finally, we will examine voter perceptions of parties and campaigns, and how voters are targeted (or not) by political actors. The class will focus on critical political science articles (and can follow along with the text) to investigate these topics. Time will also be spent observing and interacting with the current presidential primary campaigns as well.",
+                "Registration Requirements": "Recommended: POLI_SCI 220-0 American Government and Politics",
+                "Learning Objectives": "Major questions in this course include how the structural arrangement of electoral process shapes election choices and outcomes; how money impacts the electoral process; how citizens develop political preferences; and how those preferences are translated through the electoral process into vote choices. In all of our discussion, we will reflect upon the role that elections play in regard to democracy in the United States.",
+                "Evaluation Method": "We will utilize a mid-term and final with some short writings too.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "333-0",
+        "course_name": "Constitutional Law II: Civil and Political Rights",
+        "course_reference_number": [
+            "27332"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Constitutional Law II: Civil and Political Rights",
+                "instructors": [
+                    "Joanna Grisinger"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joanna Grisinger\n847 491 3987\n620 Lincoln St #201",
+                "Meeting Info": "2001 Sheridan GPC GN210: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This course investigates the civil rights and civil liberties protected by the Constitution and defined by the U.S. Supreme Court—including privacy, equality, freedom of expression, and freedom of religion. In doing so, we will examine what, exactly, the Constitution means, who gets to decide, and how. Please note: Constitutional Law I (LEGAL_ST/POLI_SCI 332) is not a prerequisite for this class.",
+                "Registration Requirements": "Attendance at first class required. Taught with POLI SCI 333; may not receive credit for both courses. Prerequisite: POLI_SCI 220-0 or POLI_SCI 230-0 Please note: Constitutional Law I is not a prerequisite for this class. They can be taken in any order.",
+                "Learning Objectives": "By the end of the quarter, students should be able to:",
+                "Teaching Method": "lecture and in-class discussion",
+                "Evaluation Method": "Participation; short writing prompts; in-person midterm exam; in-person final exam",
+                "Class Materials (Required)": "This course will have required books/other materials. coursepack available through Quartet Copies",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: POLI_SCI 220-0 or POLI_SCI 230-0. Antirequisite: Student may not receive credit for both LEGAL_ST 331-0 and POLI_SCI 331-0."
+            }
+        ]
+    },
+    {
+        "course_number": "334-0",
+        "course_name": "Latino Politics",
+        "course_reference_number": [
+            "27495"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Latino Politics",
+                "instructors": [
+                    "Jaime Dominguez"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jaime Dominguez\n1908 Sheridan Road\nOffice Hours: By appointment only",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The surge in the Latino/a population has brought about profound economic, educational, and political implications for states, cities and the U.S. polity. As their electoral clout continues to grow, as evidenced by recent elections, Latinos/as will have the opportunity to exert greater influence in the politics and policies of our country.\n\nThis course will explore these implications and the histories, including the more contemporary social and political developments of Latino communities, in the United States from a comparative framework. We will focus on the political experiences of America's three largest groups of Latino-origin: Mexican Americans, Puerto Ricans, and Cuban Americans.\n\nThe first part of the course will examine the social construction of Latino identities and trace the historical experiences of all three groups, comparing the elements behind each group's migration and how those processes affect their incorporation in mainstream society. We also examine demographic resources and the impact of immigration on the politics of the Latino collective. Next, we turn to the development of a Latino politics, placing special emphasis on political attitudes, mobilization strategies and electoral participation. Lastly, we tackle public policy issues such as voting rights and language policy.\n\nThe question that we will return to throughout the course is the degree to which and under what circumstances it is appropriate to speak of a Latino community.",
+                "Registration Requirements": "Minimum of sophomore standing to enroll\nMust have taken a 300-level class in the social sciences.",
+                "Learning Objectives": "Students will learn to",
+                "Teaching Method": "Lecture, seminar-style, group work.",
+                "Evaluation Method": "Midterm: 25%; Final: 40%; Book Analysis: 20%; Participation: 15%",
+                "Class Materials (Required)": "David Gutierrez. 1995. Walls and Mirrors: Mexican Americans, Mexican Immigrants and the Politics of Ethnicity. Berkeley: University of California Press. ISBN: 9780520202191.\n\n\nMaria de los Angeles Torres. 1999. In the Land of Mirrors: Cuban Exile Politics in the United States. Ann Arbor: University of Michigan Press. ISBN: 978-0472087884.\n\n\nGabriel R. Sanchez, Luis Ricardo Fraga and Ricardo Ramirez. 2020. Latinos and the 2016 Election. Michigan State University Press. ISBN: 9781611863611.\n\n\nLisa Garcia-Bedolla. 2005. Fluid Borders. Berkeley University of California Press. ISBN: 9780520243699.\n\n\nAmalia Pallares and Nilda Flores-Gonzalez. 2010. Marcha: Latino Chicago and the Immigrant Rights Movement. ISBN: 978-0252077166",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "344-0",
+        "course_name": "U.S. Foreign Policy",
+        "course_reference_number": [
+            "27333"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "U.S. Foreign Policy",
+                "instructors": [
+                    "Daniel Krcmaric"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Krcmaric\n847/491-4845\n2001 Sheridan Road, 3176\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1440: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "This class covers contemporary American foreign policy. Over the course of the quarter, we will discuss American power, the goals for which this power is employed, and the United States' effectiveness at achieving these goals. Specifically, we will explore how the academic literature can help us understand important foreign policy issues such as democracy promotion, the spread of nuclear weapons, foreign aid, the rise of China, US-Russia relations, terrorism, humanitarian intervention, and cyberwarfare, among others.",
+                "Learning Objectives": "The objective of this course is to give students the intellectual tools required to comprehend world affairs - particularly US foreign policy - in a sophisticated manner. As such, we will work to bridge the gap between the academic literature and the real world. By the end of the course, students should be able to",
+                "Teaching Method": "Lecture and discussion section",
+                "Evaluation Method": "Midterm exam, final exam, and participation.",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Annenberg Hall G30: Thurs 4:00PM - 4:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "348-0",
+        "course_name": "Globalization",
+        "course_reference_number": [
+            "27471"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Globalization",
+                "instructors": [
+                    "Stephen Nelson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Nelson\n847/491-2589\n2001 Sheridan Road, 3170\nOffice Hours: By appointment only",
+                "Meeting Info": "555 Clark B01: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Globalization has arguably been the most powerful force shaping international and domestic politics in recent decades. In this course, we will focus primarily on market globalization - the increase in cross-border transactions involving goods and services, production, money and financial assets, and workers. This is a critical time for market globalization. In the past decade and a half, many countries' financial systems have experienced profoundly destabilizing shocks. The global distribution of economic and political power is shifting. Policymakers in the United States and elsewhere have grown increasingly skeptical of the efficacy and fairness of the international organizations charged with governing globalized markets. A populist-nationalist tide swept into the political scene in many countries in recent years. The eruption of the COVID-19 pandemic, the global diffusion of lockdowns to control the spread of the virus, and the attendant severe, synchronized economic downturns provoked many prominent observers, including the former Chief Economist of the World Bank, Carmen Reinhart, to wonder if the pandemic hammered the \"last nail in the coffin of globalization.\" The corrosion of market globalization, we might think, can only be accelerated by the intensification of geopolitical rivalries and armed conflicts in multiple regions of the world in recent years. This course is intended to take stock of market globalization considering longstanding integrating and the more recent fragmenting forces. What, exactly, is market globalization? Are its effects on the economic fortunes of individuals and groups in historically rich Northern countries different than the effects in the Global South? Has market globalization gone too far - or has it not gone far enough? These are the kinds of questions that will be discussed in the course. The course is organized around five main topics: (1) conceptualizing the dimensions of market globalization; (2) describing the transformations in the constituent parts of market globalization (international trade, globalized production, finance, and labor migration) that promoted what some call \"hyperglobalization\"; (3) exploring how different varieties of capitalism in the historically rich Northern countries have adjusted to pressures generated by market globalization; (4) the relationship between market globalization, economic development, and global income inequality; (5) exploring the challenges to globalization posed by the recent rise of nationalist-populist ideologies in many countries.",
+                "Registration Requirements": "Poli_Sci 240: Introduction to International Relations is recommended",
+                "Learning Objectives": "By the end of this course students will:",
+                "Teaching Method": "Lecture, discussion sections, in-class case discussions",
+                "Evaluation Method": "Course requirements include two exams, participation in discussion sections and other exercises, two short writing exercises, and (ungraded) participation in the political science department's research pool. The weighting of the course requirements is as follows:",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC/WCAS 5103: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "351-0",
+        "course_name": "Politics of the Middle East",
+        "course_reference_number": [
+            "27338"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Politics of the Middle East",
+                "instructors": [
+                    "Wendy Pearlman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wendy Pearlman\n8474912259\n2001 Sheridan Road, 3201\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1440: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "This course explores the comparative politics of the Middle East and North Africa. The first half of the course focuses on the historical and institutional context of politics and government in the region, roughly from World War I until the eve of the 2011 Arab Uprisings. Here we examine the emergence of independent nation-states, the consolidation of regimes, issues of identity and religion, and patterns in the relationship between state, society, and economy. We compare explanations for the endurance of authoritarian regimes in Arab countries, as well as the political system in Turkey. The second half of the course concentrates on dynamics of mobilization and conflict. Here we explore the Iranian revolution and making of the Islamic Republic. Turning to Arab states, we examine the 2011 uprisings and political developments in their aftermath. We also study the origins and evolution over the struggle for Israel and Palestine. The two halves of the course are interconnected, and students are encouraged and expected to use the material presented each session to inform their engagement with material presented during the sessions that follow.",
+                "Learning Objectives": "By the end of this course, students will:",
+                "Evaluation Method": "Exams, section participation, short research essay",
+                "Class Materials (Suggested)": "Michele Penner Angrist, ed. Politics and Society of the Contemporary Middle East, 3rd Edition (Boulder, CO: Lynne Rienner Publishers, 2019). ISBN 978-1-62637-805-6. [This newest edition is required]\nSandy Tolan, The Lemon Tree: An Arab, a Jew, and the Heart of the Middle East (New York: Bloomsbury, 2006). ISBN 978-1582343433. [Any edition is fine]",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 1105: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "355-0",
+        "course_name": "Politics of China",
+        "course_reference_number": [
+            "27343"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Politics of China",
+                "instructors": [
+                    "Iza Ding"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Iza Ding\n2001 Sheridan Road, 3136\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC GN210: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "This course provides an overview of modern China’s politics and society, divided into three parts. The first traces China’s transformation from the fall of the Qing dynasty to the end of the Mao era. The second examines the country’s post-1978 economic reforms and its distinctive political system. The final part explores key challenges facing China today, including climate change, inequality, nationalism, populism, and technological change. The course equips students with a grounded understanding of China’s political landscape and introduces core political science concepts such as revolution, democracy, and legitimacy. China is examined through historical, comparative, and global perspectives.",
+                "Learning Objectives": "Develop a grounded understanding of Chinese politics and society",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "369-0",
+        "course_name": "Politics of Post-Soviet Russia and Ukraine",
+        "course_reference_number": [
+            "27484"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Politics of Post-Soviet Russia and Ukraine",
+                "instructors": [
+                    "Jordan Gans-Morse"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jordan Gans-Morse\n847/467-1154\n2001 Sheridan Road, 3166\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1125: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "When Vladimir Putin launched a full-scale invasion of Ukraine in February 2022, he turned the international order upside down, initiated the largest war in Europe in over half a century, and set the stage for Russia’s return to totalitarianism. How did this catastrophic turn of events come to be, and what will happen next? This course analyzes the political, economic, and foreign policy upheavals that shook Russia and Ukraine after the collapse of the Soviet Union. Through the lens of the Russian and Ukrainian experiences, we will examine key concepts in comparative politics, such as revolution, regime change, market formation, nationalism, and state building. We will also consider key international relations debates pertaining to NATO enlargement, Russian imperialism, and other topics essential to understanding Russia’s invasion of Ukraine and the ongoing geopolitical crisis it unleashed.",
+                "Class Materials (Required)": "",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "374-0",
+        "course_name": "Politics of Capitalism",
+        "course_reference_number": [
+            "27494"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Politics of Capitalism",
+                "instructors": [
+                    "Andrew Roberts"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Roberts\n847/491-2636\n2001 Sheridan Road, 3172\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 3111: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This course considers how politics affects the economy and the economy affects politics. Its main focus will be on the advanced industrial economies of Western Europe, North America, and East Asia. The course is thus a complement to other courses in the department which look at the political economy of developing countries and international political economy. Major topics to be covered include the normative arguments for and against the market, the development of the west, the welfare state, the role of money in politics, and inequality.",
+                "Learning Objectives": "",
+                "Teaching Method": "Lecture/discussion",
+                "Evaluation Method": "Exams, short papers, final project",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Political Communication",
+        "course_reference_number": [
+            "27470"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Political Communication",
+                "instructors": [
+                    "Erik C Nisbet"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erik C Nisbet",
+                "Meeting Info": "Frances Searle Building 3417: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This seminar focuses on the theory, practice, and problems of political communication, designed for both communication majors and non-majors. This course will introduce you to a wide range of processes and problems of mediated political communication, including elections, political advertising, political news, and social media within an American context. Political communication is the fabric that holds a participatory democracy together; thus, our examination of political communication is intrinsically tied to understanding the health of American democracy and how political communication contributes to it, for better or worse.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "384-0",
+        "course_name": "International Responses to Mass Atrocities",
+        "course_reference_number": [
+            "27496"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Responses to Mass Atrocities",
+                "instructors": [
+                    "Daniel Krcmaric"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Krcmaric\n847/491-4845\n2001 Sheridan Road, 3176\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1125: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This class is about what, if anything, the international community can and should do in response to mass atrocities around the globe. We will proceed in four parts. In the first, we will discuss the causes of mass atrocities and examine one prominent historical case, the Holocaust. In the second, we will discuss the different options in the international policymaker's \"toolkit\" when it comes to confronting mass atrocities (e.g., military intervention, humanitarian assistance, economic sanctions, human rights prosecutions, etc.). In the third, we will discuss two relatively recent cases, Bosnia and Rwanda. In the fourth, students will give in-class presentations on contemporary cases of mass atrocities in the form of mock National Security Council briefings.",
+                "Learning Objectives": "The objective of this course is to give students the intellectual tools required to comprehend world affairs - particularly how international actors can respond to mass atrocities - in a sophisticated manner. As such, we will work to bridge the gap between the academic literature and the real world. This will occur in both our class discussions and the student presentations. Students are therefore expected to stay up to date on current world affairs by reading a major newspaper on a daily basis. I recommended the New York Times, Washington Post, and Financial Times",
+                "Evaluation Method": "Grades are based on the following criteria:",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Special Topics in Political Science",
+        "course_reference_number": [
+            "27346",
+            "27347",
+            "27348",
+            "27349",
+            "27350",
+            "27351",
+            "27352",
+            "26377",
+            "28377",
+            "28590"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Political Data Visualization",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Alexander Coppock"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "The Politics of Housing Policy",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Chloe Thurston"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Environmental Political Theory",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Hannah Glasson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "25",
+                "course_name": "Problems in Democratic Thought",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Jacqueline Stevens"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "26",
+                "course_name": "Cities and Power: Urban Politics Around the World",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Nicole E. Wilson"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "27",
+                "course_name": "American Politics and Policy from the New Deal",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Anthony S Chen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "28",
+                "course_name": "Politics of Global Health",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Kelly Hunter"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "29",
+                "course_name": "A Practitioner's Guide to Diplomatic Craftsmanship",
+                "instructors": [
+                    "Special Topics in Political Science"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "30",
+                "course_name": "Rights of the Nonhuman",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Hannah Glasson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "31",
+                "course_name": "Introduction to the Kurdish Question",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Hevi Gokdemir"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Political Data Visualization",
+                "Instructors": "Alexander Coppock\n2001 Sheridan Road, 3154\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 3111: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course is an introduction to data visualization with a focus on political and social data. Our main textbook will be The Visual Display of Quantitative Information by Edward Tufte, a foundational book that explores the history of data visualization and offers a perspective on how graphs should be constructed. We will also learn from other visualization pioneers not included in Tufte's review such as W.E.B. Du Bois and Florence Nightingale. Our secondary textbook will be the ggplot2 book by Hadley Wickham, an indispensable resource for constructing statistical graphs in the programming language R. The main goal of the course will be to learn to communicate both what we know and why we think we know it through excellent data visualization.",
+                "Class Materials (Required)": "The Visual Display of Quantitative Information by Edward R. Tufte",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "The Politics of Housing Policy",
+                "Instructors": "Chloe Thurston\n847/467-4067\n2001 Sheridan Road, 3182\nOffice Hours: http://www.polisci.northwestern.edu/people/core-faculty/chloe-thurston.html",
+                "Meeting Info": "2001 Sheridan GPC 2447: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This seminar explores the political, social, and economic intricacies of American housing policy, with an eye towards better understanding current-day U.S. housing challenges and crises. Students will examine historical developments, the origins and consequences of key legislation, and the role of government and political processes at the local, state, and federal levels. Students will examine how various stakeholders - including elected officials, policymakers, interest groups, and local communities - shape the political possibilities for housing reform. Topics covered will include affordable housing, zoning, suburbanization, the role of the private sector and government-sponsored enterprises, and the interplay between race, class, and housing access. By the end of the course, students will gain a nuanced understanding of the political forces shaping housing in the United States and their broader implications and consider innovative solutions to the greatest challenges in this important policy area.",
+                "Learning Objectives": "By the end of the course, students will gain a nuanced understanding of the political forces shaping housing in the United States and their broader implications and consider innovative solutions to the greatest challenges in this important policy area.",
+                "Evaluation Method": "Weekly Memos\n\nClass Participation\n\nFinal Project/Paper",
+                "Class Materials (Required)": "Richard Rothstein, The Color of Law: A Forgotten History of How Our Government Segregated America Paperback: 978-1-63149-453-6\n\n\nMatthew Desmond, Evicted: Poverty and Profit in the American City Paperback: 978-0-553-44745-3\n\n\nKatherine Levine Einstein, David M. Glick & Maxwell Palmer, Neighborhood Defenders: Participatory Politics and America’s Housing Crisis Paperback: 978-1-108-70851-7",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Environmental Political Theory",
+                "Instructors": "Hannah Glasson",
+                "Meeting Info": "2001 Sheridan GPC 1135: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Environmental Political Theory Environmental Political Theory challenges the long-standing humanistic emphasis of political thought, insisting that nature is not simply a passive backdrop to human affairs but an active participant in political life. This course explores how social, discursive, and material forces interact to shape political systems, economies, and identities. We will examine how environmental political theorists reconceptualize the state, justice, and economic systems, while also rethinking political action and the meaning of human freedom. Special attention will be given to critiques of mainstream green politics and sustainable development, which, despite good intentions, can reinforce ideologies and institutions that drive ecological degradation. Alongside critique, we will study creative contemporary approaches that imagine new forms of political community and human freedom that do not depend on the domination and devaluation of nonhuman life. Finally, the course will turn to grassroots activism and community engagement as sites of possibility for building more just, democratic, and ecologically attuned forms of social, political, and economic order.",
+                "Learning Objectives": "Students will critically evaluate various theoretical, political, and ideological lenses that have structured approaches to environmental governance. Through practices of close reading, classroom discussion, and analytical writing, students will evaluate strengths and weaknesses of different arguments, put divergent perspectives into conversation, and apply academic theories to the analysis of real world issues.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Problems in Democratic Thought",
+                "Instructors": "Jacqueline Stevens\n847/467-2093\n2001 Sheridan Road, 3162\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Wed 9:00AM - 11:50AM",
+                "Overview of class": "This course will re-visit debates in selected texts of political theory for purposes of elucidating insights relevant to theorizing competing meanings and objectives of democracy. We will focus on texts that speak in particular to democratic theorists’ aspirations for equality and the rule of law in the context of particularist solidarities, especially those of family, nation, and race. Readings and class meetings will highlight for discussion tensions between attachments to a seemingly given, ontological community and intuitions about justice and the healthy politeia. Selected texts by Plato, Jean Jacques Rousseau, Immanuel Kant, G.W.F. Hegel, W.E.B. Du Bois, Hannah Arendt, and Jurgen Habermas will be read in conversation with works by Seyla Benhabib, Wendy Brown, Glen Coulthard, Bonnie Honig, Engin Isin and others. Themes highlighted will include competing conceptions of the family, violence, inequality, and political membership, with special attention to theories of sovereignty, intergenerational attachments, and the politics of recognition, including reparations.",
+                "Registration Requirements": "REQUIRED: POLI_SCI 390: the student must have completed one political theory course or by permission of instructor\n\nMandatory first-class attendance",
+                "Learning Objectives": "The objective is for students to identify tensions among democratic theories as the speak to solidarities of citizenship and the rule of law, and to evaluate the advantages and disadvantages of competing political values and priorities.",
+                "Teaching Method": "Seminar",
+                "Evaluation Method": "Students will be evaluated based on in-class assessments crediting completion of the weekly readings, a presentation, and a final paper.",
+                "Class Materials (Required)": "Plato, The Republic, tr. Raymond Larson, ISBN: 978-0-882-95118-8\n\nSeyla Benhabib, The Claims of Culture: Equality and Diversity in the Global Era (2002) ISBN-10 ‏ 0691048630; ISBN-13: ‎ 978-0691048635\n\nGlen Coulthard, Red Skin, White Masks: Rejecting the Colonial Politics of Recognition (2014) ISBN-10 ‏ : ‎ 9780816679652 ISBN-13 ‏ : ‎ 978-0816679652",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Cities and Power: Urban Politics Around the World",
+                "Instructors": "Nicole E. Wilson\n2001 Sheridan Road, 3205\nOffice Hours: By appointment only",
+                "Meeting Info": "Technological Institute M349: Tues 1:00PM - 3:50PM",
+                "Overview of class": "When you imagine a city, what comes to mind? Perhaps New York, L.A., or Paris? Today, over half of the world's population lives in urban areas, and the most rapid urbanization is happening in cities in Africa and Asia. While urbanization can have positive effects, such as increased wages and accelerated innovation, population growth can also create strain on institutions and infrastructure. In addition, the forces of colonialism, capitalism, and racism exclude certain people and groups from the benefits of urbanization. This course will be organized around key questions. How are the cities that are urbanizing most rapidly today similar to or different from industrialized or post-industrial cities in the Global North? Who has power in a city? What determines this? And what are the implications? In this course, we will examine how politics relates to the lives of urban residents around the world, including right here in Chicago. We will engage with work from a variety of different regions (with an emphasis on the Global South) and media (including podcasts, videos, and blog posts). We will discuss theoretical debates with an eye toward how they are relevant to public policy and to people's everyday lives. We will also think critically about how to evaluate the evidence presented for different claims about cities.",
+                "Learning Objectives": "By the end of this course, students should be able to:",
+                "Teaching Method": "Discussion; group activities; short lectures",
+                "Evaluation Method": "Class participation, short response papers, and a final project (including a proposal and peer feedback session earlier in the quarter)",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "American Politics and Policy from the New Deal",
+                "Instructors": "Anthony S Chen\n847/467-0515\n2001 Sheridan Road, Room 6115",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "We live in a time of extremes. American political elites are deeply polarized, and economic inequality is the highest it has been in decades. Illiberal impulses have flared up in nearly every corner of our political system, most spectacularly in the Republican Party. At the same time, neither party has proven capable of forging a truly durable electoral majority, and the country has lurched back and forth between incompatible visions of American democracy. Public policy has fractured, coming significantly undone in some areas (e.g., financial regulation), while holding fast for now in other areas (e.g., Social Security). How did we get here? This course explores the thesis that the current extremes of our national situation stem from the persistent inability of our constitutional and political order to cope with the demands of globalization, postindustrialization, and multiracial democracy. Students will examine how the contours of the \"risk settlement\" embedded in the New Deal were set—that is, how Americans developed institutions that protected them (albeit imperfectly and incompletely) against the vicissitudes of life in a modern economy. They will then consider how this policy accommodation was challenged and transformed in subsequent decades, first by the events of the long 1970s, then by the events of the 1990s, and then again by the global financial crisis and its aftermath. Cross-listed with SOCIOL 376-0-20",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Politics of Global Health",
+                "Instructors": "Kelly Hunter\n2001 Sheridan Road, 3150\nOffice Hours: By appointment",
+                "Meeting Info": "Locy Hall 214: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course approaches global health topics from a political science perspective. Since the COVID-19 pandemic, global health security, global health governance, and global health diplomacy have emerged as key issues in understanding geopolitics. How do power dynamics shape the global health landscape? Who are the various actors (state and non-state; public and private) involved in global health decisions and how do they wield power to shape policy? How do these tactics combat or reinforce health disparities? What factors make collective action and cooperation around global health issues more likely? Throughout the course we investigate how state and local governments are influenced through top-down approaches from international institutions and bottom-up approaches from grass-roots organizations. In addition to a focus on understanding how actors and processes engage in agenda setting and influence policymaking, we will discuss how enacted policies and political events impact health services delivery and population health. Students will explore these dynamics through case studies such as vaccination campaigns, abortion access, noncommunicable disease management, HIV/AIDS, TB, and climate-driven health crises, among others. Ultimately, we examine the ways in which states navigate the tension between sovereignty and cooperation when striving for global health security in an increasingly interconnected world.",
+                "Learning Objectives": "After participating in this course, students will be able to:",
+                "Teaching Method": "Active learning, discussion, seminar",
+                "Evaluation Method": "class participation, quizzes, final project (class presentation and written report)",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "A Practitioner's Guide to Diplomatic Craftsmanship",
+                "Meeting Info": "2001 Sheridan GPC 2109: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "A Practitioner’s Guide to Diplomatic Craftsmanship What does it take to stop a war, negotiate the release of hostages, secure humanitarian access, or navigate the competing demands of state and non-state actors? Drawing on four decades of diplomatic experience, this hands-on seminar takes students inside the high-stakes world of international diplomacy, conflict management, and negotiation. Focusing primarily on the Middle East from 2008 to the present, the course examines real diplomatic challenges involving Israel and Palestine, regional powers including Egypt, Iran, Jordan, Qatar, Saudi Arabia, and the United Arab Emirates, and critical international actors such as the United States, Norway, and the United Nations (UN). Through simulations and real-world cases, students will take on the roles of negotiators, Israeli and Palestinian political leaders, UN diplomats, and White House advisers as they confront ceasefires, hostage negotiations, humanitarian crises, Security Council diplomacy, state-building, and war-zone evacuations.\n\nThis course will be taught by Tor Wennesland, a veteran Norwegian diplomat and former UN Special Coordinator for the Middle East Peace Process. A Buffett Distinguished Practitioner in Residence during winter 2027, he brings decades of experience in Middle East diplomacy, including service as Norway’s Representative to the Palestinian Authority, Ambassador to Egypt and Libya, and Special Envoy to the Middle East. https://www.prio.org/people/12868",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Rights of the Nonhuman",
+                "Instructors": "Hannah Glasson",
+                "Meeting Info": "2001 Sheridan GPC GN210: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Rights of the Nonhuman Western political thought has long defined the political community by drawing a line between human beings and everything else. Today that line is contested from two directions at once. Animal advocates argue that sentient creatures are owed justice, representation, and even citizenship, while software developers, ethicists, and lawmakers have begun to ask whether artificial systems could one day bear moral claims of their own. This course treats these debates as a single problem in political theory. We begin with classical and modern accounts of what sets humans apart, then turn to contemporary arguments over animal rights and animal citizenship, the politics of industrial slaughter and racialized species boundaries, and the movement to grant legal rights to rivers, forests, and ecosystems. The final weeks ask whether AI systems could hold rights, and how they are already altering the conduct of democratic government. Throughout, we will examine which capacity (reason, language, sentience, or the possession of interests) grounds political standing, and what follows for democracy if that capacity turns out to be held beyond our species.",
+                "Learning Objectives": "By the end of the course, students will be able to reconstruct the major arguments for and against extending rights to animals and to artificial systems, and to identify the assumptions about personhood, sentience, and agency on which each argument depends. Students will compare how canonical political theorists and contemporary political scientists define membership in the political community, and will evaluate concrete proposals for representing nonhuman interests in law, public policy, and democratic decision-making. They will analyze how disputes over animal and machine standing intersect with questions of race, labor, and state power, and will assess empirical claims about the effects of AI on democratic institutions. Finally, students will develop and defend their own position on the scope of political standing in a sustained written argument that engages the course readings critically and anticipates serious objections.",
+                "Teaching Method": "Participation (30%): This is a discussion-based seminar, and your attendance and participation are of high importance. You are expected to come to class prepared to discuss the readings that were assigned for that day, and should participate in individual and group class activities as well as discussions. Effective participation includes speaking, listening, and respectful engagement with diverse perspectives and ideas. Use of technology should be appropriate and should not distract from class participation. Up to two absences are permissible without deduction. In-Class Essay (20%): This will be a timed, 45-minute writing assignment that occurs during one of our regularly scheduled class sessions. I will provide more information on the prompts ahead of time so that you are able to prepare. However, the point of the in-class essay is for you to demonstrate that you have done the readings, understand the themes from the class, and can respond with your own original analysis. Presentation (25%): During the last week of class, you will deliver a 10-12 minute presentation on the topic that you plan to address in the final project. The presentation is an opportunity to receive feedback on the framing, arguments, or general approach that you are using in your final paper. It is also an opportunity for you to showcase the ideas that you are most excited about, and learn about what your classmates are working on. Be prepared to respond to questions from your peers. Final Paper (25%): Your final paper will be a representation of your independent, creative synthesis of the concepts and ideas that we studied in the course. You are encouraged to make thematic connections between various class readings, and to connect the class readings to current events and relevant topics. You should include substantial engagement with 1-3 sources that go beyond the syllabus (I will provide some options, or you can find your own). Your paper should be 8-10 pages double-spaced, and you should make sure that your paper doesn't simply summarize the themes from the class, but also includes analysis. Be sure to include an AI statement detailing how and in what capacity you used AI, if at all.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Introduction to the Kurdish Question",
+                "Instructors": "Hevi Gokdemir\n2001 Sheridan Road, 3200\nOffice Hours: By Appointment only",
+                "Meeting Info": "University Library 3322: Wed 2:00PM - 4:30PM",
+                "Overview of class": "Who are the Kurds, and why do their politics matter? In this class, we will use Kurdish politics as a lens for working through those larger debates, asking where our theories hold up and where they break. To make sense of broad trends, you also have to understand the exceptions. The Kurds are often described as the largest stateless people in the world, which makes them a hard case for some of our most basic assumptions about nations, borders, and sovereignty. Spread across Turkey, Iraq, Iran, and Syria, the Kurdish question puts pressure on self-determination norms, nationalism, state formation, and alliance politics while shaping the wider MENA region's political order.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Political Research Seminar",
+        "course_reference_number": [
+            "27353",
+            "27354",
+            "27356"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Secrecy in International Relations",
+                "instructors": [
+                    "Political Research Seminar",
+                    "Isabella Bellezza"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Can Civil Society Be Rebuilt?",
+                "instructors": [
+                    "Political Research Seminar",
+                    "Daniel Galvin"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Racial Politics in American Cities",
+                "instructors": [
+                    "Political Research Seminar",
+                    "Reuel Rogers"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Secrecy in International Relations",
+                "Instructors": "Isabella Bellezza\n2001 Sheridan Road, 3215\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1125: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This course introduces students to the hidden side of international politics. How do states acquire and protect national security secrets? What kinds of activities do governments undertake in secret in pursuit of the national interest, from covert action to back-channel diplomacy? How is secret information strategically used to influence allies and adversaries, manage escalation, and mobilize public opinion? Why is cooperating in secret and sharing secrets so hard, and under what conditions do states manage to do it anyway? Why do even the most powerful intelligence systems sometimes fail to anticipate strategic surprises? Are secrecy and democracy inherently incompatible, and how do states attempt to manage the tensions between them? Does state secrecy have a future in an era of commercial satellites, open-source intelligence actors, and digital transparency? We will investigate these questions, and more, from a range theoretical perspectives. Students will also write an orginal research paper that draws on declassifcied primary materials. The class meets twice per week. The first session will be devoted to a lecture and discussion of assigned readings. The second session will advance progress on the research paper.",
+                "Evaluation Method": "Students are evaluated through short reading assessments and scaffolded assignments designed to build toward a final research paper and presentation.",
+                "Class Attributes": "Advanced Expression"
+            },
+            {
+                "Topic": "Can Civil Society Be Rebuilt?",
+                "Instructors": "Daniel Galvin\n847 491 2641\n2001 Sheridan Road, 3174\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "",
+                "Registration Requirements": "Majors/Minors only\nJunior/Seniors only",
+                "Learning Objectives": "At the end of this course, students will be able to:",
+                "Evaluation Method": "Research paper (about 15 pages): 35%\nEvidence appendix documenting the research process: 15%\nResearch memos (five short memos across the quarter): 15%\nPresentation and service as respondent to a classmate: 15%\nReading annotations (credit/no credit): 10%\nParticipation in seminar discussion: 10%",
+                "Class Materials (Suggested)": "N/A. All readings are available in PDF.",
+                "Class Attributes": "Advanced Expression"
+            },
+            {
+                "Topic": "Racial Politics in American Cities",
+                "Instructors": "Reuel Rogers\n847/491-2644\n2001 Sheridan Road, 3223\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Wed 2:00PM - 4:50PM",
+                "Overview of class": "This course explores how race, place, and political economy influence political dynamics in American cities and metropolitan areas. We consider specific cases in cities such as New York, Chicago, St. Louis, and Atlanta. We draw on these cases to explore racial contests for political power and representation; intergroup conflicts and coalition building; racial biases in governance and democratic responsiveness, including policing; patterns of socioeconomic mobility; and policies to address racial and economic inequalities. Our overarching aim will be to understand how two dominant features of American life--race and place--interplay and shape the quest for political power, policy influence, and equality in American cities.",
+                "Registration Requirements": "Majors/Minors only\nJunior/Seniors only",
+                "Learning Objectives": "The aim of the course is two-fold. The first goal is to help students develop fluency in major academic debates on questions of how race and place shape politics in American cities. The second is to craft an independent research paper based on topics and themes covered in these debates and the course material.",
+                "Evaluation Method": "Research paper 35%; Prospectus 25%; Class participation 30%; Abstract 10%",
+                "Class Materials (Required)": "None. All required course materials will be available on Canvas.",
+                "Class Attributes": "Advanced Expression"
+            }
+        ]
+    },
+    {
+        "course_number": "398-2",
+        "course_name": "Senior Thesis Seminar",
+        "course_reference_number": [
+            "27357"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Senior Thesis Seminar",
+                "instructors": [
+                    "Matt R Pryor"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt R Pryor\n2001 Sheridan Road, 3317\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 3111: Fri 10:00AM - 11:50AM",
+                "Overview of class": "This is the second the two-quarter seminar series for students writing senior honors theses in the Political Science department.",
+                "Learning Objectives": "How to conduct independent research\n\nHow to write up a completed research project\n\nBe able to produce an original piece of research",
+                "Teaching Method": "Discussion/Seminar",
+                "Evaluation Method": "Completion of a draft of the honors thesis.",
+                "Class Attributes": "Advanced Expression"
+            }
+        ]
+    },
+    {
+        "course_number": "405-0",
+        "course_name": "Linear Models",
+        "course_reference_number": [
+            "27396"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Linear Models",
+                "instructors": [
+                    "Nicole E. Wilson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nicole E. Wilson\n2001 Sheridan Road, 3205\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 3111: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This course is about linear models (regression), which involve a set of techniques that show up across nearly all areas of statistics. Regression models are used as a powerful tool to describe data, have value for forecasting, and are sometimes pressed into service for work in theory-testing and causal inference. Across these use cases, linear models are everywhere in political science. We will talk about regression as a tool for data summary; discuss ideas about generalization and significance tests in the context of these models; develop skills with common graphical displays; clarify key assumptions and explore available tests of assumptions; practice interpreting the results of regressions; and discuss when/if regression can speak to causal questions. In each of these areas, we will connect our quest for understanding with hands-on statistical computing work.",
+                "Registration Requirements": "Recommended: Political Science 403 or equivalent",
+                "Learning Objectives": "By the end of this course, students will be able to:",
+                "Evaluation Method": "Problem sets, quizzes, final project",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "440-0",
+        "course_name": "International Relations Theory",
+        "course_reference_number": [
+            "27397"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "International Relations Theory",
+                "instructors": [
+                    "Karen J. Alter"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karen J. Alter\n847/491-4842\n2001 Sheridan Road, 3124\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5228: Wed 11:00AM - 1:50PM",
+                "Overview of class": "All discussion of international politics rests on conceptual foundations and assumptions. There is a Western IR canon, which is being increasingly challenged by people who want to ‘decolonize' this canon. China's rise is also raising the question of whether there is a different Chinese approach to IR, or if China will assume already-theorized positions of a revisionist power. We will explore IR theory's conceptual foundations and assumptions, while also leaving room for student interest to shape the last 3 weeks of the class. There is no right way to organize an IR theory core seminar, and the quarter system creates additional challenges. When I went to graduate school, a typical IR core seminar would include weeks on major areas of study in IR, such as war, international cooperation, international political economy, normative theories, the role of ideas in international relations, the democratic peace etc. Another approach might focus on conceptual ideas such as sovereignty, anarchy and power. I have included sample syllabi on our Canvas website, to provide a sense of the variety that exists. We will use as a touchstone theme the changing international order.",
+                "Registration Requirements": "Junior/Seniors\nGraduate Students",
+                "Learning Objectives": "This is a graduate course where advanced undergraduates may join.",
+                "Evaluation Method": "The assignments are a practice prelim questions that are answered in 7-9 pages by drawing on class readings. There are two different prelim assignments, with a rewrite option for one.",
+                "Class Materials (Required)": "readings will be on canvas",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "454-0",
+        "course_name": "Social Movements and Mobilization",
+        "course_reference_number": [
+            "27483"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Social Movements and Mobilization",
+                "instructors": [
+                    "Wendy Pearlman"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wendy Pearlman\n8474912259\n2001 Sheridan Road, 3201\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC GN350: Tues 9:00AM - 11:50AM",
+                "Overview of class": "This graduate-level seminar will explore the conditions and processes shaping social and political mobilization. While we engage insights from multiple disciplines, we will focus on major topics in the fields of political science and sociology about social movements: collective challenges to authority that aim to change society or institute structural or policy changes. We will consider competing explanations of the emergence of collective action, the conditions under which people do or do not mobilize, various aspects of the strategic interaction between social movements and states, and the determinants of movement outcomes, among other topics. We will read theoretical works and case studies on a range of social movements across time and space, occurring in both democratic and nondemocratic state settings. This examination of major debates, varied empirical material, and diverse research methods aims to give students a solid foundation on which to build their own research projects.",
+                "Learning Objectives": "The goals of this course are for students to",
+                "Evaluation Method": "Research paper, participation, weekly question posts",
+                "Class Materials (Required)": "Doug McAdam, Political Process and the Development of Black Insurgency, 1930-1970. Second edition (Chicago: University of Chicago Press, 1999).",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Comparative Politics Proseminar II",
+        "course_reference_number": [
+            "27488"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Comparative Politics Proseminar II",
+                "instructors": [
+                    "Andrew Roberts"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Roberts\n847/491-2636\n2001 Sheridan Road, 3172\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Tues 2:00PM - 4:50PM",
+                "Overview of class": "The class has two goals. One is to acquaint students with the main questions and theories in several substantive areas of comparative political science. The second goal is to provide an introduction to the main methods and approaches used in researching these topics.",
+                "Learning Objectives": "",
+                "Evaluation Method": "Participation/presentation, Short papers, Final exam/Seminar paper",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "468-0",
+        "course_name": "Problems in Democratic Theory",
+        "course_reference_number": [
+            "27476"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Problems in Democratic Theory",
+                "instructors": [
+                    "Jacqueline Stevens"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jacqueline Stevens\n847/467-2093\n2001 Sheridan Road, 3162\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Wed 9:00AM - 11:50AM",
+                "Overview of class": "This course will re-visit debates in selected texts of political theory for purposes of elucidating insights relevant to theorizing competing meanings and objectives of democracy. We will focus on texts that speak in particular to democratic theorists' aspirations for equality and the rule of law in the context of particularist solidarities, especially those of family, nation, and race. Readings and class meetings will highlight for discussion tensions between attachments to a seemingly given, ontological community and intuitions about justice and the healthy politeia. Selected texts by Plato, Jean Jacques Rousseau, Immanuel Kant, G.W.F. Hegel, W.E.B. Du Bois, Hannah Arendt, and Jurgen Habermas will be read in conversation with works by Seyla Benhabib, Wendy Brown, Glen Coulthard, Bonnie Honig, Engin Isin and others. Themes highlighted will include competing conceptions of the family, violence, inequality, and political membership, with special attention to theories of sovereignty, intergenerational attachments, and the politics of recognition, including reparations.",
+                "Registration Requirements": "Mandatory first-class attendance",
+                "Learning Objectives": "The objective is for students to identify tensions among democratic theories as the speak to solidarities of citizenship and the rule of law, and to evaluate the advantages and disadvantages of competing political values and priorities.",
+                "Teaching Method": "Seminar",
+                "Evaluation Method": "Students will be evaluated based on in-class assessments crediting completion of the weekly readings, a presentation, and a final paper.",
+                "Class Materials (Required)": "Plato, The Republic, tr. Raymond Larson, ISBN: 978-0-882-95118-8\n\nSeyla Benhabib, The Claims of Culture: Equality and Diversity in the Global Era (2002) ISBN-10 ‏ 0691048630; ISBN-13: ‎ 978-0691048635\n\nGlen Coulthard, Red Skin, White Masks: Rejecting the Colonial Politics of Recognition (2014) ISBN-10 ‏ : ‎ 9780816679652 ISBN-13 ‏ : ‎ 978-0816679652",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Special Topics in Political Science",
+        "course_reference_number": [
+            "27398",
+            "27399"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Statistical Computing Workshop",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Gustavo Diaz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "22",
+                "course_name": "American Political Economy",
+                "instructors": [
+                    "Special Topics in Political Science",
+                    "Elizabeth L Thom"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Statistical Computing Workshop",
+                "Instructors": "Gustavo Diaz\n2001 Sheridan Road, 3152\nOffice Hours: By appointment only",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "The Statistical Computing Workshop is a year-long series that meets three times per quarter during the academic year. The purpose of the workshop is to learn, practice, and update cutting edge statistical programming skills as they apply to quantitative and computational social science.\n\nWorkshop meetings will feature internal or external speakers introducing a new tool, method, or research project involving statistical computing in the broadest sense.\n\nThe workshop is open to everyone. Graduate students in political science formally enrolled in the corresponding version of POLI_SCI 490 will receive full credit by attending every meeting.",
+                "Registration Requirements": "Undergraduates students can enroll with instructor approval",
+                "Learning Objectives": "Discover cutting edge developments in statistical computing",
+                "Teaching Method": "Monthly workshop presentations.",
+                "Evaluation Method": "Attendance and participation",
+                "Class Notes": "Undergraduates students can enroll with instructor approval",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Topic": "American Political Economy",
+                "Instructors": "Elizabeth L Thom\n847/467-7443\n2001 Sheridan Road, 3207\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan POLI SCI 3228: Mon 2:00PM - 4:50PM",
+                "Overview of class": "This course examines the interplay between markets and political institutions in the United States. We begin by surveying the political and economic development of the U.S. from the founding to westward expansion and the Great Migration. Then, we turn to some of the distinctive institutional arrangements that emerged from these processes—federalism, racial hierarchy, and organized business interests—and their consequences for the provision of public goods, inequality, and democracy. We put the American experience in comparative perspective by drawing on key frameworks from studies of Comparative Political Economy (CPE) and the growing field of American Political Economy (APE). Our goal is to analyze where existing theories fall short and to identify promising areas for future research. The final assignment for the course will ask students to propose and develop a chapter for a hypothetical new APE edited volume.",
+                "Registration Requirements": "Attendance at first class required",
+                "Evaluation Method": "In-class participation, short writing responses, final written assignment.",
+                "Class Materials (Required)": "The American Political Economy: Politics, Markets, and Power\nThe required text is also fully available through the library.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    }
+]

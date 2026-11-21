@@ -1,0 +1,88 @@
+[
+    {
+        "course_number": "315-0",
+        "course_name": "Donor Psychology and the Ask",
+        "course_reference_number": [
+            "20601"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Donor Psychology and the Ask",
+                "instructors": [
+                    "Michael Lindenmayer",
+                    "Nitikaji Nautiyal"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Lindenmayer",
+                "Meeting Info": "TBA: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "325-0",
+        "course_name": "Nonprofit Strat & Board Ldrshp",
+        "course_reference_number": [
+            "20602"
+        ],
+        "course_info": [
+            {
+                "section": "42",
+                "course_name": "Nonprofit Strat & Board Ldrshp",
+                "instructors": [],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "TBA: Thurs 5:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Grantsmanship for Research Professionals",
+        "course_reference_number": [
+            "20603"
+        ],
+        "course_info": [
+            {
+                "section": "45",
+                "course_name": "Grantsmanship for Research Professionals",
+                "instructors": [
+                    "Holly J Falk-Krzesinski"
+                ],
+                "days": [
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Holly J Falk-Krzesinski",
+                "Meeting Info": "TBA: Thurs, Fri 9:00AM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    }
+]

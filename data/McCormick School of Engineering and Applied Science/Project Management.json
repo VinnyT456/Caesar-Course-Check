@@ -1,0 +1,255 @@
+[
+    {
+        "course_number": "405-10",
+        "course_name": "Managerial Finance",
+        "course_reference_number": [
+            "26530"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Managerial Finance",
+                "instructors": [
+                    "Matt Gunden"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt Gunden",
+                "Meeting Info": "Technological Institute M164: Tues 6:30PM - 9:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)"
+            }
+        ]
+    },
+    {
+        "course_number": "413-10",
+        "course_name": "Transaction Management and Risk Mitigation",
+        "course_reference_number": [
+            "26529"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Transaction Management and Risk Mitigation",
+                "instructors": [
+                    "Juliane Kelly"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Juliane Kelly",
+                "Meeting Info": "Technological Institute L221: Wed 6:30PM - 9:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)"
+            }
+        ]
+    },
+    {
+        "course_number": "423-10",
+        "course_name": "Business Development in the Built Environment",
+        "course_reference_number": [
+            "26523"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Business Development in the Built Environment",
+                "instructors": [
+                    "Jackie Loewe",
+                    "Amar Rajpurkar"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jackie Loewe",
+                "Meeting Info": "Technological Institute M164: Thurs 6:30PM - 9:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)"
+            }
+        ]
+    },
+    {
+        "course_number": "436-10",
+        "course_name": "Construction Contracts & Dispute Resolution",
+        "course_reference_number": [
+            "26522"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Construction Contracts & Dispute Resolution",
+                "instructors": [
+                    "Gregory Eichorn"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gregory Eichorn",
+                "Meeting Info": "Technological Institute M164: Mon 6:30PM - 9:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)"
+            }
+        ]
+    },
+    {
+        "course_number": "446-10",
+        "course_name": "System Thinking for Sustainable Design",
+        "course_reference_number": [
+            "26533"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "System Thinking for Sustainable Design",
+                "instructors": [
+                    "Michelle Halle Stern"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michelle Halle Stern",
+                "Meeting Info": "Tech Institute Lecture Room 5: Tues 3:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "481-10",
+        "course_name": "Transportation Context Sensitive Solutions",
+        "course_reference_number": [
+            "26528"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Transportation Context Sensitive Solutions",
+                "instructors": [
+                    "Erik Cempel"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erik Cempel",
+                "Meeting Info": "Locy Hall 318: Mon 3:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)"
+            }
+        ]
+    },
+    {
+        "course_number": "498-5A",
+        "course_name": "Capstone I for Project Management",
+        "course_reference_number": [
+            "26539",
+            "26540"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Capstone I for Project Management",
+                "instructors": [
+                    "Paul Beilstein"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Capstone I for Project Management",
+                "instructors": [
+                    "Paul Beilstein"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paul Beilstein",
+                "Meeting Info": "Technological Institute LG62: Tues 11:00AM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: Proj_Mgt 401-5 Professional Communication Practices in Project Management\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Paul Beilstein",
+                "Meeting Info": "Technological Institute M166: Tues 1:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: Proj_Mgt 401-5 Professional Communication Practices in Project Management\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "502-0B",
+        "course_name": "Professional Development Seminar for Project Management in the Build Environment",
+        "course_reference_number": [
+            "26542"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Professional Development Seminar for Project Management in the Build Environment",
+                "instructors": [
+                    "Giorgia Chinazzo",
+                    "Shelley Finnigan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Giorgia Chinazzo",
+                "Meeting Info": "Technological Institute A230: Mon 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Project Management (MPM)"
+            }
+        ]
+    }
+]

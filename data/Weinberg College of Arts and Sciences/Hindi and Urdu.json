@@ -1,0 +1,76 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Hindi-Urdu I",
+        "course_reference_number": [
+            "23667"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Hindi-Urdu I",
+                "instructors": [
+                    "Rami Nair"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rami Nair\n8474677581\n1880 Campus Drive, Kresge Hall, Office 4-429\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-331: Mon, Wed 9:00AM - 9:50AM\nKresge Centennial Hall 2-325: Tues, Thurs 2:00PM - 2:50PM",
+                "Overview of class": "AY26-27 This course is a year-long, three-quarter sequence, and is meant for students with no background in Hindi-Urdu (also called Hindi and Urdu). At the beginning of the three-quarter sequence, students are not expected to be able to speak, understand, read, or write any Hindi-Urdu. In the first quarter (Hindi-Urdu 111-1) the students are introduced to the Hindi (Devanagari) script and to aspects of Hindi-Urdu grammar. By the end of this quarter the students will be able to talk about their family, their routines, their likes and dislikes, and also describe actions in progress. In the second quarter (Hindi-Urdu 111-2), students continue to learn new grammatical constructions, and by the end of the quarter they are able to talk about events in the past and the future. In the third quarter (Hindi-Urdu 111-3), students learn to express possibilities, wants, abilities and capabilities. They also learn finer aspects of grammar. By the end of this quarter students achieve intermediate-low proficiency in Hindi-Urdu.",
+                "Registration Requirements": "None for Hindi-Urdu 111-1, Hindi-Urdu 111-1 with a C- or better for Hindi-Urdu 111-2, Hindi-Urdu 111-2 with a C- or better for Hindi-Urdu 111-3, and by placement test or with instructor consent.",
+                "Teaching Method": "Textbook, word games, videos, internet and in-class materials",
+                "Evaluation Method": "Assessment is based on weekly vocabulary quizzes, biweekly grammar quizzes, attendance, classroom participation and presentations, home assignments, mid-term, final and an oral interviews.",
+                "Class Materials (Required)": "Richard Delacy and Sudha Joshi Elementary Hindi ISBN-13: 978-0804845038\nRichard Delacy and Sudha Joshi Elementary Hindi Workbook ISBN: 978-080484503897",
+                "Class Materials (Suggested)": "Oxford Hindi-English Dictionary* ISBN-13: 978-0198643395\nOxford English-Hindi Dictionary ISBN-13: 978-0195648195\nIntroduction to Hindi Grammar by Usha R. Jain ISBN-13: 978-0944613252",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Hindi 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Hindi 111-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Hindi-Urdu II",
+        "course_reference_number": [
+            "23672"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Hindi-Urdu II",
+                "instructors": [
+                    "David Boyk"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Boyk\n847/467-0936\n1880 Campus Drive, Kresge Hall, Office 4-425\nOffice Hours: varies by quarter, please contact instructor",
+                "Meeting Info": "University Library 4770: Mon, Tues, Wed, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "AY 26-27 This is a year-long, three-quarter language sequence. Students start the year by working on reinforcing all the language skills attained the year before, and adding the Urdu (Nastaliq) script to their skill set. They continue developing speaking skills and listening comprehension, as well as expanding their grasp of Hindi-Urdu grammar and vocabulary. We do so by reading short stories, poems, and articles, watching and discussing movie clips, short films and videos, and making in-class presentations. During the year we touch on a variety of themes involving South Asian culture and society, travel, literary traditions, the natural world, etc. By the end of the three-quarter sequence, students attain intermediate-mid or higher language proficiency in Hindi-Urdu.\n\nNote: Please purchase all the required textbooks in the fall quarter, as this is the only quarter that they are ordered during the year.",
+                "Registration Requirements": "C- or better in Hindi-Urdu 111-3 for Hindi-Urdu 121-1, Hindi-Urdu 121-1 for Hindi-Urdu 121-2, Hindi-Urdu 121-2 for Hindi-Urdu 121-3, and by placement test or with instructor consent.",
+                "Teaching Method": "Textbook, extra materials, movies",
+                "Evaluation Method": "The students are graded on the basis of home assignments, weekly quizzes, midterm, attendance, oral interviews and class participation. No final.",
+                "Class Materials (Required)": "Advanced Hindi Grammar (2007) by U. Jain. Publisher: Institute of East Asian Studies; ISBN-10: 094461342X ISBN-13: 978-0944613429",
+                "Class Materials (Suggested)": "Intermediate Hindi Reader (1999) by U. Jain with K. Schomer. Publisher: Institute of East Asian Studies; ISBN-10: 087725351X ISBN-13: 978-0877253518",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Hindi 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Hindi 121-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    }
+]

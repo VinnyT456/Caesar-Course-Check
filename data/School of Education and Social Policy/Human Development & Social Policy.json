@@ -1,0 +1,142 @@
+[
+    {
+        "course_number": "411-0",
+        "course_name": "Quantitative Methods II: Regression Analysis",
+        "course_reference_number": [
+            "26449"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Quantitative Methods II: Regression Analysis",
+                "instructors": [
+                    "Jonathan Guryan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jonathan Guryan",
+                "Meeting Info": "2001 Sheridan GPC 2447: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for HDSP Grad Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "427-0",
+        "course_name": "Sociology of Education",
+        "course_reference_number": [
+            "26356"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Sociology of Education",
+                "instructors": [
+                    "Simone Zinaida Ispa-Landa"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Simone Zinaida Ispa-Landa",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for HDSP Grad Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "432-0",
+        "course_name": "Field Methods",
+        "course_reference_number": [
+            "26445"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Field Methods",
+                "instructors": [
+                    "Quinn Mulroy"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Quinn Mulroy",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for HDSP Grad Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "451-0",
+        "course_name": "Topics in Human Development & Soc Policy",
+        "course_reference_number": [
+            "26325",
+            "26326"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Race, Gender and Capitalism",
+                "instructors": [
+                    "Topics in Human Development & Soc Policy",
+                    "Sally Nuamah"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Technology, Emotions, and Social Relationships",
+                "instructors": [
+                    "Topics in Human Development & Soc Policy",
+                    "Claudia Haase"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Race, Gender and Capitalism",
+                "Instructors": "Sally Nuamah",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Wed 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for HDSP Grad Students Only."
+            },
+            {
+                "Topic": "Technology, Emotions, and Social Relationships",
+                "Instructors": "Claudia Haase",
+                "Meeting Info": "TBA: Tues 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for HDSP Grad Students Only."
+            }
+        ]
+    }
+]

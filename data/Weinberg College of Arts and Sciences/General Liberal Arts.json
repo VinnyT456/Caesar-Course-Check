@@ -1,0 +1,121 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Introductory Topics in Language Study II",
+        "course_reference_number": [
+            "22388",
+            "28831"
+        ],
+        "course_info": [
+            {
+                "section": "23",
+                "course_name": "Dakota Linguistics",
+                "instructors": [
+                    "Introductory Topics in Language Study II"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "24",
+                "course_name": "Uzbek",
+                "instructors": [
+                    "Introductory Topics in Language Study II"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Dakota Linguistics",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Uzbek",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Intermediate Topics in Language Study II",
+        "course_reference_number": [
+            "22390"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Portuguese",
+                "instructors": [
+                    "Intermediate Topics in Language Study II"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Portuguese",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "150-0",
+        "course_name": "Arch Scholar Peer Mentoring Program",
+        "course_reference_number": [
+            "22383"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Arch Scholar Peer Mentoring Program",
+                "instructors": [
+                    "Luke C Flores",
+                    "Samuel Aftel"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:45PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Luke C Flores\n847/467-1894\n1922 Sheridan Rd",
+                "Meeting Info": "Tech Institute Lecture Room 5: Wed 4:30PM - 5:45PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "290-0",
+        "course_name": "Undergraduate Research",
+        "course_reference_number": [
+            "22382"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fall",
+                "instructors": [
+                    "Undergraduate Research"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Fall",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

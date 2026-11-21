@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "595-0",
+        "course_name": "Master's in Science in Neurobiology Laboratory Research",
+        "course_reference_number": [
+            "28345"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Master's in Science in Neurobiology Laboratory Research",
+                "instructors": [
+                    "Marco Gallio",
+                    "Hojoon Lee"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marco Gallio\n847/491-8303\nCook Hall",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

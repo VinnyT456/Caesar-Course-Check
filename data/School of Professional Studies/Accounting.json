@@ -1,0 +1,137 @@
+[
+    {
+        "course_number": "201-DL",
+        "course_name": "Introduction to Financial Accounting",
+        "course_reference_number": [
+            "20526"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Financial Accounting",
+                "instructors": [
+                    "Jeannine Russo"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeannine Russo",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "208-DL",
+        "course_name": "Income Tax I",
+        "course_reference_number": [
+            "20527"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Income Tax I",
+                "instructors": [
+                    "Mary C Walsh"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mary C Walsh",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "210-DL",
+        "course_name": "Intermediate Accounting I",
+        "course_reference_number": [
+            "20528"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate Accounting I",
+                "instructors": [
+                    "Brandy Havens"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brandy Havens",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "320-DL",
+        "course_name": "Forensic Accounting",
+        "course_reference_number": [
+            "20585"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Forensic Accounting",
+                "instructors": [
+                    "Jeannie Goodwin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeannie Goodwin",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "350-DL",
+        "course_name": "Auditing I",
+        "course_reference_number": [
+            "20529"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Auditing I",
+                "instructors": [
+                    "Jeannie M. Folk"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeannie M. Folk",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "course_number": "100-0",
+        "course_name": "Mediation Skills Training",
+        "course_reference_number": [
+            "20597"
+        ],
+        "course_info": [
+            {
+                "section": "45",
+                "course_name": "Mediation Skills Training",
+                "instructors": [
+                    "John Steele",
+                    "Gururaj Kumar"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Steele",
+                "Meeting Info": "TBA: Thurs 6:00PM - 9:00PM\nTBA: Fri 8:30AM - 4:00PM\nTBA: Sa 8:30AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "300-0",
+        "course_name": "Advanced Mediation for Commercial Disputes (Remote)",
+        "course_reference_number": [
+            "20609"
+        ],
+        "course_info": [
+            {
+                "section": "45",
+                "course_name": "Advanced Mediation for Commercial Disputes (Remote)",
+                "instructors": [
+                    "John Steele"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Steele",
+                "Meeting Info": "TBA: Thurs 6:00PM - 9:00PM\nTBA: Fri 8:30AM - 4:00PM\nTBA: Sa 8:30AM - 2:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

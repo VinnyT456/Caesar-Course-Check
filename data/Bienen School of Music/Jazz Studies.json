@@ -1,0 +1,974 @@
+[
+    {
+        "course_number": "162-0",
+        "course_name": "Applied Jazz for Music Majors",
+        "course_reference_number": [
+            "21624",
+            "21625",
+            "21626",
+            "21627",
+            "21628",
+            "21629",
+            "21630"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Saxophone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Robert Dixon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Trumpet",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Derrick Gardner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Trombone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Thomas Garling"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Piano",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Jeremy Kahn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Double Bass",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Christian Dillingham"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Percussion",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Willie Jones III"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Guitar",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "John Moulder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Saxophone",
+                "Instructors": "Robert Dixon",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trumpet",
+                "Instructors": "Derrick Gardner",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trombone",
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Piano",
+                "Instructors": "Jeremy Kahn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Double Bass",
+                "Instructors": "Christian Dillingham",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Percussion",
+                "Instructors": "Willie Jones III\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Guitar",
+                "Instructors": "John Moulder\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "236-2",
+        "course_name": "Jazz Improvisation II",
+        "course_reference_number": [
+            "21739"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jazz Improvisation II",
+                "instructors": [
+                    "Thomas Garling"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "Regenstein Hall of Music 143: Tues, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "262-0",
+        "course_name": "Applied Jazz for Music Majors",
+        "course_reference_number": [
+            "21631",
+            "21632",
+            "21633",
+            "21634",
+            "21635",
+            "21636",
+            "21637"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Saxophone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Robert Dixon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Trumpet",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Derrick Gardner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Trombone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Thomas Garling"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Piano",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Jeremy Kahn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Double Bass",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Christian Dillingham"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Percussion",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Willie Jones III"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Guitar",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "John Moulder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Saxophone",
+                "Instructors": "Robert Dixon",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trumpet",
+                "Instructors": "Derrick Gardner",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trombone",
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Piano",
+                "Instructors": "Jeremy Kahn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Double Bass",
+                "Instructors": "Christian Dillingham",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Percussion",
+                "Instructors": "Willie Jones III\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Guitar",
+                "Instructors": "John Moulder\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Optional Recital",
+        "course_reference_number": [
+            "21693"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Optional Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "330-2",
+        "course_name": "Jazz Composition and Arranging II",
+        "course_reference_number": [
+            "21751"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jazz Composition and Arranging II",
+                "instructors": [
+                    "Joe Clark"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joe Clark",
+                "Meeting Info": "RCMA 1-180: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "333-2",
+        "course_name": "Jazz Theory II",
+        "course_reference_number": [
+            "21756"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jazz Theory II",
+                "instructors": [
+                    "Thomas Garling"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "RCMA 1-180: Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed JAZZ_ST 333-1 to enroll."
+            }
+        ]
+    },
+    {
+        "course_number": "336-2",
+        "course_name": "Jazz Improvisation V",
+        "course_reference_number": [
+            "21738"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jazz Improvisation V",
+                "instructors": [
+                    "Thomas Garling"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "Regenstein Hall of Music 143: Tues, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "361-2",
+        "course_name": "Jazz Keyboard II",
+        "course_reference_number": [
+            "21670"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jazz Keyboard II",
+                "instructors": [
+                    "Kevin Fort"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kevin Fort",
+                "Meeting Info": "RCMA 4-136 Keyboard Lab: Mon, Wed 2:00PM - 2:50PM",
+                "Overview of class": "Basic keyboard skills with an emphasis on jazz voicing, harmonization, and analysis.",
+                "Class Materials (Required)": "none",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "362-0",
+        "course_name": "Applied Jazz for Music Majors",
+        "course_reference_number": [
+            "21638",
+            "21639",
+            "21640",
+            "21641",
+            "21642",
+            "21643",
+            "21644"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Saxophone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Robert Dixon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Trumpet",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Derrick Gardner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Trombone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Thomas Garling"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Piano",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Jeremy Kahn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Double Bass",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Christian Dillingham"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Percussion",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Willie Jones III"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Guitar",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "John Moulder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Saxophone",
+                "Instructors": "Robert Dixon",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trumpet",
+                "Instructors": "Derrick Gardner",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Trombone",
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Piano",
+                "Instructors": "Jeremy Kahn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Double Bass",
+                "Instructors": "Christian Dillingham",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Percussion",
+                "Instructors": "Willie Jones III\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Topic": "Guitar",
+                "Instructors": "John Moulder\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Junior Recital",
+        "course_reference_number": [
+            "21691"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Junior Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "377-0",
+        "course_name": "Jazz Orchestra for Music Majors",
+        "course_reference_number": [
+            "21645",
+            "21646"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jazz Orchestra",
+                "instructors": [
+                    "Jazz Orchestra for Music Majors",
+                    "Darius Hampton",
+                    "Derrick Gardner"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Jazz Ensemble",
+                "instructors": [
+                    "Jazz Orchestra for Music Majors",
+                    "Darius Hampton",
+                    "Derrick Gardner"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Jazz Orchestra",
+                "Instructors": "Darius Hampton",
+                "Meeting Info": "Regenstein Hall of Music 011: Tues, Thurs, Fri 4:30PM - 6:20PM\nRCMA Recital Hall 1-100: Thurs 6:00PM - 9:30PM\nRCMA Recital Hall 1-100: Thurs 6:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration by Audition Only\nSoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Jazz Ensemble",
+                "Instructors": "Darius Hampton",
+                "Meeting Info": "Regenstein Hall of Music 143: Tues, Thurs 4:30PM - 6:20PM\nRCMA Recital Hall 1-100: Thurs 6:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration by Audition Only\nSoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Senior Recital",
+        "course_reference_number": [
+            "21647"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "391-0",
+        "course_name": "Small Ensemble",
+        "course_reference_number": [
+            "21648",
+            "21649",
+            "21650",
+            "21651"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Small Ensemble",
+                "instructors": [
+                    "Derrick Gardner"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Small Ensemble",
+                "instructors": [
+                    "Kevin Fort"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Small Ensemble",
+                "instructors": [
+                    "Darius Hampton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Small Ensemble",
+                "instructors": [
+                    "Joe Clark"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Derrick Gardner",
+                "Meeting Info": "RCMA 3-142 Studio: Mon, Wed 4:30PM - 6:20PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration by Audition Only\nSoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Kevin Fort",
+                "Meeting Info": "RCMA 3-141 Studio: Mon, Wed 4:30PM - 6:20PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration by Audition Only\nSoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Darius Hampton",
+                "Meeting Info": "Regenstein Hall of Music 143: Mon, Wed 4:30PM - 6:20PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration by Audition Only\nSoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Joe Clark",
+                "Meeting Info": "Regenstein Hall of Music 119: Mon, Wed 4:30PM - 6:20PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM\nRCMA Choral Room 1-190: Mon 6:30PM - 10:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration by Audition Only\nSoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "462-0",
+        "course_name": "Applied Jazz for Music Majors",
+        "course_reference_number": [
+            "21708",
+            "21709",
+            "21710",
+            "21711",
+            "21712",
+            "21713",
+            "21714"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Saxophone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Robert Dixon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Trumpet",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Derrick Gardner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Trombone",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Thomas Garling"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Piano",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Jeremy Kahn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Double Bass",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Christian Dillingham"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Percussion",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "Willie Jones III"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Guitar",
+                "instructors": [
+                    "Applied Jazz for Music Majors",
+                    "John Moulder"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Saxophone",
+                "Instructors": "Robert Dixon",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trumpet",
+                "Instructors": "Derrick Gardner",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Trombone",
+                "Instructors": "Thomas Garling",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Piano",
+                "Instructors": "Jeremy Kahn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Double Bass",
+                "Instructors": "Christian Dillingham",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Percussion",
+                "Instructors": "Willie Jones III\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Guitar",
+                "Instructors": "John Moulder\n847/491-7228\nREGENSTEIN 60 Arts Circle Dr, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "MM Recital",
+        "course_reference_number": [
+            "21653"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MM Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

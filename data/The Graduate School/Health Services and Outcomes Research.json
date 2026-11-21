@@ -1,0 +1,83 @@
+[
+    {
+        "course_number": "460-0",
+        "course_name": "Applied Ethical Issues in Health Services Research",
+        "course_reference_number": [
+            "20179"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Applied Ethical Issues in Health Services Research",
+                "instructors": [
+                    "Sara Huston"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sara Huston",
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for HSOR and HSIP students. Others should request permission from the program."
+            }
+        ]
+    },
+    {
+        "course_number": "465-0",
+        "course_name": "Intermediate Quantitative Methods in Health Services & Outcomes Research",
+        "course_reference_number": [
+            "20183"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Intermediate Quantitative Methods in Health Services & Outcomes Research",
+                "instructors": [
+                    "Ado Rivera"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ado Rivera",
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for HSOR and HSIP students. Others should request permission from the program."
+            }
+        ]
+    },
+    {
+        "course_number": "500-0",
+        "course_name": "Capstone Project",
+        "course_reference_number": [
+            "20180"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Capstone Project",
+                "instructors": [
+                    "Megan McHugh"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Megan McHugh",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for HSOR and HSIP students. Others should request permission from the program."
+            }
+        ]
+    }
+]

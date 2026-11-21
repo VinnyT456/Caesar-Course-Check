@@ -1,0 +1,466 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Chinese I",
+        "course_reference_number": [
+            "23648",
+            "23649",
+            "23650"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese I",
+                "instructors": [
+                    "Yan Zhou"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Chinese I",
+                "instructors": [
+                    "Yan Zhou"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Chinese I",
+                "instructors": [
+                    "Jili Sun"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yan Zhou",
+                "Meeting Info": "Kresge Centennial Hall 2-325: Mon, Tues, Wed, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "AY 26-27 This three-quarter sequence of beginning college level Chinese is designed for true beginners with no previous background in the language. This course is an introduction to Chinese, its basic grammar, pinyin system, vocabulary, usage, and the Chinese writing system. It also focuses on developing basic communicative skills and knowledge of the Chinese culture. There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class. Our goal is to lay the solid ground work for your study of Chinese whether you plan to have a concentration in Chinese or to satisfy a language requirement. Upon satisfactory completion of the course, students are expected to reach Novice-High level of the ACTFL proficiency guidelines. https://www.actfl.org/uploads/files/general/Resources-Publications/ACTFL_Proficiency_Guidelines_2024.pdf",
+                "Registration Requirements": "Except for Chinese 111-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to:\n\nHave a good command of the pronunciation system of Mandarin Chinese.\nHave a good command of Chinese characters in both handwriting and typing.\nUse Mandarin Chinese to carry out conversations on daily-life topics (e.g., food preference, hobbies and activities, shopping, visiting a doctor, Chinese culture and relationships.\nWrite short passages on the topics above.\nGain and demonstrate cultural knowledge discussed in the units.",
+                "Teaching Method": "There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class. English will be used mainly for instruction on sentence structures and patterns. Interaction between instructor and among students will be in Chinese.",
+                "Evaluation Method": "Attendance and participation\nWritten assignments\nDictations\nOral quizzes\nWritten quizzes\nFinal exam",
+                "Class Materials (Required)": "Fall quarter and Winter quarter\nTextbook and Workbook: Modern Chinese 1A Simplified Characters (second edition)\nPublisher: Better Chinese ISBN: 978-1-60603-573-3 (textbook); 978-1-60603-572-6 (workbook)\nPrice: $64.99 (textbook) $ 34.99(workbook)\n\nSpring quarter\nTextbook and Workbook: Modern Chinese 1B Simplified Characters (second edition)\nPublisher: Better Chinese ISBN: 978-1-60603-578-8 (textbook) 978-1-60603-579-5 (workbook)\nPrice: $64.99 (textbook) $ 34.99(workbook)",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Yan Zhou",
+                "Meeting Info": "Kresge Centennial Hall 2-325: Mon, Tues, Wed, Thurs 12:00PM - 12:50PM",
+                "Overview of class": "AY 26-27 This three-quarter sequence of beginning college level Chinese is designed for true beginners with no previous background in the language. This course is an introduction to Chinese, its basic grammar, pinyin system, vocabulary, usage, and the Chinese writing system. It also focuses on developing basic communicative skills and knowledge of the Chinese culture. There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class. Our goal is to lay the solid ground work for your study of Chinese whether you plan to have a concentration in Chinese or to satisfy a language requirement. Upon satisfactory completion of the course, students are expected to reach Novice-High level of the ACTFL proficiency guidelines. https://www.actfl.org/uploads/files/general/Resources-Publications/ACTFL_Proficiency_Guidelines_2024.pdf",
+                "Registration Requirements": "Except for Chinese 111-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to:\n\nHave a good command of the pronunciation system of Mandarin Chinese.\nHave a good command of Chinese characters in both handwriting and typing.\nUse Mandarin Chinese to carry out conversations on daily-life topics (e.g., food preference, hobbies and activities, shopping, visiting a doctor, Chinese culture and relationships.\nWrite short passages on the topics above.\nGain and demonstrate cultural knowledge discussed in the units.",
+                "Teaching Method": "There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class. English will be used mainly for instruction on sentence structures and patterns. Interaction between instructor and among students will be in Chinese.",
+                "Evaluation Method": "Attendance and participation\nWritten assignments\nDictations\nOral quizzes\nWritten quizzes\nFinal exam",
+                "Class Materials (Required)": "Fall quarter and Winter quarter\nTextbook and Workbook: Modern Chinese 1A Simplified Characters (second edition)\nPublisher: Better Chinese ISBN: 978-1-60603-573-3 (textbook); 978-1-60603-572-6 (workbook)\nPrice: $64.99 (textbook) $ 34.99(workbook)\n\nSpring quarter\nTextbook and Workbook: Modern Chinese 1B Simplified Characters (second edition)\nPublisher: Better Chinese ISBN: 978-1-60603-578-8 (textbook) 978-1-60603-579-5 (workbook)\nPrice: $64.99 (textbook) $ 34.99(workbook)",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Jili Sun\n8474670539\n1880 Campus Drive, Kresge Hall, Office 4-534\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-319: Mon, Tues, Wed, Thurs 1:00PM - 1:50PM",
+                "Overview of class": "AY 26-27 This three-quarter sequence of beginning college level Chinese is designed for true beginners with no previous background in the language. This course is an introduction to Chinese, its basic grammar, pinyin system, vocabulary, usage, and the Chinese writing system. It also focuses on developing basic communicative skills and knowledge of the Chinese culture. There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class. Our goal is to lay the solid ground work for your study of Chinese whether you plan to have a concentration in Chinese or to satisfy a language requirement. Upon satisfactory completion of the course, students are expected to reach Novice-High level of the ACTFL proficiency guidelines. https://www.actfl.org/uploads/files/general/Resources-Publications/ACTFL_Proficiency_Guidelines_2024.pdf",
+                "Registration Requirements": "Except for Chinese 111-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to:\n\nHave a good command of the pronunciation system of Mandarin Chinese.\nHave a good command of Chinese characters in both handwriting and typing.\nUse Mandarin Chinese to carry out conversations on daily-life topics (e.g., food preference, hobbies and activities, shopping, visiting a doctor, Chinese culture and relationships.\nWrite short passages on the topics above.\nGain and demonstrate cultural knowledge discussed in the units.",
+                "Teaching Method": "There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class. English will be used mainly for instruction on sentence structures and patterns. Interaction between instructor and among students will be in Chinese.",
+                "Evaluation Method": "Attendance and participation\nWritten assignments\nDictations\nOral quizzes\nWritten quizzes\nFinal exam",
+                "Class Materials (Required)": "Fall quarter and Winter quarter\nTextbook and Workbook: Modern Chinese 1A Simplified Characters (second edition)\nPublisher: Better Chinese ISBN: 978-1-60603-573-3 (textbook); 978-1-60603-572-6 (workbook)\nPrice: $64.99 (textbook) $ 34.99(workbook)\n\nSpring quarter\nTextbook and Workbook: Modern Chinese 1B Simplified Characters (second edition)\nPublisher: Better Chinese ISBN: 978-1-60603-578-8 (textbook) 978-1-60603-579-5 (workbook)\nPrice: $64.99 (textbook) $ 34.99(workbook)",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 111-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "115-2",
+        "course_name": "Chinese I - Accelerated",
+        "course_reference_number": [
+            "23684",
+            "23685"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese I",
+                "instructors": [
+                    "Accelerated",
+                    "Jingjing Ji"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Chinese I",
+                "instructors": [
+                    "Accelerated",
+                    "Jingjing Ji"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jingjing Ji\n847/467-1548\n1880 Campus Drive, Kresge Hall, Office 4-435\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-325: Mon, Tues, Wed, Thurs 9:00AM - 9:50AM",
+                "Overview of class": "AY 26-27 Accelerated Chinese 115 (115-1, 2, 3) is designed for advanced beginners who demonstrate relatively strong listening and speaking proficiency. This course builds on students' existing oral abilities and systematically develops their reading and writing skills in Chinese. By the end of the sequence, students are expected to reach an Intermediate Mid-level of literacy proficiency.",
+                "Registration Requirements": "Except for Chinese 115-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to 1) engage in conversations on familiar topics such as personal background, daily life and community experiences using appropriate vocabulary, sentence structures and sociocultural norms; 2) Read and write short, theme-based texts including personal stories and simple narratives, expressing ideas related to their own experiences; 3) Use pinyin-based input systems to type in Chinese and produce written communication for various audiences and purposes; and 4) Explore and reflect on personal connections to Chinese language and culture and express reflections in spoken and written Chinese.",
+                "Teaching Method": "This course meets four days a week and is conducted in Chinese. Students engage with theme-based unites through an interactive approach: they complete preview tasks before class, and class time is used for guided practice, discussion, and communicative activities.",
+                "Evaluation Method": "Classroom attendance and participation, reading and writing assignments, presentations, dictations, written quizzes and one final exam",
+                "Class Materials (Required)": "Fall quarter, Winter quarter & Spring quarter:\n\n传承中文 Modern Chinese for Heritage Beginners: Stories about Us\nPublisher: Routledge\nISBN: 9781032399775\nPrice: $42.95",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 115-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 115-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Jingjing Ji\n847/467-1548\n1880 Campus Drive, Kresge Hall, Office 4-435\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-325: Mon, Tues, Wed, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "AY 26-27 Accelerated Chinese 115 (115-1, 2, 3) is designed for advanced beginners who demonstrate relatively strong listening and speaking proficiency. This course builds on students' existing oral abilities and systematically develops their reading and writing skills in Chinese. By the end of the sequence, students are expected to reach an Intermediate Mid-level of literacy proficiency.",
+                "Registration Requirements": "Except for Chinese 115-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to 1) engage in conversations on familiar topics such as personal background, daily life and community experiences using appropriate vocabulary, sentence structures and sociocultural norms; 2) Read and write short, theme-based texts including personal stories and simple narratives, expressing ideas related to their own experiences; 3) Use pinyin-based input systems to type in Chinese and produce written communication for various audiences and purposes; and 4) Explore and reflect on personal connections to Chinese language and culture and express reflections in spoken and written Chinese.",
+                "Teaching Method": "This course meets four days a week and is conducted in Chinese. Students engage with theme-based unites through an interactive approach: they complete preview tasks before class, and class time is used for guided practice, discussion, and communicative activities.",
+                "Evaluation Method": "Classroom attendance and participation, reading and writing assignments, presentations, dictations, written quizzes and one final exam",
+                "Class Materials (Required)": "Fall quarter, Winter quarter & Spring quarter:\n\n传承中文 Modern Chinese for Heritage Beginners: Stories about Us\nPublisher: Routledge\nISBN: 9781032399775\nPrice: $42.95",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 115-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 115-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Chinese II",
+        "course_reference_number": [
+            "23652",
+            "23653",
+            "23654"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese II",
+                "instructors": [
+                    "Yangtian Luo"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Chinese II",
+                "instructors": [
+                    "Chin-Hung Chang"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Chinese II",
+                "instructors": [
+                    "Chin-Hung Chang"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yangtian Luo\n847/467-6554\n1880 Campus Drive, Kresge Hall, Office 4-538\nOffice Hours: vaires by quarater, please contact instructor",
+                "Meeting Info": "Kresge Centennial Hall 2-329: Mon, Tues, Wed, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "AY 26-27 This year-long course is designed for students who have completed Chinese 111 at Northwestern or the equivalent elsewhere. It aims to further develop students' Chinese proficiency through: (1) consolidating the foundation built in students' beginning modern Chinese courses; (2) introducing them to more complex grammatical structures, varieties of language styles, and cultural information. Upon satisfactory completion of the course, students are expected to be able to handle various types of more complex daily conversational situations and short passages on familiar topics. Successful completion of CHINESE 121-3 will satisfy the WCAS foreign language requirement. In addition, they will reach Intermediate mid to Intermediate high in reading, writing, listening and speaking according to ACTFL proficiency guidelines.",
+                "Registration Requirements": "Students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to\n\nSpeak in full sentence-length on topics of daily life with relative ease.\nGive descriptions and presentations in a short paragraph on topics covered in the course.\nComprehend written texts on the topics covered in the course.\nDemonstrate knowledge of Chinese culture covered in the course.",
+                "Teaching Method": "This course is conducted mostly in Chinese. Class time mainly focuses on speaking and listening skill development. There will also be reading and writing activities and assignments. Students are expected to be fully prepared for each lesson.",
+                "Evaluation Method": "Class attendance and participation, assignments, quizzes, oral tests, presentations, midterm and final exam.",
+                "Class Materials (Required)": "Winter and Spring quarters\nTextbook and workbook: Modern Chinese 2A Simplified Characters\nPublisher: Better Chinese\nISBN: 978-1-60603-487-3(textbook); 978-1-60603-488-0 (workbook)\nPrice: $69.95 (textbook); $34.95(workbook)",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Chin-Hung Chang\n847/467-1649\n1880 Campus Drive, Kresge Hall, Office, 4-532\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-329: Mon, Tues, Wed, Thurs 12:00PM - 12:50PM",
+                "Overview of class": "AY 26-27 This year-long course is designed for students who have completed Chinese 111 at Northwestern or the equivalent elsewhere. It aims to further develop students' Chinese proficiency through: (1) consolidating the foundation built in students' beginning modern Chinese courses; (2) introducing them to more complex grammatical structures, varieties of language styles, and cultural information. Upon satisfactory completion of the course, students are expected to be able to handle various types of more complex daily conversational situations and short passages on familiar topics. Successful completion of CHINESE 121-3 will satisfy the WCAS foreign language requirement. In addition, they will reach Intermediate mid to Intermediate high in reading, writing, listening and speaking according to ACTFL proficiency guidelines.",
+                "Registration Requirements": "Students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to\n\nSpeak in full sentence-length on topics of daily life with relative ease.\nGive descriptions and presentations in a short paragraph on topics covered in the course.\nComprehend written texts on the topics covered in the course.\nDemonstrate knowledge of Chinese culture covered in the course.",
+                "Teaching Method": "This course is conducted mostly in Chinese. Class time mainly focuses on speaking and listening skill development. There will also be reading and writing activities and assignments. Students are expected to be fully prepared for each lesson.",
+                "Evaluation Method": "Class attendance and participation, assignments, quizzes, oral tests, presentations, midterm and final exam.",
+                "Class Materials (Required)": "Winter and Spring quarters\nTextbook and workbook: Modern Chinese 2A Simplified Characters\nPublisher: Better Chinese\nISBN: 978-1-60603-487-3(textbook); 978-1-60603-488-0 (workbook)\nPrice: $69.95 (textbook); $34.95(workbook)",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Chin-Hung Chang\n847/467-1649\n1880 Campus Drive, Kresge Hall, Office, 4-532\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-329: Mon, Tues, Wed, Thurs 1:00PM - 1:50PM",
+                "Overview of class": "AY 26-27 This year-long course is designed for students who have completed Chinese 111 at Northwestern or the equivalent elsewhere. It aims to further develop students' Chinese proficiency through: (1) consolidating the foundation built in students' beginning modern Chinese courses; (2) introducing them to more complex grammatical structures, varieties of language styles, and cultural information. Upon satisfactory completion of the course, students are expected to be able to handle various types of more complex daily conversational situations and short passages on familiar topics. Successful completion of CHINESE 121-3 will satisfy the WCAS foreign language requirement. In addition, they will reach Intermediate mid to Intermediate high in reading, writing, listening and speaking according to ACTFL proficiency guidelines.",
+                "Registration Requirements": "Students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to\n\nSpeak in full sentence-length on topics of daily life with relative ease.\nGive descriptions and presentations in a short paragraph on topics covered in the course.\nComprehend written texts on the topics covered in the course.\nDemonstrate knowledge of Chinese culture covered in the course.",
+                "Teaching Method": "This course is conducted mostly in Chinese. Class time mainly focuses on speaking and listening skill development. There will also be reading and writing activities and assignments. Students are expected to be fully prepared for each lesson.",
+                "Evaluation Method": "Class attendance and participation, assignments, quizzes, oral tests, presentations, midterm and final exam.",
+                "Class Materials (Required)": "Winter and Spring quarters\nTextbook and workbook: Modern Chinese 2A Simplified Characters\nPublisher: Better Chinese\nISBN: 978-1-60603-487-3(textbook); 978-1-60603-488-0 (workbook)\nPrice: $69.95 (textbook); $34.95(workbook)",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 121-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "125-2",
+        "course_name": "Chinese II - Accelerated",
+        "course_reference_number": [
+            "23687",
+            "23688",
+            "23689"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese II",
+                "instructors": [
+                    "Accelerated",
+                    "Yangtian Luo"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Chinese II",
+                "instructors": [
+                    "Accelerated",
+                    "Wen-pin Hsieh"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Chinese II",
+                "instructors": [
+                    "Accelerated",
+                    "Wen-pin Hsieh"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yangtian Luo\n847/467-6554\n1880 Campus Drive, Kresge Hall, Office 4-538\nOffice Hours: vaires by quarater, please contact instructor",
+                "Meeting Info": "Kresge Centennial Hall 2-329: Mon, Tues, Wed, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "AY 26-27 Accelerated Chinese 125 (125-1, 2, 3) is an intermediate course primarily designed for students at ACTFL intermediate-mid level of proficiency in listening and speaking, and intermediate-low in literacy skills. This course aims to help students further hone all four skills with an emphasis on reading and writing. The literacy goal is to master 1500-2000 characters and to reach an intermediate-high level of literacy proficiency.",
+                "Registration Requirements": "Students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "The goals of this course are to help students: (a) achieve a basic level of reading competency; (b) express themselves clearly in written Chinese on a variety of topics using learned grammar patterns and vocabulary; (c) reinforce their speaking proficiency on a broad range of topics; (d) cultivate their intercultural competence and ability to juxtapose and communicate across different cultures.",
+                "Teaching Method": "Four regular class hours are for learning of the key vocabulary, analysis of sentence structure, familiarity with Chinese culture, awareness of different registers, and discussion of topics related to the texts and supplementary readings. Students are expected to write and report on topics that have been covered in the texts and supplementary readings.",
+                "Evaluation Method": "Class performance, written assignments, oral reports, written quizzes, and a final exam.",
+                "Class Materials (Required)": "Winter quarter & Spring quarter:\nTextbook and workbook : Integrated Chinese, Level 2, Part2 (3rd ed.);\nPublisher: Cheng & Tsui Company.\nISBN: 9780887276880 (textbook); 9780887276927 (workbook)\nPrice: $59.99(textbook); $28.99",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 125-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 125-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Wen-pin Hsieh\n847/467-4792\n1880 Campus Drive, Kresge Hall, Office 4-536\nOffice Hours: Varies Quarter to Quarter, Check with Instructor",
+                "Meeting Info": "Kresge Centennial Hall 2-319: Mon, Tues, Wed, Thurs 12:00PM - 12:50PM",
+                "Overview of class": "AY 26-27 Accelerated Chinese 125 (125-1, 2, 3) is an intermediate course primarily designed for students at ACTFL intermediate-mid level of proficiency in listening and speaking, and intermediate-low in literacy skills. This course aims to help students further hone all four skills with an emphasis on reading and writing. The literacy goal is to master 1500-2000 characters and to reach an intermediate-high level of literacy proficiency.",
+                "Registration Requirements": "Students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "The goals of this course are to help students: (a) achieve a basic level of reading competency; (b) express themselves clearly in written Chinese on a variety of topics using learned grammar patterns and vocabulary; (c) reinforce their speaking proficiency on a broad range of topics; (d) cultivate their intercultural competence and ability to juxtapose and communicate across different cultures.",
+                "Teaching Method": "Four regular class hours are for learning of the key vocabulary, analysis of sentence structure, familiarity with Chinese culture, awareness of different registers, and discussion of topics related to the texts and supplementary readings. Students are expected to write and report on topics that have been covered in the texts and supplementary readings.",
+                "Evaluation Method": "Class performance, written assignments, oral reports, written quizzes, and a final exam.",
+                "Class Materials (Required)": "Winter quarter & Spring quarter:\nTextbook and workbook : Integrated Chinese, Level 2, Part2 (3rd ed.);\nPublisher: Cheng & Tsui Company.\nISBN: 9780887276880 (textbook); 9780887276927 (workbook)\nPrice: $59.99(textbook); $28.99",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 125-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 125-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Wen-pin Hsieh\n847/467-4792\n1880 Campus Drive, Kresge Hall, Office 4-536\nOffice Hours: Varies Quarter to Quarter, Check with Instructor",
+                "Meeting Info": "Kresge Centennial Hall 2-325: Mon, Tues, Wed, Thurs 1:00PM - 1:50PM",
+                "Overview of class": "AY 26-27 Accelerated Chinese 125 (125-1, 2, 3) is an intermediate course primarily designed for students at ACTFL intermediate-mid level of proficiency in listening and speaking, and intermediate-low in literacy skills. This course aims to help students further hone all four skills with an emphasis on reading and writing. The literacy goal is to master 1500-2000 characters and to reach an intermediate-high level of literacy proficiency.",
+                "Registration Requirements": "Students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "The goals of this course are to help students: (a) achieve a basic level of reading competency; (b) express themselves clearly in written Chinese on a variety of topics using learned grammar patterns and vocabulary; (c) reinforce their speaking proficiency on a broad range of topics; (d) cultivate their intercultural competence and ability to juxtapose and communicate across different cultures.",
+                "Teaching Method": "Four regular class hours are for learning of the key vocabulary, analysis of sentence structure, familiarity with Chinese culture, awareness of different registers, and discussion of topics related to the texts and supplementary readings. Students are expected to write and report on topics that have been covered in the texts and supplementary readings.",
+                "Evaluation Method": "Class performance, written assignments, oral reports, written quizzes, and a final exam.",
+                "Class Materials (Required)": "Winter quarter & Spring quarter:\nTextbook and workbook : Integrated Chinese, Level 2, Part2 (3rd ed.);\nPublisher: Cheng & Tsui Company.\nISBN: 9780887276880 (textbook); 9780887276927 (workbook)\nPrice: $59.99(textbook); $28.99",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 125-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 125-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "211-2",
+        "course_name": "Chinese III",
+        "course_reference_number": [
+            "23668"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese III",
+                "instructors": [
+                    "Jili Sun"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jili Sun\n8474670539\n1880 Campus Drive, Kresge Hall, Office 4-534\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-329: Mon, Tues, Wed, Thurs 2:00PM - 2:50PM",
+                "Overview of class": "AY 26-27. CHINESE 211 is a year-long, intermediate-level course designed to further develop students' communicative competence in listening, speaking, reading, and writing in Modern Chinese. The course also aims to deepen students' understanding of Chinese culture and contemporary social issues. It systematically expands students' vocabulary and helps them produce well-structured paragraphs, with particular emphasis on precise description and comparison. Chinese is the primary language of instruction in this course. Upon satisfactory completion of the full course sequence, students are expected to reach the Intermediate Mid to Intermediate High level according to the ACTFL Proficiency Guidelines.",
+                "Registration Requirements": "Students must pass the preceding course with C- or higher, or be placed into the course by through departmental placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to\n\nDescribe the exterior features of objects and discuss spatial layouts in a clear and structured manner.\nUse specific and vivid language to describe impressions of a person's appearance, manner, and style.\nWrite CVs, application letters, and letters of reference, and introduce new colleagues.\nDescribe natural phenomena and cities in detail.\nDiscuss selected social and cultural topics within given contexts.",
+                "Teaching Method": "The course adopts a bottom-up approach, progressively expanding from words to sentences and from sentences to paragraphs, using student-centered communicative and task-based activities. Classes are conducted in Chinese.",
+                "Evaluation Method": "Student performance is evaluated based on class attendance and participation, homework and projects, quizzes, oral presentations, essays, and written examinations.",
+                "Class Materials (Required)": "Developing Chinese Fluency (Textbook)\nAuthor: Phyllis Zhang\nPublisher: Cengage Learning\nISBN: 978-1111342227\nPrice: $64",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 211-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 211-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "311-2",
+        "course_name": "Chinese IV: Formal Writing",
+        "course_reference_number": [
+            "23673"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese IV: Formal Writing",
+                "instructors": [
+                    "Li-Cheng Gu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Li-Cheng Gu\n8474912760\n1880 Campus Drive, Kresge Hall, Office 4-433\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "Kresge Centennial Hall 2-331: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "AY 26-27 Chinese 311 is a quarter-long series of Chinese courses composed by the following independent courses: Chinese 311-1: Formal Speaking, Chinese 311-2: Formal Writing, and Chinese 311-3: Formal Reading. The courses are designed to develop students' abilities to speak and write formal Chinese respectively, as well as to read short literary works in Chinese. The content of the courses cover argumentations and articles on various topics, including Chinese culture, society and contemporary history. Student will also read authentic Chinese literary works in different written forms and language styles by various authors, with a focus on their cultural and social background. The goal of the courses is to train students to use written vocabulary and formal expressions as well as know how to arrange a structured speaking/writing with complete format and logical connections. Students will reach advanced low in reading, writing, listening and speaking based on ACTFL proficiency guidelines.",
+                "Registration Requirements": "CHINESE 211-3 with grade C- or above.\n\nStudents may be placed into this course by the departmental placement test.",
+                "Learning Objectives": "Upon satisfactory completion of 311-1, students will be able to use formal expressions to deliver a structured speech with logical arguments. Upon satisfactory completion of 311-2, students will be able to write essays in a formal style in depth about complex topics. Upon satisfactory completion of 311-3, students will be able to comprehend in depth authentic literary works in Chinese language and communicate efficiently their understanding in speaking and written forms.",
+                "Teaching Method": "Class meets twice per week, 80 minutes per class. The course is designed with intensive student-oriented activities through reading various class materials, including essays, media reports and authentic Chinese literature works. Students are expected to read materials ahead of class, participate in in-class discussions led by the instructor, and make formal statements, arguments, speeches and debates about social and cultural phenomena in paragraphs. With instructor's necessary corrections and suggestions on students' papers, they are expected to present their works as formal oral presentations. Chinese is used for instruction.",
+                "Evaluation Method": "Attendance\nClassroom participation\nHomework\nPapers\nOral Presentations",
+                "Class Materials (Required)": "Fall quarter & Winter quarter:\nTextbook: Crossing Culture Boundaries (second edition)\nAuthor: Kunshan Carolyn Lee, Hsin-hsin Liang, Liwei Jiao, Julian K Wheatley\nISBN: 978-0-415-77407-9\n\nSpring quarter:\nTextbook: Prepared by instructor",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Chinese 211-3 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Chinese 211-3 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "315-2",
+        "course_name": "Chinese IV - Accelerated: Advanced Reading and Writing",
+        "course_reference_number": [
+            "23692"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Chinese IV",
+                "instructors": [
+                    "Accelerated: Advanced Reading and Writing",
+                    "Yangtian Luo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yangtian Luo\n847/467-6554\n1880 Campus Drive, Kresge Hall, Office 4-538\nOffice Hours: vaires by quarater, please contact instructor",
+                "Meeting Info": "Locy Hall 314: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "AY 26-27 Chinese 315 is a quarter-long series of advanced modern Chinese courses composed by the following independent courses: Chinese 315-1: Formal Writing and Public Speaking; Chinese 315-2: Advanced Reading and Writing, Chinese 315-3: Media and Society.\n\nThis advanced Chinese course focuses on academic writing and speaking skills by utilizing authentic materials, carefully selected from various sources and organized into diverse lesson contexts. Students will engage in diverse writing and public speaking forms, mastering grammar, vocabulary, and language conventions. By the end of the course, students will be able to craft persuasive Chinese texts and deliver engaging oral presentations.",
+                "Registration Requirements": "Chinese 215-3 with grade C- or above or by placement.\nThree courses of Chinese 311-1, 2, 3, 312-1, 312-2 with C- or above, or by placement test.",
+                "Learning Objectives": "By the end of the course, students will be able to\n\nConduct research on primary sources\nUnderstand the main messages and most supporting details on a wide variety of general topics\nMaintain conversations and discussions on various cultural and social topics\nDeliver detailed cohesive presentations and elaborate on various cultural and social topics using organized paragraphs",
+                "Teaching Method": "Discussions on preassigned readings. Students are required to complete the preparation before class.",
+                "Evaluation Method": "Attendance, participation, assignments, quizzes, presentations, projects",
+                "Class Materials (Required)": "To be prepared by the instructor",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: grade of at least C- in CHINESE 215-3 or completion of the CHINESE 311-1, CHINESE 311-2 and CHINESE 311-3 series Prerequisite: grade of at least C- in CHINESE 215-3 or completion of the CHINESE 311-1, CHINESE 311-2 and CHINESE 311-3 series"
+            }
+        ]
+    }
+]

@@ -1,0 +1,315 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "22414"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Under Pressure: Asian Americans and Higher Educati",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Raymond San Diego"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Under Pressure: Asian Americans and Higher Educati",
+                "Instructors": "Raymond San Diego\nCrowe 1-125",
+                "Meeting Info": "Willard Hall B72: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "203-0",
+        "course_name": "Topics in Asian American Social and Cultural Analysis",
+        "course_reference_number": [
+            "22413",
+            "28195"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Organizing for Justice",
+                "instructors": [
+                    "Topics in Asian American Social and Cultural Analysis",
+                    "Helen Cho"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Undocumented America",
+                "instructors": [
+                    "Topics in Asian American Social and Cultural Analysis",
+                    "Jesse Yeh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Organizing for Justice",
+                "Instructors": "Helen Cho",
+                "Meeting Info": "Kresge Centennial Hall 2-410: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Are you interested in organizing and advocacy work? Do you want to put theories and knowledge from the classroom into practice? Have you been wondering how to build resilient movements, sustain your involvement, and engage across conflict without burning out?\n\nThis immersive course relies on organizing frameworks and case studies from Asian American Studies and Gender & Sexuality Studies to guide students as they move from theory to praxis. By exploring what organizers and advocates have done historically - such as the 1995 Hunger Strike that led to the creation of the Asian American Studies Program at Northwestern - and the ongoing work of organizations in Evanston, Chicago, and beyond, students will learn about and practice skills and strategies for building and sustaining their own advocacy practice.\n\nStudents will partner with a community-based organization and gain hands-on experience working\nwith seasoned organizers and advocates on a project, such as advocating for fair housing, coalitional organizing for a community benefits agreement, and raising awareness of gender-based violence. Students are expected to attend at least one off-campus excursion (on a Friday)",
+                "Class Materials (Required)": "All course materials will be available on Canvas.",
+                "Class Notes": "Attendance at the first class is mandatory. There will be at least one mandatory off-campus trip.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Undocumented America",
+                "Instructors": "Jesse Yeh\n620 Lincoln Street",
+                "Meeting Info": "Harris Hall L06: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "How does legal status shape the lives of the 11 million Americans who are undocumented? This course develops the necessary historical context, as well as the conceptual tools to make sense of why people migrate, what shapes their incorporation, how does legal status intersect with other social differences, and how does legal status shape people's experiences with key social institutions.",
+                "Learning Objectives": "A. Situate contemporary undocumented migration and one's own family history within the context of U.S. history of migration and immigration policies\nB. Evaluate competing theories of migration and theories of migrant incorporation through appropriate quantitative or qualitative evidence\nC. Articulate the specific ways in which race and national origin, gender and sexual orientation, and other social differences intersect with migrant legal status\nD. Articulate how migrant legal status shapes how individuals navigate key social institutions",
+                "Class Materials (Required)": "All readings available on course site",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "210-0",
+        "course_name": "Introduction to Asian American Studies",
+        "course_reference_number": [
+            "22410"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Asian American Studies",
+                "instructors": [
+                    "Tara Fickle"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tara Fickle",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "\"Asian American\" was once a radical slogan of solidarity; today it is also a census box, a marketing niche, a contested identity. This course explores that evolution by tracing Asian American histories from the late 19th century to the present. We will examine immigration laws, Japanese American incarceration, refugee migrations, and movements for ethnic studies and solidarity, alongside contemporary debates over COVID-era violence, Black-Asian coalitions, and affirmative action. Readings span court cases, activist newspapers, literature, film, and scholarship, asking what it means to claim \"Asian American\" as both identity and movement, and how its past struggles illuminate the present.",
+                "Class Notes": "Must register for discussion section.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Kresge Centennial Hall 2-415: Fri 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "216-0",
+        "course_name": "Global Asians",
+        "course_reference_number": [
+            "26271"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Global Asians",
+                "instructors": [
+                    "Ji-Yeon Yuh"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ji-Yeon Yuh\n847/467-6538\nHarris Hall - Room 306 (Winter 2021 - Remote)",
+                "Meeting Info": "Locy Hall 111: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Why are Asians all over the world and how did they get there? This course examining the various types of migration that created an Asian diaspora, the communities and collective identities that\nemerged, and the role played by empires and nation-states. We will interrogate the concept of diaspora versus migration versus immigration, and the notions of identity and community implicit in\neach framework. We will discuss notions of group belonging and ideas of citizenship, nationality and ethnicity, and also compare how different ethnic groups and different national societies have handled ethnic/racial/cultural diversity. We will, in short, be examining the crossing and construction of multiple borders, the cultural encounters and the mixings of various Asian groups in various socioeconomic and political contexts in different nation-states.",
+                "Registration Requirements": "Attendance at first class mandatory",
+                "Learning Objectives": "Gain solid knowledge about a range of Asian migrations and diasporic communities, from the 19th century to the present. Gain an understanding of the different types of migration and their influence on the kinds of communities that migrants form. Gain an understanding of how globalization, expansion, and wars influence\nmigration. Understand the conceptual differences among diaspora, immigration, and migration, and be able to demonstrate with historical examples. Build analytical skills for understanding media reports, statistics, historical documents, and personal narratives. Build teamwork skill around research, analysis, and presentation. Build writing skills and formal oral presentation skills.",
+                "Evaluation Method": "Weekly readings and films. Class attendance and participation. Weekly in-class writing exercises. Group multimedia project, with in-class presentations. In-person final exam, essay format",
+                "Class Attributes": "Historical Studies Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Harris Hall L06: Fri 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Japanese American \"Internment\"",
+        "course_reference_number": [
+            "24346"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Japanese American \"Internment\"",
+                "instructors": [
+                    "Shana Bernstein"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shana Bernstein\n847/467-6850\n620 Lincoln #205",
+                "Meeting Info": "Fisk Hall 114: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Twenty-first century politicians and their spokespeople have referred to the World War II imprisonment of Japanese Americans as a possible precedent for politics towards Muslims, while others have invoked similar logic relating to \"military necessity\" to justify poor treatment of immigrants or others deemed a \"threat\" to U.S. security. Yet many Americans remain ignorant about this important and understudied episode in U.S. history. This discussion-based course examines events leading up to the mass imprisonment of a group of people based on race including the role played by wartime emergency language, the experiences of the imprisoned Americans, and the wartime policy's consequences. It focuses on the intersections between race, gender, nation, and law. Readings include secondary and primary sources, including related court cases, executive orders, documentary films, memoirs, and fiction.\n\nStudents will be expected to read and participate daily, as well as write three papers throughout the quarter (two approx. 4-6 pages, one approx. 10 pages).",
+                "Registration Requirements": "1. Analyze the imprisonment from multiple perspectives, experiences, and primary sources (e.g. including traditional texts, documentary films, memoir, government documents, photographs, art, and other primary sources, as well as fiction).\n2. Identify and explain events leading up to the mass imprisonment of a group of people based on race, the role played by wartime emergency language, the experiences of Japanese Americans, and the consequences of this wartime policy.\n3. Explore and analyze intersections among race, gender, nation, and the law, both in the context of the treatment of Japanese Americans during World War II as well as in a larger historical context.\n4. Understand the role of law in justifying the imprisonment, and in its aftermath.\n5. Foster analytical, reading, discussion, and writing skills.\n6) To learn to analyze the past using both primary and secondary sources including how to analyze and critique sources and understand how scholars use them to formulate arguments and speak to each other.\n7. To teach empathy to better understand historical actions and actors as a product of their time and place.\n8. To understand chronology/change over time",
+                "Class Materials (Required)": "- Yoshiko Uchida, University of Washington Press, Desert Exile: The Uprooting of a Japanese American Family, 2015, ISBN 9780295994758, paperback\n\n- Mine Okubo, University of Washington Press, Citizen 13660, 2014, ISBN 9780295993546, paperback",
+                "Class Attributes": "Historical Studies Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Student may not receive credit for both LEGAL_ST 250-0 and ASIAN_AM 250-0."
+            }
+        ]
+    },
+    {
+        "course_number": "303-0",
+        "course_name": "Advanced Topics in Social and Cultural Analysis",
+        "course_reference_number": [
+            "26365"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Constructing North Korea in the Western Imaginary",
+                "instructors": [
+                    "Advanced Topics in Social and Cultural Analysis",
+                    "Helen Cho"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Constructing North Korea in the Western Imaginary",
+                "Instructors": "Helen Cho",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "APPLICATION TO THIS COURSE HAS CLOSED.\n\nHow do we know what we think we know about North Korea? Join an interdisciplinary exploration of\none of the world's most discussed yet least accessible countries through an immersive field experience in Seoul, South Korea. Building on work in Asian American Studies and media studies, students will investigate how narratives about North Korea are created, circulated, and contested across media, museums, tourism, and public discourse. The trip includes a visit to the Demilitarized Zone (DMZ), tours of The Database Center for North Korean Human Rights (NKDB) and the War Memorial of Korea, a walking tour of Itaewon and the site of the former Yongsan Garrison, and conversations with journalists from major international news organizations. Students will also engage with academic scholars and peers to examine South Korean perspectives on North Korea and compare them with dominant Western narratives. Designed for students interested in media, politics, culture, history, and international affairs, this experience challenges participants to think critically about knowledge production, representation, and the power of storytelling in shaping global understanding.",
+                "Class Materials (Required)": "All course materials will be available on Canvas",
+                "Class Notes": "By application only. Attendance at the first class is mandatory.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "Advanced Topics in History",
+        "course_reference_number": [
+            "26277"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Korean War Legacies",
+                "instructors": [
+                    "Advanced Topics in History",
+                    "Ji-Yeon Yuh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Korean War Legacies",
+                "Instructors": "Ji-Yeon Yuh\n847/467-6538\nHarris Hall - Room 306 (Winter 2021 - Remote)",
+                "Meeting Info": "Harris Hall L04: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "This course is an upper-level seminar that offers an upside-down examination of the Korean War highlighting the narratives of Korean people, be they North Koreans, South Koreans, adoptees, mixed race Koreans, North Korean refugees, koryo saram, chosunjok, Korean Americans, Zainichi, or POW repatriation refusers.. It begins with an examination of the physical devastation of the war and the targeted use of methods and materials such as carpet bombing and napalm and then moves to a discussion of the ideological warfare tactics honed in the war's interrogation rooms. After a brief discussion of the two nation-states that emerged from the war, the course delves into the new categories of Koreans created by the war: Amerasians, adoptees, military brides, and Zainichi returnees to North Korea. The course concludes with an examination of the Korean War in memory, both collective and individual. The course draws on oral history interviews conducted by the instructor with military brides in the United States, Zainichi Koreans in Japan, and North Korean refugees in China and will include several assignments asking students with Korean language skills to listen to and analyze interview excerpts.",
+                "Registration Requirements": "Attendance at first class mandatory",
+                "Learning Objectives": "Gain foundational knowledge about how the Korean War was conducted and influenced how nations wage war Gain detailed knowledge about the consequences and legacies of the Korea War. Gain detailed knowledge of the variety of Koreans and how the Korean War played a key role in shaping that diversity. Build research skills, including document analysis and oral history analysis Build analytical skills Hone the ability to craft a tight historical argument based on historical evidence Build clear and concise writing skills.",
+                "Class Attributes": "Advanced Expression\nHistorical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Advanced Topics in Arts and Performance",
+        "course_reference_number": [
+            "22403",
+            "28562"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Performing Wellness in Asian America",
+                "instructors": [
+                    "Advanced Topics in Arts and Performance",
+                    "Raymond San Diego"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Art and Performance in Asian America",
+                "instructors": [
+                    "Advanced Topics in Arts and Performance",
+                    "Clara Lee"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Performing Wellness in Asian America",
+                "Instructors": "Raymond San Diego\nCrowe 1-125",
+                "Meeting Info": "Kresge Centennial Hall 2-425: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course uses performance studies as a primary framework to analyze how illness, disability, and wellness are staged, enacted, and reconstituted across Asian American expressive cultures. Rather than treating disability and disease solely as individualized, clinical conditions, we will explore them as dynamic, relational, and political performances shaped by history, race, and empire.\n\nThrough theater, crip solo performance, film and media, life writing, art, photography, and other visual and expressive forms, students will trace how Asian American bodies navigate multiple and often competing pressures, from model minority myth to medicalized racialization. Course topics will include intergenerational trauma as bodily repertoire, mental health (de)stigmatization, Asian American disability aesthetics, grassroots community care practices, and the cultural staging of death, dying, and collective grief. Students will critically analyze creative works and develop their own projects to reframe care, bodily autonomy, and interdependence.",
+                "Class Notes": "Attendance at first class is mandatory",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Art and Performance in Asian America",
+                "Instructors": "Clara Lee",
+                "Meeting Info": "Wirtz 240 Seminar Room: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "What is Asian American art? How do the racial and political undercurrents of the designation \"Asian American\" lend itself to various stylized forms, such as the cyborg, alien, recluse, or Orient? In this class, we will examine a range of art objects and performances by Asian American and Asian diasporic artists—including but not limited to Mitski, Patty Chang, Yoko Ono and Jes Fan—which have emerged out of or in relation to the varied experiences and imaginaries of Asia/ America. Instead of pursing a comprehensive historiography of Asian American art, we turn our attention how these experiments—in video, photography, performance art, and music—elaborate the inconsistencies and resonances that permeate formations of Asia America. Finally, in locating our study at the intersection of Asian American studies and Performance studies, we will learn to lean into our senses (sight, touch, hearing) and the sensory (the visible, invisible, haptic, tactile, whispers, murmurs, screams, etc.) as analytical tools capable of complicating the association between identity and representation.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    }
+]

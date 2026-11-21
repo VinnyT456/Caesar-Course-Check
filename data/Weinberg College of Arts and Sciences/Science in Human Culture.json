@@ -1,0 +1,28 @@
+[
+    {
+        "course_number": "398-2",
+        "course_name": "Science in Human Culture Senior Seminar",
+        "course_reference_number": [
+            "28566"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Science in Human Culture Senior Seminar",
+                "instructors": [
+                    "Hannah Glasson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hannah Glasson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "course_number": "103-0",
+        "course_name": "Analysis and Performance of Text",
+        "course_reference_number": [
+            "28388",
+            "28389"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Analysis and Performance of Text",
+                "instructors": [
+                    "Makeda Thomas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Analysis and Performance of Text",
+                "instructors": [
+                    "Shola B Jimoh"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Makeda Thomas",
+                "Meeting Info": "AM Swift Krause Studio 103: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "This course studies texts, broadly defined and situated, through performance. Students explore how performance helps the performer and audience interpret a text, as well as express challenging political and personal themes. They examine the ways performance illuminates and draws out deeper understandings of social relations through embodied praxis. Literature Fine Arts Distro Area",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Shola B Jimoh",
+                "Meeting Info": "AM Swift Krause Studio 103: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This course studies texts, broadly defined and situated, through performance. Students explore how performance helps the performer and audience interpret a text, as well as express challenging political and personal themes. They examine the ways performance illuminates and draws out deeper understandings of social relations through embodied praxis. Literature Fine Arts Distro Area",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "119-0",
+        "course_name": "Production Laboratory",
+        "course_reference_number": [
+            "28714"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Production Laboratory",
+                "instructors": [
+                    "Shayna Silverstein"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shayna Silverstein\nshayna.silverstein@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "200-0",
+        "course_name": "Introduction to Performance Studies",
+        "course_reference_number": [
+            "28405"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Performance Studies",
+                "instructors": [
+                    "Ligaya Jennifer Senecal"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ligaya Jennifer Senecal",
+                "Meeting Info": "AM Swift Krause Studio 103: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Explores practices, themes, and debates in performance studies. Includes the making and adapting of performance, performance as research method, and the study of performance history and theory. Forms studied may include performance art, theatre, music, dance, pop culture, and protest, from Broadway musicals, Beyoncé, and Disney theme parks, through to Yoko Ono, Felix Gonzalez-Torres, sports, political spectacle, and activist street action.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "203-0",
+        "course_name": "Performance Culture and Communication",
+        "course_reference_number": [
+            "28402",
+            "28412"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Performance Culture and Communication",
+                "instructors": [
+                    "Michael Francis Landez"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:20AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Performance Culture and Communication",
+                "instructors": [
+                    "Toni Kunst"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Francis Landez",
+                "Meeting Info": "AM Swift Krause Studio 103: Tues, Thurs 9:00AM - 10:20AM",
+                "Overview of class": "This course introduces students to the concept of performance as a significant social and communicative practice. The course draws on theoretical texts as well as embodied learning to tackle foundational concepts, methods, and issues in performance studies.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Toni Kunst",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This course introduces students to the concept of performance as a significant social and communicative practice. The course draws on theoretical texts as well as embodied learning to tackle foundational concepts, methods, and issues in performance studies.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "225-0",
+        "course_name": "Black Music Studies",
+        "course_reference_number": [
+            "28410"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Black Gospel Music in America",
+                "instructors": [
+                    "Black Music Studies",
+                    "Kent Brooks"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Black Gospel Music in America",
+                "Instructors": "Kent Brooks",
+                "Meeting Info": "Wirtz Center SOUTH: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "This course explores the evolution of Gospel music from its African roots to today's abundant sub-genres of contemporary Gospel. Through readings, videos, and live performances, students will engage in critical discussions regarding the language, expression, and social-historical implications of this original American art form. The class also looks at the lives of some of Gospel's luminaries, including Chicago's own Professor Thomas A. Dorsey, the \"Father of Black Gospel Music.\"",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Art and Performance in Asian America",
+        "course_reference_number": [
+            "28407"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Art and Performance in Asian America",
+                "instructors": [
+                    "Clara Lee"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Clara Lee",
+                "Meeting Info": "Wirtz 240 Seminar Room: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "What is Asian American art? How do the racial and political undercurrents of the designation \"Asian American\" lend itself to various stylized forms, such as the cyborg, alien, recluse, or Orient? In this class, we will examine a range of art objects and performances by Asian American and Asian diasporic artists—including but not limited to Mitski, Patty Chang, Yoko Ono and Jes Fan—which have emerged out of or in relation to the varied experiences and imaginaries of Asia/ America. Instead of pursing a comprehensive historiography of Asian American art, we turn our attention how these experiments—in video, photography, performance art, and music—elaborate the inconsistencies and resonances that permeate formations of Asia America. Finally, in locating our study at the intersection of Asian American studies and Performance studies, we will learn to lean into our senses (sight, touch, hearing) and the sensory (the visible, invisible, haptic, tactile, whispers, murmurs, screams, etc.) as analytical tools capable of complicating the association between identity and representation.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "309-0",
+        "course_name": "Black Performance",
+        "course_reference_number": [
+            "28809"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Black Performance",
+                "instructors": [
+                    "Thomas F. DeFrantz"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas F. DeFrantz",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 2:00PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "317-0",
+        "course_name": "Feminist Performance",
+        "course_reference_number": [
+            "28408"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Feminist Performance",
+                "instructors": [
+                    "Archita Arun"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Archita Arun",
+                "Meeting Info": "AM Swift Krause Studio 103: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "330-0",
+        "course_name": "Topics in Performance Studies",
+        "course_reference_number": [
+            "28392"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Problems in Performance Studies",
+                "instructors": [
+                    "Topics in Performance Studies",
+                    "Marcela Fuentes"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Problems in Performance Studies",
+                "Instructors": "Marcela Fuentes",
+                "Meeting Info": "AM Swift Krause Studio 103: Wed 2:00PM - 4:50PM",
+                "Overview of class": "This course introduces students to performance research as an interdisciplinary field and method of inquiry. Students will explore performance practice as a mode of knowledge production across theater, performance art, dance, activism, and digital spaces. Through critical readings, embodied research labs, practice-based inquiry, and creative documentation, students will learn to analyze and generate research that employs performance as a modality of social exploration and critique. The course culminates in original performance-based research projects.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "515-0",
+        "course_name": "Seminar: Problems in Performance Studies",
+        "course_reference_number": [
+            "28394",
+            "28395"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Afrofuturism",
+                "instructors": [
+                    "Seminar: Problems in Performance Studies",
+                    "Thomas F. DeFrantz"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Seminar: Problems in Performance Studies",
+                "instructors": [
+                    "Marcela Fuentes"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Afrofuturism",
+                "Instructors": "Thomas F. DeFrantz",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 2:00PM - 5:00PM",
+                "Overview of class": "Explores AfroFuturism, a literary and cultural aesthetic demonstrating/imagining how people of color project ourselves into narratives of the future. Investigation of speculative fiction, fantasy literature, sound cultures, artworks, music videos, and dance to trace the concept of an AfroFuturist point of view. Creation of AfroFuturist media and performances. Artists considered include writers Samuel R. Delany and Andrea Hairston; musicians Parliament-Funkadelic and Sun Ra; filmmaker Hype Williams; performers Janelle Monae and Flying Lotus.\n\nThe course is arranged around disciplinary rhetorics of sound, literature, performance, and visual cultures. Together we will read several texts together and consider their contents and contexts. Creative exercises or writing exercises will be spread throughout the semester. At least one of these exercises should be executed in a small group, as demonstration of an ensemble of collective action and shared study. As a final offering, students will produce either a research paper of 15-20 pages length, or a performance/media object of significant complexity as a final outcome of coursework."
+            },
+            {
+                "Instructors": "Marcela Fuentes",
+                "Meeting Info": "AM Swift Krause Studio 103: Wed 2:00PM - 4:50PM",
+                "Overview of class": "This course introduces students to performance research as an interdisciplinary field and method of inquiry. Students will explore performance practice as a mode of knowledge production across theater, performance art, dance, activism, and digital spaces. Through critical readings, embodied research labs, practice-based inquiry, and creative documentation, students will learn to analyze and generate research that employs performance as a modality of social exploration and critique. The course culminates in original performance-based research projects."
+            }
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "course_number": "402-0",
+        "course_name": "Bioprocess Engineering Laboratory",
+        "course_reference_number": [
+            "26509"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Bioprocess Engineering Laboratory",
+                "instructors": [
+                    "Arthur Felse",
+                    "Conner Breen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arthur Felse",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "410-0",
+        "course_name": "Technology Commercialization Fundamentals",
+        "course_reference_number": [
+            "26510"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Technology Commercialization Fundamentals",
+                "instructors": [
+                    "Nancy Gavin Hedlund"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nancy Gavin Hedlund",
+                "Meeting Info": "555 Clark B01: Fri 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only."
+            }
+        ]
+    },
+    {
+        "course_number": "476-1",
+        "course_name": "Kinetics, Energetics, and Bioreactor Design",
+        "course_reference_number": [
+            "23780"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Kinetics, Energetics, and Bioreactor Design",
+                "instructors": [
+                    "Keith Tyo",
+                    "Danielle Tullman-Ercek"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Keith Tyo",
+                "Meeting Info": "Technological Institute M345: Mon, Tues, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only."
+            }
+        ]
+    },
+    {
+        "course_number": "507-0",
+        "course_name": "Team Dynamics and Leadership",
+        "course_reference_number": [
+            "26511"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Team Dynamics and Leadership",
+                "instructors": [
+                    "Todd Murphy"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Todd Murphy\n847/467-4661\nNU Center for Leadership - 1813 Hinman Avenue",
+                "Meeting Info": "Annenberg Hall G01: Tues 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "510-0",
+        "course_name": "Biotechnology Research",
+        "course_reference_number": [
+            "26507",
+            "26508"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biotechnology Research",
+                "instructors": [
+                    "Arthur Felse"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Biotechnology Research",
+                "instructors": [
+                    "Arthur Felse"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arthur Felse",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only."
+            },
+            {
+                "Instructors": "Arthur Felse",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only."
+            }
+        ]
+    }
+]

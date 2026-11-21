@@ -1,0 +1,1717 @@
+[
+    {
+        "course_number": "150-0",
+        "course_name": "Fundamentals of Programming and Computational Problem Solving",
+        "course_reference_number": [
+            "24996"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Programming and Computational Problem Solving",
+                "instructors": [
+                    "Dietrich Geisler"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dietrich Geisler",
+                "Meeting Info": "Tech Institute Lecture Room 2: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisites: Students may not enroll in more than one attempt of or receive receive credit for one of the following courses: COMP_SCI 150, GEN_ENG 150, and GEN_ENG 151",
+                "Associated Classes": "DIS - Technological Institute M177: Thurs 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "180-0",
+        "course_name": "Software Design & Composition",
+        "course_reference_number": [
+            "25013"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Software Design & Composition",
+                "instructors": [
+                    "Ian Horswill"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ian Horswill",
+                "Meeting Info": "Technological Institute AUD: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0 or GEN_ENG 151-0 or COMP_SCI 150 or COMP_SCI 1CA. Antirequisite: COMP_SCI 180_0 cannot be taken in the same quarter as COMP_SCI 208_0 or COMP_SCI 211_0."
+            }
+        ]
+    },
+    {
+        "course_number": "211-0",
+        "course_name": "Programming in Systems-Level Languages",
+        "course_reference_number": [
+            "24942",
+            "24943"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Programming in Systems-Level Languages",
+                "instructors": [
+                    "Yiji Zhang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Programming in Systems-Level Languages",
+                "instructors": [
+                    "Yiji Zhang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yiji Zhang",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: COMP_SCI 150 or GEN_ENG 150 or GEN_ENG 151. Antirequisite: COMP_SCI 211_0 cannot be taken in the same quarter as COMP_SCI 180_0 or COMP_SCI 208_0."
+            },
+            {
+                "Instructors": "Yiji Zhang",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: COMP_SCI 150 or GEN_ENG 150 or GEN_ENG 151. Antirequisite: COMP_SCI 211_0 cannot be taken in the same quarter as COMP_SCI 180_0 or COMP_SCI 208_0."
+            }
+        ]
+    },
+    {
+        "course_number": "212-0",
+        "course_name": "Math Foundations of CS Part 1: Discrete Math for CS",
+        "course_reference_number": [
+            "24944"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Math Foundations of CS Part 1: Discrete Math for CS",
+                "instructors": [
+                    "Anjali Agarwal"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anjali Agarwal",
+                "Meeting Info": "Technological Institute M345: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150 or GEN_ENG 150 or GEN_ENG 151",
+                "Associated Classes": "DIS - Technological Institute A110: Thurs 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "213-0",
+        "course_name": "Introduction to Computer System",
+        "course_reference_number": [
+            "24963",
+            "24964"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Computer System",
+                "instructors": [
+                    "Branden Ghena"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Introduction to Computer System",
+                "instructors": [
+                    "Branden Ghena"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Branden Ghena",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite: Students must have completed CS 211 to enroll in this course."
+            },
+            {
+                "Instructors": "Branden Ghena",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite: Students must have completed CS 211 to enroll in this course."
+            }
+        ]
+    },
+    {
+        "course_number": "217-0",
+        "course_name": "Applied Data Management",
+        "course_reference_number": [
+            "24945"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Data Management",
+                "instructors": [
+                    "Joseph Hummel"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joseph Hummel",
+                "Meeting Info": "Technological Institute L361: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150 or GEN_ENG 150 or GEN_ENG 151"
+            }
+        ]
+    },
+    {
+        "course_number": "238-0",
+        "course_name": "Forge: AI in Practice Building AI Systems for Real Clients - Part 0",
+        "course_reference_number": [
+            "28426"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Forge: AI in Practice Building AI Systems for Real Clients",
+                "instructors": [
+                    "Part 0",
+                    "Kristian Hammond"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Ford Hive Rm 2350: Tues 3:30PM - 6:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Introduction to Robotics Laboratory",
+        "course_reference_number": [
+            "24969"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Robotics Laboratory",
+                "instructors": [
+                    "brenna d. argall"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "brenna d. argall\n847/467-0862\nTechnological Institute, Rm A290, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute CG50 - EECS T-L: Tues, Thurs 12:30PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 110-0, COMP_SCI 111-0, COMP_SCI 150, GEN_ENG 150-0, GEN_ENG 151-0, MECH_ENG 224-0, or consent of instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Artifical Life",
+        "course_reference_number": [
+            "25007"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Artifical Life",
+                "instructors": [
+                    "Sam Kriegman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sam Kriegman\n847/467-6631\nTechnological Institute, Rm A293, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Schapiro Hall 101: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: COMP_SCI 349 or MS CS or PhDs CS."
+            }
+        ]
+    },
+    {
+        "course_number": "310-0",
+        "course_name": "Scalable Software Architectures",
+        "course_reference_number": [
+            "25002"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Scalable Software Architectures",
+                "instructors": [
+                    "Anastasia Kurdia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anastasia Kurdia",
+                "Meeting Info": "Technological Institute M338: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CS 213 and (CS 208 or CS 214) or CS MS or CS PhDs or Instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "314-0",
+        "course_name": "Technology and Human Interaction",
+        "course_reference_number": [
+            "24970"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Technology and Human Interaction",
+                "instructors": [
+                    "Darren Gergle"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Darren Gergle",
+                "Meeting Info": "Frances Searle Building 2107: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Must be a 3rd/4th year COMP_SCI Major/Minor to enroll."
+            }
+        ]
+    },
+    {
+        "course_number": "315-0",
+        "course_name": "Design, Technology, and Research",
+        "course_reference_number": [
+            "24971"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design, Technology, and Research",
+                "instructors": [
+                    "Haoqi Zhang"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Haoqi Zhang",
+                "Meeting Info": "Meets in Non-General PurposeRm: Fri 12:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "316-1",
+        "course_name": "CS Education Research in the Community I: Foundations",
+        "course_reference_number": [
+            "25011"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "CS Education Research in the Community I: Foundations",
+                "instructors": [
+                    "Michael Horn",
+                    "Nicholas Lagrassa"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Horn",
+                "Meeting Info": "Technological Institute M164: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Programming Languages",
+        "course_reference_number": [
+            "24959"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Programming Languages",
+                "instructors": [
+                    "Robby Findler"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Robby Findler",
+                "Meeting Info": "Technological Institute L150: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: (COMP_SCI 211 and (COMP_SCI 214 or COMP_SCI 208)) or COMP_SCI MS or COMP_SCI PhDs or Instructor permissiong."
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "Compiler Construction",
+        "course_reference_number": [
+            "24960"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Compiler Construction",
+                "instructors": [
+                    "Dietrich Geisler"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dietrich Geisler",
+                "Meeting Info": "Technological Institute L251: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed ((CS 214 or CS 208) & (CS 213 or CE 205)), or CS MS or CS PhD in order to register for this course.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "326-0",
+        "course_name": "Introduction to the Data Science Pipeline",
+        "course_reference_number": [
+            "24946"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to the Data Science Pipeline",
+                "instructors": [
+                    "Joshua DeAndria"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joshua DeAndria",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed COMP_SCI 212-0 & COMP_SCI 214-0, have consent of the instructor, or be a Computer Science Graduate student in order to register for this course"
+            }
+        ]
+    },
+    {
+        "course_number": "329-0",
+        "course_name": "HCI Studio",
+        "course_reference_number": [
+            "25003"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "HCI Studio",
+                "instructors": [
+                    "Haoqi Zhang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Haoqi Zhang",
+                "Meeting Info": "Garage Workspace Classroom 1: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150 or GEN_ENG 150 or GEN_ENG 151 or COMP_SCI 110 or COMP_SCI 111 and has not completed COMP_SCI 330 or Graduate Standing and has not completed CS 330.",
+                "Associated Classes": "DIS - Garage Workspace Classroom 1: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "335-0",
+        "course_name": "Introduction to the Theory of Computation",
+        "course_reference_number": [
+            "24968"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to the Theory of Computation",
+                "instructors": [
+                    "Sidhanth Mohanty"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sidhanth Mohanty",
+                "Meeting Info": "Technological Institute L150: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed COMP_SCI 212-0, be CS MS, or CS PhD or have the permission of the instructor in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "336-0",
+        "course_name": "Design & Analysis of Algorithms",
+        "course_reference_number": [
+            "24947"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design & Analysis of Algorithms",
+                "instructors": [
+                    "Konstantin Makarychev"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Konstantin Makarychev",
+                "Meeting Info": "Annenberg Hall G15: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed CS 212-0 & (CS 208 or CS 214-0), or be Computer Science grad student in order to register for this course.",
+                "Associated Classes": "LAB - Technological Institute M164: Mon 5:00PM - 5:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "338-1",
+        "course_name": "Forge: AI in Practice Building AI Systems for Real Clients - Part 1",
+        "course_reference_number": [
+            "28427"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Forge: AI in Practice Building AI Systems for Real Clients",
+                "instructors": [
+                    "Part 1",
+                    "Kristian Hammond"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Ford Hive Rm 2350: Tues 3:30PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 111 or COMP_SCI 180 or COMP_SCI 208 or COMP_SCI 211 or COMP_SCI 330 or COMP_SCI 339 or COMP_SCI 348 or COMP_SCI 349 or CS MS or CS PhD or Instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "338-2",
+        "course_name": "Forge: AI in Practice Building Technical Ownership and Modeling Teamwork - Part 2",
+        "course_reference_number": [
+            "28428"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Forge: AI in Practice Building Technical Ownership and Modeling Teamwork",
+                "instructors": [
+                    "Part 2",
+                    "Kristian Hammond"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Ford Hive Rm 2350: Tues 3:30PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: COMP_SCI 338-1"
+            }
+        ]
+    },
+    {
+        "course_number": "338-3",
+        "course_name": "Forge: AI in Practice Leading Client Engagements and Team Operations - Part 3",
+        "course_reference_number": [
+            "28429"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Forge: AI in Practice Leading Client Engagements and Team Operations",
+                "instructors": [
+                    "Part 3",
+                    "Kristian Hammond"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Ford Hive Rm 2350: Tues 3:30PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: COMP_SCI 338-2"
+            }
+        ]
+    },
+    {
+        "course_number": "339-0",
+        "course_name": "Introduction to Database Systems",
+        "course_reference_number": [
+            "24950"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Database Systems",
+                "instructors": [
+                    "Jennie Rogers"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jennie Rogers",
+                "Meeting Info": "Technological Institute M164: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed ((CS 214 or CS 208) & (CS 213 or CE 205)), or CS MS or CS PhD in order to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "340-0",
+        "course_name": "Introduction to Networking",
+        "course_reference_number": [
+            "24962"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Networking",
+                "instructors": [
+                    "Aleksandar Kuzmanovic"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aleksandar Kuzmanovic",
+                "Meeting Info": "Lutkin Hall: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: ((COMP_SCI 208-0 or COMP_SCI 214-0) and (COMP_SCI 213-0 or COMP_ENG 205-0)) or CS MS or CS PhD."
+            }
+        ]
+    },
+    {
+        "course_number": "343-0",
+        "course_name": "Operating Systems",
+        "course_reference_number": [
+            "24961"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Operating Systems",
+                "instructors": [
+                    "Peter Dinda"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Peter Dinda",
+                "Meeting Info": "Technological Institute M345: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: ((COMP_SCI 208-0 or COMP_SCI 214-0) and (COMP_SCI 213-0 or COMP_ENG 205-0)) or CS MS or CS PhD."
+            }
+        ]
+    },
+    {
+        "course_number": "344-0",
+        "course_name": "Design of Computer Problem Solvers",
+        "course_reference_number": [
+            "24951"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design of Computer Problem Solvers",
+                "instructors": [
+                    "Kenneth Forbus"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kenneth Forbus",
+                "Meeting Info": "Technological Institute M120: Tues, Thurs 1:00PM - 2:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Requisite: Students must have taken COMP_SCI 348-0 or COMP_SCI 325-1 or have equivalence lisp experience in order to register for this class."
+            }
+        ]
+    },
+    {
+        "course_number": "348-0",
+        "course_name": "Introduction to Artificial Intelligence",
+        "course_reference_number": [
+            "24952"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Artificial Intelligence",
+                "instructors": [
+                    "Michael Rubenstein",
+                    "Emma Alexander"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Rubenstein\n847/467-4708\nTechnological Institute, Rm A294, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 3: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: (COMP_SCI 150 or GEN_ENG 150 or GEN_ENG 151 or COMP_SCI 111) and (GEN_ENG 231 or STAT 210 or STAT 202 or PSYCH 201 or COMP_SCI 262 or IEMS 201 or IEMS 303 or ELEC_ENG 302)"
+            }
+        ]
+    },
+    {
+        "course_number": "349-0",
+        "course_name": "Machine Learning",
+        "course_reference_number": [
+            "24958"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Machine Learning",
+                "instructors": [
+                    "Zach Wood-Doughty"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zach Wood-Doughty",
+                "Meeting Info": "Lutkin Hall: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereqs: MS CS / PhDs CS / PhD CS+LS / PhD TSB OR ((COMP_SCI 208 or COMP_SCI 214) + (MATH 240-0 or GEN_ENG 205-1 or GEN_ENG 206-1) + (BMD_ENG 220-0 or COMP_SCI 262-0 or IEMS 201-0 or IEMS 303-0 or ELEC_ENG 302-0 or STAT 210-0 or MATH 310-1 or GE 231-0))."
+            }
+        ]
+    },
+    {
+        "course_number": "352-0",
+        "course_name": "Machine Perception of Music & Audio",
+        "course_reference_number": [
+            "24967"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Machine Perception of Music & Audio",
+                "instructors": [
+                    "Jason Smith"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Smith",
+                "Meeting Info": "Frances Searle Building 2407: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: Students must have completed CS 211-0 and (CS 208-0 or CS 214-0) to enroll in this course."
+            }
+        ]
+    },
+    {
+        "course_number": "358-0",
+        "course_name": "Introduction to Parallel Computing",
+        "course_reference_number": [
+            "24955"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Parallel Computing",
+                "instructors": [
+                    "Joseph Hummel"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joseph Hummel",
+                "Meeting Info": "Tech Institute Lecture Room 3: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CS 213 or (CE 205 & 211) or MS CS/CE major or PhDs CS/CE major or permission of Instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "377-0",
+        "course_name": "Game Design Studio",
+        "course_reference_number": [
+            "24995"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Game Design Studio",
+                "instructors": [
+                    "Matthew Viglione"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matthew Viglione",
+                "Meeting Info": "Annenberg Hall G15: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: Students must have taken CS 376 or have received instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "387-0",
+        "course_name": "Responsible Software Engineering",
+        "course_reference_number": [
+            "25010"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Responsible Software Engineering",
+                "instructors": [
+                    "Vincent St-Amour",
+                    "Yiji Zhang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vincent St-Amour",
+                "Meeting Info": "Schapiro Hall 101: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CS 213 and (CS 208 or CS 214) or CS MS or CS PhDs or Instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "394-0",
+        "course_name": "Agile Software Development",
+        "course_reference_number": [
+            "24953"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Agile Software Development",
+                "instructors": [
+                    "Christopher Riesbeck"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Riesbeck",
+                "Meeting Info": "Technological Institute M164: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Registration is By Application Only\nSoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "396-0",
+        "course_name": "Special Topics in Computer Science",
+        "course_reference_number": [
+            "24973",
+            "24975",
+            "24976",
+            "24977",
+            "24978",
+            "24979",
+            "24980",
+            "24981",
+            "24982",
+            "24974"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computing, Ethics, and Society",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Maia Jacobs"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "HCI With & For AI",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Lawrence Birnbaum"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Pragmatics of Programming Languages",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Christos Dimoulas"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "NUVention Media",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Lawrence Birnbaum",
+                    "Jeremy Gilbert"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Embodied System",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Nivedita Arora"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "5:10PM",
+                "end_time": "6:30PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Reasoning anPlanning in the Foundation Model Era",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Manling Li"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "7",
+                "course_name": "LLM-Assisted Security",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Yan Chen"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "8",
+                "course_name": "Theoretical Foundations of Artificial Intelligence",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Aravindan Vijayaraghavan",
+                    "Edith Elkind"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "9",
+                "course_name": "Communicating Computer Science",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Connor Bain"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Health Tech",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Joshua DeAndria"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Computing, Ethics, and Society",
+                "Instructors": "Maia Jacobs",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Comp_Sci 110 or Comp_sci 111 or Comp_Sci 150 or Gen_Eng 150 or Gen_Eng 151 or CS MS or CS PhD or Instructor permission."
+            },
+            {
+                "Topic": "HCI With & For AI",
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Technological Institute C211: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite (Comp_sci 329 or Comp_sci 330) and (Comp_sci 348 or Comp_sci349) or CS MS or CS PhDs or Instructor permission"
+            },
+            {
+                "Topic": "Pragmatics of Programming Languages",
+                "Instructors": "Christos Dimoulas",
+                "Meeting Info": "Technological Institute L158: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "NUVention Media",
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Fisk Hall 111: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Embodied System",
+                "Instructors": "Nivedita Arora",
+                "Meeting Info": "Technological Institute M164: Wed, Fri 5:10PM - 6:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Reasoning anPlanning in the Foundation Model Era",
+                "Instructors": "Manling Li",
+                "Meeting Info": "Technological Institute L168: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time\nSoC Additional Distro"
+            },
+            {
+                "Topic": "LLM-Assisted Security",
+                "Instructors": "Yan Chen",
+                "Meeting Info": "Technological Institute LG52: Fri 1:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for students must have completed COMP_SCI 450-0 or have instructor consent."
+            },
+            {
+                "Topic": "Theoretical Foundations of Artificial Intelligence",
+                "Instructors": "Aravindan Vijayaraghavan",
+                "Meeting Info": "Technological Institute L221: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: (MATH 300-0 & MATH 308-0) or COMP_SCI 212-0 or MS CS or PhD CS or Instructor permission."
+            },
+            {
+                "Topic": "Communicating Computer Science",
+                "Instructors": "Connor Bain",
+                "Meeting Info": "Technological Institute L160: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Health Tech",
+                "Instructors": "Joshua DeAndria",
+                "Meeting Info": "2001 Sheridan GPC GN200: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for students must have completed COMP_SCI 349-0 or have instructor consent."
+            }
+        ]
+    },
+    {
+        "course_number": "397-0",
+        "course_name": "Special Projects in Computer Science",
+        "course_reference_number": [
+            "24956",
+            "24957"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "CS + X INNOVATION LAB: Building Technologies for t",
+                "instructors": [
+                    "Special Projects in Computer Science",
+                    "Kristian Hammond",
+                    "Daniel W. Linna Jr."
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "4:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Innovation in Journalism & Technology",
+                "instructors": [
+                    "Special Projects in Computer Science",
+                    "Kristian Hammond",
+                    "James Lee"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "CS + X INNOVATION LAB: Building Technologies for t",
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "TBA: Wed 1:30PM - 4:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Innovation in Journalism & Technology",
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Fisk Hall 111: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Research Track Practicum",
+        "course_reference_number": [
+            "25009"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Research Track Practicum",
+                "instructors": [
+                    "Christos Dimoulas"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christos Dimoulas",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Design, Technology, and Research",
+        "course_reference_number": [
+            "25006"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design, Technology, and Research",
+                "instructors": [
+                    "Haoqi Zhang"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Haoqi Zhang",
+                "Meeting Info": "Meets in Non-General PurposeRm: Fri 12:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "445-0",
+        "course_name": "Internet-scale Experimentation",
+        "course_reference_number": [
+            "24972"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Internet-scale Experimentation",
+                "instructors": [
+                    "Fabián E. Bustamante"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Fabián E. Bustamante",
+                "Meeting Info": "Technological Institute L150: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Requisite: Students must have taken CS 340-0 or CS 345-0 or CS Graduate standing or Consent of Instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "449-0",
+        "course_name": "Deep Learning",
+        "course_reference_number": [
+            "24954"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Deep Learning",
+                "instructors": [
+                    "David Demeter"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Demeter",
+                "Meeting Info": "Technological Institute M164: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: CS 349 or CS PhD or Instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "496-0",
+        "course_name": "Special Topics in Computer Science",
+        "course_reference_number": [
+            "24983",
+            "24987",
+            "24988",
+            "24989",
+            "24993",
+            "24984",
+            "24985"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computing, Ethics, and Society",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Maia Jacobs"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "HCI With & For AI",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Lawrence Birnbaum"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Pragmatics of Programming Languages",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Christos Dimoulas"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "NUVention Media",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Lawrence Birnbaum",
+                    "Jeremy Gilbert"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Embodied System",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Nivedita Arora"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "5:10PM",
+                "end_time": "6:30PM"
+            },
+            {
+                "section": "11",
+                "course_name": "Agent AI",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Manling Li"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "12",
+                "course_name": "Quantum Computer Systems",
+                "instructors": [
+                    "Special Topics in Computer Science",
+                    "Kate (Kaitlin) Smith"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Computing, Ethics, and Society",
+                "Instructors": "Maia Jacobs",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Comp_Sci 110 or Comp_sci 111 or Comp_Sci 150 or Gen_Eng 150 or Gen_Eng 151 or CS MS or CS PhD or Instructor permission."
+            },
+            {
+                "Topic": "HCI With & For AI",
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Technological Institute C211: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite (Comp_sci 329 or Comp_sci 330) and (Comp_sci 348 or Comp_sci349) or CS MS or CS PhDs or Instructor permission"
+            },
+            {
+                "Topic": "Pragmatics of Programming Languages",
+                "Instructors": "Christos Dimoulas",
+                "Meeting Info": "Technological Institute L158: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "NUVention Media",
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Fisk Hall 111: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Embodied System",
+                "Instructors": "Nivedita Arora",
+                "Meeting Info": "Technological Institute M164: Wed, Fri 5:10PM - 6:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Agent AI",
+                "Instructors": "Manling Li",
+                "Meeting Info": "Frances Searle Building 1441: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: Students must have completed COMP_SCI 449."
+            },
+            {
+                "Topic": "Quantum Computer Systems",
+                "Instructors": "Kate (Kaitlin) Smith",
+                "Meeting Info": "Technological Institute L168: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "497-0",
+        "course_name": "Special Projects in Computer Science",
+        "course_reference_number": [
+            "24990",
+            "24991",
+            "24992"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "CS + X INNOVATION LAB: Building Technologies for t",
+                "instructors": [
+                    "Special Projects in Computer Science",
+                    "Kristian Hammond",
+                    "Daniel W. Linna Jr."
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "4:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Innovation in Journalism & Technology",
+                "instructors": [
+                    "Special Projects in Computer Science",
+                    "Kristian Hammond",
+                    "James Lee"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Prediction for Decision-Making",
+                "instructors": [
+                    "Special Projects in Computer Science",
+                    "Jessica Hullman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "CS + X INNOVATION LAB: Building Technologies for t",
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "TBA: Wed 1:30PM - 4:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Innovation in Journalism & Technology",
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Fisk Hall 111: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Prediction for Decision-Making",
+                "Instructors": "Jessica Hullman",
+                "Meeting Info": "Frances Searle Building 2407: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: CS PhD students or Permission of Instructor"
+            }
+        ]
+    }
+]

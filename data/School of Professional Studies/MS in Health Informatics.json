@@ -1,0 +1,123 @@
+[
+    {
+        "course_number": "403-DL",
+        "course_name": "Fundamentals of Health Informatics",
+        "course_reference_number": [
+            "20467"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Fundamentals of Health Informatics",
+                "instructors": [
+                    "Imran Khan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Imran Khan",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "405-DL",
+        "course_name": "HIT Standards and Interoperability",
+        "course_reference_number": [
+            "20468"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "HIT Standards and Interoperability",
+                "instructors": [
+                    "Melanie Meyer"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melanie Meyer",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "408-DL",
+        "course_name": "Information System Acquisition & Lifecycle",
+        "course_reference_number": [
+            "20466"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Information System Acquisition & Lifecycle",
+                "instructors": [
+                    "Raymond Robinson"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Raymond Robinson",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "412-DL",
+        "course_name": "Foundations of Applied AI and Analytics in Healthcare",
+        "course_reference_number": [
+            "20469"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Foundations of Applied AI and Analytics in Healthcare",
+                "instructors": [
+                    "Raymond Robinson",
+                    "Eric Abbott"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Raymond Robinson",
+                "Meeting Info": "DISTANCE COURSE: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    }
+]

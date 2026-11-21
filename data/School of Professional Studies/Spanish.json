@@ -1,0 +1,92 @@
+[
+    {
+        "course_number": "101-B",
+        "course_name": "Elementary Spanish II",
+        "course_reference_number": [
+            "20522"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Elementary Spanish II",
+                "instructors": [
+                    "Irene Finestrat Martinez"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Irene Finestrat Martinez",
+                "Meeting Info": "Kresge Centennial Hall 2-331: Mon 6:15PM - 9:15PM",
+                "Overview of class": "This course is part two of a three-quarter sequence based on the competency (or \"can do\") and the communicative approaches. The course is designed for adults who wish to learn Spanish in a dynamic way and it is designed to help students achieve pragmatic, linguistic and cultural competencies adequate for a beginning level. This is a student-centered course in which the student will learn how to interact in the target language in basic real-life situations, both orally and in writing, as well as to develop the necessary skills to become an independent learner outside of the classroom. The intercultural nature of all the activities and tasks to be completed by the student will also help the student to become more aware of the rich and varied cultures within the Spanish-speaking world. The topics and textbook are aligned with the interests of adult learners. The SPANISH 101 sequence is introductory; only students who have never taken Spanish before should enroll in the courses. Carries humanities credit (two-course limit for language courses).",
+                "Registration Requirements": "Prerequisite: SPANISH 101-A, or equivalent. If you have not taken SPANISH 101-A in the fall quarter at SPS, you must contact the instructor before registering in the course to determine if 101-B is the right level for you. Please email the instructor prior to registering if you need further guidance or if you have any other questions regarding placement.\n\nNote: SPANISH 101-B is available to for students to audit—credit will not be earned, but tuition is reduced. Students enrolled to audit the course must meet prerequisites, as well as participation and assessment requirements as outlined in the course syllabus.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "102-B",
+        "course_name": "Intermediate Spanish II",
+        "course_reference_number": [
+            "20524"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Intermediate Spanish II",
+                "instructors": [
+                    "Claudia Quevedo-Webb"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Claudia Quevedo-Webb",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon 6:15PM - 9:15PM",
+                "Overview of class": "This course is part two of a three-quarter intermediate sequence based on the competency (or 'can do') and the communicative approaches. It will explore as its main theme different forms of art in the Spanish-speaking world, such as film, music or painting. Tasks will be designed with practical purposes in mind in order to be able to discuss and/or analyze a variety of artwork from different perspectives. These tasks will also enable students to give opinions, as well as give instructions, direct orders or informal advice. This course is designed for adults who wish to learn Spanish in a dynamic way and it is designed to assist students achieve pragmatic, linguistic and cultural competencies adequate for intermediate Spanish. SPANISH 102-B emphasizes the functional use of the language in a student-centered classroom. Students will further develop skills in listening, reading, writing and speaking through interactions in the target language in meaningful real-life situations with the ultimate goal of becoming independent learners for life. The materials for this course will be customized to the interests of adult learners. Carries humanities credit (two-course limit for language courses).",
+                "Registration Requirements": "Prerequisite (one of the following): completion of SPANISH 102-A in the fall quarter at SPS (or equivalent at WCAS); or previous Spanish experience (high school or college, study abroad, etc.) with an equivalent level of proficiency as SPANISH 102-A. Placement will be ultimately determined by the instructor. Students with questions prior to registering should contact the instructor directly.\n\nNote: SPANISH 102-B is available to for students to audit—credit will not be earned, but tuition is reduced. Students enrolled to audit the course must meet prerequisites, as well as participation and assessment requirements as outlined in the course syllabus.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "201-B",
+        "course_name": "Advanced Spanish II: Latin American History and Society",
+        "course_reference_number": [
+            "20580"
+        ],
+        "course_info": [
+            {
+                "section": "64",
+                "course_name": "Advanced Spanish II: Latin American History and Society",
+                "instructors": [
+                    "Wilmar Lopez-Barrios"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wilmar Lopez-Barrios",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon 6:15PM - 9:15PM",
+                "Overview of class": "This course is designed to develop all modes of communication in Spanish as students progress towards the advanced-low level of proficiency, through the interpretation and analysis of sociopolitical topics in Latin America. The course will explore how the recent history of Latin America has shaped its present.",
+                "Registration Requirements": "Prerequisite: SPANISH 201-A or departmental placement/Reassessment. Students who have not completed SPANISH 201-A should contact the instructor about placement prior to registering.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    }
+]

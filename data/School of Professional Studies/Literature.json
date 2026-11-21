@@ -1,0 +1,86 @@
+[
+    {
+        "course_number": "410-DL",
+        "course_name": "Introduction to Graduate Studies in Literary and Cultural Analysis",
+        "course_reference_number": [
+            "20486"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Introduction to Graduate Studies in Literary and Cultural Analysis",
+                "instructors": [
+                    "Elzbieta Foeller-Pituch"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elzbieta Foeller-Pituch",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: 22LIC,22LIT,22LSC,22MAL,22MCW,22MFW"
+            }
+        ]
+    },
+    {
+        "course_number": "480-DL",
+        "course_name": "Topics in Comparative Literature",
+        "course_reference_number": [
+            "20484",
+            "20485"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Postmodern Film",
+                "instructors": [
+                    "Topics in Comparative Literature",
+                    "Scott Durham"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "55",
+                "course_name": "Literary Islam",
+                "instructors": [
+                    "Topics in Comparative Literature",
+                    "Nasrin Qader"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Postmodern Film",
+                "Instructors": "Scott Durham\n8474914660\n1860 S. Campus Drive, Crowe Hall #2-141",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22LIC,22LIT,22LSC,22MAL,22MCW,22MFW"
+            },
+            {
+                "Topic": "Literary Islam",
+                "Instructors": "Nasrin Qader\n847/491-8263\n1860 S. Campus Drive, Crowe Hall #2-129\nOffice Hours: Thursdays 1:30-3:30 or by appointment",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: 22LIC,22LIT,22LSC,22MAL,22MCW,22MFW"
+            }
+        ]
+    }
+]

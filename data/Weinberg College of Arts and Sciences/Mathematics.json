@@ -1,0 +1,2154 @@
+[
+    {
+        "course_number": "105-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "21124"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "First-Year Writing Seminar",
+                "instructors": [
+                    "Thomas Aloysius O'Hare"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Aloysius O'Hare",
+                "Meeting Info": "Schapiro Hall 101: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "MATH 105-8 First-Year Writing Seminar (1 Unit) Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated.\n\nTitle: Mathematics in the Cultural Imagination\n\nDescription: What do we imagine when we think of mathematics, and how does that compare with the experiences of those who practice it? Mathematics has been celebrated as a source of beauty, truth, and progress, while simultaneously being seen as inaccessible, intimidating, and useless. Where do these perceptions come from, and how do they shape its place in society?\n\nThis seminar explores the interplay between mathematical culture and the wider world. We will consider what mathematical work involves, how mathematics influences society, how the surrounding culture shapes developments in mathematics, and how public perceptions of mathematics compare with the experiences of mathematicians. Class meetings will center on discussion of the readings, providing opportunities to examine authors' arguments and develop our own responses.\n\nThis course has no mathematics prerequisites. Rather than studying mathematics directly, we will focus on a skill essential both within and beyond mathematics: communicating ideas clearly through writing.",
+                "Class Materials (Required)": "No required materials.",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "202-0",
+        "course_name": "Finite Mathematics",
+        "course_reference_number": [
+            "20947"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Finite Mathematics",
+                "instructors": [
+                    "Dmitry Tamarkin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dmitry Tamarkin\n8474915569\nLunt B6",
+                "Meeting Info": "Technological Institute M177: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 202-0 Finite Mathematics (1 Unit) Selected topics from elementary linear algebra and its applications, finite probability, and elementary statistics. For students majoring in the behavioral sciences.",
+                "Class Materials (Required)": "978-0134437767\nFinite Mathematics & Its Applications, 12th edition\nPublished by Pearson\nGoldstein, Schneider, Siegel",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Lunt Hall 105: Thurs 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "218-1",
+        "course_name": "Single-Variable Calculus with Precalculus",
+        "course_reference_number": [
+            "21036",
+            "21039",
+            "21042"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Single-Variable Calculus with Precalculus",
+                "instructors": [
+                    "Naruki Masuda"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "Single-Variable Calculus with Precalculus",
+                "instructors": [
+                    "Naruki Masuda"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "81",
+                "course_name": "Single-Variable Calculus with Precalculus",
+                "instructors": [
+                    "Grace Natalie Jaffe"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Naruki Masuda",
+                "Meeting Info": "Annenberg Hall G01: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 218-1 Single-Variable Calculus with Precalculus (1 Unit) Real numbers and sets. Equalities and inequalities. Functions and graphs. Limits. Continuity. Differentiation. Linearization. Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.",
+                "Associated Classes": "DIS - Technological Institute M177: Tues 11:00AM - 11:50AM"
+            },
+            {
+                "Instructors": "Naruki Masuda",
+                "Meeting Info": "Annenberg Hall G01: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 218-1 Single-Variable Calculus with Precalculus (1 Unit) Real numbers and sets. Equalities and inequalities. Functions and graphs. Limits. Continuity. Differentiation. Linearization. Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.",
+                "Associated Classes": "DIS - Locy Hall 111: Tues 12:00PM - 12:50PM"
+            },
+            {
+                "Instructors": "Grace Natalie Jaffe",
+                "Meeting Info": "Technological Institute L150: Mon, Wed, Fri 2:00PM - 2:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 218-1 Single-Variable Calculus with Precalculus (1 Unit) Real numbers and sets. Equalities and inequalities. Functions and graphs. Limits. Continuity. Differentiation. Linearization. Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.",
+                "Associated Classes": "DIS - Parkes Hall 223: Tues 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "218-2",
+        "course_name": "Single-Variable Calculus with Precalculus",
+        "course_reference_number": [
+            "21045",
+            "21048",
+            "21051"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Single-Variable Calculus with Precalculus",
+                "instructors": [
+                    "Fernando Figueroa"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "Single-Variable Calculus with Precalculus",
+                "instructors": [
+                    "Fernando Figueroa"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "81",
+                "course_name": "Single-Variable Calculus with Precalculus",
+                "instructors": [
+                    "Caleb Dilsavor"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Fernando Figueroa",
+                "Meeting Info": "555 Clark B01: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 218-2 Single-Variable Calculus with Precalculus (1 Unit) Extreme value theorem, mean value theorem, and curve-sketching. Related rates. Optimization. Transcendental and inverse functions. Students may not receive credit for both MATH 218-2 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.\nPrerequisite: MATH 218-1 or consent of the department.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 212-0 or MATH 218-1, or currently enrolled in MATH 218-1. Other students may register with department permission",
+                "Associated Classes": "DIS - Technological Institute AUD: Tues 11:00AM - 11:50AM"
+            },
+            {
+                "Instructors": "Fernando Figueroa",
+                "Meeting Info": "555 Clark B01: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 218-2 Single-Variable Calculus with Precalculus (1 Unit) Extreme value theorem, mean value theorem, and curve-sketching. Related rates. Optimization. Transcendental and inverse functions. Students may not receive credit for both MATH 218-2 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.\nPrerequisite: MATH 218-1 or consent of the department.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 212-0 or MATH 218-1, or currently enrolled in MATH 218-1. Other students may register with department permission",
+                "Associated Classes": "DIS - Lunt Hall 107: Tues 12:00PM - 12:50PM"
+            },
+            {
+                "Instructors": "Caleb Dilsavor",
+                "Meeting Info": "Technological Institute M128: Mon, Wed, Fri 2:00PM - 2:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 218-2 Single-Variable Calculus with Precalculus (1 Unit) Extreme value theorem, mean value theorem, and curve-sketching. Related rates. Optimization. Transcendental and inverse functions. Students may not receive credit for both MATH 218-2 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1.\nPrerequisite: MATH 218-1 or consent of the department.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 212-0 or MATH 218-1, or currently enrolled in MATH 218-1. Other students may register with department permission",
+                "Associated Classes": "DIS - Lunt Hall 105: Tues 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "220-1",
+        "course_name": "Single-Variable Differential Calculus",
+        "course_reference_number": [
+            "21054",
+            "21055",
+            "21056"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Single-Variable Differential Calculus",
+                "instructors": [
+                    "Baozhi Chu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "Single-Variable Differential Calculus",
+                "instructors": [
+                    "Baozhi Chu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "81",
+                "course_name": "Single-Variable Differential Calculus",
+                "instructors": [
+                    "Keith Burns"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Baozhi Chu",
+                "Meeting Info": "Kresge Cent. Hall 2-380 Kaplan: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-1 Single-Variable Differential Calculus (1 Unit) Limits. Differentiation. Linear approximation and related rates. Extreme value theorem, mean value theorem, and curve-sketching. Optimization. Students may not receive credit for both MATH 220-1 and any of MATH 211-0, MATH 212-0 (former), MATH 213-0 (former), MATH 218-1, MATH 218-2, or MATH 220-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Baozhi Chu",
+                "Meeting Info": "Kresge Cent. Hall 2-380 Kaplan: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-1 Single-Variable Differential Calculus (1 Unit) Limits. Differentiation. Linear approximation and related rates. Extreme value theorem, mean value theorem, and curve-sketching. Optimization. Students may not receive credit for both MATH 220-1 and any of MATH 211-0, MATH 212-0 (former), MATH 213-0 (former), MATH 218-1, MATH 218-2, or MATH 220-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Keith Burns\n8474913013\nLunt B21",
+                "Meeting Info": "Technological Institute A110: Mon, Wed, Fri 2:00PM - 2:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-1 Single-Variable Differential Calculus (1 Unit) Limits. Differentiation. Linear approximation and related rates. Extreme value theorem, mean value theorem, and curve-sketching. Optimization. Students may not receive credit for both MATH 220-1 and any of MATH 211-0, MATH 212-0 (former), MATH 213-0 (former), MATH 218-1, MATH 218-2, or MATH 220-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "220-2",
+        "course_name": "Single-Variable Integral Calculus",
+        "course_reference_number": [
+            "21063",
+            "21065",
+            "21066",
+            "21067",
+            "21064",
+            "21068"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Josh Hinman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Josh Hinman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "53",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Morgan P Opie"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Morgan P Opie"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "71",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Xiumin Du"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "81",
+                "course_name": "Single-Variable Integral Calculus",
+                "instructors": [
+                    "Xiumin Du"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Josh Hinman",
+                "Meeting Info": "Locy Hall 301: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-2 Single-Variable Integral Calculus (1 Unit) Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former).\nPrerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Josh Hinman",
+                "Meeting Info": "Locy Hall 301: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-2 Single-Variable Integral Calculus (1 Unit) Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former).\nPrerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Morgan P Opie",
+                "Meeting Info": "University Hall 121: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-2 Single-Variable Integral Calculus (1 Unit) Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former).\nPrerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Morgan P Opie",
+                "Meeting Info": "University Hall 121: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-2 Single-Variable Integral Calculus (1 Unit) Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former).\nPrerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Xiumin Du",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 1:00PM - 1:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-2 Single-Variable Integral Calculus (1 Unit) Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former).\nPrerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Xiumin Du",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 2:00PM - 2:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 220-2 Single-Variable Integral Calculus (1 Unit) Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former).\nPrerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "226-0",
+        "course_name": "Sequences and Series",
+        "course_reference_number": [
+            "21079"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Sequences and Series",
+                "instructors": [
+                    "Andreas Mountakis"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andreas Mountakis",
+                "Meeting Info": "Kresge Cent. Hall 2-380 Kaplan: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 226-0 Sequences and Series (1 Unit) Infinite sequences. Infinite series and convergence tests. Power series, Taylor series, Taylor polynomials and error. Complex numbers. Second-order linear ordinary differential equations and power series solutions. Students may not receive credit for both MATH 226-0 and any of MATH 214-0 (former), MATH 224-0 (former), MATH 235-0, STAT 228-0, or MATH 281-2.\nPrerequisite: MATH 218-3 or MATH 220-2.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Frances Searle Building 2407: Tues 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "228-1",
+        "course_name": "Multivariable Differential Calculus for Engineering",
+        "course_reference_number": [
+            "21081",
+            "21082",
+            "21083"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Multivariable Differential Calculus for Engineering",
+                "instructors": [
+                    "Cai Hanlin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Multivariable Differential Calculus for Engineering",
+                "instructors": [
+                    "Cai Hanlin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "71",
+                "course_name": "Multivariable Differential Calculus for Engineering",
+                "instructors": [
+                    "Andreas Mountakis"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cai Hanlin",
+                "Meeting Info": "Frances Searle Building 2370: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 228-1 Multivariable Differential Calculus for Engineering (1 Unit) Vectors, vector functions, partial derivatives, Taylor polynomials, and optimization. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-1 and any of MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department."
+            },
+            {
+                "Instructors": "Cai Hanlin",
+                "Meeting Info": "Frances Searle Building 2407: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 228-1 Multivariable Differential Calculus for Engineering (1 Unit) Vectors, vector functions, partial derivatives, Taylor polynomials, and optimization. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-1 and any of MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department."
+            },
+            {
+                "Instructors": "Andreas Mountakis",
+                "Meeting Info": "Kresge Cent. Hall 2-380 Kaplan: Mon, Wed, Fri 1:00PM - 1:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM\nLocation of Midterm TBD: Mon 6:20PM - 7:50PM",
+                "Overview of class": "MATH 228-1 Multivariable Differential Calculus for Engineering (1 Unit) Vectors, vector functions, partial derivatives, Taylor polynomials, and optimization. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-1 and any of MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department."
+            }
+        ]
+    },
+    {
+        "course_number": "228-2",
+        "course_name": "Multivariable Integral Calculus for Engineering",
+        "course_reference_number": [
+            "21091",
+            "21094",
+            "21097",
+            "21100"
+        ],
+        "course_info": [
+            {
+                "section": "31",
+                "course_name": "Multivariable Integral Calculus for Engineering",
+                "instructors": [
+                    "Stuart Wick"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "41",
+                "course_name": "Multivariable Integral Calculus for Engineering",
+                "instructors": [
+                    "Alexander G Ginsberg"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "Multivariable Integral Calculus for Engineering",
+                "instructors": [
+                    "Elizabeth P. Hicks"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "71",
+                "course_name": "Multivariable Integral Calculus for Engineering",
+                "instructors": [
+                    "Alexander G Ginsberg"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stuart Wick",
+                "Meeting Info": "Frances Searle Building 1441: Mon, Wed, Fri 9:00AM - 9:50AM\nLocation of Midterm TBD: Mon 6:20PM - 8:50PM",
+                "Overview of class": "MATH 228-2 Multivariable Integral Calculus for Engineering (1 Unit) Multiple integration: double integrals, triple integrals, and change of variables. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-2 and any of MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2.\nPrerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department.",
+                "Associated Classes": "DIS - Tech Institute Lecture Room 5: Thurs 9:00AM - 9:50AM"
+            },
+            {
+                "Instructors": "Alexander G Ginsberg",
+                "Meeting Info": "Annenberg Hall G15: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Mon 6:20PM - 8:50PM",
+                "Overview of class": "MATH 228-2 Multivariable Integral Calculus for Engineering (1 Unit) Multiple integration: double integrals, triple integrals, and change of variables. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-2 and any of MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2.\nPrerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department.",
+                "Associated Classes": "DIS - Frances Searle Building 1421: Thurs 10:00AM - 10:50AM"
+            },
+            {
+                "Instructors": "Elizabeth P. Hicks",
+                "Meeting Info": "Pancoe Building Abbott Aud: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Mon 6:20PM - 8:50PM",
+                "Overview of class": "MATH 228-2 Multivariable Integral Calculus for Engineering (1 Unit) Multiple integration: double integrals, triple integrals, and change of variables. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-2 and any of MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2.\nPrerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department.",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 1440: Thurs 12:00PM - 12:50PM"
+            },
+            {
+                "Instructors": "Alexander G Ginsberg",
+                "Meeting Info": "Pancoe Building Abbott Aud: Mon, Wed, Fri 1:00PM - 1:50PM\nLocation of Midterm TBD: Mon 6:20PM - 8:50PM",
+                "Overview of class": "MATH 228-2 Multivariable Integral Calculus for Engineering (1 Unit) Multiple integration: double integrals, triple integrals, and change of variables. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-2 and any of MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2.\nPrerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Students. Other students can register for this section with permission from the department.",
+                "Associated Classes": "DIS - Tech Institute Lecture Room 3: Thurs 1:00PM - 1:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "230-1",
+        "course_name": "Multivariable Differential Calculus",
+        "course_reference_number": [
+            "21103",
+            "21104",
+            "21105",
+            "21106",
+            "21107",
+            "21108"
+        ],
+        "course_info": [
+            {
+                "section": "31",
+                "course_name": "Multivariable Differential Calculus",
+                "instructors": [
+                    "Gabriela Laboska"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "41",
+                "course_name": "Multivariable Differential Calculus",
+                "instructors": [
+                    "Tyler Evans"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Multivariable Differential Calculus",
+                "instructors": [
+                    "Alice Lin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "53",
+                "course_name": "Multivariable Differential Calculus",
+                "instructors": [
+                    "Aaron Peterson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "Multivariable Differential Calculus",
+                "instructors": [
+                    "Alice Lin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "63",
+                "course_name": "Multivariable Differential Calculus",
+                "instructors": [
+                    "Aaron Peterson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gabriela Laboska",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 9:00AM - 9:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-1 Multivariable Differential Calculus (1 Unit) Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: Students must have completed MATH 218-3 or MATH 224-0 (former) or MATH 220-2."
+            },
+            {
+                "Instructors": "Tyler Evans",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-1 Multivariable Differential Calculus (1 Unit) Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: Students must have completed MATH 218-3 or MATH 224-0 (former) or MATH 220-2."
+            },
+            {
+                "Instructors": "Alice Lin",
+                "Meeting Info": "Technological Institute MG28: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-1 Multivariable Differential Calculus (1 Unit) Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: Students must have completed MATH 218-3 or MATH 224-0 (former) or MATH 220-2."
+            },
+            {
+                "Instructors": "Aaron Peterson",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-1 Multivariable Differential Calculus (1 Unit) Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: Students must have completed MATH 218-3 or MATH 224-0 (former) or MATH 220-2."
+            },
+            {
+                "Instructors": "Alice Lin",
+                "Meeting Info": "Technological Institute MG28: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-1 Multivariable Differential Calculus (1 Unit) Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: Students must have completed MATH 218-3 or MATH 224-0 (former) or MATH 220-2."
+            },
+            {
+                "Instructors": "Aaron Peterson",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-1 Multivariable Differential Calculus (1 Unit) Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: Students must have completed MATH 218-3 or MATH 224-0 (former) or MATH 220-2."
+            }
+        ]
+    },
+    {
+        "course_number": "230-2",
+        "course_name": "Multivariable Integral Calculus",
+        "course_reference_number": [
+            "21115",
+            "21118"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Multivariable Integral Calculus",
+                "instructors": [
+                    "Marcus Michelen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Multivariable Integral Calculus",
+                "instructors": [
+                    "Boris Tsygan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marcus Michelen",
+                "Meeting Info": "Lunt Hall 105: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-2 Multivariable Integral Calculus (1 Unit) Multiple integration: double integrals, triple integrals, and the change of variables theorem. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-2 and any of MATH 228-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2.\nPrerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Associated Classes": "DIS - Lunt Hall 103: Thurs 10:00AM - 10:50AM"
+            },
+            {
+                "Instructors": "Boris Tsygan\n847/491-5598\nLunt Hall Rm 302",
+                "Meeting Info": "Schapiro Hall 101: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 230-2 Multivariable Integral Calculus (1 Unit) Multiple integration: double integrals, triple integrals, and the change of variables theorem. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-2 and any of MATH 228-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2.\nPrerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students outside the School of Engineering. Engineering students can register for this section with permission from the department. Prerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Associated Classes": "DIS - Lunt Hall 105: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "235-0",
+        "course_name": "Series and Multiple Integrals",
+        "course_reference_number": [
+            "21121"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Series and Multiple Integrals",
+                "instructors": [
+                    "Dmitry Tamarkin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dmitry Tamarkin\n8474915569\nLunt B6",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 235-0 Series and Multiple Integrals (1 Unit) Sequences and series, and convergence tests. Power series, Taylor polynomials and error. Double integrals, triple integrals, and change of variables. Students may receive credit for only one of MATH 235-0, MATH 226-0, or STAT 228-0.\nPrerequisite: MATH 218-3 or MATH 220-2, and MATH 228-1 or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. Title: Thomas' Calculus, 15th Edition ISBN: 978-0138269548 AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Materials (Suggested)": "PLEASE NOTE: the Department of Mathematics will purchase access to course materials for all​ students enrolling in this course! Students are encouraged to not pay for any course materials before hearing from the course instructor and/or coordinator. ISBN: 978-0138269524 Title: MyMathLab w/ eText, 15th Edition AUTHORS: Hass, Heil, Bogacki, Weir",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Annenberg Hall G21: Tues 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "240-0",
+        "course_name": "Linear Algebra",
+        "course_reference_number": [
+            "21017",
+            "21016"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Linear Algebra",
+                "instructors": [
+                    "Sofiia Dubova"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Linear Algebra",
+                "instructors": [
+                    "Sofiia Dubova"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sofiia Dubova",
+                "Meeting Info": "Lunt Hall 107: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "MATH 240-0 Linear Algebra (1 Unit) Elementary linear algebra: systems of linear equations, matrix algebra, subspaces, determinants, eigenvalues, eigenvectors, and orthogonality. Students may not receive credit for both MATH 240-0 and any of MATH 281-3, MATH 285-1, MATH 290-1, MATH 291-1, GEN_ENG 205-1, or GEN_ENG 206-1.\nPrerequisite: MATH 230-1 or MATH 230-0 (former) or MATH 281-1 or ES_APPM 252-1.",
+                "Class Materials (Required)": "MyLab Math with Pearson eText Access Code (18 Weeks) for Linear Algebra & Its Applications\n978-0135851159\n\nThis item is an access card for MyLab(tm)Math. This physical access card includes an access code for your MyLab Math course. In order to access the online course you will also need a Course ID, provided by your instructor. This title-specific access card provides access to the Lay/Lay/McDonald,Linear Algebra and Its Applications 6/e accompanying MyLab course ONLY. MyLab Math is the world's leading online tutorial, and assessment program designed to help you learn and succeed in your mathematics course. MyLab Math online courses are created to accompany one of Pearson's best-selling math textbooks. Every MyLab Math course includes a complete, interactive eText. Learn more about MyLab Math. ALERT: Before you purchase, check with your instructor or review your course syllabus to ensure that you select the correct ISBN. Used or rental books If you rent or purchase a used book with an access code, the access code may have been redeemed previously and you may have to purchase a new access code. Access codes Access codes that are purchased from sellers other than Pearson carry a higher risk of being either the wrong ISBN or a previously redeemed code. Check with the seller prior to purchase.",
+                "Class Materials (Suggested)": "See required materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 230-1 (or equivalent).",
+                "Associated Classes": "DIS - Lunt Hall 101: Thurs 10:00AM - 10:50AM"
+            },
+            {
+                "Instructors": "Sofiia Dubova",
+                "Meeting Info": "Lunt Hall 105: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 240-0 Linear Algebra (1 Unit) Elementary linear algebra: systems of linear equations, matrix algebra, subspaces, determinants, eigenvalues, eigenvectors, and orthogonality. Students may not receive credit for both MATH 240-0 and any of MATH 281-3, MATH 285-1, MATH 290-1, MATH 291-1, GEN_ENG 205-1, or GEN_ENG 206-1.\nPrerequisite: MATH 230-1 or MATH 230-0 (former) or MATH 281-1 or ES_APPM 252-1.",
+                "Class Materials (Required)": "MyLab Math with Pearson eText Access Code (18 Weeks) for Linear Algebra & Its Applications\n978-0135851159\n\nThis item is an access card for MyLab(tm)Math. This physical access card includes an access code for your MyLab Math course. In order to access the online course you will also need a Course ID, provided by your instructor. This title-specific access card provides access to the Lay/Lay/McDonald,Linear Algebra and Its Applications 6/e accompanying MyLab course ONLY. MyLab Math is the world's leading online tutorial, and assessment program designed to help you learn and succeed in your mathematics course. MyLab Math online courses are created to accompany one of Pearson's best-selling math textbooks. Every MyLab Math course includes a complete, interactive eText. Learn more about MyLab Math. ALERT: Before you purchase, check with your instructor or review your course syllabus to ensure that you select the correct ISBN. Used or rental books If you rent or purchase a used book with an access code, the access code may have been redeemed previously and you may have to purchase a new access code. Access codes Access codes that are purchased from sellers other than Pearson carry a higher risk of being either the wrong ISBN or a previously redeemed code. Check with the seller prior to purchase.",
+                "Class Materials (Suggested)": "See required materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 230-1 (or equivalent).",
+                "Associated Classes": "DIS - Lunt Hall 104: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "281-2",
+        "course_name": "Accelerated Mathematics for ISP: First Year",
+        "course_reference_number": [
+            "20955"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Accelerated Mathematics for ISP: First Year",
+                "instructors": [
+                    "Sonja Mapes"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sonja Mapes",
+                "Meeting Info": "Lunt Hall 107: Mon, Tues, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 281-2 Accelerated Mathematics for ISP: First Year (1 Unit) Linear algebra: orthogonality, determinants, eigenvectors, and symmetric matrices. Multivariable differential calculus: vectors, differentiation, vector-valued functions, optimization. The course emphasizes theory and proofs. Students may not receive credit for both MATH 291-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, or ES_APPM 252-1.\nPrerequisite: MATH 291-1.",
+                "Class Materials (Required)": "Title: ISP Mathematics\nDistributed by ISP office",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: This class is restricted to first-year ISP students only who have completed or are currently enrolled in MATH 281-1.",
+                "Associated Classes": "DIS - Lunt Hall 107: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "285-2",
+        "course_name": "Accelerated Mathematics for MMSS",
+        "course_reference_number": [
+            "20957"
+        ],
+        "course_info": [
+            {
+                "section": "61",
+                "course_name": "Accelerated Mathematics for MMSS",
+                "instructors": [
+                    "Tyler Evans"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tyler Evans",
+                "Meeting Info": "Annenberg Hall G32: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "MATH 285-2 Accelerated Mathematics for MMSS (1 Unit) Linear algebra: orthogonality, symmetric matrices, and quadratic forms. Multivariable differential calculus: vectors, differentiation, vector-valued functions, and optimization. Students may not receive credit for both MATH 285-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 290-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 285-1.",
+                "Class Materials (Required)": "ISBN: 978-0136799887\nTITLE: Vector Calculus, 5th Edition\nAUTHOR: Colley",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: This class is restricted to first-year MMSS students who have completed or are currently enrolled in MATH 285-1.",
+                "Associated Classes": "DIS - Lunt Hall 104: Tues 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "290-2",
+        "course_name": "MENU: Linear Algebra and Multivariable Calculus",
+        "course_reference_number": [
+            "20949",
+            "20952"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "MENU: Linear Algebra and Multivariable Calculus",
+                "instructors": [
+                    "Zachary B. Smith"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "61",
+                "course_name": "MENU: Linear Algebra and Multivariable Calculus",
+                "instructors": [
+                    "Van Cyr"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zachary B. Smith",
+                "Meeting Info": "Locy Hall 111: Mon, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 290-2 MENU: Linear Algebra and Multivariable Calculus (1 Unit) Linear algebra: orthogonality, symmetric matrices, and quadratic forms. Multivariable differential calculus: vectors, differentiation, vector-valued functions, and optimization. Students may not receive credit for both MATH 290-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 290-1.",
+                "Class Materials (Required)": "Linear Algebra with Applications\nOtto Bretscher\n5th Edition\nPH\n978-0321796974",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed or currently be enrolled in MATH 290-1.",
+                "Associated Classes": "DIS - Lunt Hall 105: Thurs 10:00AM - 10:50AM"
+            },
+            {
+                "Instructors": "Van Cyr",
+                "Meeting Info": "Lunt Hall 105: Mon, Wed, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 290-2 MENU: Linear Algebra and Multivariable Calculus (1 Unit) Linear algebra: orthogonality, symmetric matrices, and quadratic forms. Multivariable differential calculus: vectors, differentiation, vector-valued functions, and optimization. Students may not receive credit for both MATH 290-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 291-2, or ES_APPM 252-1.\nPrerequisite: MATH 290-1.",
+                "Class Materials (Required)": "Linear Algebra with Applications\nOtto Bretscher\n5th Edition\nPH\n978-0321796974",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed or currently be enrolled in MATH 290-1.",
+                "Associated Classes": "DIS - Lunt Hall 104: Thurs 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "291-2",
+        "course_name": "MENU: Intensive Linear Algebra and Multivariable Calculus",
+        "course_reference_number": [
+            "21026"
+        ],
+        "course_info": [
+            {
+                "section": "61",
+                "course_name": "MENU: Intensive Linear Algebra and Multivariable Calculus",
+                "instructors": [
+                    "Aaron Greicius"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aaron Greicius",
+                "Meeting Info": "Lunt Hall 102: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "MATH 291-2 MENU: Intensive Linear Algebra and Multivariable Calculus (1 Unit) Linear algebra: orthogonality, determinants, eigenvectors, and symmetric matrices. Multivariable differential calculus: vectors, differentiation, and vector-valued functions. The course emphasizes theory and proofs. Students may not receive credit for both MATH 291-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, or ES_APPM 252-1.\nPrerequisite: MATH 291-1.",
+                "Class Materials (Required)": "Linear Algebra with Applications\nOtto Bretscher\n5th Edition\nPH\n978-0321796974",
+                "Class Materials (Suggested)": "See required materials.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed or currently be enrolled in MATH 291-1.",
+                "Associated Classes": "DIS - Lunt Hall 101: Thurs 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "300-0",
+        "course_name": "Foundations of Higher Mathematics",
+        "course_reference_number": [
+            "20965",
+            "20968"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Foundations of Higher Mathematics",
+                "instructors": [
+                    "Mina Nahvi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Foundations of Higher Mathematics",
+                "instructors": [
+                    "Mina Nahvi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mina Nahvi",
+                "Meeting Info": "Locy Hall 214: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "MATH 300-0 Foundations of Higher Mathematics (1 Unit)\n\nIntroduction to fundamental mathematical structures, including sets, functions, equivalence relations, and cardinal numbers. Elementary logic and proof techniques. Students may not receive credit for MATH 300-0 after passing any of MATH 320-1, MATH 321-1, MATH 330-1, or MATH 331-1.\n\nPrerequisite: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1 or consent of the department.",
+                "Class Materials (Required)": "An Infinite Descent into Pure Mathematics\nby Clive Newstead\nFree online: https://infinitedescent.xyz/",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 240-0 (or equivalent). Other students may register with department permission.",
+                "Associated Classes": "DIS - Lunt Hall 107: Tues 10:00AM - 10:50AM"
+            },
+            {
+                "Instructors": "Mina Nahvi",
+                "Meeting Info": "Locy Hall 214: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 300-0 Foundations of Higher Mathematics (1 Unit)\n\nIntroduction to fundamental mathematical structures, including sets, functions, equivalence relations, and cardinal numbers. Elementary logic and proof techniques. Students may not receive credit for MATH 300-0 after passing any of MATH 320-1, MATH 321-1, MATH 330-1, or MATH 331-1.\n\nPrerequisite: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1 or consent of the department.",
+                "Class Materials (Required)": "An Infinite Descent into Pure Mathematics\nby Clive Newstead\nFree online: https://infinitedescent.xyz/",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 240-0 (or equivalent). Other students may register with department permission.",
+                "Associated Classes": "DIS - 555 Clark B03: Tues 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "306-0",
+        "course_name": "Combinatorics & Discrete Mathematics",
+        "course_reference_number": [
+            "20974"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Combinatorics & Discrete Mathematics",
+                "instructors": [
+                    "Grace Natalie Jaffe"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Grace Natalie Jaffe",
+                "Meeting Info": "Locy Hall 318: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 306-0 Combinatorics & Discrete Mathematics (1 Unit)\n\nDiscrete mathematics, inductive reasoning, counting problems, binomial coefficients and Pascal's triangle, Fibonacci numbers, set and integer partitions, and generating functions.\n\nPrerequisite: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.",
+                "Class Materials (Required)": "ISBN: 9789811277863\nTitle: A Walk Through Combinatorics 5th edition\nAuthor: Miklos Bona\nPublisher: World Scientific",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 240-0 (or equivalent). Other students may register with department permission.",
+                "Associated Classes": "DIS - Parkes Hall 223: Tues 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "310-2",
+        "course_name": "Probability and Stochastic Processes",
+        "course_reference_number": [
+            "20977",
+            "20980",
+            "20982"
+        ],
+        "course_info": [
+            {
+                "section": "31",
+                "course_name": "Probability and Stochastic Processes",
+                "instructors": [
+                    "Nicholas Christo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "51",
+                "course_name": "Probability and Stochastic Processes",
+                "instructors": [
+                    "Gabriela Laboska"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "53",
+                "course_name": "Probability and Stochastic Processes",
+                "instructors": [
+                    "Nicholas Christo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nicholas Christo",
+                "Meeting Info": "Lunt Hall 105: Mon, Wed, Fri 9:00AM - 9:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 310-2 Probability and Stochastic Processes (1 Unit)\n\nDiscrete-time Markov chains, recurrence and transience, limit theorems for Markov chains. Branching processes. Students may not receive credit for both MATH 310-2 and MATH 311-2.\n\nPrerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 302-0 or ELEC_ENG 302-0.",
+                "Class Materials (Required)": "ISBN: 9781118740712\nTitle: Introduction to Stochastic Processes with R\nAuthors: Dobrow\nPublisher: Wiley",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: completed or currently enrolled in a course in the equivalency group containing 240-0, completed or currently enrolled in a course in the equivalency group containing 310-1",
+                "Associated Classes": "DIS - Lunt Hall 105: Tues 9:00AM - 9:50AM"
+            },
+            {
+                "Instructors": "Gabriela Laboska",
+                "Meeting Info": "Lunt Hall 104: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 310-2 Probability and Stochastic Processes (1 Unit)\n\nDiscrete-time Markov chains, recurrence and transience, limit theorems for Markov chains. Branching processes. Students may not receive credit for both MATH 310-2 and MATH 311-2.\n\nPrerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 302-0 or ELEC_ENG 302-0.",
+                "Class Materials (Required)": "ISBN: 9781118740712\nTitle: Introduction to Stochastic Processes with R\nAuthors: Dobrow\nPublisher: Wiley",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: completed or currently enrolled in a course in the equivalency group containing 240-0, completed or currently enrolled in a course in the equivalency group containing 310-1",
+                "Associated Classes": "DIS - Lunt Hall 105: Tues 11:00AM - 11:50AM"
+            },
+            {
+                "Instructors": "Nicholas Christo",
+                "Meeting Info": "Locy Hall 111: Mon, Wed, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM\nLocation of Midterm TBD: Tues 6:20PM - 7:50PM",
+                "Overview of class": "MATH 310-2 Probability and Stochastic Processes (1 Unit)\n\nDiscrete-time Markov chains, recurrence and transience, limit theorems for Markov chains. Branching processes. Students may not receive credit for both MATH 310-2 and MATH 311-2.\n\nPrerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 302-0 or ELEC_ENG 302-0.",
+                "Class Materials (Required)": "ISBN: 9781118740712\nTitle: Introduction to Stochastic Processes with R\nAuthors: Dobrow\nPublisher: Wiley",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: completed or currently enrolled in a course in the equivalency group containing 240-0, completed or currently enrolled in a course in the equivalency group containing 310-1",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 1440: Tues 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "311-2",
+        "course_name": "MENU: Probability and Stochastic Processes",
+        "course_reference_number": [
+            "21034"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "MENU: Probability and Stochastic Processes",
+                "instructors": [
+                    "Ursula Porod"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ursula Porod",
+                "Meeting Info": "Lunt Hall 103: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 311-2 MENU: Probability and Stochastic Processes (1 Unit)\n\nMarkov chains, convergence theorems for Markov chains, random walk, branching processes. Reversibility. Markov chain Monte Carlo algorithms. Students may not receive credit for both MATH 311-2 and MATH 310-2.\n\nPrerequisite: MATH 311-1 or consent of the department.",
+                "Class Materials (Required)": "Required materials will be provided by instructor.",
+                "Class Materials (Suggested)": "No suggested materials, see suggested materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 311-1.",
+                "Associated Classes": "DIS - Lunt Hall 103: Tues 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "320-2",
+        "course_name": "Real Analysis",
+        "course_reference_number": [
+            "20971"
+        ],
+        "course_info": [
+            {
+                "section": "71",
+                "course_name": "Real Analysis",
+                "instructors": [
+                    "Zachary B. Smith"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zachary B. Smith",
+                "Meeting Info": "Frances Searle Building 1441: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "MATH 320-2 Real Analysis (1 Unit)\n\nAnalysis on the real line: the Riemann integral and sequences and series of functions. Additional topics as time permits. Students may not receive credit for both MATH 320-2 and MATH 321-2.\n\nPrerequisite: MATH 320-1 or MATH 321-1.",
+                "Class Materials (Required)": "ISBN: 9780132296380\nTITLE: An Introduction to Analysis, 4th Edition\nAUTHOR: Wade\nPUBLISHER: Pearson",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Registration is restricted to undergraduate students who have completed or are currently enrolled in MATH 320-1 or 321-1",
+                "Associated Classes": "DIS - Lunt Hall 105: Tues 1:00PM - 1:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "321-2",
+        "course_name": "MENU: Real Analysis",
+        "course_reference_number": [
+            "21022"
+        ],
+        "course_info": [
+            {
+                "section": "71",
+                "course_name": "MENU: Real Analysis",
+                "instructors": [
+                    "Nir Avni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nir Avni\n847 4915575\nLunt Hall Rm. 213",
+                "Meeting Info": "Lunt Hall 104: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "MATH 321-2 MENU: Real Analysis (1 Unit)\n\nAnalysis on metric spaces: the Riemann integral, sequences and series of functions, and functions of several variables, including the inverse and implicit function theorems. Students may not receive credit for both MATH 321-2 and either MATH 320-2 or MATH 320-3.\n\nPrerequisite: MATH 321-1.",
+                "Class Materials (Required)": "ISBN: 9781259064784\nTITLE: Principles of Mathematical Analysis, Third Edition\nAUTHOR: Rudin\nPUBLISHER: McGraw Hill",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed or currently be enrolled in MATH 321-1.",
+                "Associated Classes": "DIS - Lunt Hall 104: Tues 1:00PM - 1:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "330-2",
+        "course_name": "Abstract Algebra",
+        "course_reference_number": [
+            "20988"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Abstract Algebra",
+                "instructors": [
+                    "Eugene Kushnirsky"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eugene Kushnirsky\n8474670485\nLunt 204",
+                "Meeting Info": "Lunt Hall 103: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "MATH 330-2 Abstract Algebra (1 Unit)\n\nRing theory, including polynomial rings. Students may not receive credit for both MATH 330-2 and MATH 331-2.\n\nPrerequisite: MATH 330-1 or MATH 331-1.",
+                "Class Materials (Required)": "Abstract Algebra\nDummit\n3rd Edition\nWILEY\n9780471433347",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 330-1 or MATH 331-1",
+                "Associated Classes": "DIS - Technological Institute L221: Thurs 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "331-2",
+        "course_name": "MENU: Abstract Algebra",
+        "course_reference_number": [
+            "20990"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "MENU: Abstract Algebra",
+                "instructors": [
+                    "Alexander Smith"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alexander Smith",
+                "Meeting Info": "Lunt Hall 104: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "MATH 331-2 MENU: Abstract Algebra (1 Unit)\n\nRing theory, including polynomial rings. Module theory, including canonical forms of operators on vector spaces. Students may not receive credit for both MATH 331-2 and MATH 330-2.\n\nPrerequisite: MATH 331-1.",
+                "Class Materials (Required)": "Abstract Algebra\nDummit\n3rd Edition\nWILEY\n9780471433347",
+                "Class Materials (Suggested)": "No suggested materials. See required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed or currently be enrolled in MATH 331-1.",
+                "Associated Classes": "DIS - Locy Hall 111: Thurs 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "334-0",
+        "course_name": "Linear Algebra: Second Course",
+        "course_reference_number": [
+            "20984"
+        ],
+        "course_info": [
+            {
+                "section": "71",
+                "course_name": "Linear Algebra: Second Course",
+                "instructors": [
+                    "Aaron Greicius"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aaron Greicius",
+                "Meeting Info": "Lunt Hall 107: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "MATH 334-0 Linear Algebra: Second Course (1 Unit)\n\nVector spaces. Linear maps. Eigenvalues, eigenvectors and invariant subspaces. Inner product spaces. Canonical forms of operators on real and complex vector spaces.\n\nPrerequisite: MATH 300-0 or MATH 291-2.",
+                "Class Materials (Required)": "978-3031410260\nLinear Algebra Done Right, 4th Edition\nAuthor: Axler\nPublisher: Springer",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 300-0 or MATH 291-2",
+                "Associated Classes": "DIS - Lunt Hall 107: Thurs 1:00PM - 1:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "336-1",
+        "course_name": "Introduction to the Theory of Numbers",
+        "course_reference_number": [
+            "20986"
+        ],
+        "course_info": [
+            {
+                "section": "61",
+                "course_name": "Introduction to the Theory of Numbers",
+                "instructors": [
+                    "Bao Le Hung"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bao Le Hung",
+                "Meeting Info": "Lunt Hall 107: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "MATH 336-1 Introduction to the Theory of Numbers (1 Unit)\n\nDivisibility and prime numbers. Congruences. Quadratic reciprocity. Diophantine equations.\n\nPrerequisite: MATH 228-1 or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.",
+                "Class Materials (Required)": "ISBN: 978-0321500311\nTitle: Elementary Number Theory, 6th ed\nAuthor: Kenneth Rosen\nPublisher: Pearson",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed or currently enrolled in the equivalency group containing 230-1",
+                "Associated Classes": "DIS - Lunt Hall 105: Tues 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "344-1",
+        "course_name": "Introduction to Topology",
+        "course_reference_number": [
+            "21031"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Introduction to Topology",
+                "instructors": [
+                    "Eugene Kushnirsky"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eugene Kushnirsky\n8474670485\nLunt 204",
+                "Meeting Info": "Lunt Hall 104: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 344-1 Introduction to Topology (1 Unit)\n\nTopological spaces, continuity, connectedness, compactness, countability and separation axioms.\n\nPrerequisite: MATH 320-1 or MATH 321-1.",
+                "Class Materials (Required)": "ISBN: 9788120320468\nTitle: Topology, 2nd ed\nAuthor: James Munkres\nPublisher: Pearson\n\nNOTE: Students who foresee having trouble purchasing the textbook should contact Prof. Aaron Greicius directly.",
+                "Class Materials (Suggested)": "No materials suggested. Please see required materials.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 320-1 or MATH 321-1",
+                "Associated Classes": "DIS - Lunt Hall 103: Tues 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "364-0",
+        "course_name": "Mathematical Foundations of Deep Learning",
+        "course_reference_number": [
+            "21125"
+        ],
+        "course_info": [
+            {
+                "section": "31",
+                "course_name": "Mathematical Foundations of Deep Learning",
+                "instructors": [
+                    "Benjamin Weinkove"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Benjamin Weinkove\n847 4915587\nLunt Hall 310 2033 Sheridan Road",
+                "Meeting Info": "Lunt Hall 107: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "MATH 364-0 Mathematical Foundations of Deep Learning (1 Unit) Neural networks and analysis of the approximation properties which underlie the mathematical principles of deep learning. Loss functions and training phenomena. Comparison of different activation functions and network architectures. Vapnik-Chervonenkis dimension and bit extraction.\nPrerequisites: MATH 320-1 or MATH 321-1.",
+                "Class Materials (Required)": "Mathematical Theory of Deep Learning\nby Peterson and Zech\nhttps://arxiv.org/pdf/2407.18384",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: MATH 320-1 or MATH 321-1.",
+                "Associated Classes": "DIS - Lunt Hall 104: Thurs 9:00AM - 9:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "366-0",
+        "course_name": "Mathematical Models in Finance",
+        "course_reference_number": [
+            "20960",
+            "20959"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Mathematical Models in Finance",
+                "instructors": [
+                    "Redmond McNamara"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "83",
+                "course_name": "Mathematical Models in Finance",
+                "instructors": [
+                    "Nicholas Christo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Redmond McNamara",
+                "Meeting Info": "Lunt Hall 105: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 366-0 Mathematical Models in Finance (1 Unit) Cash flow computations. Basic financial concepts (stocks, bonds, options, arbitrage, hedging) and put-call parity. Binomial tree models. Risk-neutral valuation. Random walk and Brownian motion as a tool for modeling fluctuations. Options pricing. The Black-Scholes formula and partial differential equation. Some familiarity with differential equations is desirable.\nPrerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 202-0 or ELEC_ENG 302-0.",
+                "Class Materials (Required)": "Mathematics for Finance\nCapinski\n2nd Edition\nSV\n9780857290816",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: completed or currently enrolled in a course in the equivalency group containing MATH 240-0 AND completed or currently enrolled in a course in the equivalency group containing MATH 310-1.",
+                "Associated Classes": "DIS - Lunt Hall 104: Tues 2:00PM - 2:50PM"
+            },
+            {
+                "Instructors": "Nicholas Christo",
+                "Meeting Info": "Lunt Hall 107: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 366-0 Mathematical Models in Finance (1 Unit) Cash flow computations. Basic financial concepts (stocks, bonds, options, arbitrage, hedging) and put-call parity. Binomial tree models. Risk-neutral valuation. Random walk and Brownian motion as a tool for modeling fluctuations. Options pricing. The Black-Scholes formula and partial differential equation. Some familiarity with differential equations is desirable.\nPrerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 202-0 or ELEC_ENG 302-0.",
+                "Class Materials (Required)": "Mathematics for Finance\nCapinski\n2nd Edition\nSV\n9780857290816",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: completed or currently enrolled in a course in the equivalency group containing MATH 240-0 AND completed or currently enrolled in a course in the equivalency group containing MATH 310-1.",
+                "Associated Classes": "DIS - 2001 Sheridan GPC/SESP 3447: Tues 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "368-0",
+        "course_name": "Introduction to Optimization",
+        "course_reference_number": [
+            "21024"
+        ],
+        "course_info": [
+            {
+                "section": "71",
+                "course_name": "Introduction to Optimization",
+                "instructors": [
+                    "Tyler Evans"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tyler Evans",
+                "Meeting Info": "Lunt Hall 105: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "MATH 368-0 Introduction to Optimization (1 Unit)\n\nMethods and concepts of optimization theory: linear programming, duality, convexity, and Kuhn-Tucker theory.\n\nPrerequisites: MATH 226-0 or MATH 281-2; and MATH 291-3, or MATH 300-0 and one of MATH 228-2, MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, or ES_APPM 252-2.",
+                "Class Materials (Required)": "978-1461476290\nLinear Programming: Foundations and Extensions, 4th Edition\nAUTHOR: Vanderbei\nPUBLISHER: Springe\nNOTE: Available for free download at https://link.springer.com/book/10.1007/978-1-4614-7630-6",
+                "Class Materials (Suggested)": "No suggested materials. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: completed or currently enrolled in MATH 291-3; OR MATH 300-0 and completed or currently enrolled in a course in the equivalency group containing MATH 230-2",
+                "Associated Classes": "DIS - Lunt Hall 107: Tues 1:00PM - 1:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "382-0",
+        "course_name": "Complex Analysis for ISP",
+        "course_reference_number": [
+            "20992"
+        ],
+        "course_info": [
+            {
+                "section": "61",
+                "course_name": "Complex Analysis for ISP",
+                "instructors": [
+                    "Izak Oltman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Izak Oltman",
+                "Meeting Info": "Lunt Hall 103: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "MATH 382-0 Complex Analysis for ISP (1 Unit) Complex numbers. Analytic functions. Cauchy's theorem and the Cauchy integral formula. Series. Residues. Additional topics as time permits. For ISP students only. Students may not receive credit for both MATH 382-0 and either MATH 325-0 or ES_APPM 312-0.\nPrerequisites: MATH 281-3 and PHYSICS 125-3.",
+                "Class Materials (Required)": "Complex Analysis\nTheodore W. Gamelin\nSV\n9780387950693",
+                "Class Materials (Suggested)": "No materials suggested. See required materials",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: This class is restricted to first-year ISP students who have completed MATH 281-3 and PHYSICS 125-3",
+                "Associated Classes": "DIS - Parkes Hall 223: Tues 12:00PM - 12:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "386-1",
+        "course_name": "Econometrics for MMSS",
+        "course_reference_number": [
+            "20994"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Econometrics for MMSS",
+                "instructors": [
+                    "Eric Auerbach"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eric Auerbach",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Mon, Wed, Fri 2:00PM - 3:20PM",
+                "Overview of class": "MATH 386-1 Econometrics for MMSS (1 Unit) Econometric methods. Students may not receive credit for both MATH 386-1 and ECON 381-1.\nPrerequisite: MATH 385-0.",
+                "Class Materials (Required)": "No required textbooks. See suggested materials",
+                "Class Materials (Suggested)": "ISBN: 978-1111531041\nTitle: Introductory Econometrics, 5th ed\nAuthor: Jeffrey Wooldridge\nPublisher: Cengage",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: This class is restricted to MMSS students who have completed or are enrolled in MATH 385-0"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Undergraduate Seminar",
+        "course_reference_number": [
+            "21028"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Undergraduate Seminar",
+                "instructors": [
+                    "Maria Nastasescu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maria Nastasescu",
+                "Meeting Info": "Lunt Hall 104: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Title: The Distribution of Primes\n\nPrime numbers appear irregularly distributed among the integers, yet collectively they obey remarkably precise asymptotic laws. This seminar surveys analytic and sieve methods for studying the primes. We will familiarize ourselves with some classical results, such as the Prime Number Theorem and its connection to the Riemann Hypothesis and get a glimpse of combinatorial tools behind modern work on primes in intervals and twin primes. Students will present selected topics, and those with a more advanced background will have the opportunity to explore special topics, if desired.\n\nThe study of prime numbers connects many areas of mathematics, including real analysis, complex analysis, harmonic analysis, combinatorics, and probability theory. The course assumes no knowledge beyond basic real analysis.\n\nPrerequisite: Math 320-1 and experience with proofs, or instructor's permission.",
+                "Class Materials (Required)": "No required materials. See suggested materials.",
+                "Class Materials (Suggested)": "Introduction to Analytic Number Theory\nTom M. Apostol\nSpringer\n978-0387901633\n\nAnalytic Number Theory Revealed - A first guide to prime numbers\nAndrew Granville\nAMS\n978-1470481520",
+                "Class Attributes": "Advanced Expression\nSoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this course is reserved for students who are majoring or minoring in Mathematics."
+            }
+        ]
+    },
+    {
+        "course_number": "410-2",
+        "course_name": "Analysis",
+        "course_reference_number": [
+            "21001"
+        ],
+        "course_info": [
+            {
+                "section": "71",
+                "course_name": "Analysis",
+                "instructors": [
+                    "Jared Wunsch"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jared Wunsch\n8474915580\nLunt 212",
+                "Meeting Info": "Lunt Hall 101: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "MATH 410-2 Analysis (1 Unit)\n\nHilbert and Banach spaces. Hahn-Banach theorem. Principle of uniform boundedness and its consequences. Spectral theory of compact operators. Fourier transform and distribution theory.",
+                "Class Materials (Required)": "No required materials. See suggested materials.",
+                "Class Materials (Suggested)": "Real Analysis\nFolland\n2nd Edition\nWILEY\n9780471317166",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "430-2",
+        "course_name": "Dynamical Systems",
+        "course_reference_number": [
+            "21029"
+        ],
+        "course_info": [
+            {
+                "section": "31",
+                "course_name": "Dynamical Systems",
+                "instructors": [
+                    "Redmond McNamara"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Redmond McNamara",
+                "Meeting Info": "Lunt Hall 104: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "MATH 430-2 Dynamical Systems (1 Unit)\n\nQualitative theory of differentiable dynamical systems, emphasizing global properties such as structural stability theorems.",
+                "Class Materials (Required)": "No textbooks required.",
+                "Class Materials (Suggested)": "No materials suggested",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "440-2",
+        "course_name": "Geometry and Topology",
+        "course_reference_number": [
+            "21002"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Geometry and Topology",
+                "instructors": [
+                    "Allen Yuan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Allen Yuan",
+                "Meeting Info": "Lunt Hall 101: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 440-2 Geometry and Topology (1 Unit)\n\nAlgebraic topology: The fundamental group of a space, covering spaces, and the Van-Kampen theorem. Singular homology, Mayer-Vietoris, degree and Euler characteristic.",
+                "Class Materials (Required)": "ISBN: 978-0521795401\nTitle: Algebraic Topology\nAuthor: Allen Hatcher\nPublisher: Cambridge University Press",
+                "Class Materials (Suggested)": "No materials suggested. See required materials",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "450-2",
+        "course_name": "Probability Theory and Stochastic Analysis",
+        "course_reference_number": [
+            "20999"
+        ],
+        "course_info": [
+            {
+                "section": "51",
+                "course_name": "Probability Theory and Stochastic Analysis",
+                "instructors": [
+                    "Marcus Michelen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marcus Michelen",
+                "Meeting Info": "Lunt Hall 101: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "MATH 450-2 Probability Theory and Stochastic Analysis (1 Unit)\n\nBanach and Hilbert spaces. Completeness and Baire category theorem. Hahn-Banach theorem. Dual space and weak convergence. Principle of Uniform Boundedness. Open mapping and closed graph theorems. Compact operators. Fourier transform. Sobolev spaces.",
+                "Class Materials (Required)": "No required textbooks. See suggested materials.",
+                "Class Materials (Suggested)": "978-1108473682\nProbability: Theory and Examples (5th Edition)\nDurrett\nCambridge UP",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "470-2",
+        "course_name": "Algebra",
+        "course_reference_number": [
+            "21003"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Algebra",
+                "instructors": [
+                    "Yuchen Liu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yuchen Liu",
+                "Meeting Info": "Lunt Hall 102: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "MATH 470-2 Algebra (1 Unit)\n\nField theory and Galois theory: simple extensions, finite and algebraic extensions, algebraic closure, splitting field, normal and separable extensions, Galois extensions. Representation theory of finite groups: Irreducible representation, group algebra, matrix coefficients, character, induction, Fourier transform, convolution.",
+                "Class Materials (Required)": "ISBN: 9781470465711\nTitle: Algebra: Chapter 0\nAuthor: Paolo Aluffi\nPublisher: American Mathematical Society",
+                "Class Materials (Suggested)": "No materials suggested. See required materials",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "484-0",
+        "course_name": "Lie Theory",
+        "course_reference_number": [
+            "21004"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "Lie Theory",
+                "instructors": [
+                    "John Francis"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Francis",
+                "Meeting Info": "Lunt Hall 101: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "MATH 484-0 Lie Theory (1 Unit)\n\nTopics in the theory of Lie algebras and Lie groups including classification.",
+                "Class Materials (Required)": "No textbook required",
+                "Class Materials (Suggested)": "No textbook suggested",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "515-1",
+        "course_name": "Topics in Geometry and Topology",
+        "course_reference_number": [
+            "21030"
+        ],
+        "course_info": [
+            {
+                "section": "81",
+                "course_name": "Topics in Geometry and Topology",
+                "instructors": [
+                    "Ezra Getzler"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ezra Getzler\n8474671695\nLunt Hall 308",
+                "Meeting Info": "Lunt Hall 102: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "MATH 511-1 Topics in Analysis (1 Unit)",
+                "Class Materials (Required)": "No required or suggested textbooks",
+                "Class Materials (Suggested)": "No required or suggested textbooks",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "521-1",
+        "course_name": "Topics in Representation Theory",
+        "course_reference_number": [
+            "21033"
+        ],
+        "course_info": [
+            {
+                "section": "61",
+                "course_name": "Topics in Representation Theory",
+                "instructors": [
+                    "Nir Avni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nir Avni\n847 4915575\nLunt Hall Rm. 213",
+                "Meeting Info": "Lunt Hall 101: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "MATH 521-1 Topics in Representation Theory (1 Unit)",
+                "Class Materials (Required)": "No required materials.",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    },
+    {
+        "course_number": "560-0",
+        "course_name": "Storytelling in Mathematics",
+        "course_reference_number": [
+            "28644"
+        ],
+        "course_info": [
+            {
+                "section": "71",
+                "course_name": "Storytelling in Mathematics",
+                "instructors": [
+                    "Bryna Kra"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bryna Kra",
+                "Meeting Info": "Lunt Hall 103: Mon, Wed 1:00PM - 3:00PM",
+                "Overview of class": "MATH 560-0 Storytelling in Mathematics (1 Unit)\n\nThe course will teach students to give talks at every level of specialization that communicate both their own research and the broader enterprise of mathematics.\n\nPrerequisite: To enroll in this course, students must have passed all written prelim exams and either be enrolled in an advanced reading course or have passed their qualifying exam. Students outside the mathematics department may enroll only by permission of instructor.",
+                "Class Materials (Required)": "No required materials.",
+                "Class Materials (Suggested)": "No suggested materials.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Mathematics graduate students"
+            }
+        ]
+    }
+]

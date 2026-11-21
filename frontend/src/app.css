@@ -1,0 +1,74 @@
+/* Purple Line wayfinding. Tokens: primitive → semantic → component.
+   World lends: saturated purple band, signage ground, transit sans, station bullets, route strip. */
+:root {
+  /* Primitive */
+  --line-purple: #4e2a84;              /* Northwestern purple = the line colour */
+  --line-purple-night: #7c52d6;
+  --sign-white: #f8f8fa;  --sign-sunken: #eeeef3; --sign-rule: #d9d8e2;
+  --sign-ink: #17151f;    --sign-muted: #5c5a6c;
+  --night: #0e0d13;       --night-sunken: #171620; --night-rule: #2b2a38;
+  --night-ink: #efeef6;   --night-muted: #a3a1b6;
+  --green-600: #137a45; --green-400: #4cc88a;
+  --amber-600: #9a5a00; --amber-400: #f0b43c;
+  --red-600: #c0281b;   --red-400: #ff7a6c;
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
+  --radius: 4px;
+  --font-sans: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI Variable', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --ease-out: cubic-bezier(.22, 1, .36, 1);
+  --dur: 140ms;
+
+  /* Semantic (light: daytime platform) */
+  --bg: var(--sign-white);
+  --sunken: var(--sign-sunken);
+  --rule: var(--sign-rule);
+  --text: var(--sign-ink);
+  --text-muted: var(--sign-muted);
+  --band: var(--line-purple);          /* header band */
+  --on-band: #ffffff;
+  --accent: var(--line-purple);        /* primary action, active tab, line */
+  --accent-hover: #3d206a;
+  --on-accent: #ffffff;
+  --focus: #6b3fc0;
+  --ok: var(--green-600);
+  --warn: var(--amber-600);
+  --bad: var(--red-600);
+  --on-bad: #ffffff;
+  --danger-bg: #c0281b;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {   /* night platform */
+    --bg: var(--night);
+    --sunken: var(--night-sunken);
+    --rule: var(--night-rule);
+    --text: var(--night-ink);
+    --text-muted: var(--night-muted);
+    --band: var(--line-purple);
+    --accent: var(--line-purple-night);
+    --accent-hover: #8e66e6;
+    --on-accent: #ffffff;
+    --focus: #b9a1ef;
+    --ok: var(--green-400);
+    --warn: var(--amber-400);
+    --bad: var(--red-400);
+    --on-bad: #1a0806;
+    --danger-bg: #b3261e;
+    color-scheme: dark;
+  }
+}
+:root { --btn-h: 36px; --field-h: 26px; }
+
+* { box-sizing: border-box; }
+html { height: 100%; overflow: hidden; }
+@media (pointer: fine) { html { overscroll-behavior: none; } }
+body {
+  height: 100%; overflow: hidden; margin: 0; background: var(--bg); color: var(--text);
+  font: 13px/1.4 var(--font-sans); -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none; user-select: none; cursor: default; touch-action: manipulation;
+}
+::selection { background: color-mix(in srgb, var(--accent) 28%, transparent); color: var(--text); }
+input { caret-color: var(--accent); }
+* { scrollbar-width: thin; scrollbar-color: var(--rule) transparent; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 8px; }

@@ -1,0 +1,381 @@
+[
+    {
+        "course_number": "110-DL",
+        "course_name": "Introduction to Programming",
+        "course_reference_number": [
+            "20567"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Programming",
+                "instructors": [
+                    "Nafiseh Mollaei"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nafiseh Mollaei",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "324-DL",
+        "course_name": "Applied Data Science",
+        "course_reference_number": [
+            "20550"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Applied Data Science",
+                "instructors": [
+                    "Amul Chapla"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Amul Chapla",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: CIS 324-DL"
+            }
+        ]
+    },
+    {
+        "course_number": "330-DL",
+        "course_name": "Human Computer Interaction",
+        "course_reference_number": [
+            "20581"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Human Computer Interaction",
+                "instructors": [
+                    "Awny Alnusair"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Awny Alnusair",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "345-DL",
+        "course_name": "Information Security",
+        "course_reference_number": [
+            "20574"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Information Security",
+                "instructors": [
+                    "Travis Villanueva"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Travis Villanueva",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "413-DL",
+        "course_name": "Telecommunications and Computer Networks",
+        "course_reference_number": [
+            "20488"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Telecommunications and Computer Networks",
+                "instructors": [
+                    "Faisal Akkawi"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Faisal Akkawi",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "417-0",
+        "course_name": "Database Systems Design & Implementation",
+        "course_reference_number": [
+            "20487"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Database Systems Design & Implementation",
+                "instructors": [
+                    "Faisal Akkawi"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Faisal Akkawi",
+                "Meeting Info": "Wieboldt Hall 408: Mon 10:00AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "419-DL",
+        "course_name": "Web Application Development",
+        "course_reference_number": [
+            "20492"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Web Application Development",
+                "instructors": [
+                    "David Ostrowski"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Ostrowski",
+                "Meeting Info": "DISTANCE COURSE: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req CIS 414 or MSDS 430"
+            }
+        ]
+    },
+    {
+        "course_number": "435-DL",
+        "course_name": "Practical Data Science Using Machine Learning",
+        "course_reference_number": [
+            "20490"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Practical Data Science Using Machine Learning",
+                "instructors": [
+                    "Sunilkumar Kakade"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sunilkumar Kakade",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req CIS 414 or MSDS 430"
+            }
+        ]
+    },
+    {
+        "course_number": "452-0",
+        "course_name": "Cybersecurity Attacks and Counter Measures",
+        "course_reference_number": [
+            "20489"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Cybersecurity Attacks and Counter Measures",
+                "instructors": [
+                    "Kevin Vaccaro"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "11:30AM",
+                "end_time": "2:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kevin Vaccaro",
+                "Meeting Info": "Wieboldt Hall 711: Thurs 11:30AM - 2:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: CIS 413"
+            }
+        ]
+    },
+    {
+        "course_number": "457-DL",
+        "course_name": "Management of Information Security",
+        "course_reference_number": [
+            "20494"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Management of Information Security",
+                "instructors": [
+                    "Elena Suarez"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elena Suarez",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: CIS 413 Pre. Req."
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Information Technology Management",
+        "course_reference_number": [
+            "20491"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Information Technology Management",
+                "instructors": [
+                    "Terry Cottrell"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Terry Cottrell",
+                "Meeting Info": "Wieboldt Hall 711: Thurs 3:30PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: CIS 413"
+            }
+        ]
+    },
+    {
+        "course_number": "460-DL",
+        "course_name": "Information Technology Management",
+        "course_reference_number": [
+            "20493"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Information Technology Management",
+                "instructors": [
+                    "Terry Cottrell"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Terry Cottrell",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: CIS 413 Pre. Req."
+            }
+        ]
+    },
+    {
+        "course_number": "471-DL",
+        "course_name": "Digital Transformation: Strategy and Planning",
+        "course_reference_number": [
+            "20495"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Digital Transformation: Strategy and Planning",
+                "instructors": [
+                    "James Demarco"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Demarco",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req CIS 414 or MSDS 430"
+            }
+        ]
+    }
+]

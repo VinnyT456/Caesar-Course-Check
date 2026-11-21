@@ -1,0 +1,148 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Hebrew I",
+        "course_reference_number": [
+            "22643"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Hebrew I",
+                "instructors": [
+                    "Ronit Alexander"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:40PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ronit Alexander\nCrowe 4-103, 1860 Campus Drive, Evanston, IL 60208",
+                "Meeting Info": "Locy Hall 213: Mon, Wed, Fri 12:30PM - 1:40PM",
+                "Overview of class": "This course is designed to develop all four language skills (speaking, writing, listening and reading comprehension) as well as provide a cultural foundation. The course is based on Hebrew from Scratch, a comprehensive textbook with grammar and interactive exercise for the beginning adult learner.\n.\nHebrew 111-2, taught in the Winter Quarter, builds on material learned in the first quarter. You will learn the impersonal form widely used in everyday Hebrew, adjectives and more question words, as well as numbers, and the direct object, a unique form in Hebrew. All these new words and structures will be integrated into short texts and lively conversations which are part of the wider context of Israeli culture. As always, students will have ample opportunities to practice and expand all skills.",
+                "Registration Requirements": "Hebrew 111-1 or placement in Hebrew 111-2 after taking placement exam.",
+                "Learning Objectives": "Students completing three quarters of Hebrew 111 will be able to read and comprehend simple and short texts on familiar topics, write informal notes and short paragraphs on topics connected to daily life, and initiate and sustain conversations on daily-life topics with educated native speakers who are accustomed to conversing with learners of Hebrew as a foreign language.",
+                "Teaching Method": "This course is based on a communicative-cultural approach weaving together listening, reading, speaking, and writing exercises and practice sessions in each lesson. New vocabulary and new grammatical structures are introduced and practiced orally in anticipation of dealing with written dialogues and short essays. Text-based exercises and exercises based on clips, pictures, and video and audio files to expand and reinforce the new material.",
+                "Evaluation Method": "A student's grade for this course will be based upon participation, homework and preparedness for class, attendance, four quizzes given throughout the quarter, and a final project (in lieu of a final exam) to be announced during the quarter by the instructor.",
+                "Class Materials (Required)": "Hebrew From Scratch Part 1 (in Hebrew: Ivrit Min Ha-Hatchala Ha-Chadash Alef)\nWritten by: Shlomit Chayat, Sarah Israeli, Hila Kobliner\nPrinted by Akademon Press through Magnes Press, Hebrew University, Jerusalem, 2012\nISBN-13: 978-9653501126\nISBN-10: 9653501127\n\nPlease note that the required text has a blue and yellow cover, and students should NOT use the older version which has a green and yellow cover,",
+                "Class Notes": "This class is taught in Hebrew. Daily homework and occasional presentations are an integral part of class in order to maximize students' successful learning.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: HEBREW 111-1"
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Hebrew II",
+        "course_reference_number": [
+            "22644"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Hebrew II",
+                "instructors": [
+                    "Ronit Alexander"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:10PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ronit Alexander\nCrowe 4-103, 1860 Campus Drive, Evanston, IL 60208",
+                "Meeting Info": "Locy Hall 213: Mon, Wed, Fri 11:00AM - 12:10PM",
+                "Overview of class": "Second-Year Hebrew is a three-quarter sequence which will cover comprehensive grammar explanations and examples as well as cultural themes. The purpose of this course is to enlarge the students' vocabulary, and to reinforce and expand their knowledge of Hebrew grammar, as well as to deepen their knowledge of Israeli culture. Class will consist of interactive exercises for the intermediate learner, readings in a level-appropriate difficulty with more information of Israeli daily life and reality, and listening in the form of songs and clips in Hebrew.\n\nDuring Hebrew 121-2, students will practice the words already familiar from the previous year and expand their vocabulary. We will continue learning more binyanim of the past tense. Students will also learn conjugations or basic prepositions they were introduced to last year. We will also learn the body parts, colors and more useful concepts, and we will integrate this knowledge into exploration of Israeli artworks. The readings will be in a level-appropriate difficulty with more information on Israeli daily life and reality.",
+                "Registration Requirements": "Hebrew 121-1 or equivalent; or instructor consent.",
+                "Learning Objectives": "At the end of Second-Year, students will be able to speak about themselves, family members and friends, their studies, trips, wants and desires, etc. Students will be able to read and comprehend basic authentic texts and write simple texts with increased accuracy. After completing Second-Year, students will be able to take Third-Year classes to deepen their cultural knowledge of Hebrew and its natural sphere, Israel.",
+                "Teaching Method": "The lessons will center around the reading and discussion of texts and dialogues and include interactive group work. Homework assignments will emphasize written exercises, compositions, and preparation for oral presentations in class as well as oral interviews at the end of the quarters.",
+                "Evaluation Method": "The grade will be based on participation, homework and preparedness for class, several cultural events, attendance, four quizzes given throughout the quarter, and an oral presentation in class or an oral interview.",
+                "Class Materials (Required)": "Hebrew From Scratch Part 1 (in Hebrew: Ivrit Min Ha-Hatchala Ha-Chadash Alef)\nWritten by: Shlomit Chayat, Sarah Israeli, Hila Kobliner\nPrinted by Akademon Press through Magnes Press, Hebrew University, Jerusalem, 2015\nISBN-13: 978-0840008497\nISBN-10:084000849X\n\nPlease note that the required text has a blue and yellow cover, and students should NOT use the older version which has a green and yellow cover.",
+                "Class Notes": "This class is taught in Hebrew. Daily homework and occasional presentations are an integral part of class in order to maximize students' successful learning.",
+                "Class Attributes": "Prerequisites apply, see description\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: HEBREW 121-1"
+            }
+        ]
+    },
+    {
+        "course_number": "216-0",
+        "course_name": "Hebrew III: Topics in Hebrew Literature",
+        "course_reference_number": [
+            "22654"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Hebrew III: Topics in Hebrew Literature",
+                "instructors": [
+                    "Hanna Tzuker Seltzer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hanna Tzuker Seltzer\n847/467-5684\nCrowe 5-159",
+                "Meeting Info": "University Hall 218: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "In this class we will dive into the universal topic of relationships between parents and children as it is reflected in Israeli society. We will examine this topic through the lens of various genres, such as short stories, blogs, films, parental guides and TV shows, and we might even taste a bit of creative writing. As we discuss the complexities and dilemmas of the relationships we encounter and ask ourselves if there is something like \"Israeli parenthood\" or \"Israeli childhood\", we will also pay close attention to the varied language levels and styles, grammar structures and vocabulary.\nThe materials and discussions will be in Hebrew, and the level of the course is intermediate high to advanced novice (in ACTFL scale). Please contact Prof. Hanna Tzuker Seltzer with any questions or concerns: hanna.seltzer@northwestern.edu",
+                "Registration Requirements": "Pre-requisites: Hebrew 121 - 3 or instructor's consent.",
+                "Learning Objectives": "When finishing this class, students will be able to use specific vocabulary that pertain to family and feelings and have a broader understanding of family relationship in Israeli society. Students will improve their speaking and writing skills in Hebrew, and they will obtain new grammar structures that were introduced to them throughout the course. Additionally, students will expand their knowledge of popular Israeli culture as they will be working with authentic and recent Israeli cultural materials.",
+                "Evaluation Method": "Students will be evaluated on their class participation, preparation for class (completion of assignments given at the end of classes as a basis to the next class), presentations, and final project (in lieu of final exam).",
+                "Class Materials (Required)": "The materials will be provided by the instructor.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: HEBREW 121‐3 or permission of the instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "316-0",
+        "course_name": "Hebrew IV: Advanced Topics in Hebrew Literature",
+        "course_reference_number": [
+            "22655"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Hebrew IV: Advanced Topics in Hebrew Literature",
+                "instructors": [
+                    "Hanna Tzuker Seltzer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hanna Tzuker Seltzer\n847/467-5684\nCrowe 5-159",
+                "Meeting Info": "University Hall 318: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Many define the Hebrew Bible as the best literature ever written. Indeed, the Hebrew Bible inspired numerous canonical novels and poems, not to mention paintings and sculptures, in Western culture. In the case of Hebrew literature, the connection to the Hebrew Bible is even more binding, as the biblical texts informed and inspired Zionist ideology and the revival of Hebrew as a modern language.\nIn this class we will read a selection of biblical stories in their original language, biblical Hebrew, a reading which will enable us to see the immense influence of biblical Hebrew on Modern Hebrew language. We will then read contemporary Hebrew poems that are based on the stories we have read. We will analyze both the biblical stories, the Hebrew poems, and the connections between them. The poems we will read in class are interpretations of the biblical stories; both the biblical texts and the modern poems are in Hebrew, but beyond the grammatical and periodical differences between the texts and the poems (Biblical Hebrew vs. Modern Hebrew), the poems can be political, ideological, social, or personal critique of or a dialogue with the biblical story.\n\nAll course materials will be in Hebrew, as well as class discussions, and the level of the course is advanced intermediate to advanced advance (in ACTFL scale). This class is intended for students who are either heritage speakers of Hebrew or are in a very advanced level of Hebrew. The class level is equal to Hebrew fourth year.\n\nPlease contact Prof. Hanna Tzuker Seltzer with any questions or concerns: hanna.seltzer@northwestern.edu",
+                "Registration Requirements": "Pre-requisites: Hebrew 216 or instructor's consent.",
+                "Learning Objectives": "In this class, students will gain a basic familiarity with biblical Hebrew, its grammar and structures. Students will also acquire tools for analysis of modern Hebrew poems, and they will understand the foundational place of the Hebrew Bible in Israeli society and culture.",
+                "Teaching Method": "Classes will be in the form of class discussions, as well as shared learning. We will read together the biblical stories and learn how to decipher the unique grammatical structures of the Hebrew Bible and the stylistics and literary techniques of the biblical narrator. We will read contemporary Hebrew poems and look for the intertextual connections between the biblical texts and the modern poems we read. Students will work frequently in pairs and groups to practice the reading and deep understanding of biblical texts as well as modern Hebrew poems. Students will also examine the intertextuality and allusions the contemporary poems have in relation to the biblical texts and how these allusions profoundly enrich the poems' meaning.",
+                "Evaluation Method": "Students will be evaluated on their class participation, preparation for class (completion of assignments given at the end of classes as a basis to the next class), presentations, and final project (in lieu of final exam).",
+                "Class Materials (Required)": "There is no need to purchase any specific textbooks for this class; class materials will be distributed by the instructor or will appear on the class Canvas site as PDFs.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

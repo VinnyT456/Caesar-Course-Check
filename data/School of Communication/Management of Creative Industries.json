@@ -1,0 +1,67 @@
+[
+    {
+        "course_number": "301-0",
+        "course_name": "Accounting and Finance in Creative Industries",
+        "course_reference_number": [
+            "24539"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Accounting and Finance in Creative Industries",
+                "instructors": [
+                    "Mark Finn"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Finn",
+                "Meeting Info": "Frances Searle Building 1421: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This course acquaints students with the process used to construct and understand the financial reports of organizations and how creative organizations are financed. The objective is to understand the decisions that must be made in the financial reporting process and to develop the ability to evaluate and use accounting data. Emphasis is placed on understanding the breadth of accounting measurement practices and on being able to make the adjustments necessary for careful analysis. Additionally, the concepts of discounted cash flow, project and equipment financing, and assessing the value of companies and securities as they affect business models will be covered. The course highlights the linkages between accounting, finance, management planning, and decision making.",
+                "Registration Requirements": "Prerequisite: Admission to the MCI Certificate program.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: MCI Certificate Students Only Prerequisite: MCI Certificate Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "303-0",
+        "course_name": "Marketing Management in Creative Industries",
+        "course_reference_number": [
+            "24538"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Marketing Management in Creative Industries",
+                "instructors": [
+                    "Ashlee Humphreys"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ashlee Humphreys",
+                "Meeting Info": "Frances Searle Building 3417: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "This course takes an analytical approach to the study of marketing problems of business firms and other types of organizations. Attention focuses on the influence of the marketplace and the marketing environment on marketing decision making; the determination of the organization's products, prices, channels, and communication strategies; and the organization's system for planning and controlling its marketing effort.",
+                "Registration Requirements": "Prerequisite: Admission to the MCI Certificate program.",
+                "Class Materials (Required)": "Course pack, approximately $125",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: MCI Certificate Students Only Prerequisite: MCI Certificate Students Only"
+            }
+        ]
+    }
+]

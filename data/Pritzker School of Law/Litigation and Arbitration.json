@@ -1,0 +1,63 @@
+[
+    {
+        "course_number": "672",
+        "course_name": "Advanced Negotiation Workshop",
+        "course_reference_number": [
+            "20345"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Negotiation Workshop",
+                "instructors": [
+                    "Lynn Cohn"
+                ],
+                "days": [
+                    "Monday",
+                    "Sunday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lynn Cohn\n312/503-2598\n420 E. Superior Street",
+                "Meeting Info": "Rubloff Building 339: Mon, Su 9:00AM - 6:00PM\nRubloff Building 339: Tues 9:00AM - 3:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Satisfies Experiential Learning degree req\nCivil Litigation & Dispute Resolution",
+                "Enrollment Requirements": "Enrollment Requirements: Negotiation is a pre-requisite for this course"
+            }
+        ]
+    },
+    {
+        "course_number": "684",
+        "course_name": "Law, Advocacy & Public Persuasion II",
+        "course_reference_number": [
+            "20343"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Law, Advocacy & Public Persuasion II",
+                "instructors": [
+                    "Jason DeSanto"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "4:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason DeSanto\n312/503-2651\nMcCormick 198",
+                "Meeting Info": "McCormick 185 - Sidley Hall: Fri 9:00AM - 4:30PM\nMcCormick 185 - Sidley Hall: Sa 9:30AM - 12:00PM\nMcCormick 185 - Sidley Hall: Sa 1:00PM - 5:00PM\nMcCormick 185 - Sidley Hall: Tues 9:00AM - 12:00PM\nMcCormick 185 - Sidley Hall: Tues 1:00PM - 4:15PM\nMcCormick 185 - Sidley Hall: Sa 10:00AM - 11:45AM\nMcCormick 185 - Sidley Hall: Sa 1:00PM - 3:00PM",
+                "Class Notes": "Winter 2027 Meeting Dates:\n\nFriday, December 18 9:00 am - 4:30 pm\nSaturday, December 19 9:30 am - 12:00 noon, 1:00 pm - 5:00 pm\nTuesday, December 22 9:00 am - 12 noon, 1:00 pm - 4:15 pm\nSaturday, January 9 10:00 am - 11:45, 1:00 pm - 3:00 pm\n\nIMPORTANT:\nThere will also be required individually scheduled 45-minute practice sessions, for personal TED Talks, scheduled on Thursday, January 7 and/or Friday, January 8.",
+                "Class Attributes": "Satisfies Experiential Learning degree req",
+                "Enrollment Requirements": "Enrollment Requirements: MSL and Tax Students are not eligible to enroll."
+            }
+        ]
+    }
+]

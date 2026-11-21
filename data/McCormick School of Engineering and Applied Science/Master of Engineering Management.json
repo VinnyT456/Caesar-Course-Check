@@ -1,0 +1,261 @@
+[
+    {
+        "course_number": "402-0",
+        "course_name": "Engineering Management",
+        "course_reference_number": [
+            "26517"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Management",
+                "instructors": [
+                    "David Semb"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Semb",
+                "Meeting Info": "Online: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "403-0",
+        "course_name": "Accounting Issues for Engineers",
+        "course_reference_number": [
+            "26512"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Accounting Issues for Engineers",
+                "instructors": [
+                    "Lusine Baghdasaryan"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "4:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lusine Baghdasaryan",
+                "Meeting Info": "Technological Institute M345: Sa 1:30PM - 4:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "405-0",
+        "course_name": "Marketing Issues for Engineers",
+        "course_reference_number": [
+            "26513"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Marketing Issues for Engineers",
+                "instructors": [],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "North Garage Krebs Room 1440: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "414-0",
+        "course_name": "Supply Chain Management",
+        "course_reference_number": [
+            "26514"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Supply Chain Management",
+                "instructors": [
+                    "Amjed Shafique"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Amjed Shafique",
+                "Meeting Info": "North Garage Krebs Room 1440: Thurs 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM."
+            }
+        ]
+    },
+    {
+        "course_number": "416-0",
+        "course_name": "Business Process Change",
+        "course_reference_number": [
+            "26515"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Business Process Change",
+                "instructors": [
+                    "Janice Mejia"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Janice Mejia",
+                "Meeting Info": "North Garage Padula Room 1430: Fri 1:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM."
+            }
+        ]
+    },
+    {
+        "course_number": "424-0",
+        "course_name": "Leadership and Organizational Behavior",
+        "course_reference_number": [
+            "26516"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Leadership and Organizational Behavior",
+                "instructors": [
+                    "Kevin Michael Murnane"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kevin Michael Murnane",
+                "Meeting Info": "North Garage Krebs Room 1440: Wed 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "430-0",
+        "course_name": "Product Management for Technology Companies: An Entrepreneurial Perspective",
+        "course_reference_number": [
+            "26520"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Product Management for Technology Companies: An Entrepreneurial Perspective",
+                "instructors": [
+                    "Aneta Gola"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aneta Gola",
+                "Meeting Info": "Garage Workspace Classroom 1: Mon 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Special Topics in Engineering Management",
+        "course_reference_number": [
+            "26519"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Entrepreneurship & Venture Capital",
+                "instructors": [
+                    "Special Topics in Engineering Management",
+                    "Julian Cheng"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Entrepreneurship & Venture Capital",
+                "Instructors": "Julian Cheng",
+                "Meeting Info": "North Garage Padula Room 1430: Fri 9:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM."
+            }
+        ]
+    },
+    {
+        "course_number": "499-1",
+        "course_name": "Graduate Topics or Projects in Engineering Management",
+        "course_reference_number": [
+            "26521"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Graduate Topics or Projects in Engineering Management",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

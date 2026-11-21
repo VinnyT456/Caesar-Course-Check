@@ -1,0 +1,512 @@
+[
+    {
+        "course_number": "101-0",
+        "course_name": "Introduction to Biomedical Engineering",
+        "course_reference_number": [
+            "21225"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Biomedical Engineering",
+                "instructors": [
+                    "Suzanne A Olds"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Suzanne A Olds",
+                "Meeting Info": "Tech Institute Lecture Room 5: Thurs 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "207-0",
+        "course_name": "BME Lab: Experimental Design",
+        "course_reference_number": [
+            "21230"
+        ],
+        "course_info": [
+            {
+                "section": "22",
+                "course_name": "BME Lab: Experimental Design",
+                "instructors": [
+                    "Ken Gentry"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ken Gentry",
+                "Meeting Info": "Annenberg Hall G01: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: BMD_ENG 220-0 or GEN_ENG 231-0"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Thermodynamics",
+        "course_reference_number": [
+            "21222"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Thermodynamics",
+                "instructors": [
+                    "Casey Ankeny"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Casey Ankeny",
+                "Meeting Info": "Tech Institute Lecture Room 4: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "271-0",
+        "course_name": "Introduction to Biomechanics",
+        "course_reference_number": [
+            "21223"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Biomechanics",
+                "instructors": [
+                    "Federico Ciardo"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Federico Ciardo",
+                "Meeting Info": "Pancoe Building Abbott Aud: Mon, Tues, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only. Prerequisites: GEN_ENG 251 or GEN_ENG 211-0; and GEN_ENG 241-0.",
+                "Associated Classes": "DIS - Annenberg Hall G32: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Quantitative Systems Physiology",
+        "course_reference_number": [
+            "21129"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Quantitative Systems Physiology",
+                "instructors": [
+                    "Robert Linsenmeier"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Robert Linsenmeier\n847/491-3043\nTech Institute, Room E368, 2145 Sheridan Rd., Evanston",
+                "Meeting Info": "Annenberg Hall G15: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "308-0",
+        "course_name": "Biomedical Signals and Circuits",
+        "course_reference_number": [
+            "21231"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biomedical Signals and Circuits",
+                "instructors": [
+                    "Jie Zhang",
+                    "Nicholas Marchuk"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jie Zhang",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only. Prerequisite: PHYSICS 135-2 or consent of instructor; BMD_ENG 207-0 (can be taken concurrently)"
+            }
+        ]
+    },
+    {
+        "course_number": "327-0",
+        "course_name": "Magnetic Resonance Imaging",
+        "course_reference_number": [
+            "21130"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Magnetic Resonance Imaging",
+                "instructors": [
+                    "Laleh Golestani Rad"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Laleh Golestani Rad",
+                "Meeting Info": "Technological Institute M128: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "343-0",
+        "course_name": "Biomaterials and Medical Devices",
+        "course_reference_number": [
+            "21131"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biomaterials and Medical Devices",
+                "instructors": [
+                    "Guillermo Antonio Ameer"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Guillermo Antonio Ameer",
+                "Meeting Info": "Technological Institute LG52: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only. Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0 (can be taken concurrently), CHEM 215-1, MAT_SCI 201-0, or be a BME Graduate student."
+            }
+        ]
+    },
+    {
+        "course_number": "346-0",
+        "course_name": "Tissue Engineering",
+        "course_reference_number": [
+            "21132"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Tissue Engineering",
+                "instructors": [
+                    "Guillermo Antonio Ameer"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Guillermo Antonio Ameer",
+                "Meeting Info": "Technological Institute LG66: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only. Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0 (can be taken concurrently), CHEM 215-1, or be a BME Graduate student."
+            }
+        ]
+    },
+    {
+        "course_number": "348-0",
+        "course_name": "Applications of Regenerative Engineering",
+        "course_reference_number": [
+            "21232"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applications of Regenerative Engineering",
+                "instructors": [
+                    "Shu Qian Liu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shu Qian Liu",
+                "Meeting Info": "Technological Institute M164: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only. Prerequisites: Students must have completed BIOL_SCI 201 or BIOL_SCI 202 or be a BMD_ENG Graduate student to enroll."
+            }
+        ]
+    },
+    {
+        "course_number": "366-0",
+        "course_name": "Biomechanics of Movement",
+        "course_reference_number": [
+            "21133"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Biomechanics of Movement",
+                "instructors": [
+                    "Wendy M Murray"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wendy M Murray",
+                "Meeting Info": "Technological Institute L160: Wed, Fri 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only. Prerequisites: BMD_ENG 271 or be a BME Graduate student."
+            }
+        ]
+    },
+    {
+        "course_number": "390-2",
+        "course_name": "Biomedical Engineering Design",
+        "course_reference_number": [
+            "21226"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Biomedical Engineering Design",
+                "instructors": [
+                    "Matthew Glucksberg",
+                    "David P O'Neill"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matthew Glucksberg",
+                "Meeting Info": "Frances Searle Building 1421: Mon, Wed, Fri 3:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: BMD_ENG 390-1."
+            }
+        ]
+    },
+    {
+        "course_number": "404-2",
+        "course_name": "Special Topics in Systems Physiology",
+        "course_reference_number": [
+            "21233"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Special Topics in Systems Physiology",
+                "instructors": [
+                    "Hao F Zhang"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "8:30AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hao F Zhang",
+                "Meeting Info": "Technological Institute LG66: Wed 8:30AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: BMD_ENG 404-1"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Advanced Topics in Biomedical Engineering",
+        "course_reference_number": [
+            "22400",
+            "21175"
+        ],
+        "course_info": [
+            {
+                "section": "09",
+                "course_name": "Physical Intelligence and Embodied AI",
+                "instructors": [
+                    "Special Advanced Topics in Biomedical Engineering",
+                    "Malcolm MacIver"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "20",
+                "course_name": "NUvention:Medical Innovation",
+                "instructors": [
+                    "Special Advanced Topics in Biomedical Engineering",
+                    "Lillian Zakarija",
+                    "Eduardo Acuna"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Physical Intelligence and Embodied AI",
+                "Instructors": "Malcolm MacIver\n847/491-3540\nTechnological Institute, Rm B292, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to BME Students Only."
+            },
+            {
+                "Topic": "NUvention:Medical Innovation",
+                "Instructors": "Lillian Zakarija",
+                "Meeting Info": "Kellogg Global Hub L120: Wed 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Graduate Research Seminar in Biomedical Engineering",
+        "course_reference_number": [
+            "21220",
+            "22402"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Graduate Research Seminar in Biomedical Engineering",
+                "instructors": [
+                    "Mitra J Hartmann",
+                    "Xi (Dawn) Chen",
+                    "Jie Zhang"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Graduate Research Seminar in Biomedical Engineering",
+                "instructors": [
+                    "Mitra J Hartmann",
+                    "Xi (Dawn) Chen",
+                    "Jie Zhang"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mitra J Hartmann\n847/467-4633\nTechnological Institute, Rm B284, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M338: Mon 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Mitra J Hartmann\n847/467-4633\nTechnological Institute, Rm B284, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M338: Thurs 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

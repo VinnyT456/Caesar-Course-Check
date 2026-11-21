@@ -1,0 +1,31 @@
+[
+    {
+        "course_number": "326-0",
+        "course_name": "Native Nations, Healthcare Systems, & U.S. Policy",
+        "course_reference_number": [
+            "28807"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Native Nations, Healthcare Systems, & U.S. Policy",
+                "instructors": [
+                    "Beatriz Oralia Reyes"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Beatriz Oralia Reyes\n2001 Sheridan Road, #2302",
+                "Meeting Info": "TBA: Mon 3:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    }
+]

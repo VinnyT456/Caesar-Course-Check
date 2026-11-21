@@ -1,0 +1,210 @@
+[
+    {
+        "course_number": "403-0",
+        "course_name": "Professional Issues in Genetic Counseling",
+        "course_reference_number": [
+            "28380"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Issues in Genetic Counseling",
+                "instructors": [
+                    "Rebecca Procopio",
+                    "Sharon Aufox",
+                    "Debra Duquette",
+                    "Laiken Peterson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rebecca Procopio",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    },
+    {
+        "course_number": "410-0",
+        "course_name": "Genetic Counseling Skills Practicum",
+        "course_reference_number": [
+            "28387"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Genetic Counseling Skills Practicum",
+                "instructors": [
+                    "Sharon Aufox",
+                    "Debra Duquette",
+                    "Sarah Walterman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sharon Aufox",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Psychosocial Aspects of Genetic Counseling I",
+        "course_reference_number": [
+            "28381"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Psychosocial Aspects of Genetic Counseling I",
+                "instructors": [
+                    "Jennifer L. Young",
+                    "Sharon Aufox",
+                    "Debra Duquette",
+                    "Laiken Peterson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jennifer L. Young",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    },
+    {
+        "course_number": "420-2",
+        "course_name": "Principles of Medical Genetics II",
+        "course_reference_number": [
+            "28379"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Principles of Medical Genetics II",
+                "instructors": [
+                    "Carolyn R Raski",
+                    "Rebecca Procopio",
+                    "Sharon Aufox",
+                    "Debra Duquette",
+                    "Sarah Walterman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carolyn R Raski",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Genetics Journal Club",
+        "course_reference_number": [
+            "28384"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Genetics Journal Club",
+                "instructors": [
+                    "Sharon Aufox",
+                    "Debra Duquette"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sharon Aufox",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Adult Genetics",
+        "course_reference_number": [
+            "28386"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Adult Genetics",
+                "instructors": [
+                    "Rebecca Procopio",
+                    "Sharon Aufox",
+                    "Debra Duquette",
+                    "Sarah Walterman",
+                    "Laiken Peterson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rebecca Procopio",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    },
+    {
+        "course_number": "525-0",
+        "course_name": "Clinical Rotations",
+        "course_reference_number": [
+            "28383"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Clinical Rotations",
+                "instructors": [
+                    "Sharon Aufox",
+                    "Debra Duquette",
+                    "Sarah Walterman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sharon Aufox",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Course is reserved for Genetic Counseling students only."
+            }
+        ]
+    }
+]

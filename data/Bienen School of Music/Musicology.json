@@ -1,0 +1,418 @@
+[
+    {
+        "course_number": "346-0",
+        "course_name": "Composer Topics",
+        "course_reference_number": [
+            "22186",
+            "22187"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Bach's Passions",
+                "instructors": [
+                    "Composer Topics",
+                    "Andrew Talle"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Johannes Brahms",
+                "instructors": [
+                    "Composer Topics",
+                    "Andrew Talle"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Bach's Passions",
+                "Instructors": "Andrew Talle\n847/491-7228\nRCMA 4-133\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 113: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Johannes Brahms",
+                "Instructors": "Andrew Talle\n847/491-7228\nRCMA 4-133\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 113: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "352-0",
+        "course_name": "Topics in 17th Century Music",
+        "course_reference_number": [
+            "22108"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Desire, Drama, and Sorcery",
+                "instructors": [
+                    "Topics in 17th Century Music",
+                    "Linda Austern"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Desire, Drama, and Sorcery",
+                "Instructors": "Linda Austern\n847/491-5705\nl-austern@northwestern.edu\nOffice Hours: E-mail instructor to arrange a meeting.",
+                "Meeting Info": "RCMA Lower Level 115: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "354-0",
+        "course_name": "Topics in 19th Century Music",
+        "course_reference_number": [
+            "22109",
+            "22110"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Bel Canto Opera",
+                "instructors": [
+                    "Topics in 19th Century Music",
+                    "Jesse Rosenberg"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Orchestral Music",
+                "instructors": [
+                    "Topics in 19th Century Music",
+                    "Jesse Rosenberg"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Bel Canto Opera",
+                "Instructors": "Jesse Rosenberg\n847/467-2033\nj-rosenberg1@northwestern.edu",
+                "Meeting Info": "RCMA 1-172: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Orchestral Music",
+                "Instructors": "Jesse Rosenberg\n847/467-2033\nj-rosenberg1@northwestern.edu",
+                "Meeting Info": "RCMA 1-172: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "385-0",
+        "course_name": "Senior Project",
+        "course_reference_number": [
+            "22111",
+            "22112",
+            "22113",
+            "22114",
+            "22115",
+            "22116",
+            "22117"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Linda Austern"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Drew Davies"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Ryan Dohoney"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Inna Naroditskaya"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Scott Paulin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Jesse Rosenberg"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Andrew Talle"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Linda Austern\n847/491-5705\nl-austern@northwestern.edu\nOffice Hours: E-mail instructor to arrange a meeting.",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Drew Davies\n847/467-3367\ndedavies@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Ryan Dohoney\nryan.dohoney@northwestern.edu\nOffice Hours: Email instructor to arrange a meeting.",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Inna Naroditskaya\n847/467-2034\nin-narod@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Scott Paulin\ns-paulin@northwestern.edu\nOffice Hours: E-mail Instructor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Jesse Rosenberg\n847/467-2033\nj-rosenberg1@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            },
+            {
+                "Instructors": "Andrew Talle\n847/491-7228\nRCMA 4-133\nOffice Hours: by appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Musicology Colloquium",
+        "course_reference_number": [
+            "22183"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Musicology Colloquium",
+                "instructors": [
+                    "Andrew Talle"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Talle\n847/491-7228\nRCMA 4-133\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 115: Thurs 3:30PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Restricted to Music Undergraduates"
+            }
+        ]
+    },
+    {
+        "course_number": "400-0",
+        "course_name": "Graduate Review of Music History",
+        "course_reference_number": [
+            "22173"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Graduate Review of Music History",
+                "instructors": [
+                    "Emily C. Hoyler O'Hare"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "8:30AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Emily C. Hoyler O'Hare\nemilychoyler.ohare@northwestern.edu",
+                "Meeting Info": "RCMA 1-180: Tues, Thurs 8:30AM - 9:50AM",
+                "Overview of class": "This course will review the history of western art music with an overall aim of providing useful skills for the graduate careers and working lives of professional musicians. Beyond the goal of identifying and addressing students' areas of weakness in preparation for music-history comprehensive exams, our special focus will be the acquisition of pedagogy skills for the college-level teaching of music history, and most of the quarter's assignments (teaching demos, sample syllabi, etc.) will be designed to enhance students' experience in this area.",
+                "Class Materials (Required)": "Richard Taruskin and Christopher Gibbs, The Oxford History of Western Music, College Edition, 2nd edition. Oxford University Press, 2018. ISBN: 9780190600228. Estimated cost from $57 for a rented digital copy from the publisher's website to $180 for a new print copy.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Doctor of Music Students and PhD Composition students."
+            }
+        ]
+    },
+    {
+        "course_number": "452-0",
+        "course_name": "Seminar in 17th Century Music",
+        "course_reference_number": [
+            "22188"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Desire, Drama, and Sorcery",
+                "instructors": [
+                    "Seminar in 17th Century Music",
+                    "Linda Austern"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Desire, Drama, and Sorcery",
+                "Instructors": "Linda Austern\n847/491-5705\nl-austern@northwestern.edu\nOffice Hours: E-mail instructor to arrange a meeting.",
+                "Meeting Info": "RCMA Lower Level 115: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Musicology Colloquium",
+        "course_reference_number": [
+            "22185"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Musicology Colloquium",
+                "instructors": [
+                    "Andrew Talle"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Talle\n847/491-7228\nRCMA 4-133\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 115: Thurs 3:30PM - 6:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "541-0",
+        "course_name": "Music and Visual Culture",
+        "course_reference_number": [
+            "22211"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music and Visual Culture",
+                "instructors": [
+                    "Linda Austern"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Linda Austern\n847/491-5705\nl-austern@northwestern.edu\nOffice Hours: E-mail instructor to arrange a meeting.",
+                "Meeting Info": "RCMA Lower Level 115: Wed 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

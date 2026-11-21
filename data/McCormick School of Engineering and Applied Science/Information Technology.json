@@ -1,0 +1,142 @@
+[
+    {
+        "course_number": "421-0",
+        "course_name": "Computer Systems: Architecture, Organization and Software",
+        "course_reference_number": [
+            "20796"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Computer Systems: Architecture, Organization and Software",
+                "instructors": [
+                    "Alan Wolff"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "2:30PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alan Wolff",
+                "Meeting Info": "North Garage Padula Room 1430: Sa 2:30PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Information Technology (MSIT)"
+            }
+        ]
+    },
+    {
+        "course_number": "451-0",
+        "course_name": "Marketing Strategy and Analysis",
+        "course_reference_number": [
+            "20797"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Marketing Strategy and Analysis",
+                "instructors": [
+                    "Vijay Viswanathan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vijay Viswanathan",
+                "Meeting Info": "Technological Institute MG28: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Information Technology (MSIT)"
+            }
+        ]
+    },
+    {
+        "course_number": "456-0",
+        "course_name": "Financial Management for IT Professionals",
+        "course_reference_number": [
+            "20803"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Financial Management for IT Professionals",
+                "instructors": [
+                    "John Twombly"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:30AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Twombly",
+                "Meeting Info": "North Garage Krebs Room 1440: Sa 9:00AM - 11:30AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Information Technology (MSIT)"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Selected Topics in Information Technology",
+        "course_reference_number": [
+            "20805",
+            "20804"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Enterprise Architecture",
+                "instructors": [
+                    "Selected Topics in Information Technology",
+                    "Raju Kanjamalai",
+                    "Dimitra Kane"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "11:45AM",
+                "end_time": "2:15PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Cloud Computing",
+                "instructors": [
+                    "Selected Topics in Information Technology",
+                    "Yusuf Ozturk"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "11:45AM",
+                "end_time": "2:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Enterprise Architecture",
+                "Instructors": "Raju Kanjamalai",
+                "Meeting Info": "North Garage Padula Room 1430: Sa 11:45AM - 2:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Information Technology (MSIT)"
+            },
+            {
+                "Topic": "Cloud Computing",
+                "Instructors": "Yusuf Ozturk",
+                "Meeting Info": "North Garage Padula Room 1430: Sa 11:45AM - 2:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Information Technology (MSIT)"
+            }
+        ]
+    }
+]

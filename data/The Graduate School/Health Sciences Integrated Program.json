@@ -1,0 +1,60 @@
+[
+    {
+        "course_number": "400-2",
+        "course_name": "Interdisciplinary Health Sciences Doctoral Colloquium",
+        "course_reference_number": [
+            "28433"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Interdisciplinary Health Sciences Doctoral Colloquium",
+                "instructors": [
+                    "Lucy A Bilaver",
+                    "Richard Epstein"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lucy A Bilaver",
+                "Meeting Info": "TBA: Wed 1:30PM - 3:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for HSIP Program Students Only\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "442-0",
+        "course_name": "Health and Biomedical Informatics Methods II",
+        "course_reference_number": [
+            "28430"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Health and Biomedical Informatics Methods II",
+                "instructors": [
+                    "Adrienne Kline"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adrienne Kline",
+                "Meeting Info": "TBA: Wed 3:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

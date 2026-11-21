@@ -1,0 +1,189 @@
+[
+    {
+        "course_number": "401-0",
+        "course_name": "Topics in Sound Production",
+        "course_reference_number": [
+            "27850",
+            "27851",
+            "27852"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Surround Sound & Atmos",
+                "instructors": [
+                    "Topics in Sound Production",
+                    "Christina Nguyen"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Audio Documentary",
+                "instructors": [
+                    "Topics in Sound Production",
+                    "Bill Healy"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Sound for Theatre & Performance",
+                "instructors": [
+                    "Topics in Sound Production",
+                    "Matthew Test"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Surround Sound & Atmos",
+                "Instructors": "Christina Nguyen",
+                "Meeting Info": "Louis Hall 119: Wed 10:00AM - 12:50PM",
+                "Overview of class": "This course builds on the concepts and techniques of sound design for picture and introduces the world of 5.1 surround sound mixing and Dolby Atmos. Advanced techniques in automation, bussing, editing, and mixing will be covered. Students entering the class should have basic knowledge in Pro Tools, sound recording, and sound design techniques.",
+                "Learning Objectives": "By the end of this course, students will be able to:",
+                "Class Materials (Required)": ""
+            },
+            {
+                "Topic": "Audio Documentary",
+                "Instructors": "Bill Healy",
+                "Meeting Info": "Frances Searle 1111 SoundTank: Mon 10:00AM - 12:50PM",
+                "Overview of class": "This course is for students who want to take real life and mold it into short audio documentaries, using a mixture of interviews, observation, music and archival audio. The 10-week workshop begins with exercises that teach the fundamentals of public radio-style audio production. Students don't need to be journalists, but must be willing to talk to strangers and ask questions. This is a production-heavy class, with significant time spent recording in the world. There are listening assignments before every class, as well as guest speakers. Instruction on audio editing software is minimal; the emphasis is on reporting and editing narratives for listeners.",
+                "Registration Requirements": "Undergrads are welcome but all students need a permission number",
+                "Learning Objectives": "",
+                "Class Materials (Required)": "\"Out on the Wire\" by Jessica Abel ($15), an audio recorder, headphones, and a computer with audio editing software",
+                "Class Notes": "It's critical that students come to the first class with ideas of what they'd like to document."
+            },
+            {
+                "Topic": "Sound for Theatre & Performance",
+                "Instructors": "Matthew Test",
+                "Meeting Info": "Abbott Hall Wirtz Chicago 203: Fri 11:00AM - 1:50PM",
+                "Overview of class": "",
+                "Registration Requirements": "SAI Students and other grad students may register, undergrads require approval",
+                "Learning Objectives": "",
+                "Class Materials (Required)": "No required textbooks. Readings will be provided on Canvas based on student interests and relevant lectures."
+            }
+        ]
+    },
+    {
+        "course_number": "431-0",
+        "course_name": "Advanced Studio Production",
+        "course_reference_number": [
+            "27856",
+            "27857"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Studio Production",
+                "instructors": [
+                    "Alexander Inglizian"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Advanced Studio Production",
+                "instructors": [
+                    "Alexander Inglizian"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alexander Inglizian",
+                "Meeting Info": "Louis Hall 105: Mon 1:00PM - 4:50PM",
+                "Overview of class": "This course builds upon the skills learned in Introduction to Sound Production. Through technical tutorials, in-class projects, readings, discussions, and listening sessions we will examine the theory, techniques and practices surrounding audio recording and production. We will focus on advanced tracking, editing, mixing, mastering, and sound design techniques. There will be in-class tech labs and demonstration sessions that will contribute to the development of core technical skills, as well as prepare students for large-scale collaborative studio projects. This course will not only focus on the specific use of Pro Tools and the SSL recording console in the Louis Hall Soundstage, but also prepare students for the ability to translate their skills to any professional recording studio."
+            },
+            {
+                "Instructors": "Alexander Inglizian",
+                "Meeting Info": "Louis Hall 105: Fri 1:00PM - 4:50PM",
+                "Overview of class": "This course builds upon the skills learned in Introduction to Sound Production. Through technical tutorials, in-class projects, readings, discussions, and listening sessions we will examine the theory, techniques and practices surrounding audio recording and production. We will focus on advanced tracking, editing, mixing, mastering, and sound design techniques. There will be in-class tech labs and demonstration sessions that will contribute to the development of core technical skills, as well as prepare students for large-scale collaborative studio projects. This course will not only focus on the specific use of Pro Tools and the SSL recording console in the Louis Hall Soundstage, but also prepare students for the ability to translate their skills to any professional recording studio."
+            }
+        ]
+    },
+    {
+        "course_number": "452-0",
+        "course_name": "Videogame Sound Design",
+        "course_reference_number": [
+            "27858"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Videogame Sound Design",
+                "instructors": [
+                    "Stephan Moore"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephan Moore",
+                "Meeting Info": "Frances Searle 1101 SoundTank: Tues 2:00PM - 5:50PM",
+                "Overview of class": "This course is a study of sound design, production and engineering for videogames. It presents a solid foundation in the knowledge and skills needed to enter the game industry in sound, either working at a game development studio or as a freelance game audio professional. The course includes experience with typical game audio workflow and an historical overview of sound within the video game industry.",
+                "Learning Objectives": "At the end of this course, each student will be able to:",
+                "Class Notes": "Students outside of SAI may be granted permission to join the class at the discretion of the instructor, and if there are seats remaining after SAI registration. Please contact the instructor to express your interest in taking the class. At the least, some audio experience is required as the class will not be reviewing audio basics."
+            }
+        ]
+    },
+    {
+        "course_number": "502-0",
+        "course_name": "Introduction to Sound Science",
+        "course_reference_number": [
+            "27853"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Sound Science Acoustics",
+                "instructors": [
+                    "Introduction to Sound Science",
+                    "Robin Glosemeyer Petrone"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Sound Science Acoustics",
+                "Instructors": "Robin Glosemeyer Petrone",
+                "Meeting Info": "Frances Searle 1180-Dean Conf: Mon 6:00PM - 8:50PM",
+                "Overview of class": "The aural environments of the places we inhabit have a profound impact on how we interpret our surroundings and our experience within spaces. In the pursuit of understanding and shaping our soundscapes, we will explore the principles of acoustics including the behavior of sound in a medium, how sound interacts with materials, and how we hear and process sound as it relates to our environment. Through an increased awareness of our aural environment, we can optimize the spaces in which sound is produced and received. Students will gain an understanding of how the spaces they occupy when they are creating or presenting their work will impact the sound that is heard.",
+                "Learning Objectives": "Understanding the aural experience in the spaces we inhabit through an introduction to:",
+                "Class Materials (Required)": "Title: Architectural Acoustics*\n\nAuthor: M. David Egan\n\nISBN-13: 978-0070191112\n\nISBN-10: 9780070191112\n\nor\n\nISBN-13: 978-1932159783\n\nISBN-10: 1932159789\n\n* Either addition of the manuscript will be acceptable.\n\n\n\nAmazon.com: USD 44.88 Hardback (new condition)\n\nBarnesandnoble.com: USD 64.95 Hardback (new condition)"
+            }
+        ]
+    }
+]

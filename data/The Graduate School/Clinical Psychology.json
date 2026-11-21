@@ -1,0 +1,413 @@
+[
+    {
+        "course_number": "403-0",
+        "course_name": "Psychological Assessment II",
+        "course_reference_number": [
+            "20371"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Psychological Assessment II",
+                "instructors": [
+                    "James Reilly"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Reilly",
+                "Meeting Info": "TBA: Mon 1:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "407-0",
+        "course_name": "Child Psychological Assessment",
+        "course_reference_number": [
+            "20372"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Child Psychological Assessment",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "History and Systems of Psychology",
+        "course_reference_number": [
+            "28767"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "History and Systems of Psychology",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "416-0",
+        "course_name": "Psychopathology, Diagnosis, and Treatment Planning",
+        "course_reference_number": [
+            "20373"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Psychopathology, Diagnosis, and Treatment Planning",
+                "instructors": [
+                    "Cindy Veldhuis"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cindy Veldhuis",
+                "Meeting Info": "TBA: Thurs 1:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "417-0",
+        "course_name": "Behavioral Neuroscience",
+        "course_reference_number": [
+            "20378"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Behavioral Neuroscience",
+                "instructors": [
+                    "Michael Brook"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Brook",
+                "Meeting Info": "TBA: Tues 2:00PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Group Therapy",
+        "course_reference_number": [
+            "20380"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Group Therapy",
+                "instructors": [
+                    "Molly McLeese"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Molly McLeese",
+                "Meeting Info": "TBA: Thurs 9:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Career & Lifestyle Development",
+        "course_reference_number": [
+            "20381"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Career & Lifestyle Development",
+                "instructors": [
+                    "Joanna Torzewski"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "4:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joanna Torzewski",
+                "Meeting Info": "TBA: Wed 1:30PM - 4:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "427-0",
+        "course_name": "Research Methods II",
+        "course_reference_number": [
+            "20374"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Research Methods II",
+                "instructors": [
+                    "Zhidi Luo"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "1:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zhidi Luo",
+                "Meeting Info": "TBA: Fri 10:00AM - 1:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "430-0",
+        "course_name": "Human Growth & Development Across the Lifespan",
+        "course_reference_number": [
+            "20383"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Human Growth & Development Across the Lifespan",
+                "instructors": [
+                    "Kathleen McCoy"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "1:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kathleen McCoy",
+                "Meeting Info": "TBA: Tues 10:00AM - 1:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "441-0",
+        "course_name": "Introduction to Psychotherapy",
+        "course_reference_number": [
+            "20375"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Psychotherapy",
+                "instructors": [
+                    "Jaclyn Weisman"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jaclyn Weisman",
+                "Meeting Info": "TBA: Thurs 1:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "523-0",
+        "course_name": "Practicum",
+        "course_reference_number": [
+            "20376"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Practicum",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "530-0",
+        "course_name": "Practica/Internship",
+        "course_reference_number": [
+            "20384",
+            "20385"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Practica/Internship",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Practica/Internship",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            },
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "550-0",
+        "course_name": "APA-Accredited Internship (Full-Time, 1-year)",
+        "course_reference_number": [
+            "20379"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "APA-Accredited Internship (Full-Time, 1-year)",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    },
+    {
+        "course_number": "591-0",
+        "course_name": "Research Experience",
+        "course_reference_number": [
+            "20382"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Research Experience",
+                "instructors": [
+                    "Jason Washburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Washburn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Clinical Psych MS, MA, or PhD students."
+            }
+        ]
+    }
+]

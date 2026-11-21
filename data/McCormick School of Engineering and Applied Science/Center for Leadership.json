@@ -1,0 +1,90 @@
+[
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Leadership",
+        "course_reference_number": [
+            "28156"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Special Topics in Leadership",
+                "instructors": [
+                    "Adam Goodman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Goodman",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "396-0",
+        "course_name": "Field Studies in Leadership",
+        "course_reference_number": [
+            "28155"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar",
+                "instructors": [
+                    "Field Studies in Leadership",
+                    "Todd Murphy"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Seminar",
+                "Instructors": "Todd Murphy\n847/467-4661\nNU Center for Leadership - 1813 Hinman Avenue",
+                "Meeting Info": "Technological Institute LG62: Wed 1:30PM - 2:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "431-1",
+        "course_name": "Graduate Leadership Fellowship",
+        "course_reference_number": [
+            "28157"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Graduate Leadership Fellowship",
+                "instructors": [
+                    "Adam Goodman"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Goodman",
+                "Meeting Info": "Technological Institute L160: Fri 9:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

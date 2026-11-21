@@ -1,0 +1,147 @@
+[
+    {
+        "course_number": "501-0",
+        "course_name": "Advanced Epidemiology",
+        "course_reference_number": [
+            "28168"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Epidemiology",
+                "instructors": [
+                    "Gregory Phillips II"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:35AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gregory Phillips II",
+                "Meeting Info": "TBA: Thurs 9:35AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "502-0",
+        "course_name": "Advanced Biostatistics",
+        "course_reference_number": [
+            "28169"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Biostatistics",
+                "instructors": [
+                    "Kwang-Youn Kim"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "10:35AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kwang-Youn Kim\n312/503-4741\n680 N. Lake Shore Drive, Suite 1400\nOffice Hours: By Appointment",
+                "Meeting Info": "TBA: Mon, Wed 10:35AM - 12:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students.",
+                "Associated Classes": "LAB - TBA: Thurs 8:00AM - 9:00AM"
+            }
+        ]
+    },
+    {
+        "course_number": "521-0",
+        "course_name": "Survival Data Analysis",
+        "course_reference_number": [
+            "28183"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Survival Data Analysis",
+                "instructors": [
+                    "Lihui Zhao"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:35AM",
+                "end_time": "11:00AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lihui Zhao",
+                "Meeting Info": "TBA: Tues, Thurs 9:35AM - 11:00AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "560-0",
+        "course_name": "Statistical Consulting",
+        "course_reference_number": [
+            "28175"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Statistical Consulting",
+                "instructors": [],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:05PM",
+                "end_time": "2:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "TBA: Tues 1:05PM - 2:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "565-0",
+        "course_name": "Clinical Database Management",
+        "course_reference_number": [
+            "28184"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Clinical Database Management",
+                "instructors": [
+                    "Nicola Lancki"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:35PM",
+                "end_time": "2:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nicola Lancki",
+                "Meeting Info": "TBA: Mon 12:35PM - 2:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    }
+]

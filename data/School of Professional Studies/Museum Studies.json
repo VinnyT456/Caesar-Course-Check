@@ -1,0 +1,84 @@
+[
+    {
+        "course_number": "370-DL",
+        "course_name": "Museum Origins and Issues",
+        "course_reference_number": [
+            "20598"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Museum Origins and Issues",
+                "instructors": [
+                    "Caroline Goldthorpe"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Caroline Goldthorpe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "371-DL",
+        "course_name": "Successful Museum Management in Today's Environment",
+        "course_reference_number": [
+            "20599"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Successful Museum Management in Today's Environment",
+                "instructors": [
+                    "Debra Kerr",
+                    "Jack Ludden"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Debra Kerr",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "372-DL",
+        "course_name": "Learning and Museums",
+        "course_reference_number": [
+            "20600"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Learning and Museums",
+                "instructors": [
+                    "Caroline Goldthorpe"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Caroline Goldthorpe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    }
+]

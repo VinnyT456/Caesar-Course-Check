@@ -1,0 +1,56 @@
+[
+    {
+        "course_number": "301-DL",
+        "course_name": "Anatomy and Physiology of the Vocal Mechanism",
+        "course_reference_number": [
+            "20530"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Anatomy and Physiology of the Vocal Mechanism",
+                "instructors": [
+                    "Mariah Elaine Morton-Jones"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mariah Elaine Morton-Jones",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "318-DL",
+        "course_name": "Introduction to Audiology",
+        "course_reference_number": [
+            "20531"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Audiology",
+                "instructors": [
+                    "Jason Sanchez"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jason Sanchez",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

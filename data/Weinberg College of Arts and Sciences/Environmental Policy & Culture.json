@@ -1,0 +1,225 @@
+[
+    {
+        "course_number": "290-0",
+        "course_name": "Special Topics in Environmental Policy and Culture",
+        "course_reference_number": [
+            "28557"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Knowing Nature",
+                "instructors": [
+                    "Special Topics in Environmental Policy and Culture",
+                    "Madeline E. White"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Knowing Nature",
+                "Instructors": "Madeline E. White",
+                "Meeting Info": "Harris Hall L04: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Knowing Nature\n\nHow do we understand the world around us? Do we collect, draw, describe, measure, dissect? How have methods of understanding environments near and far changed over time? This class will explore the history of the natural sciences to understand the ways humans have created knowledge of the natural world. By reviewing methods of scientific documentation and assessment from the early modern period to the present day, students will gain familiarity with methods of observation and evidence used across the natural sciences and learn to think critically about the conditions under which ‘scientific investigation' is employed. Topics will vary across travel narratives, cartography, nomenclature and taxonomy, and craniometry. Many of these evidentiary practices are still in use today, and serve as central evidence for scientific studies, climate policy, and nonprofit initiatives. As a result of its historical focus, this course will also interrogate how practices of scientific measurement and documentation are intimately tied to the establishment of imperial control, leading to lasting legacies in modern political and climate landscapes. Class trips to the Field Museum and McCormick Library of Special Collections will be incorporated into learning.",
+                "Evaluation Method": "Class participation, short essays/reflections, end of term project/paper",
+                "Class Materials (Required)": "Course reading materials will be articles, excerpts, documents, and visual material posted to Canvas.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "337-0",
+        "course_name": "Hazard, Disaster and Society",
+        "course_reference_number": [
+            "21338"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Hazard, Disaster and Society",
+                "instructors": [
+                    "Elham Hoominfar"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elham Hoominfar\n2001 Sheridan Road, #2314",
+                "Meeting Info": "Parkes Hall 212: Tues 9:00AM - 11:50AM",
+                "Overview of class": "This course examines how socioeconomic and environmental factors work together to cause hazards and disasters in human society. In this course we learn the main concepts about disaster such as preparedness, vulnerability, resilience, response, mitigation, etc. We learn that a disaster does not have the same effect on everyone (all groups of people), and factors of social inequality such as race, ethnicity, class, and gender, make people more vulnerable to impacts of disasters. Also, this course, with an interdisciplinary perspective, analyzes disasters in the global North and South. This is a discussion-intensive course for advanced undergrad students. The classes are the student-centered with an emphasis on collaborative learning. The class meetings will consist of lecture, discussion, presentations, teamwork, activities, video/audio materials and projects.",
+                "Registration Requirements": "No freshmen.",
+                "Class Materials (Required)": "All required materials will be available on Canvas.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "352-0",
+        "course_name": "Maple Syrup and Climate Change",
+        "course_reference_number": [
+            "28558"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Maple Syrup and Climate Change",
+                "instructors": [
+                    "Eli Suzukovich III"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eli Suzukovich III\n1810 Hinman Avenue, Evanston, IL 60208-1310",
+                "Meeting Info": "2001 Sheridan GPC 4103: Fri 12:00PM - 3:00PM",
+                "Overview of class": "Maple Syrup and Climate Change\n\nAs the earth's climate changes, maple trees and the maple syrup industry in the U.S. and Canada are being affected, in both good and bad ways. The class will cover these effects, their impact on Native American and non-Native communities, the maple syrup industry, and maple species themselves through articles and readings. Along with a focus on maple syrup production, we will cover aspects of food sovereignty happening across the United States, Canada, and other parts of the world. Examining how communities and countries are looking inward towards traditional economies and practices to adapt to a changing climate. Through field observations of climatic and natural phenomena, students will work in groups to collect data from three maple species on campus. The groups will examine and record sugar ratios, sap flow rates, and ambient temperature and precipitation: along with a focus on species differentiation, soil nutrients, and campus micro-climates. The final product for the class would be a group data report. A copy of the report will go to facilities management to be added to their campus tree inventory.",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Special Topics in Environmental Policy and Culture",
+        "course_reference_number": [
+            "28553",
+            "28554",
+            "28555",
+            "28716",
+            "28819"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Rights of the Nonhuman",
+                "instructors": [
+                    "Special Topics in Environmental Policy and Culture",
+                    "Hannah Glasson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Environmental Political Theory",
+                "instructors": [
+                    "Special Topics in Environmental Policy and Culture",
+                    "Hannah Glasson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Living Archives: Engaging with Historical & Biolog",
+                "instructors": [
+                    "Special Topics in Environmental Policy and Culture",
+                    "Madeline E. White"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "US Health: Illness & Inequality",
+                "instructors": [
+                    "Special Topics in Environmental Policy and Culture",
+                    "Shana Bernstein"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "5",
+                "course_name": "Sociology of Infrastructure",
+                "instructors": [
+                    "Special Topics in Environmental Policy and Culture",
+                    "Salma Moustafa"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Rights of the Nonhuman",
+                "Instructors": "Hannah Glasson",
+                "Meeting Info": "2001 Sheridan GPC GN210: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Rights of the Nonhuman\n\nWestern political thought has long defined the political community by drawing a line between human beings and everything else. Today that line is contested from two directions at once. Animal advocates argue that sentient creatures are owed justice, representation, and even citizenship, while software developers, ethicists, and lawmakers have begun to ask whether artificial systems could one day bear moral claims of their own. This course treats these debates as a single problem in political theory. We begin with classical and modern accounts of what sets humans apart, then turn to contemporary arguments over animal rights and animal citizenship, the politics of industrial slaughter and racialized species boundaries, and the movement to grant legal rights to rivers, forests, and ecosystems. The final weeks ask whether AI systems could hold rights, and how they are already altering the conduct of democratic government. Throughout, we will examine which capacity (reason, language, sentience, or the possession of interests) grounds political standing, and what follows for democracy if that capacity turns out to be held beyond our species.",
+                "Learning Objectives": "By the end of the course, students will be able to reconstruct the major arguments for and against extending rights to animals and to artificial systems, and to identify the assumptions about personhood, sentience, and agency on which each argument depends. Students will compare how canonical political theorists and contemporary political scientists define membership in the political community, and will evaluate concrete proposals for representing nonhuman interests in law, public policy, and democratic decision-making. They will analyze how disputes over animal and machine standing intersect with questions of race, labor, and state power, and will assess empirical claims about the effects of AI on democratic institutions. Finally, students will develop and defend their own position on the scope of political standing in a sustained written argument that engages the course readings critically and anticipates serious objections.",
+                "Teaching Method": "Participation (30%): This is a discussion-based seminar, and your attendance and participation are of high importance. You are expected to come to class prepared to discuss the readings that were assigned for that day, and should participate in individual and group class activities as well as discussions. Effective participation includes speaking, listening, and respectful engagement with diverse perspectives and ideas. Use of technology should be appropriate and should not distract from class participation. Up to two absences are permissible without deduction.\n\nIn-Class Essay (20%): This will be a timed, 45-minute writing assignment that occurs during one of our regularly scheduled class sessions. I will provide more information on the prompts ahead of time so that you are able to prepare. However, the point of the in-class essay is for you to demonstrate that you have done the readings, understand the themes from the class, and can respond with your own original analysis.\n\nPresentation (25%): During the last week of class, you will deliver a 10-12 minute presentation on the topic that you plan to address in the final project. The presentation is an opportunity to receive feedback on the framing, arguments, or general approach that you are using in your final paper. It is also an opportunity for you to showcase the ideas that you are most excited about, and learn about what your classmates are working on. Be prepared to respond to questions from your peers.\n\nFinal Paper (25%): Your final paper will be a representation of your independent, creative synthesis of the concepts and ideas that we studied in the course. You are encouraged to make thematic connections between various class readings, and to connect the class readings to current events and relevant topics. You should include substantial engagement with 1-3 sources that go beyond the syllabus (I will provide some options, or you can find your own). Your paper should be 8-10 pages double-spaced, and you should make sure that your paper doesn't simply summarize the themes from the class, but also includes analysis. Be sure to include an AI statement detailing how and in what capacity you used AI, if at all.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Environmental Political Theory",
+                "Instructors": "Hannah Glasson",
+                "Meeting Info": "2001 Sheridan GPC 1135: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Environmental Political Theory\n\nEnvironmental Political Theory challenges the long-standing humanistic emphasis of political thought, insisting that nature is not simply a passive backdrop to human affairs but an active participant in political life. This course explores how social, discursive, and material forces interact to shape political systems, economies, and identities. We will examine how environmental political theorists reconceptualize the state, justice, and economic systems, while also rethinking political action and the meaning of human freedom. Special attention will be given to critiques of mainstream green politics and sustainable development, which, despite good intentions, can reinforce ideologies and institutions that drive ecological degradation. Alongside critique, we will study creative contemporary approaches that imagine new forms of political community and human freedom that do not depend on the domination and devaluation of nonhuman life. Finally, the course will turn to grassroots activism and community engagement as sites of possibility for building more just, democratic, and ecologically attuned forms of social, political, and economic order.",
+                "Learning Objectives": "Students will critically evaluate various theoretical, political, and ideological lenses that have structured approaches to environmental governance. Through practices of close reading, classroom discussion, and analytical writing, students will evaluate strengths and weaknesses of different arguments, put divergent perspectives into conversation, and apply academic theories to the analysis of real world issues.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Living Archives: Engaging with Historical & Biolog",
+                "Instructors": "Madeline E. White",
+                "Meeting Info": "555 Clark 230: Tues 2:00PM - 4:50PM",
+                "Overview of class": "Living Archives: Engaging with Historical & Biological Collections\n\nCorrespondence, records, and printed books are the essential tools of the historian. Collections of plants, known as herbaria, are used by plant scientists to ground research in areas such as taxonomy, phenology, evolutionary biology, and biodiversity conservation. However, as scholars seek to meet growing environmental concerns, the boundaries between these sources have become blurred. Increasingly, scientists have turned to archival materials such as diaries or common-place books to create new understandings of changing environments, while herbaria have been increasingly mined as new sites of cultural data and scientific histories. We will combine these two perspectives and explore how to make archives accessible beyond the disciplines they were designed for.\n\nWe will examine archives, biological and historical, as an object of study, rather than as the mere location of research. We will explore who is included and excluded in the archival system, and what characteristics are required for something to be truly considered an ‘archive', and for whom. Students will also develop skills needed to interpret these varied archives for research in their own discipline, including paleography and plant identification.\n\nThis class is designed as a learning practicum - not unlike a lab course. As such, class meetings will take place predominantly in McCormick Special Collections and at the Chicago Botanic Garden. Transportation will be provided where appropriate. Additional trips may also include the Field Museum.",
+                "Class Attributes": "Advanced Expression\nHistorical Studies Foundational Discipline\nSoC Additional Distro"
+            },
+            {
+                "Topic": "US Health: Illness & Inequality",
+                "Instructors": "Shana Bernstein\n847/467-6850\n620 Lincoln #205",
+                "Meeting Info": "University Hall 318: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "US Health: Illness & Inequality\n\nIn this course students will examine themes in the history of health in the U.S., particularly in the late nineteenth and twentieth centuries. Readings will focus on the intersections between health and environment, gender, race, law, and religion. We will consider questions such as what's the impact of environmental change in transforming medical, scientific, and lay understanding and experience of health and illness. What's the role of illness in shaping changing perceptions of the environment? How has race been central to the construction and treatment of disease? How has gender shaped conceptions of and approaches to health? What historical role have issues of gender, race and class played in the inequitable distribution of pollution and in activist involvement in combating environmental hazards? How has changing food production and culture shaped health? This course assumes no previous coursework in the field, and students with a wide variety of backgrounds and disciplines are encouraged to participate.",
+                "Registration Requirements": "Attendance at first class is mandatory.",
+                "Learning Objectives": "Course objectives include 1) to understand U.S. history (and contemporary society) through the lens of health and 2) to foster analytical, reading, discussion, and writing skills that will help students think and communicate critically about historical and contemporary society and politics.",
+                "Evaluation Method": "Attendance at first class is mandatory, two short papers, one longer one, one presentation and discussion",
+                "Class Materials (Required)": "Class materials: a combination of articles/book chapters on canvas and a few books: • Laurie B. Green, John McKiernan -Gonzalez, and Martin Summers, eds., Precarious Prescriptions: Contested Histories of Race and Health in North America • Nancy Langston, Toxic Bodies: Hormone Disruptors and the Legacy of DES • Susan Levine, Levine, School Lunch Politics: the Surprising History of America's Favorite Welfare Program • Elaine Tyler May, America + the Pill • Linda Nash, Inescapable Ecologies: A History of Environment, Disease, and Knowledge",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Sociology of Infrastructure",
+                "Instructors": "Salma Moustafa",
+                "Meeting Info": "2001 Sheridan GPC 1105: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Sociology of Infrastructure\n\nAll around us, infrastructures are being built to replace, renew, or occupy space, for all sorts of purposes. Scholars have complicated the concept of infrastructure, relating it to intricate technological systems like electric power grids, broad arrays of mundane objects like faucets and doorknobs, grand construction projects like dams, highways, and stadiums, networks of human and non-human actors like the internet, or even naturally occurring ecologies that are integrated in human systems, like wetlands and coastal dunes. In short, infrastructure has come to mean anything that relates to the systems and resources that allow society to function and access its needs and services. As we try to parse out these meanings, we will take a critical development-oriented approach to understanding infrastructure. Critical development studies have tried to understand the uneven diffusion of capitalism across the globe, and are helpful in explaining how certain forms of knowledge about the world came to be so salient over others. We will delve into the social processes, motivations, dynamics, and consequences of the construction and demolition of infrastructure in urban, rural, and desert areas, globally. We will take into account the role of the environment and nature in how actors have historically approached infrastructure projects, as well as the assumptions made about people and places to justify construction and demolition in service of building better infrastructures.\n\nAs we articulate an approach to the sociology of infrastructure, we will tackle the following questions:\nWhat counts as infrastructure?\nHow do infrastructural projects affect people and environments — and vice versa?\nWhat kinds of infrastructures are needed for today's societies, and why?\nWho are the experts on delivering infrastructural projects?\nWhat happens when infrastructural projects fail or are left unfinished?\nWho are the human and non-human actors that produce infrastructures?\nHow do infrastructures come to shape and be shaped by politics?\nHow do some people \"resist\" infrastructures?\n\nWe will take some creative and often experimental approaches to answering these questions in addition to our class readings, by involving other forms of digital and physical media, group activities, and reflective exercises. In some ways, this seminar is a sociological \"lab\" for understanding the concept of infrastructure theoretically as we explore real-life cases in depth. We will also dive into the methodological approaches for studying infrastructures, and assess the advantages and disadvantages of different approaches.",
+                "Learning Objectives": "By the end of this course, you should be able to:\n1. understand, compare, and assess the various meanings of infrastructure;\n2. formulate and respond to theoretical questions about knowledge, displacement, and development in terms of construction and demolition;\n3. apply concepts and approaches discussed in class and readings to real life cases and contexts;\n4. develop informed positions on different issues that pertain to global infrastructure practices;\n5. understand the different ways that social scientists, in particular sociologists, have methodologically approached the study of infrastructure.",
+                "Evaluation Method": "Two papers, presentation / exhibit, blog posts",
+                "Class Materials (Required)": "All materials for this course will be made available on Canvas - no purchase necessary.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    }
+]

@@ -1,0 +1,588 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "22942"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "On Seeing and Believing",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Pamela Bannos"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "On Seeing and Believing",
+                "Instructors": "Pamela Bannos",
+                "Meeting Info": "Kresge Centennial Hall 2-343: Tues, Thurs 1:00PM - 2:20PM",
+                "Overview of class": "This course will explore the history and nature of photographic imagery relating to its capacity for misrepresentation, with emphasis on context and photography as a contemporary art practice. From the work of 19th century photographers to conceptual artists of the 1980s; from optical lens distortion to post-production manipulation and recent AI applications, we will investigate the age-old issue of truth and its relationship to photography. In addition to more extensive essays, students will write short responses to readings, and produce imagery related to discussion topics.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "210-0",
+        "course_name": "Introduction to Drawing",
+        "course_reference_number": [
+            "22913",
+            "22914",
+            "22915",
+            "22916"
+        ],
+        "course_info": [
+            {
+                "section": "22",
+                "course_name": "Introduction to Drawing",
+                "instructors": [
+                    "Deborah Sokolow"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Introduction to Drawing",
+                "instructors": [
+                    "Deborah Sokolow"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Introduction to Drawing",
+                "instructors": [
+                    "Allison Wade"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "25",
+                "course_name": "Introduction to Drawing",
+                "instructors": [
+                    "Sarabeth Dunton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Deborah Sokolow",
+                "Meeting Info": "Kresge 1-345 Art Drawing Studi: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This course introduces students to the expressive use of various graphic media such as charcoal, pencil, crayon, chalk, pen and ink, and/or brush and wash. Specific techniques such as form modeling, spatial illusions, and principles of linear perspective may be explored. Through individual critiques and group discussions, students develop an awareness of the relationship between observation, technique, and expression. Evaluation is based on in-class performance, attendance, ability to absorb and use information, and/or a final portfolio.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $70. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Notes": "This course was previously offered under a different course number. If you have successfully completed a course matching the title of this course, you will not be eligible to receive credit for this course again.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Deborah Sokolow",
+                "Meeting Info": "Kresge 1-345 Art Drawing Studi: Tues, Thurs 1:00PM - 3:50PM",
+                "Overview of class": "This course introduces students to the expressive use of various graphic media such as charcoal, pencil, crayon, chalk, pen and ink, and/or brush and wash. Specific techniques such as form modeling, spatial illusions, and principles of linear perspective may be explored. Through individual critiques and group discussions, students develop an awareness of the relationship between observation, technique, and expression. Evaluation is based on in-class performance, attendance, ability to absorb and use information, and/or a final portfolio.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $70. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Notes": "This course was previously offered under a different course number. If you have successfully completed a course matching the title of this course, you will not be eligible to receive credit for this course again.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Allison Wade",
+                "Meeting Info": "Kresge 1-345 Art Drawing Studi: Mon, Wed 9:00AM - 11:50AM",
+                "Overview of class": "This course introduces students to the expressive use of various graphic media such as charcoal, pencil, crayon, chalk, pen and ink, and/or brush and wash. Specific techniques such as form modeling, spatial illusions, and principles of linear perspective may be explored. Through individual critiques and group discussions, students develop an awareness of the relationship between observation, technique, and expression. Evaluation is based on in-class performance, attendance, ability to absorb and use information, and/or a final portfolio.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $70. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Notes": "This course was previously offered under a different course number. If you have successfully completed a course matching the title of this course, you will not be eligible to receive credit for this course again.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Sarabeth Dunton",
+                "Meeting Info": "Kresge 1-345 Art Drawing Studi: Mon, Wed 1:00PM - 3:50PM",
+                "Overview of class": "This course introduces students to the expressive use of various graphic media such as charcoal, pencil, crayon, chalk, pen and ink, and/or brush and wash. Specific techniques such as form modeling, spatial illusions, and principles of linear perspective may be explored. Through individual critiques and group discussions, students develop an awareness of the relationship between observation, technique, and expression. Evaluation is based on in-class performance, attendance, ability to absorb and use information, and/or a final portfolio.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $70. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Notes": "This course was previously offered under a different course number. If you have successfully completed a course matching the title of this course, you will not be eligible to receive credit for this course again.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "220-0",
+        "course_name": "Introduction to Painting",
+        "course_reference_number": [
+            "22909",
+            "22910",
+            "22911",
+            "22912"
+        ],
+        "course_info": [
+            {
+                "section": "23",
+                "course_name": "Introduction to Painting",
+                "instructors": [
+                    "Frances Lee"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Introduction to Painting",
+                "instructors": [
+                    "Caroline Kent"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "25",
+                "course_name": "Introduction to Painting",
+                "instructors": [
+                    "Sherwin Ovid"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "26",
+                "course_name": "Introduction to Painting",
+                "instructors": [
+                    "Michael Cloud"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Frances Lee",
+                "Meeting Info": "Kresge 1335 Painting Studio: Mon, Wed 5:00PM - 7:50PM",
+                "Overview of class": "This course addresses various problems in painting and introduces students to modes of visual thinking. Work will be done in a two-dimensional format using paint on a gesso-prepared ground on a canvas support. The focus is on acquiring the basic material and technical skills necessary to articulate visual ideas in paint, including how to organize compositions using color and value relationships, form and shape, placement and paint application. Although most exercises deal with problems in painting, considerable work in drawing may be required to support studies in the use of color and paint. Assignments may introduce students to a variety of subject matter, such as still life, landscape and the figure in representational and abstract form. Instruction is individualized and students and faculty participate in one-on-one discussions of works in progress. Students also participate in class discussions and critiques to develop the criteria for making their own judgments about works of visual art. Evaluation is based on the degree of growth, attendance, participation and the degree of mastery of painting materials and techniques.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $150. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Caroline Kent",
+                "Meeting Info": "Kresge 1335 Painting Studio: Mon, Wed 1:00PM - 3:50PM",
+                "Overview of class": "This course addresses various problems in painting and introduces students to modes of visual thinking. Work will be done in a two-dimensional format using paint on a gesso-prepared ground on a canvas support. The focus is on acquiring the basic material and technical skills necessary to articulate visual ideas in paint, including how to organize compositions using color and value relationships, form and shape, placement and paint application. Although most exercises deal with problems in painting, considerable work in drawing may be required to support studies in the use of color and paint. Assignments may introduce students to a variety of subject matter, such as still life, landscape and the figure in representational and abstract form. Instruction is individualized and students and faculty participate in one-on-one discussions of works in progress. Students also participate in class discussions and critiques to develop the criteria for making their own judgments about works of visual art. Evaluation is based on the degree of growth, attendance, participation and the degree of mastery of painting materials and techniques.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $150. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Sherwin Ovid",
+                "Meeting Info": "Kresge 1335 Painting Studio: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This course addresses various problems in painting and introduces students to modes of visual thinking. Work will be done in a two-dimensional format using paint on a gesso-prepared ground on a canvas support. The focus is on acquiring the basic material and technical skills necessary to articulate visual ideas in paint, including how to organize compositions using color and value relationships, form and shape, placement and paint application. Although most exercises deal with problems in painting, considerable work in drawing may be required to support studies in the use of color and paint. Assignments may introduce students to a variety of subject matter, such as still life, landscape and the figure in representational and abstract form. Instruction is individualized and students and faculty participate in one-on-one discussions of works in progress. Students also participate in class discussions and critiques to develop the criteria for making their own judgments about works of visual art. Evaluation is based on the degree of growth, attendance, participation and the degree of mastery of painting materials and techniques.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $150. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Michael Cloud",
+                "Meeting Info": "Kresge 1335 Painting Studio: Tues, Thurs 1:00PM - 3:50PM",
+                "Overview of class": "This course addresses various problems in painting and introduces students to modes of visual thinking. Work will be done in a two-dimensional format using paint on a gesso-prepared ground on a canvas support. The focus is on acquiring the basic material and technical skills necessary to articulate visual ideas in paint, including how to organize compositions using color and value relationships, form and shape, placement and paint application. Although most exercises deal with problems in painting, considerable work in drawing may be required to support studies in the use of color and paint. Assignments may introduce students to a variety of subject matter, such as still life, landscape and the figure in representational and abstract form. Instruction is individualized and students and faculty participate in one-on-one discussions of works in progress. Students also participate in class discussions and critiques to develop the criteria for making their own judgments about works of visual art. Evaluation is based on the degree of growth, attendance, participation and the degree of mastery of painting materials and techniques.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Approximate cost for materials is $150. Supply kits will be available to purchase through the Evanston Dick Blick store by giving the store the name of the instructor and course.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "240-0",
+        "course_name": "Introduction to Sculpture",
+        "course_reference_number": [
+            "22917",
+            "22918"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Sculpture",
+                "instructors": [
+                    "Inigo Manglano-Ovalle"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Introduction to Sculpture",
+                "instructors": [
+                    "Michael Rakowitz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Inigo Manglano-Ovalle",
+                "Meeting Info": "Kresge 1425 Sculpture Room: Mon, Wed 1:00PM - 3:50PM",
+                "Overview of class": "Course is a basic introduction to sculptural concerns and issues of three-dimensional form. It includes instruction in traditional modeling techniques in various materials, including plaster and wood. The teaching method includes slide lectures, demonstrations of techniques and individual guidance on studio projects. There are occasional group critiques and discussions of exhibitions or readings. Evaluation is based on the quality of the completed studio projects, participation in group critiques and attendance.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Sculpture Materials costs: $50 or less",
+                "Class Notes": "This course was previously offered under a different course number. If you have successfully completed a course matching the title of this course, you will not be eligible to receive credit for this course again.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Michael Rakowitz",
+                "Meeting Info": "Kresge 1425 Sculpture Room: Mon, Wed 9:00AM - 11:50AM",
+                "Overview of class": "Course is a basic introduction to sculptural concerns and issues of three-dimensional form. It includes instruction in traditional modeling techniques in various materials, including plaster and wood. The teaching method includes slide lectures, demonstrations of techniques and individual guidance on studio projects. There are occasional group critiques and discussions of exhibitions or readings. Evaluation is based on the quality of the completed studio projects, participation in group critiques and attendance.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Sculpture Materials costs: $50 or less",
+                "Class Notes": "This course was previously offered under a different course number. If you have successfully completed a course matching the title of this course, you will not be eligible to receive credit for this course again.",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Introduction to Photography",
+        "course_reference_number": [
+            "22919",
+            "22920"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Introduction to Photography",
+                "instructors": [
+                    "Pamela Bannos"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Introduction to Photography",
+                "instructors": [
+                    "Curtis Miller"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pamela Bannos",
+                "Meeting Info": "Kresge 1310 Photo Classroom: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "This course concentrates on extensive darkroom instruction focusing on the production of high-quality black-and-white prints. Class sessions are devoted to lecture/demonstrations and group critiques that address both technique and content. Students work during class sessions as well as independently and students should be prepared to work in the photo lab outside of scheduled class meeting times. Evaluation of student performance is based on attendance, ability to absorb and implement information and a final portfolio.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Students must bring a 35mm camera that can be operated manually and a roll of 400 b&w, 36 exp. film to first class. Information on other materials needed will be on the syllabus and reviewed at the first class. Typically, this class will use the following materials, totaling $250:\nhttps://www.bhphotovideo.com/c/product/1656926-REG/ilford_film_paper_and_storage.html\nhttps://www.bhphotovideo.com/c/product/140932-REG/Besfile_B_9051_Archival_Binder_With_Rings.html",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Curtis Miller",
+                "Meeting Info": "Kresge 1310 Photo Classroom: Tues, Thurs 1:00PM - 3:50PM",
+                "Overview of class": "This course concentrates on extensive darkroom instruction focusing on the production of high-quality black-and-white prints. Class sessions are devoted to lecture/demonstrations and group critiques that address both technique and content. Students work during class sessions as well as independently and students should be prepared to work in the photo lab outside of scheduled class meeting times. Evaluation of student performance is based on attendance, ability to absorb and implement information and a final portfolio.",
+                "Registration Requirements": "No prerequisites. P/N permitted.",
+                "Class Materials (Required)": "Students must bring a 35mm camera that can be operated manually and a roll of 400 b&w, 36 exp. film to first class. Information on other materials needed will be on the syllabus and reviewed at the first class. Typically, this class will use the following materials, totaling $250:\nhttps://www.bhphotovideo.com/c/product/1656926-REG/ilford_film_paper_and_storage.html\nhttps://www.bhphotovideo.com/c/product/140932-REG/Besfile_B_9051_Archival_Binder_With_Rings.html",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "260-0",
+        "course_name": "Studio Practice",
+        "course_reference_number": [
+            "22941"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Studio Practice",
+                "instructors": [
+                    "Zachary Buchner"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zachary Buchner",
+                "Meeting Info": "Kresge 1319 Art Room: Tues, Thurs 1:00PM - 3:50PM",
+                "Overview of class": "This course is well designed for art majors in their junior year who have already taken multiple classes in the Art, Theory, and Practice department and are working towards building a self-directed practice. This course aims for students to develop working strategies and modes of research and study that support and guide their art-making practices and ultimately lead up to their Senior Exhibition the following year. This course is studio-based with self-guided prompts that will produce a variety of artworks, followed by class critiques. Students will also learn how to write an artist statement that exemplifies their intentions in their respective practices. For students interested in bringing their ideas to fruition in various mediums and who desire more independence and experimentation, this course is for you!",
+                "Class Materials (Required)": "Courses will vary with students own work and research in class.",
+                "Class Attributes": "Attendance at 1st class mandatory\nDepartment Majors Only\nJuniors Only\nDepartment Majors/Minors Only\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "272-0",
+        "course_name": "Critical Methods for Contemporary Art",
+        "course_reference_number": [
+            "22921"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Critical Methods for Contemporary Art",
+                "instructors": [
+                    "Steve Reinke"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Steve Reinke\n640 Lincoln St., Evanston Campus",
+                "Meeting Info": "Locy Hall 109: Tues 1:00PM - 3:50PM",
+                "Overview of class": "This course is designed to give both art majors and non-majors an introduction to histories and theories of 21st century art. Emphasis will be placed on applying the critical methods studied to students' everyday aesthetic experiences through visual and writing projects. Course readings will include art-historical texts, diaristic writings, critical theory, and literature. Class sessions will mix brief lectures, film screenings, and student-led seminar-style discussions.",
+                "Registration Requirements": "No prerequisites. P/N permitted only if course is not used either as a general distribution or departmental requirement.",
+                "Class Materials (Required)": "No course cost.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nAttendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "372-0",
+        "course_name": "Seminar",
+        "course_reference_number": [
+            "22922",
+            "22923"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Seminar",
+                "instructors": [
+                    "Steve Reinke"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "On Violence and the Prefigurative: Abolition, Depo",
+                "instructors": [
+                    "Seminar"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Steve Reinke\n640 Lincoln St., Evanston Campus",
+                "Meeting Info": "Kresge Centennial Hall 2-440: Tues 5:00PM - 7:50PM",
+                "Overview of class": "We'll look at various theories of the voice, particularly as recorded on film and video. Readings will include chapters from Michel Chion's \"The Voice in Cinema,\" Mladen Dolar's \"A Voice and Nothing More,\" Brian Kane's \"Sound Unseen,\" Friedrich Kittler's \"Gramophone, Film, Typewriter,\" Kaja Silverman's \"The Acoustic Mirror\" and Slavoj Žižek's \"Looking Awry.\"",
+                "Class Materials (Required)": "Reading packet, approximate cost $25",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nAttendance at 1st class mandatory\nSoC Additional Distro"
+            },
+            {
+                "Topic": "On Violence and the Prefigurative: Abolition, Depo",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Wed 1:00PM - 3:50PM",
+                "Overview of class": "On Violence and the Prefigurative: Abolition, Deposition, Mourning, and Strike\n\nWhen we grieve communally, we go on a general strike. We demand a suspension and an interruption, the condition of possibility for a beginning that will unfold otherwise. We join forces with the prefigurative, the unthought, and the uncaptured; when we pause, we coalesce with the temporal plasticity of the possible, with that which resists and survives what philosopher María Zambrano calls \"sacrificial history.\"\n\nIn this course we will read and respond, through collective and experimental writing, to a series of texts that insists that to change the world means both to invent a new language and to unearth the language of the buried, the unseen, and the unheard. We will focus on the force of the prefigurative and will study forms of counter-history that acknowledge that both the polysemy and ubiquity of violence pose a problem that can only be disentangled through an insurgent poetic transmutation.\n\nAmong others prefigurative propositions, we might encounter Rosa Luxemburg's general strike; W.E.B. Du Bois abolition-democracy; Walter Benjamin deposition of the law as a form of counter-violence; Eleni Stecoupoulos's abaton; Denise Ferreira Da Silva's multiple uses of Leibniz's corpus infinitum; Werner Hamacher's afformative strike; Fred Moten's chromatic saturation; Sarah Jaffe's excessive and revolutionary grief; Peter Dimock's injunction to write a love song for imperial times; Paul B. Preciado's dysphoria mundi; Cristina Rivera Garza's forensics of the unbearable in Liliana's Invincible Summer; or Christina Sharpe's wake work. Additionally, all participants will bring their own examples taken from a variety of artistic practices.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nAttendance at 1st class mandatory\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Studio",
+        "course_reference_number": [
+            "22924",
+            "22925",
+            "22926",
+            "22927"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "The Practice of Painting",
+                "instructors": [
+                    "Studio",
+                    "Caroline Kent"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Textile Tactics",
+                "instructors": [
+                    "Studio",
+                    "Allison Wade"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Cut and Paste // Collage",
+                "instructors": [
+                    "Studio",
+                    "Zachary Buchner"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "6",
+                "course_name": "Sonic Visions",
+                "instructors": [
+                    "Studio",
+                    "Sherwin Ovid"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Practice of Painting",
+                "Instructors": "Caroline Kent",
+                "Meeting Info": "Kresge 1335 Painting Studio: Mon, Wed 9:00AM - 11:50AM",
+                "Overview of class": "Designed for intermediate and advanced students who have completed Painting I or its equivalent, this course invites students to expand their understanding of painting through experimentation, curiosity, and creative risk-taking. Each class begins with an imaginative prompt that offers a unique starting point for making a painting. These prompts encourage students to approach the medium from new perspectives, challenge familiar methods of picture-making, and discover possibilities beyond their established ways of working. With an emphasis on exploration and invention, students will develop greater confidence in their ability to think creatively and respond to unfamiliar artistic challenges.",
+                "Class Materials (Required)": "Approximate materials cost: $180.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Textile Tactics",
+                "Instructors": "Allison Wade",
+                "Meeting Info": "Kresge 1410 Art Flex/Seminar: Mon, Wed 1:00PM - 3:50PM",
+                "Overview of class": "This studio course explores fiber and textiles as a medium for art making. Students will weave, salvage, deconstruct, piece, embellish, and reimagine materials as art objects, drawing inspiration from contemporary artists who use fiber in their work.\nThe quarter begins with building frame looms and learning basic weaving techniques to understand how fabric is constructed. The looms will serve as spaces for investigating composition, color, texture, and tension. Alongside weaving, hand-stitching and machine-sewing methods will be introduced as ways to assemble and adorn, with an emphasis on using found fabrics. The final part of the quarter will focus on the sculptural potential of textiles. In addition, a shibori dyeing workshop will give students the opportunity to hand-dye fabric.\n\nThroughout the course, students will be encouraged to think through making and to consider the capacity for metaphor and subversion inherent in fiber-based practices. Assigned readings will examine themes such as craft, labor, and identity. All are welcome to bring their own fiber-based skills and traditions to class, but no prior experience is necessary.\n\nUndergraduate Only.",
+                "Class Materials (Required)": "Estimated cost for materials: $50\n\n• Scissors: $10\n• Large eye embroidery needles: $8\nSub-total ~$20\n\nAt own discretion throughout the quarter, depending upon personal preferences, via Amazon, Blick, Vogue Fabrics, or WasteShed:\n• Fabric/Yarn: $20\n• Thrifting: $10\nSub-total ~$30",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Cut and Paste // Collage",
+                "Instructors": "Zachary Buchner",
+                "Meeting Info": "Kresge 1540 Art T&P Presentati: Tues, Thurs 9:00AM - 11:50AM",
+                "Overview of class": "Whether it's an onslaught of images, signs, digital manipulation, or surfaces - the ethos of Collage permeates our contemporary experience. This studio course will examine the historic precedents for contemporary works that blend, sample, layer, cut and paste in both traditional and digital ways. Through research, readings and experimentation, students will create objects that blur the line between Painting, Drawing, Sculpture and Photography.\n\nThis course will attempt to decode the current strategies of object making and expand on a field that is continually forcing collisions between increasingly disparate materials and styles.\n\nUndergraduate Only.",
+                "Class Materials (Required)": "Approximate cost = $100.00\nBlick list of basic supplies: https://www.dickblick.com/lists/wishlist/RJRHUDX6LO0R8",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Sonic Visions",
+                "Instructors": "Sherwin Ovid",
+                "Meeting Info": "Kresge 1305 Flex Seminar: Tues, Thurs 1:00PM - 3:50PM",
+                "Overview of class": "Principles of composition, rhythm, texture, and mood are shared descriptions for work produced in both visual and audible registers. This class will focus on painting, drawing and sculpture as a vehicle to explore the relationship between hearing and seeing. Exploring relevant artists that have built practices in connection with sonic engagement will be used as a springboard for students to generate their own personal investigations. Projects created in this course will center audible sensory experience as a reference and point of departure.",
+                "Class Materials (Required)": "Approximate materials cost: $100",
+                "Class Attributes": "Attendance at 1st class mandatory\nUndergraduate Students Only\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "423-0",
+        "course_name": "Visual Artist's Writing Practicum",
+        "course_reference_number": [
+            "22940"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Visual Artist's Writing Practicum",
+                "instructors": [
+                    "Lane Relyea"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lane Relyea\n640Lincoln St, Evanston Campus",
+                "Meeting Info": "Crowe Hall 1-140 Art T&P Room: Tues 1:00PM - 3:50PM",
+                "Overview of class": "Writing Practicum is a writing workshop for graduate level students with art practices. It may take different forms with different instructors, but generally involves weekly writing assignments which are critiqued in-class, along with reading and discussing various examples of artists' writing.",
+                "Class Materials (Required)": "Course costs will vary depending on each student's own research interests.",
+                "Class Attributes": "Graduate Students Only\nRestricted to Students in Program Only"
+            }
+        ]
+    }
+]

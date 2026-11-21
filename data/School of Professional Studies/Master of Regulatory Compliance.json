@@ -1,0 +1,62 @@
+[
+    {
+        "course_number": "401-DL",
+        "course_name": "Quality Systems",
+        "course_reference_number": [
+            "20509"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Quality Systems",
+                "instructors": [
+                    "Teresa Meiszberg"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Teresa Meiszberg",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "481-DL",
+        "course_name": "Leadership in the Regulatory Environment",
+        "course_reference_number": [
+            "20512"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Leadership in the Regulatory Environment",
+                "instructors": [
+                    "Russell Roberson"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Russell Roberson",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    }
+]

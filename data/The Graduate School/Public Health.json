@@ -1,0 +1,767 @@
+[
+    {
+        "course_number": "304-0",
+        "course_name": "Introduction to Epidemiology",
+        "course_reference_number": [
+            "28158"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Epidemiology",
+                "instructors": [
+                    "Rowland Chang"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rowland Chang",
+                "Meeting Info": "TBA: Wed 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "306-0",
+        "course_name": "Health Literacy, Communication, & Systems Change",
+        "course_reference_number": [
+            "28190"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Health Literacy, Communication, & Systems Change",
+                "instructors": [
+                    "Darcie Moeller"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Darcie Moeller",
+                "Meeting Info": "TBA: Tues 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students. Prerequisite: PUB_HLTH 301 Behavior Society and Health"
+            }
+        ]
+    },
+    {
+        "course_number": "310-2",
+        "course_name": "Public Health Practice for Physicians II",
+        "course_reference_number": [
+            "28165"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Public Health Practice for Physicians II",
+                "instructors": [
+                    "Darcie Moeller"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Darcie Moeller",
+                "Meeting Info": "TBA: Tues 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "318-0",
+        "course_name": "Seminar in Community Health Research & Evaluation II",
+        "course_reference_number": [
+            "28181"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar in Community Health Research & Evaluation II",
+                "instructors": [
+                    "Salva Balbale"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Salva Balbale",
+                "Meeting Info": "TBA: Thurs 4:30PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "Community Engaged Research",
+        "course_reference_number": [
+            "28174"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Community Engaged Research",
+                "instructors": [
+                    "Community Engaged Research"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Community Engaged Research",
+                "Meeting Info": "McGaw Pavilion 2-322 Kellerman: Thurs 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "(Dis)ability and Health",
+        "course_reference_number": [
+            "28192"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "(Dis)ability and Health",
+                "instructors": [
+                    "Martha Burla",
+                    "Sarah Pila"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Martha Burla",
+                "Meeting Info": "TBA: Mon 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "330-0",
+        "course_name": "Global Tobacco: Control and Prevention",
+        "course_reference_number": [
+            "28177"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Global Tobacco: Control and Prevention",
+                "instructors": [
+                    "Arthur Elster"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arthur Elster\n312/467-1697",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "350-0",
+        "course_name": "Dual Degree Seminar: Topics in Public Health for the Physical Therapist",
+        "course_reference_number": [
+            "28185"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Dual Degree Seminar: Topics in Public Health for the Physical Therapist",
+                "instructors": [
+                    "Antoinette L Spector"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Antoinette L Spector",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "370-2",
+        "course_name": "Seminar in Maternal Child Health II",
+        "course_reference_number": [
+            "28188"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Seminar in Maternal Child Health II",
+                "instructors": [
+                    "Susan Gerber",
+                    "Jessica George"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Gerber",
+                "Meeting Info": "TBA: Thurs 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students. Prequisites: PUB_HLTH 370-1 Seminar in Maternal Child Health (Fall quarter)"
+            }
+        ]
+    },
+    {
+        "course_number": "388-0",
+        "course_name": "Seminar in Global Health II",
+        "course_reference_number": [
+            "28182"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Seminar in Global Health II",
+                "instructors": [
+                    "Shahin Davoudpour"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shahin Davoudpour",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "391-0",
+        "course_name": "Global Health Care Service Delivery",
+        "course_reference_number": [
+            "28180"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Global Health Care Service Delivery",
+                "instructors": [
+                    "Ashti Doobay-Persaud"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "8:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ashti Doobay-Persaud",
+                "Meeting Info": "TBA: Thurs 5:30PM - 8:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "393-0",
+        "course_name": "Introduction to Health and Human Rights",
+        "course_reference_number": [
+            "28167"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Health and Human Rights",
+                "instructors": [
+                    "Sarah Dorman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah Dorman",
+                "Meeting Info": "TBA: Mon 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "414-0",
+        "course_name": "Injury and Violence Prevention",
+        "course_reference_number": [
+            "28164"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Injury and Violence Prevention",
+                "instructors": [
+                    "Karen Sheehan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Karen Sheehan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "416-0",
+        "course_name": "Program Evaluation",
+        "course_reference_number": [
+            "28172"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Program Evaluation",
+                "instructors": [],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "TBA: Wed 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "420-0",
+        "course_name": "Introduction to US Health Care System",
+        "course_reference_number": [
+            "28173"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to US Health Care System",
+                "instructors": [
+                    "Andy Rapoport"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andy Rapoport",
+                "Meeting Info": "TBA: Mon 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Intermediate Epidemiology",
+        "course_reference_number": [
+            "28159"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate Epidemiology",
+                "instructors": [
+                    "Thanh Huyen Vu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thanh Huyen Vu",
+                "Meeting Info": "TBA: Wed 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Introduction to GIS and Spatial Analysis for Public Health",
+        "course_reference_number": [
+            "28176"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to GIS and Spatial Analysis for Public Health",
+                "instructors": [
+                    "Daniel Block"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:45PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Block",
+                "Meeting Info": "TBA: Mon 5:00PM - 7:45PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "431-0",
+        "course_name": "Decision Analysis & Models of Decision Making",
+        "course_reference_number": [
+            "28823"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Decision Analysis & Models of Decision Making",
+                "instructors": [],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "TBA: Wed 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Health Services Research Design & Analysis Strategies: Technology Assessment",
+        "course_reference_number": [
+            "28160"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Health Services Research Design & Analysis Strategies: Technology Assessment",
+                "instructors": [
+                    "Joseph Feinglass"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joseph Feinglass\n312/503-6443",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "441-0",
+        "course_name": "Ethical Issues in Clinical Research",
+        "course_reference_number": [
+            "28161"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Ethical Issues in Clinical Research",
+                "instructors": [
+                    "Maureen Moran",
+                    "Mohammad Hosseini"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maureen Moran\n312 5030500\n680 N. Lake Shore Drive, Suite 1400\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: Tues 3:30PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "445-0",
+        "course_name": "Writing and Peer Reviewing for Scientific Publication",
+        "course_reference_number": [
+            "28163"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Writing and Peer Reviewing for Scientific Publication",
+                "instructors": [
+                    "Phil Fontanarosa"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Phil Fontanarosa",
+                "Meeting Info": "Online: Wed 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "451-0",
+        "course_name": "Advanced Topics in Implementation Science",
+        "course_reference_number": [
+            "28189"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Topics in Implementation Science",
+                "instructors": [
+                    "Callie Walsh-Bailey"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Callie Walsh-Bailey",
+                "Meeting Info": "TBA: Wed 2:00PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students. Prerequisite: PUB_HLTH 351-0 Introduction to Implementation Science"
+            }
+        ]
+    },
+    {
+        "course_number": "452-0",
+        "course_name": "Theories, Model, and Frameworks in Implementation Science",
+        "course_reference_number": [
+            "28191"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Theories, Model, and Frameworks in Implementation Science",
+                "instructors": [],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "TBA: Thurs 2:00PM - 5:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students. Prerequisite: PUB_HLTH 351-0 Introduction to Implementation Science"
+            }
+        ]
+    },
+    {
+        "course_number": "470-0",
+        "course_name": "Perinatal Mental Health: The Public Health Implications on Maternal & Child Hlth",
+        "course_reference_number": [
+            "28187"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Perinatal Mental Health: The Public Health Implications on Maternal & Child Hlth",
+                "instructors": [
+                    "Jaime Hamil"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jaime Hamil",
+                "Meeting Info": "TBA: Thurs 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "520-0",
+        "course_name": "Artificial Epidemics and Changes in Human Culture",
+        "course_reference_number": [
+            "28178"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Artificial Epidemics and Changes in Human Culture",
+                "instructors": [
+                    "Maureen Moran"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maureen Moran\n312 5030500\n680 N. Lake Shore Drive, Suite 1400\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: Mon 6:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "521-0",
+        "course_name": "Artificial Epidemics and Changes in Human Culture II",
+        "course_reference_number": [
+            "28179"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Artificial Epidemics and Changes in Human Culture II",
+                "instructors": [
+                    "Maureen Moran"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maureen Moran\n312 5030500\n680 N. Lake Shore Drive, Suite 1400\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: Mon 5:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    },
+    {
+        "course_number": "524-0",
+        "course_name": "Cardiovascular Disease Epidemiology",
+        "course_reference_number": [
+            "28166"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Cardiovascular Disease Epidemiology",
+                "instructors": [
+                    "Rachel Zmora"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rachel Zmora",
+                "Meeting Info": "TBA: Thurs 6:15PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    }
+]

@@ -1,0 +1,464 @@
+[
+    {
+        "course_number": "102-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "22530"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Mapping Our World",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Bo Zhang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Mapping Our World",
+                "Instructors": "Bo Zhang",
+                "Meeting Info": "Technological Institute F391: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Geospatial technologies have revolutionized the ways we observe, analyze, and represent our world. This seminar introduces students to how maps and spatial data shape our understanding of places, environments, and societies, from everyday navigation to global decision-making. Students will explore topics such as map design, spatial and satellite data, and the social dimensions of mapping.\n\nThrough analytical, reflective, and research-based writing, students will learn to interpret visual information, evaluate spatial arguments, and communicate insights clearly. This seminar emphasizes both spatial literacy and the development of strong academic writing skills.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "170-0",
+        "course_name": "Earth, the Biosphere, and our Environment",
+        "course_reference_number": [
+            "22533"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Earth, the Biosphere, and our Environment",
+                "instructors": [
+                    "Magdalena Osburn"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Magdalena Osburn\n847/491-4254\nTech F291/F292\nOffice Hours: by appointment",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "The current Earth-Biosphere system is unique from both what has come before and what will be. How evolution of the Earth, its residents, and their interactions create habitable environments is key to understanding our future. We will delve into fundamental topics in Earth Science, cell biology, and evolution to create a foundation on which to understand environmental sustainability.",
+                "Class Materials (Required)": "The Story of Earth - Robert Hazen\nISBN-13: 9780143123644\nISBN-10: 0143123645\n$19 new, ~$15 used\n\nLife's Engines: How Microbes Made Earth Habitable - Paul G. Falkowski\nISBN-10 ‏ : ‎ 0691155372\nISBN-13 ‏ : ‎ 978-0691155371\n$19 new, ~$7 used",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "210-0",
+        "course_name": "Earth Systems Science and Climate Change",
+        "course_reference_number": [
+            "22531"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Earth Systems Science and Climate Change",
+                "instructors": [
+                    "Matt Hurtgen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt Hurtgen\n847.491.7539\nTech F392\nOffice Hours: By appointment",
+                "Meeting Info": "Technological Institute L361: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This introductory course will cover Earth systems: atmosphere, biosphere, hydrosphere, and geosphere, and their interactions at local and global scales. With an emphasis on systems thinking, we will learn 1) how physical, chemical, and biological processes formed and modify the Earth's surface and climate; 2) the history of those processes and their regulation of global climate over the lifetime of our planet; and 3) how human activity now impacts these systems. Topics include Earth's energy sources and how they drive processes from plate tectonics to global wind patterns, the co-evolution of life with Earth's surface atmosphere, and environmental issues such as water resources and climate change. This is a required course for both Environmental Science and Earth and Planetary Sciences students.",
+                "Learning Objectives": "Learning Objectives: At the end of this course, students will be able to... a. define and describe the fundamental components of the Earth system (atmosphere, biosphere, hydrosphere, and geosphere), b. summarize the evolution climate and long-term Earth system changes over geologic time, c. apply systems thinking to examples of the complex and dynamic interdependence of the major processes that connect Earth systems, and d. assess how human activities are affecting the Earth system on both human and geologic timescales.",
+                "Teaching Method": "Lecture: 2 x 80 minutes",
+                "Evaluation Method": "Evaluations will be a combination of assignments and in-class questions and closed-book exams.",
+                "Class Materials (Required)": "No textbooks are required for the course.",
+                "Class Notes": "Class is lecture-based, but class periods will also include discussions and exercises that require thoughtful student participation. Students are expected to complete all assigned reading before class in order to contribute to discussions and required in-class exercises. Lectures will highlight and expand upon the most important topics in the assigned readings, but will not cover every topic covered in readings; likewise, some topics covered in lecture will not be covered in readings. Exams will cover all of the material from both lectures and readings. Therefore, success in this class requires both careful reading of assigned materials AND alert attendance in class.",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ANTI_REQ: Students may not enroll if they have previously completed EARTH 203-0 or ENVR_SCI 201-0."
+            }
+        ]
+    },
+    {
+        "course_number": "212-0",
+        "course_name": "Ecology & Environmental Change",
+        "course_reference_number": [
+            "22521"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Ecology & Environmental Change",
+                "instructors": [
+                    "Bradley S Stevenson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bradley S Stevenson",
+                "Meeting Info": "Tech Institute Lecture Room 4: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course studies the growth of populations and their interactions in ecological communities. Topics include: the ecological niche; projections of population growth, including the history of human growth, harvesting populations, and population viability analysis of endangered species; interactions among species, including competition, predation, and disease transmission; measuring the diversity of ecological communities; the effects of diversity on energy flow. More advanced topics will also be addressed, including the biodiversity-stability relationship, the economic values of biodiversity and ecosystem function, and the biology and management of metapopulations in fragmented habitats.\nPREVIOUSLY OFFERED AS ENVR SCI 202.\nTHIS COURES FULFILLS THE CORE COURSE MAJORE REQUIREMENTS FOR ENVIRONMENTAL SCIENCES.",
+                "Registration Requirements": "Recommended Background: MATH 220",
+                "Learning Objectives": "Introduce the concept of the ecological niche, and the limits on the distribution and abundance of populations.\nDevelop the basic mathematical tools for understanding models of population growth, sustainable harvest, extinction of fragmented populations, and spread of diseases.\nExplore the concept of the biological community and the role of biological diversity in healthy ecosystem functioning.",
+                "Teaching Method": "Two lectures per week.",
+                "Evaluation Method": "Two midterms @ 20% + 25% = 45%; four problem sets @ 10% each = 40%; in-class activities = 15%",
+                "Class Materials (Required)": "Ecology, by Michael Cain, William Bowman, and Sally Hacker / ISBN 9781605353050 / 2013 / 3rd ed / Sinauer Assoc.\nAll editions of the textbook are equally acceptable. ($98 new, $88 new rental, $20 used rental)",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ANTIREQ: Students may not enroll if they have previously completed ENVR_SCI 202."
+            }
+        ]
+    },
+    {
+        "course_number": "312-0",
+        "course_name": "Stable Isotope Geochemistry",
+        "course_reference_number": [
+            "22465"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Stable Isotope Geochemistry",
+                "instructors": [
+                    "Angelina J Locker"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Angelina J Locker",
+                "Meeting Info": "Technological Institute F285: Mon, Wed 3:00PM - 4:20PM",
+                "Overview of class": "This course examines the chemical, physical, and biological mechanisms underlying stable isotope fractionation. It focuses on the application of hydrogen, oxygen, carbon, nitrogen, and sulfur isotopes to questions in the Earth and life sciences, with particular emphasis on climate change, ancient ocean chemistry, plant physiology and ecology, and human and animal mobility.",
+                "Registration Requirements": "Recommended Background: Earth 213 and 214, or equivalent.",
+                "Teaching Method": "Lectures, student presentations, and discussion.",
+                "Evaluation Method": "Problem sets, presentations, midterm and final exam.",
+                "Class Materials (Required)": "Textbook freely available online.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "343-0",
+        "course_name": "Earth System Modeling",
+        "course_reference_number": [
+            "22529"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Earth System Modeling",
+                "instructors": [
+                    "Daniel Horton"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Horton\n847/467-6185\nTech F289/F290\nOffice Hours: By appointment",
+                "Meeting Info": "Technological Institute F491: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Earth System Modeling is an introduction to the art and science of reducing Earth's complex systems into simple numerical models. This course will survey core Earth system science topics, introduce numerical modeling concepts, and facilitate the construction of dynamical models in a hands-on computational laboratory environment. Core topics reviewed and modeled include Earth's energy balance, carbon cycle, and climate. The lecture portion of the course will highlight/review Earth science concepts, while the modeling component of the course will focus on the design, construction, and use of models to test hypotheses, and increase understanding of the forces and processes that shape the global environment. The modeling software to be used will be appropriate to undergraduates and beginning graduate students who do not have previous experience with solving differential equations or with computer programming, though students with these skill sets will appreciate the manifestation of numerical rules in the software package. Ultimately, this course is designed to empower students with introductory modeling skills that can be used to build a better understanding of how Earth's various components interact and evolve.",
+                "Registration Requirements": "Recommended Background: At least one 200-level course in Earth or Environmental Science, one course in each of calculus and physics.",
+                "Evaluation Method": "Lab reports and final project & presentation",
+                "Class Materials (Required)": "No textbook required",
+                "Class Notes": "Recommended Background: At least one 200-level course in Earth or Environmental Science, one course in each of calculus and physics.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "350-0",
+        "course_name": "Physics of the Earth for ISP",
+        "course_reference_number": [
+            "22464"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Physics of the Earth for ISP",
+                "instructors": [
+                    "Elvira Mulyukova"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elvira Mulyukova",
+                "Meeting Info": "ISP Sem Rm 203 - 616 Noyes St: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Fundamental physical processes necessary for an understanding of solid Earth processes, with the emphasis on plate tectonics and mantle convection. A summary of numerous geological, seismological, and paleomagnetic observations will be covered. Many geological problems involving heat conduction and solid and fluid mechanics require solutions of such classic partial differential equations as Laplace's equation, Poisson's equation, the biharmonic equation, and the diffusion equation. All these equations will be derived from first principles in the geological contexts in which they are used. We will cover elementary explanations for such important physical properties of matter as solid-state viscosity, thermal coefficient of expansion, and specific heat.",
+                "Registration Requirements": "Second-year standing in ISP, or equivalent background in physics and mathematics and permission of both ISP director and instructor.\nNo previous geological science required.",
+                "Learning Objectives": "After completing this course, students will be able to:\n• Understand the dynamics of the solid Earth and generalize it to other planetary bodies\n• Discuss the theory of plate tectonics, the geological evidence for it, and the physical processes that govern it\n• Set up simple quantitative physics-based models to interrogate the thermal and dynamic evolution of Earth's crust, lithosphere, and mantle",
+                "Teaching Method": "Lectures, class discussions.",
+                "Evaluation Method": "The students will be assessed based on:\n10% - Class participations (attendance, participation in class discussions and Q&A sessions),\n20% - Midterm exam,\n40% - Weekly homework assignments,\n30% - Final exam",
+                "Class Materials (Required)": "Turcotte, D. L., & Schubert, G. (2002). Geodynamics. Cambridge university press. ISBN: 9780521186230. Second edition or newer.\n~$100 new, or ~$50 used.",
+                "Class Notes": "Non-ISP undergraduates and graduate students interested in enrolling in this course should contact the instructor for more information.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Instrumentation and Field Methods",
+        "course_reference_number": [
+            "22522"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Instrumentation and Field Methods",
+                "instructors": [
+                    "Patricia A Beddows"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patricia A Beddows\n847.491.7460\nTech F295\nOffice Hours: By appointment",
+                "Meeting Info": "Technological Institute F285: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Theory and practicum on electronic instrumentation for monitoring and measurement in earth and environmental sciences, including data loggers, conceptual design and construction of electronic sensors, signal processing, data management, and network design. This is a very hands-on course, with balanced content between learning to solder and construct data logging instruments and sensing circuits, coding in C++ using the Arduino IDE (integrated Development environment), and undertaking experiments to collect primary data of earth and environmental systems.",
+                "Registration Requirements": "3 STEM courses at the 300 level, which may in EARTH, ENVR_SCI, BIOL_SCI, PHYSICS, CHEM, COMP_SCI, engineering, or aligned STEM disciplines. Or, email the instructor for consideration.",
+                "Teaching Method": "Lecture: 2 x 80 minutes\n\nWeekly Labs - starting in Week 1: The scheduled lab time is a fixed 50 minutes to start the labs with the introduction and demonstration, although most labs take 2-4 hours to complete. Students are welcome to step out for other scheduled classes (outside the enrolled 50-minute slot) and then return to the class lab Tech F389. Enrolled students will be asked to affirm they will commit the necessary time through Wednesday, with the class lab remaining open until at least 7 pm.",
+                "Evaluation Method": "Quizlets on Canvas.\n\nSatisfactory completion and submission of lab assignments.\n\nFinal Project, with submission of formal report.",
+                "Class Materials (Required)": "There are no required class materials to purchase.",
+                "Class Materials (Suggested)": "All materials provided, including all tools/components used in the construction of data loggers and sensing systems. Students keep their data loggers at the conclusion of the course. For some student final projects, you may elect to purchase some additional components that typically cost $10-30.",
+                "Class Notes": "The scheduled lab time is a fixed 50 minutes to start the labs, although most labs take 2-4 hours to complete. Enrolled students will be asked to affirm they will commit the necessary time through Wednesday, with the class lab remaining open until at least 7 pm.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed 3 units of any STEM credits",
+                "Associated Classes": "LAB - Technological Institute F389: Wed 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "363-1",
+        "course_name": "Geographical Information Systems – GIS Level 1",
+        "course_reference_number": [
+            "22532"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Geographical Information Systems – GIS Level 1",
+                "instructors": [
+                    "James H. Harris"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James H. Harris",
+                "Meeting Info": "Technological Institute F285: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Geographic Information Systems (GIS) provide powerful tools for organizing, visualizing, analyzing, and communicating information tied to location. This introductory course explores the concepts and applications of GIS through lectures and hands-on exercises using real-world spatial and temporal datasets. Students will learn how geographic information is represented and managed, work with vector and raster data, examine coordinate systems and map projections, perform spatial analyses, and create effective maps. Examples and applications will be drawn from the natural sciences, social sciences, and other fields. No prior experience with GIS is required.",
+                "Registration Requirements": "No prior GIS, programming, or science coursework is required. The course is intended for students from a broad range of academic backgrounds. Students who have previously completed ENVR_SCI 390: GIS Level 1 are subject to the existing enrollment restriction.",
+                "Learning Objectives": "Students will develop a conceptual and practical understanding of geographic information systems and spatial analysis. By the end of the course, students should be able to distinguish between vector and raster data models; locate, evaluate, and manage geospatial datasets; understand coordinate reference systems and map projections; perform fundamental attribute and spatial queries, joins, and geoprocessing operations; analyze geographic patterns using vector and raster data; and design maps that communicate spatial information effectively. Students will also learn to evaluate sources of spatial uncertainty, construct multi-step GIS workflows, and apply spatial evidence to investigate questions and support decision-making.",
+                "Teaching Method": "Class meetings combine lectures, software demonstrations, guided problem solving, and hands-on GIS exercises. Students will progressively develop practical skills through structured workflows involving data preparation, spatial analysis, and map production. Exercises will use real-world datasets from a variety of disciplines. Emphasis is placed on understanding the reasoning, assumptions, and limitations underlying GIS methods, rather than simply learning individual software commands. An individual applied project will provide an opportunity to investigate a question using GIS.",
+                "Evaluation Method": "Evaluation includes regular applied GIS assignments, short assessments of conceptual understanding and spatial reasoning, and an individual GIS project involving the analysis and presentation of geospatial data. Assignments emphasize the practical application of GIS methods, interpretation of results, and effective cartographic communication. Detailed assessment requirements and grading weights will be provided in the course syllabus.",
+                "Class Materials (Required)": "There is no required textbook. Course materials, laboratory instructions, datasets, and assigned readings will be provided through Canvas. GIS software and other necessary digital resources will be freely available or accessible through Northwestern University resources. Students will not be required to purchase specialized GIS software.",
+                "Class Materials (Suggested)": "Optional reference materials include Introduction to Geographic Information Systems (GIS) by Ingram and colleagues, an openly available textbook from the University System of Georgia, and A Gentle Introduction to GIS from the QGIS Project. Additional open educational resources and software documentation will be identified during the quarter.",
+                "Class Notes": "This course is designed for students with no prior experience in geographic information systems. Programming experience is not required. Students should be comfortable with basic computer operations and willing to learn unfamiliar software. A laptop is recommended for hands-on activities, although students who do not have access to suitable hardware should contact the instructor to discuss available University resources. GIS concepts and methods will be introduced progressively, with examples and guided workflows provided throughout the course.",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Anti-Requisite: Students may not enroll if they have completed ENVR_SCI 390 GIS Level 1."
+            }
+        ]
+    },
+    {
+        "course_number": "375-0",
+        "course_name": "Paleobiology",
+        "course_reference_number": [
+            "22534"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Paleobiology",
+                "instructors": [
+                    "Rosemary Bush"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rosemary Bush",
+                "Meeting Info": "Technological Institute F391: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Paleobiology: Fossils record the 3.8 billion year history of life on Earth, and extinct organisms make up 99% of all the species that ever lived. The fossil record reveals insights into evolutionary processes and the distributions and structures of organisms and ecosystems that cannot be observed by studying living organisms. This course is an introduction to the concepts of paleobiology: the nature of fossils, evolutionary trends and adaptations, systematics, paleoecology, and biogeography. We will investigate how life, from individual organisms to whole biomes, has changed over time; the geologic processes that lead to the burial and preservation of organic material; and the scientific methods by which we infer the biological processes that occurred across deep time from the limited and often biased fossil record. Course has prerequisites.",
+                "Registration Requirements": "Registration is reserved for undergraduates with at least one credit of either EARTH 201 or EARTH 203, graduate students, or undergraduates who have the consent of the instructor.",
+                "Class Materials (Required)": "Introduction to Paleobiology and the Fossil Record, 2nd Edition Benton, M.J. and D.A.T. Harper. 2020. Wiley-Blackwell. ISBN: 9781119272854",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: EARTH 210-0 and EARTH 212-0 or EARTH 214-0 (or equivalent), or instructor permission. Or graduate student."
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Special Topics in Earth, Environmental and Planetary Science",
+        "course_reference_number": [
+            "22527",
+            "22528",
+            "28347"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Limnology",
+                "instructors": [
+                    "Special Topics in Earth, Environmental and Planetary Science",
+                    "James H. Harris"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Remote Sensing",
+                "instructors": [
+                    "Special Topics in Earth, Environmental and Planetary Science",
+                    "Bo Zhang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Data Science and Visualization",
+                "instructors": [
+                    "Special Topics in Earth, Environmental and Planetary Science",
+                    "Gordon Smith"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Limnology",
+                "Instructors": "James H. Harris",
+                "Meeting Info": "Technological Institute F285: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Lakes and other inland waters are dynamic environmental systems shaped by interactions among climate, landscapes, water, organisms, and human activities. This course introduces the principles of limnology and explores the physical, chemical, biological, and hydrological processes that govern freshwater systems. Topics include lake formation and morphology, water and energy budgets, circulation and thermal stratification, water chemistry and nutrient cycling, aquatic productivity and ecosystems, and the responses of lakes to environmental change. Particular attention is given to the connections between lakes and their surrounding watersheds, atmosphere, and human communities. Lake Michigan, the Great Lakes, and examples from other regional and global lakes will be used to connect limnological concepts with real-world observations, environmental datasets, and contemporary freshwater challenges.",
+                "Registration Requirements": "No prior coursework in limnology or other sciences is required. The course is open to undergraduate and graduate students interested in freshwater environments. Previous coursework in the natural or environmental sciences may be helpful, but students from other disciplines are welcome.",
+                "Learning Objectives": "Students will develop an interdisciplinary understanding of lakes as interconnected physical, chemical, biological, and hydrological systems. By the end of the course, students should be able to explain how lake morphology, water budgets, circulation, and thermal stratification influence lake behavior; describe fundamental processes governing water chemistry, nutrient cycling, and aquatic productivity; interpret environmental observations, scientific graphs, and limnological datasets; evaluate interactions between lakes, their watersheds, and surrounding ecosystems; and assess how climate variability, climate change, and human activities affect freshwater environments and water quality.",
+                "Teaching Method": "Class meetings combine lecture, quantitative problem solving, interpretation of scientific observations, and guided analysis of environmental data. Students will examine examples from Lake Michigan, other Great Lakes, and freshwater systems from different geographic and climatic settings. Applied activities will introduce methods for interpreting lake conditions and environmental change using real observations and datasets. The course emphasizes connections among physical, chemical, biological, and hydrological processes, as well as the application of limnological knowledge to contemporary environmental questions.",
+                "Evaluation Method": "Evaluation will include short in-class assessments, applied exercises involving limnological observations and environmental datasets, and an individual project exploring a question related to lakes or other inland waters. Students will be assessed on their understanding of limnological processes, interpretation of scientific evidence, and ability to communicate environmental findings. There will be no traditional midterm or final examination. Detailed assessment requirements and grading weights will be provided in the course syllabus.",
+                "Class Materials (Required)": "There is no required textbook. Course materials, assigned readings, scientific publications, and environmental datasets will be provided through Canvas or made accessible through freely available online resources. Students will not be required to purchase a textbook or specialized scientific software.",
+                "Class Notes": "This course approaches limnology from an interdisciplinary perspective and is intended for students with interests in freshwater science, ecology, Earth and environmental sciences, and related fields. Prior experience with specialized limnological methods or scientific software is not required. Students should be comfortable interpreting scientific graphs and engaging with introductory quantitative concepts. Examples and case studies will emphasize the connections between lake processes, environmental conditions, and human activities, with particular attention to Lake Michigan and the Great Lakes region.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Remote Sensing",
+                "Instructors": "Bo Zhang",
+                "Meeting Info": "Technological Institute F391: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This course introduces remote sensing, the science of acquiring information about the Earth's surface and atmosphere from a distance, and explores its principles and applications. Topics include interactions of electromagnetic radiation with the atmosphere and surface materials, sensor and platform characteristics, image resolution, and interpretation of remotely sensed data. Students will gain experience working with satellite and aerial imagery and learn fundamental techniques for image processing, classification, and quantitative analysis, with applications in environmental monitoring, natural resources, land-use change, and related fields.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Data Science and Visualization",
+                "Instructors": "Gordon Smith",
+                "Meeting Info": "Technological Institute LG52: Mon, Wed 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "519-0",
+        "course_name": "Responsible Conduct of Research Training",
+        "course_reference_number": [
+            "22526"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Responsible Conduct of Research Training",
+                "instructors": [
+                    "Patricia A Beddows"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patricia A Beddows\n847.491.7460\nTech F295\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Earth & Planetary Sciences and Plant Biology and Conservation Graduate Students and Post-doctoral Fellows Only"
+            }
+        ]
+    }
+]

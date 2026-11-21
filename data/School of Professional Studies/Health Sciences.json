@@ -1,0 +1,56 @@
+[
+    {
+        "course_number": "317-DL",
+        "course_name": "Culturally Responsive Healthcare",
+        "course_reference_number": [
+            "20582"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Culturally Responsive Healthcare",
+                "instructors": [
+                    "Susan Wesner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Wesner",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "365-DL",
+        "course_name": "Data Management and Analytics in Healthcare",
+        "course_reference_number": [
+            "20583"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Management and Analytics in Healthcare",
+                "instructors": [
+                    "Matt Raveling"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt Raveling",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "course_number": "414-1",
+        "course_name": "Natural Language Processing",
+        "course_reference_number": [
+            "20944"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Natural Language Processing",
+                "instructors": [
+                    "Emilia Apostolova"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Emilia Apostolova",
+                "Meeting Info": "North Garage Krebs Room 1440: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Master of Science in Machine Learning and Data Science Students only.",
+                "Associated Classes": "LAB - North Garage Krebs Room 1440: Mon 11:00AM - 12:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "420-0",
+        "course_name": "Machine Learning II",
+        "course_reference_number": [
+            "20939"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Machine Learning II",
+                "instructors": [
+                    "Yuri Balasanov"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yuri Balasanov",
+                "Meeting Info": "North Garage Krebs Room 1440: Tues, Thurs 1:30PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Master of Science in Machine Learning and Data Science Students only.",
+                "Associated Classes": "LAB - North Garage Krebs Room 1440: Tues 11:00AM - 12:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "421-0",
+        "course_name": "Data Mining & Knowledge Discovery",
+        "course_reference_number": [
+            "20941"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Data Mining & Knowledge Discovery",
+                "instructors": [
+                    "Ashish Kumar Pujari"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ashish Kumar Pujari",
+                "Meeting Info": "Technological Institute M345: Tues, Thurs 4:00PM - 5:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Master of Science in Machine Learning and Data Science Students only.",
+                "Associated Classes": "LAB - North Garage Krebs Room 1440: Fri 11:00AM - 12:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "432-1",
+        "course_name": "Deep Learning",
+        "course_reference_number": [
+            "20945"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Deep Learning",
+                "instructors": [
+                    "Ashish Kumar Pujari"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ashish Kumar Pujari",
+                "Meeting Info": "North Garage Krebs Room 1440: Fri 1:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Master of Science in Machine Learning and Data Science Students only.",
+                "Associated Classes": "LAB - North Garage Krebs Room 1440: Thurs 3:00PM - 4:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "492-0",
+        "course_name": "Industry Practicum",
+        "course_reference_number": [
+            "20943"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Industry Practicum",
+                "instructors": [
+                    "Yuri Balasanov"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yuri Balasanov",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Department Majors Only",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Master of Science in Machine Learning and Data Science Students only."
+            }
+        ]
+    }
+]

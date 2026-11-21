@@ -1,0 +1,481 @@
+[
+    {
+        "course_number": "101-2",
+        "course_name": "Beginning German",
+        "course_reference_number": [
+            "24807",
+            "24808",
+            "24809",
+            "24810"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Beginning German",
+                "instructors": [
+                    "Denise M Meuser"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Beginning German",
+                "instructors": [
+                    "Matthew Bishop Reeder"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Beginning German",
+                "instructors": [
+                    "Domenic DeSocio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Beginning German",
+                "instructors": [
+                    "Rob Ryder"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Denise M Meuser\n8474918292\n1880 Campus Drive, Kresge Hall, Rm 3319\nOffice Hours: MW 1-2pm and by appointment",
+                "Meeting Info": "Parkes Hall 223: Mon, Wed, Fri 9:30AM - 10:50AM",
+                "Overview of class": "Students in Beginning German 101-2 will continue to expand their active vocabulary in German, improve their understanding of grammatical concepts and further their oral and aural comprehension skills. Students will be able to interview a guest in German and write a biographical essay by the end of the quarter. Features of 101-2 include varied writing assignments, cultural presentations, poems by Goethe, as well as an interview with a native speaker or \"Mystery Guest\" that will form the basis for the final essay.",
+                "Registration Requirements": "Completion of 101-1 or placement into 101-2",
+                "Learning Objectives": "The following Can-Do statements define the course expectations and learning objectives. Here is what you can expect to be able to accomplish in this course:\n\nUnderstanding: Listening: I can recognize high frequency vocabulary and basic phrases concerning myself, my family and immediate concrete surroundings when people speak slowly and clearly.\n\nReading: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters.\n\nSpeaking: Spoken Interaction: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics.\n\nSpoken Production: I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job.\n\nWriting: Writing: I can write a short, simple postcard. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. I can write short, simple notes and messages relating to matters in areas of immediate needs. I can write a very simple personal letter or describe personal routines and plans.\nCommon European Framework of Reference for Languages (A1)",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nListening exercises\nWriting assignments",
+                "Class Materials (Required)": "1. Kontakte 9th ed + Connect:\nErwin Tschirner, Brigitte Nikolai / Kontakte / 9th edition / McGraw Hill / 2021\nBundle of Ebook + Connect: ISBN10: 1264225334 | ISBN13: 9781264225330\n\n2. 101 Cultural Reader - online via Canvas",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 101-1 or placement test results."
+            },
+            {
+                "Instructors": "Matthew Bishop Reeder\nKresge 3-350\nOffice Hours: W 12:30-2:00 and by appt",
+                "Meeting Info": "Parkes Hall 214: Mon, Wed, Fri 11:00AM - 12:20PM",
+                "Overview of class": "Students in Beginning German 101-2 will continue to expand their active vocabulary in German, improve their understanding of grammatical concepts and further their oral and aural comprehension skills. Students will be able to interview a guest in German and write a biographical essay by the end of the quarter. Features of 101-2 include varied writing assignments, cultural presentations, poems by Goethe, as well as an interview with a native speaker or \"Mystery Guest\" that will form the basis for the final essay.",
+                "Registration Requirements": "Completion of 101-1 or placement into 101-2",
+                "Learning Objectives": "The following Can-Do statements define the course expectations and learning objectives. Here is what you can expect to be able to accomplish in this course:\n\nUnderstanding: Listening: I can recognize high frequency vocabulary and basic phrases concerning myself, my family and immediate concrete surroundings when people speak slowly and clearly.\n\nReading: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters.\n\nSpeaking: Spoken Interaction: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics.\n\nSpoken Production: I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job.\n\nWriting: Writing: I can write a short, simple postcard. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. I can write short, simple notes and messages relating to matters in areas of immediate needs. I can write a very simple personal letter or describe personal routines and plans.\nCommon European Framework of Reference for Languages (A1)",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nListening exercises\nWriting assignments",
+                "Class Materials (Required)": "1. Kontakte 9th ed + Connect:\nErwin Tschirner, Brigitte Nikolai / Kontakte / 9th edition / McGraw Hill / 2021\nBundle of Ebook + Connect: ISBN10: 1264225334 | ISBN13: 9781264225330\n\n2. 101 Cultural Reader - online via Canvas",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 101-1 or placement test results."
+            },
+            {
+                "Instructors": "Domenic DeSocio\nKresge 3-315\nOffice Hours: W 11-12 and by appointment",
+                "Meeting Info": "Parkes Hall 222: Mon, Wed, Fri 12:30PM - 1:50PM",
+                "Overview of class": "Students in Beginning German 101-2 will continue to expand their active vocabulary in German, improve their understanding of grammatical concepts and further their oral and aural comprehension skills. Students will be able to interview a guest in German and write a biographical essay by the end of the quarter. Features of 101-2 include varied writing assignments, cultural presentations, poems by Goethe, as well as an interview with a native speaker or \"Mystery Guest\" that will form the basis for the final essay.",
+                "Registration Requirements": "Completion of 101-1 or placement into 101-2",
+                "Learning Objectives": "The following Can-Do statements define the course expectations and learning objectives. Here is what you can expect to be able to accomplish in this course:\n\nUnderstanding: Listening: I can recognize high frequency vocabulary and basic phrases concerning myself, my family and immediate concrete surroundings when people speak slowly and clearly.\n\nReading: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters.\n\nSpeaking: Spoken Interaction: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics.\n\nSpoken Production: I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job.\n\nWriting: Writing: I can write a short, simple postcard. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. I can write short, simple notes and messages relating to matters in areas of immediate needs. I can write a very simple personal letter or describe personal routines and plans.\nCommon European Framework of Reference for Languages (A1)",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nListening exercises\nWriting assignments",
+                "Class Materials (Required)": "1. Kontakte 9th ed + Connect:\nErwin Tschirner, Brigitte Nikolai / Kontakte / 9th edition / McGraw Hill / 2021\nBundle of Ebook + Connect: ISBN10: 1264225334 | ISBN13: 9781264225330\n\n2. 101 Cultural Reader - online via Canvas",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 101-1 or placement test results."
+            },
+            {
+                "Instructors": "Rob Ryder\n847/491-8295\nKresge 3-327\nOffice Hours: TW 2-3pm and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-425: Mon, Wed, Fri 3:30PM - 4:50PM",
+                "Overview of class": "Students in Beginning German 101-2 will continue to expand their active vocabulary in German, improve their understanding of grammatical concepts and further their oral and aural comprehension skills. Students will be able to interview a guest in German and write a biographical essay by the end of the quarter. Features of 101-2 include varied writing assignments, cultural presentations, poems by Goethe, as well as an interview with a native speaker or \"Mystery Guest\" that will form the basis for the final essay.",
+                "Registration Requirements": "Completion of 101-1 or placement into 101-2",
+                "Learning Objectives": "The following Can-Do statements define the course expectations and learning objectives. Here is what you can expect to be able to accomplish in this course:\n\nUnderstanding: Listening: I can recognize high frequency vocabulary and basic phrases concerning myself, my family and immediate concrete surroundings when people speak slowly and clearly.\n\nReading: I can read very short, simple texts. I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and I can understand short simple personal letters.\n\nSpeaking: Spoken Interaction: I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say. I can ask and answer simple questions in areas of immediate need or on very familiar topics.\n\nSpoken Production: I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job.\n\nWriting: Writing: I can write a short, simple postcard. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. I can write short, simple notes and messages relating to matters in areas of immediate needs. I can write a very simple personal letter or describe personal routines and plans.\nCommon European Framework of Reference for Languages (A1)",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nListening exercises\nWriting assignments",
+                "Class Materials (Required)": "1. Kontakte 9th ed + Connect:\nErwin Tschirner, Brigitte Nikolai / Kontakte / 9th edition / McGraw Hill / 2021\nBundle of Ebook + Connect: ISBN10: 1264225334 | ISBN13: 9781264225330\n\n2. 101 Cultural Reader - online via Canvas",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 101-1 or placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "102-2",
+        "course_name": "Intermediate German",
+        "course_reference_number": [
+            "24811",
+            "24812",
+            "24813"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate German",
+                "instructors": [
+                    "Domenic DeSocio"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Intermediate German",
+                "instructors": [
+                    "Maria Zahner"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Intermediate German",
+                "instructors": [
+                    "Martina Kerlova"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Domenic DeSocio\nKresge 3-315\nOffice Hours: W 11-12 and by appointment",
+                "Meeting Info": "Parkes Hall 222: Mon, Wed, Fri 9:30AM - 10:50AM",
+                "Overview of class": "This is the second quarter of a three-quarter sequence Intermediate German. We will continue to use AKROBATIK as our core grammar online resource, discuss everyday culture of German-speaking countries, and read an excerpt from a play by Bertolt Brecht to continue our exploration of modern German literature. No purchase necessary; all materials are sponsored by the German department.",
+                "Registration Requirements": "102-1 or equivalent; students with other background, please contact the coordinator (m-kerlova@northwestern.edu)",
+                "Learning Objectives": "Students will be able to converse and write in German about everyday life and about selected literary and cultural themes specific to German speaking regions. Students will continue to develop their listening and reading comprehension and they will gain knowledge of cultural, social, and political issues in contemporary Germany, and its recent history.",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nPaper, final\nQuizzes",
+                "Class Materials (Required)": "No purchase necessary; all materials are sponsored by the German department.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 102-1 or or placement test results."
+            },
+            {
+                "Instructors": "Maria Zahner\nKresge 3-350\nOffice Hours: W 12:30-1:30 and by appt",
+                "Meeting Info": "Parkes Hall 222: Mon, Wed, Fri 11:00AM - 12:20PM",
+                "Overview of class": "This is the second quarter of a three-quarter sequence Intermediate German. We will continue to use AKROBATIK as our core grammar online resource, discuss everyday culture of German-speaking countries, and read an excerpt from a play by Bertolt Brecht to continue our exploration of modern German literature. No purchase necessary; all materials are sponsored by the German department.",
+                "Registration Requirements": "102-1 or equivalent; students with other background, please contact the coordinator (m-kerlova@northwestern.edu)",
+                "Learning Objectives": "Students will be able to converse and write in German about everyday life and about selected literary and cultural themes specific to German speaking regions. Students will continue to develop their listening and reading comprehension and they will gain knowledge of cultural, social, and political issues in contemporary Germany, and its recent history.",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nPaper, final\nQuizzes",
+                "Class Materials (Required)": "No purchase necessary; all materials are sponsored by the German department.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 102-1 or or placement test results."
+            },
+            {
+                "Instructors": "Martina Kerlova\n847/491-5788\n1880 Campus Drive, Kresge, Office 3325\nOffice Hours: Wednesdays 2-3:30 and by appointment",
+                "Meeting Info": "Parkes Hall 224: Mon, Wed, Fri 12:30PM - 1:50PM",
+                "Overview of class": "This is the second quarter of a three-quarter sequence Intermediate German. We will continue to use AKROBATIK as our core grammar online resource, discuss everyday culture of German-speaking countries, and read an excerpt from a play by Bertolt Brecht to continue our exploration of modern German literature. No purchase necessary; all materials are sponsored by the German department.",
+                "Registration Requirements": "102-1 or equivalent; students with other background, please contact the coordinator (m-kerlova@northwestern.edu)",
+                "Learning Objectives": "Students will be able to converse and write in German about everyday life and about selected literary and cultural themes specific to German speaking regions. Students will continue to develop their listening and reading comprehension and they will gain knowledge of cultural, social, and political issues in contemporary Germany, and its recent history.",
+                "Evaluation Method": "Attendance\nClass participation\nExams\nGroup work\nHomework\nPaper, final\nQuizzes",
+                "Class Materials (Required)": "No purchase necessary; all materials are sponsored by the German department.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: GERMAN 102-1 or or placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "104-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "24838"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Schleiermacher's Speeches on Religion",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Christine Helmer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Schleiermacher's Speeches on Religion",
+                "Instructors": "Christine Helmer\n847/491-2616\nKresge Hall #3341\nOffice Hours: Wed 2-4 pm on zoom",
+                "Meeting Info": "Shepard Hall B08/B09: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Friedrich Schleiermacher (1768-1834) was one of the most important writers and thinkers of his time. His innovations include the organization of the modern research university, his theory of the self, and his understanding of religion. We focus our attention in this course to his work from 1799, On Religion: Speeches to its Cultured Despisers, as we discuss how this foundational text in the study of religion is also a literary treasure, a model for the relation of religion to the state, and how religion is central to both self and community. Please purchase required text, translated by Richard Crouter with ISBN 978-0521479752, published by Cambridge University Press 1996 ($56) well in advance of the first day of class.",
+                "Registration Requirements": "This a first-year seminar in the Weinberg College",
+                "Learning Objectives": "To read a classic of German literature on religion as an entire book and with understanding.\nTo know the basic argument of the book and its constituent steps.\nTo appreciate the genre and rhetoric of the speeches.\nTo write a paper that is coherent, well argued, judiciously documented, and written in clear prose.",
+                "Evaluation Method": "Attendance\nClass participation\nGroup work\nHomework\nOther\nPaper, final\nReadings\nWriting assignments",
+                "Class Materials (Required)": "Friedrich Schleiermacher, On Religion: Speeches to its Cultured Despisers, translated by Richard Crouter (Cambridge: Cambridge University Press, 1996); ISBN 978-0521479752; $56",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "201-0",
+        "course_name": "Focus Reading",
+        "course_reference_number": [
+            "24832"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Tensions in the Modern Age: Art as a Reflection of",
+                "instructors": [
+                    "Focus Reading",
+                    "Denise M Meuser"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Tensions in the Modern Age: Art as a Reflection of",
+                "Instructors": "Denise M Meuser\n8474918292\n1880 Campus Drive, Kresge Hall, Rm 3319\nOffice Hours: MW 1-2pm and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "The class will provide an introduction to the period of the German Empire or Kaiserreich 1871 - 1918. It examines the explosion of art and industry at the turn of the century that for the first time included substantial opportunities for women. This epoch in German history is emblematic for modernism. Through short historical texts, biographies, letters and journals, students will learn about social issues, German politics and art movements. Historical figures of the period included Bismarck, Kaiser Wilhelm II, and Käthe Kollwitz. Visits to the Art Institut, the Block Museum and the Milwaukee Art Museum are planned. Students will complete a project-based presentation and paper in lieu of a final exam.",
+                "Registration Requirements": "Students should have completed their language requirement with 102-3, have German AP score of 4, or permission of the DUS.",
+                "Learning Objectives": "The course serves as a bridge course to more advanced culture and literature courses in the German department. It provides an opportunity for students to work intensively on their reading and comprehension skills but also has a strong communicative component, as the readings will provide the basis for interpretive discussions, short presentations and written work.",
+                "Teaching Method": "seminar",
+                "Evaluation Method": "Attendance\nClass participation\nExam, mid-term\nHomework\nPaper, final\nReadings\nWriting assignments",
+                "Class Materials (Required)": "Materials will be made available via Canvas and/or available as a Reader",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "230-0",
+        "course_name": "Berlin and the Culture of Democracy",
+        "course_reference_number": [
+            "28591"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Berlin and the Culture of Democracy",
+                "instructors": [
+                    "Anna Parkinson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anna Parkinson\n847/467-5173\n1880 Campus Drive, Kresge Hall, Rm 3321, Evanston\nOffice Hours: By appointment",
+                "Meeting Info": "Harris Hall L28: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This class considers the history and culture of Berlin from 1900 to the present. Through a wide range of media (literature, film, photography, historical documents) we can see a series of transformative moments in German cultural history through the prism of Berlin. Students will engage with the varied historical, socio-political, and artistic changes in German culture throughout the twentieth and twenty-first centuries, including: the vibrant and provocative culture of the 1920s and early 1930s, with a focus on changing forms of gender identity (the \"New Woman\") and sexual and political subcultures; the everyday and extraordinary history of German-Jews in Germany both before and after the Jewish genocide carried out by the Nazi regime;. the devastated city of postwar Berlin, the city's subsequent division during the Cold War (including the building of the Berlin Wall in 1961. In the final weeks we consider the momentous fall of the Berlin Wall (1989) and the creation of the Berlin Republic. We will familiarize ourselves with the changing face of national culture in light of the migration of the so-called Turkish \"guest workers\" from the post-War years and the subsequent emergence of Berlin a a global city. This course highlights the ways in which cosmopolitan Berlin remains a magnetic international destination with a biography and personality all its own.",
+                "Learning Objectives": "• Explore and evaluate twentieth-century German (central European) history, beginning with the years immediately preceding WWI and ending with contemporary Berlin\n• Analyze shifting representations of gender and sexuality in the urban context of twentieth-century Berlin\n• Articulate a critical approach to the history of minority communities in Berlin, especially through examining Jewish- and Turkish-German culture\n• Define broad tendencies and changes in literary and film culture from the turn of the twentieth century to recent postmodernism\n• Experience and evaluate the changing media landscape with the development of modern technologies of reproduction via visual art, sound recordings, and films associated with Berlin",
+                "Evaluation Method": "Attendance\nClass participation\nDiscussion section\nExam, final\nExam, mid-term\nGroup work\nHomework\nPaper, final\nPapers\nPeer assessment\nPresentations\nQuizzes\nReadings\nWriting assignments",
+                "Class Materials (Required)": "• David Clay Large, Berlin. Basic Books, 2001. (ISBN: 046502632X)\n• Irmgard Keun, The Artificial Silk Girl. Other Press, 2002. (ISBN: 1892746816)\n• Additional materials will be made available through Canvas",
+                "Class Attributes": "Historical Studies Foundational Discipline\nLiterature and Arts Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "245-0",
+        "course_name": "Special Topics in German Literature and Culture",
+        "course_reference_number": [
+            "24815"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to German Literature: 1766-2019",
+                "instructors": [
+                    "Special Topics in German Literature and Culture",
+                    "Erica Weitzman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Introduction to German Literature: 1766-2019",
+                "Instructors": "Erica Weitzman\n847/467-1849\n1880 Campus Drive, Kresge Hall, Rm 3333\nOffice Hours: Tues, 3:30-5:30 PM and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "This course, designed for both majors and non-majors, presents an overview of modern German literary history from the late eighteenth century to the present day. Students will learn to examine representative texts in German-language literature through the ages, looking at works of poetry and prose with a special focus on the ever-changing connection between history and literature and the many cultural transformations that the German-speaking world has undergone over the past two and a half centuries. As a small seminar setting, there will also be ample opportunity to practice speaking and writing in German, and to devoting time to the close analysis of celebrated works of literature in a foreign language.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "309-0",
+        "course_name": "The German Market and the Globalized Economy",
+        "course_reference_number": [
+            "24816"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "The German Market and the Globalized Economy",
+                "instructors": [
+                    "Rob Ryder"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rob Ryder\n847/491-8295\nKresge 3-327\nOffice Hours: TW 2-3pm and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "This course will give you an overview of the German economy, its underlying structures, its current trends and some of the political and global issues it is facing today. You will also search and apply for a summer internship in Germany, Austria, or Switzerland. While the course is designed to introduce students to a variety of German economic and sociopolitical issues, you will also be able to delve deeper into one topic of your choice for your final project. Though content-driven, the course will also further develop your language skills: in-class activities will focus on how to present graphics, statistics, and how to lead informative discussions in a business setting.",
+                "Registration Requirements": "At least two 200-level courses, one of which must be either 209 or 213.",
+                "Learning Objectives": "Students will …\n• become aware of and be able to articulate concepts in Volkswirtschaft (economics) that are particularly pertinent to the German context;\n• read and be able to evaluate authentic material (current newspaper articles, videos and podcasts, etc.) pertaining to the historical and current effects of globalization on the German economy;\n• recognize and articulate the difference between American and German constitutional laws (e.g. social market economy) and organizational structures (e.g. unemployment insurance and the tax system) with an emphasis on differentiating the two cultures' behavior toward spending in both the public and private sector;\n• be able to research and present statistical evidence of historical and current trends on a variety of economic topics (e.g. employee compensation, consumer spending, governmental relief measures);\n• increase their proficiency at an advanced level in the field of German business and commerce through the study of business-specific vocabulary, listening comprehension and advanced writing tasks;\n• be able to carefully evaluate an argument's major assertions, assumptions, evidential basis and overall validity by writing a Texterörterung (evaluation of a text) on an opinion piece that they themselves have found and is pertinent to their final topic;\n• be able in their final project to present different opinions on a contemporary societal issue or ethical dilemma (that both Germany and the US may share), to elucidate the extent to which German policies and economic measures are attempting to solve that issue/dilemma (in comparison to the US), and to lead a discussion concerning the effectiveness of those attempts and/or alternative solutions",
+                "Teaching Method": "Lecture",
+                "Evaluation Method": "Attendance\nClass participation\nHomework\nPresentations\nProject, final\nWriting assignments",
+                "Class Materials (Required)": "None",
+                "Class Attributes": "Advanced Expression\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "328-0",
+        "course_name": "Prague: City of Cultures, City of Conflict",
+        "course_reference_number": [
+            "28048"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Prague: City of Cultures, City of Conflict",
+                "instructors": [
+                    "Martina Kerlova"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Martina Kerlova\n847/491-5788\n1880 Campus Drive, Kresge, Office 3325\nOffice Hours: Wednesdays 2-3:30 and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course examines Prague, one of the most beautiful and culturally vibrant cities in Europe. The city's magnificent streets and buildings both conceal and reveal a past full of multiethnic coexistence and interethnic conflict. The course follows the development of Prague over the past century from the interwar multicultural, democratic city to the postwar homogeneous, communist community, and ultimately to its present open and capitalist incarnation. The goal of our course will be to understand how Prague's various communities built the city and its culture(s) and how they struggled to control it. We will read and watch a range of literary and historical sources, including the story of the Golem and writings by Václav Havel, and Franz Kafka.",
+                "Learning Objectives": "- To consider the productive (as well as the destructive) consequences of interethnic strife and political repression\n- To investigate how cultural producers and consumers respond to divisive pressures from within and censorious pressures from without.\n- To understand the contingent and malleable nature of national and other identities.\n- To gain familiarity with the city of Prague and its culture",
+                "Evaluation Method": "Attendance, Class participation, Paper or Project, Test, Presentation, Readings and Journals",
+                "Class Materials (Required)": "Hrabal, Bohumil: I served the King of England.\nKovály, Heda Margolius: Under a Cruel Star: A Life in Prague, 1941-1968.\nThe two books will be available in Norris. All other readings and the film will be available on Canvas.",
+                "Class Notes": "The course taught in English",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "408-0",
+        "course_name": "Critical Theory and Religion",
+        "course_reference_number": [
+            "24837"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Critical Theory and Religion",
+                "instructors": [
+                    "Christine Helmer"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christine Helmer\n847/491-2616\nKresge Hall #3341\nOffice Hours: Wed 2-4 pm on zoom",
+                "Meeting Info": "Locy Hall 109: Wed 3:00PM - 5:50PM",
+                "Overview of class": "This course explores the central place the concept of \"religion\" has occupied in the development of critical theory and, in turn, the role critical theory has played in reframing \"religion\" in modernity and in the contemporary geopolitical moment. We take up questions of politics and capitalism in relation to religion, and we consider the contributions of \"religion\" to possibilities of social transformation. Readings by: Schleiermacher, Kierkegaard, Schmitt, Strauss, Fraser, Jaeggi, Saito, Gibson-Graham, Helmer, and Mariña.",
+                "Registration Requirements": "This is a graduate seminar. Upper-level undergraduates only with permission of instructor.",
+                "Learning Objectives": "\"To read and discuss with understanding significant texts in the contemporary discussion of critical theory, religion, and capitalism.\nTo write three short papers that demonstrate critical and constructive analysis of the readings.\"",
+                "Evaluation Method": "Attendance\nClass participation\nOther\nPapers",
+                "Class Materials (Required)": "Kohei Saito: Capital From Zero: Reading Marx in the Age of Climate Catastrophe (Astra House, 2026); ISBN: 978-1662603419; $22\nRahel Jaeggi, Progress and Regression (Harvard University Press, 2025); ISBN: 978-0674298019; $35\nNancy Fraser, Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis (Verso, 2020); ISBN: 978-1788738576; $20"
+            }
+        ]
+    },
+    {
+        "course_number": "441-0",
+        "course_name": "Studies in Communication and Culture",
+        "course_reference_number": [
+            "24818"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "History of Aesthetics",
+                "instructors": [
+                    "Studies in Communication and Culture",
+                    "Erica Weitzman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "History of Aesthetics",
+                "Instructors": "Erica Weitzman\n847/467-1849\n1880 Campus Drive, Kresge Hall, Rm 3333\nOffice Hours: Tues, 3:30-5:30 PM and by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon 2:00PM - 4:50PM",
+                "Overview of class": "This course provides an introduction to foundational texts in the history of modern western (primarily German) theoretical aesthetics. Starting from Alexander Gottlieb Baumgarten's emphatic appropriation the term \"aesthetics\" to designate the study of beauty and good taste, the course will move chronologically through major texts of aesthetic theory from the eighteenth to the twenty-first century. The course will simultaneously examine the specific problems and questions raised by the course texts and consider the texts as historical documents, looking at the ways in which they both respond to one another and to the political and cultural tensions of their respective eras. We will also consider the ways in which these texts cross disciplinary boundaries or indeed are always already transdisciplinary, constantly moving from the fields of artistic and literary criticism to fundamental issues of ethics, epistemology, politics, and psychology and back again, always asking ourselves the questions: What are the historical and political conditions of the ways in which we make and/or think about works of art, broadly conceived, and how do these historical and political conditions, in turn, shape the world that art is said to reflect?",
+                "Registration Requirements": "Graduate students (advanced undergraduates with instructor permission)",
+                "Learning Objectives": "- To learn about the history and background of modern western aesthetics in its historical, social, and philosophical contexts\n- To be able to draw on this background in relation to individual works of art, literature, and culture\n- To gain skills in analyzing and discussing theoretical and philosophical texts on a professional level",
+                "Evaluation Method": "Attendance\nClass participation\nPaper, final\nPresentations",
+                "Class Materials (Required)": "1) Immanuel Kant, Critique of the Power of Judgment. Edited by Paul Guyer, translated by Paul Guyer and Eric Mathews. Cambridge and New York: Cambridge University Press, 2000. ISBN: 9780521348928\n2) Friedrich Schiller, On the Aesthetic Education of Man. Edited and translated by Reginald Snell. Mineola, NY: Dover, 2004. ISBN: 9780486437392"
+            }
+        ]
+    }
+]

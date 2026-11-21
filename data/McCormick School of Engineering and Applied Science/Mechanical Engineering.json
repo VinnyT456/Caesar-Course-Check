@@ -1,0 +1,847 @@
+[
+    {
+        "course_number": "222-0",
+        "course_name": "Thermodynamics & Statistical Mechanics - I",
+        "course_reference_number": [
+            "26813",
+            "26814"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Thermodynamics & Statistical Mechanics",
+                "instructors": [
+                    "I",
+                    "Seth Lichter"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Thermodynamics & Statistical Mechanics",
+                "instructors": [
+                    "I",
+                    "Seth Lichter"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Seth Lichter\n847/467-1885\nTechological Institute, Rm L493, 2145 Sheridan Rd, EV CAMPUS 3111",
+                "Meeting Info": "Technological Institute M345: Mon, Tues, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Basic definitions; Zeroth Law and the meaning of temperature; the First Law; the Second Law, entropy, and its applications; equations of state; the Third Law of Thermodynamics; and introduction to statistical thermodynamics.",
+                "Registration Requirements": "Prerequisite GEN_ENG 205-3, MATH 234-0 concurrent",
+                "Learning Objectives": "The objective of the science of thermodynamics is to describe the state of matter and its interactions with surroundings in terms of macroscopic properties such as temperature, pressure, etc. The course will introduce the fundamentals of thermodynamics as well as an introduction to its statistical interpretation. Students are expected to learn and know how to apply the fundamental equations of thermodynamics, get acquainted with statistical mechanics, and understand the concepts of heat, work, temperature, energy and entropy.",
+                "Class Materials (Required)": "TBD",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Seth Lichter\n847/467-1885\nTechological Institute, Rm L493, 2145 Sheridan Rd, EV CAMPUS 3111",
+                "Meeting Info": "Technological Institute M345: Mon, Tues, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Basic definitions; Zeroth Law and the meaning of temperature; the First Law; the Second Law, entropy, and its applications; equations of state; the Third Law of Thermodynamics; and introduction to statistical thermodynamics.",
+                "Registration Requirements": "Prerequisite GEN_ENG 205-3, MATH 234-0 concurrent",
+                "Learning Objectives": "The objective of the science of thermodynamics is to describe the state of matter and its interactions with surroundings in terms of macroscopic properties such as temperature, pressure, etc. The course will introduce the fundamentals of thermodynamics as well as an introduction to its statistical interpretation. Students are expected to learn and know how to apply the fundamental equations of thermodynamics, get acquainted with statistical mechanics, and understand the concepts of heat, work, temperature, energy and entropy.",
+                "Class Materials (Required)": "TBD",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Introduction to Robotics Laboratory",
+        "course_reference_number": [
+            "24994"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Robotics Laboratory",
+                "instructors": [
+                    "brenna d. argall"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "brenna d. argall\n847/467-0862\nTechnological Institute, Rm A290, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute CG50 - EECS T-L: Tues, Thurs 12:30PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 110-0, COMP_SCI 111-0, COMP_SCI 150, GEN_ENG 150-0, GEN_ENG 151-0, MECH_ENG 224-0, or consent of instructor. Prerequisites: MECH_ENG 224-0, COMP_SCI 110-0, COMP_SCI 111-0, COMP_SCI 150-0, GEN_ENG 150-0, GEN_ENG 151-0, or some programming experience and consent of instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Artifical Life",
+        "course_reference_number": [
+            "26965"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Artifical Life",
+                "instructors": [
+                    "Sam Kriegman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sam Kriegman\n847/467-6631\nTechnological Institute, Rm A293, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Schapiro Hall 101: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: COMP_SCI 211 or MECH_ENG 224 or Permission of Instructor"
+            }
+        ]
+    },
+    {
+        "course_number": "333-0",
+        "course_name": "Introduction to Mechatronics",
+        "course_reference_number": [
+            "26957",
+            "26958"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Mechatronics",
+                "instructors": [
+                    "Nicholas Marchuk"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Introduction to Mechatronics",
+                "instructors": [
+                    "Nicholas Marchuk"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nicholas Marchuk\n847/467-1223",
+                "Meeting Info": "Tech Institute Lecture Room 4: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Nicholas Marchuk\n847/467-1223",
+                "Meeting Info": "Tech Institute Lecture Room 4: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "340-2",
+        "course_name": "Computer Integrated Manufacturing: CAD/CAM",
+        "course_reference_number": [
+            "26815"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computer Integrated Manufacturing: CAD/CAM",
+                "instructors": [
+                    "Michael Beltran"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Beltran\n847/467-1995\nTechnological Institute, Rm AG28, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 4: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "ME 340-2 is the cumulative manufacturing course in Mechanical Engineering focusing on the post-design aspects of product development. This course follows the path of a plastic component intended for mass production through the injection molding process, with focus on the optimization of the part & process for large scale manufacturing. This course will cover: Design for manufacturing and injection molding, NX CAD design and CAM programming, Polymer manufacturing, Statistical quality control, CAD principals, Geometric dimensioning and tolerances - with applications to total system tolerances, and manufacturing systems.\n\nStudents will follow a complete product development process, by designing a part via sketches and NX CAD, develop manufacturing programs in NX CAM, optimize their parts for injection molding, and manufacture their molds using a CNC machining center. Students will then use an injection molding machine to conduct a manufacturing run of their parts, and participate in a competition to select the best designed part.",
+                "Registration Requirements": "Prerequisites: MECH_ENG 340-1, MAT_SCI 201, CIV_ENV 216",
+                "Evaluation Method": "25% Mid-Term Exam\n25% Final Exam\n15% Homework\n25% Project\n10% Laboratory.\n\nHowever, keep in mind that assessment strategies are subject to change.",
+                "Class Materials (Required)": "READING: Course Packet - available in class",
+                "Class Materials (Suggested)": "\"Principles of CAD/CAM/CAE Systems\", by Kunwoo Lee, published by Addison-Wesley, ISBN 0-201-38036-6",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "LAB - Meets in Non-General PurposeRm: Mon 5:00PM - 8:00PM"
+            }
+        ]
+    },
+    {
+        "course_number": "341-0",
+        "course_name": "Computational Methods for Engineering Design",
+        "course_reference_number": [
+            "26960"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computational Methods for Engineering Design",
+                "instructors": [
+                    "Wei Chen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wei Chen\n847/491-7019\nTechnological Institute, Rm L293, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M152: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "373-0",
+        "course_name": "Engineering Fluid Mechanics",
+        "course_reference_number": [
+            "26822"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Fluid Mechanics",
+                "instructors": [
+                    "Neelesh Patankar"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Neelesh Patankar\n847/491-3021\nTechnological Institute, Rm L490, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 4: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "ME 373 is the second course in fluid mechanics for undergraduates. ME undergraduates are required to take either Thermodynamics II (ME 370) or this course as a part of the Mechanical Engineering curriculum. Most undergraduates take it during their junior year.\n\nThis course essentially picks up where ME 241 left off. Unlike ME 241 where the subject of fluid mechanics was developed by \"synthesis\" starting from elementary ideas on the nature of fluids, this course takes as its starting point the fundamental equations of fluid flow and proceeds by way of \"analysis\" to explore its myriad consequences and applications.These areas are laid out as broad swaths of contiguous \"territories\": viscous flows, inviscid flows, \"almost\" inviscid flows (boundary layer theory), compressible flows and so on. As we travel through this \"landscape\", theoretical principles are applied to a wide variety of practical problems.\n\nIn ME 241 (a prerequisite for this course) the concept of a fluid and its properties was introduced. The subject was then developed by a method of \"synthesis\" by systematically applying Newton's laws to fluid elements culminating in the fundamental equations of fluid flow — the Euler system of equations (if the fluid is inviscid) or the Navier-Stokes equations in the case of viscous flows. In this course we follow a complementary approach. After giving a brief review of the fundamental equations of fluid flow, we use the method of \"analysis\" to unravel the physical content of these equations. In the process, we learn about a variety of fluid phenomena and its applications such as: supersonic flow and the principles of design of jet engines, viscous boundary layers and the consequent drag on airplane wings, the concept of vorticity and how it describes phenomena such as tornadoes etc.\n\nTopics Include:\n\n• Steady viscous flows (exact solutions)\nPoiseuille flow in round pipes\nCouette flow between parallel plates\n• Inviscid flows\nconcept of vorticity and the generalized Bernoulli theorem\nirrotational (or potential) flows - the velocity potential and the stream function\n• Compressible layers\none dimensional isentropic flows - the Laval nozzle\nShocks\n• Boundary layers\nPrandtl's boundary layer theory for \"almost\" inviscid flows",
+                "Registration Requirements": "Prerequisite: MECH_ENG 241.",
+                "Evaluation Method": "Homework, Mid-term, Take-home exam, Final exam.",
+                "Class Materials (Required)": "Fundamentals of Fluid Mechanics, Munson, Young, Okiishi, 6th edition, Wiley 2009, ISBN 9780470262849",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Technological Institute M345: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "377-0",
+        "course_name": "Heat Transfer",
+        "course_reference_number": [
+            "26824"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Heat Transfer",
+                "instructors": [
+                    "Manohar Kulkarni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Manohar Kulkarni\n847/467-6741\nTechnological Institute, Rm B290, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M152: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Fundamentals of heat transfer by conduction, convection, radiation. Steady and transient heat conduction in solids. Forced and free convection in fluids. properties of thermal radiation. Radiation heat transfer between solids. Solar radiation.",
+                "Registration Requirements": "MECH_ENG 241",
+                "Teaching Method": "Lectures\nTopics include:\n\nIntroduction to the modes of heat transfer in design and analysis\nAnalytical methods for one-dimensional steady-state problems\nAnalytical methods for one-dimensional transient heat transfer\nNumerical methods for multidimensional steady state and transient problems\nHeat transfer coefficients for forced and natural convection\nRadiation heat transfer",
+                "Evaluation Method": "Project: using a finite element code",
+                "Class Materials (Required)": "Fundamentals of Heat and Mass Transfer, T. L. Bergmann, A. S. Lavine, F. P. Incropera, D. P. DeWitt, 8th edition, Wiley, ISBN 978-1-119-65841-2",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "378-0",
+        "course_name": "Applied Computational Fluid Dynamics and Heat Transfer",
+        "course_reference_number": [
+            "26959"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Computational Fluid Dynamics and Heat Transfer",
+                "instructors": [
+                    "Gregory Wagner"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gregory Wagner\n847/491-4138\nTechnological Institute, Rm L492, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute L160: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Mechanical Engineering",
+        "course_reference_number": [
+            "26825",
+            "26826",
+            "26827"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Orbital Mechanics",
+                "instructors": [
+                    "Special Topics in Mechanical Engineering",
+                    "Sandip Ghosal"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Design and Manufacturing of Medical Devices",
+                "instructors": [
+                    "Special Topics in Mechanical Engineering",
+                    "Jeremy Keys"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Machine Learning for Mechanical Sciences",
+                "instructors": [
+                    "Special Topics in Mechanical Engineering",
+                    "Bahador Bahmani"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Orbital Mechanics",
+                "Instructors": "Sandip Ghosal\n847/467-5990\nTechnological Institute, Rm L495, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute MG28: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "ME 395 Orbital Mechanics winter 2027\n\nOrbital Mechanics is a fundamental discipline concerned with the motion of objects under the influence of gravitational forces, crucial for understanding both natural celestial phenomena and the operation of artificial satellites and spacecraft. This course delves into the core principles of classical mechanics and celestial mechanics that describe and predict orbital trajectories. Key areas of study include the mathematical representation of orbits through orbital elements, the analysis of two-body and n-body gravitational interactions, and an introduction to the techniques employed for orbital maneuvers and trajectory design. Students will gain an appreciation for the complexities introduced by various orbital perturbations and the methods used to model and account for them. This subject forms the bedrock for numerous applications in space exploration, satellite communication, remote sensing, and astrophysics, making it an essential area of knowledge for those pursuing careers in aerospace engineering, space exploration, satellite technology, astronomy and related fields.",
+                "Registration Requirements": "Prerequisites: Math 220-1,2, 228-1,2, Gen_Eng 205-1,2,3,4",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Design and Manufacturing of Medical Devices",
+                "Instructors": "Jeremy Keys\n847/467-2806\nTechnological Institute, Rm L494, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute LG66: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Machine Learning for Mechanical Sciences",
+                "Instructors": "Bahador Bahmani",
+                "Meeting Info": "Technological Institute LG66: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Machine Learning for Mechanical Sciences\nMechanical engineering has traditionally relied on physics, mathematics, and empirical knowledge to design and optimize systems. Machine learning (ML) introduces powerful tools that can complement this foundation by enabling data-driven modeling, prediction, and automation. In recent years, ML applications in mechanical sciences have led to notable advances, such as automation in material modeling, acceleration of simulations, design optimization, and materials discovery. However, this flexibility often comes at the cost of reliability, particularly in safety-critical applications, when models are required to extrapolate beyond observed data or when the quantity and/or quality of available data is insufficient. This course addresses the need for principled integration of machine learning into mechanical sciences by introducing foundational ML concepts with a focus on physical modeling and engineering applications—including dynamical systems, solid mechanics, heat transfer, fluid mechanics, materials science, and manufacturing and design —to build predictive models that emulate the underlying physics by augmenting data with first principles—or vice versa—depending on the application.",
+                "Registration Requirements": "Prerequisite: Python programming, Linear Algebra, Calculus",
+                "Learning Objectives": "Students will explore three core objectives:\n\nLeveraging automatic differentiation to build differentiable models for physics-based simulation and engineering design,\nUnderstanding key modeling paradigms in machine learning,\nQuantifying uncertainty and assessing the risks associated with data-driven models.\n\nSpecial emphasis will be placed on physics-encoded surrogate models and physics-constrained data assimilation. By the end of the course, students will be equipped with both conceptual and computational tools to responsibly and effectively apply ML in mechanical engineering.\n\nTopics covered in this course include:\n\nIntroduction to Optimization\nProbabilistic Modeling and Bayesian Inference\nSupervised Learning\nMulti-Layer Perceptron (MLP)\nConvolutional Neural Network (CNN)\nRecurrent Neural Network (RNN)\nGaussian Processes\nUnsupervised Learning\nProper Orthogonal Decomposition (POD)\nDynamic Mode Decomposition (DMD)\nAutoencoders\nUncertainty Quantification and Active Learning\n\nThe course is designed to make machine learning accessible to mechanical engineering students from a wide range of academic experiences. All examples and homework assignments are grounded in mechanical sciences-based applications such as identifying constitutive laws from stress-strain data, forecasting dynamics of nonlinear oscillators, solving inverse problems in heat conduction, and modeling fluid flow with sparse measurements. To support students throughout the course, introductory sessions will cover the basics of Python programming and the core functionality of PyTorch/Jax. The course follows a project-based format to reinforce learning through hands-on implementation.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-1",
+        "course_name": "Engineering Design I",
+        "course_reference_number": [
+            "26961"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Engineering Design I",
+                "instructors": [
+                    "Jeremy Keys",
+                    "Michael Beltran"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeremy Keys\n847/467-2806\nTechnological Institute, Rm L494, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Annenberg Hall G15: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-2",
+        "course_name": "Engineering Design II",
+        "course_reference_number": [
+            "26962"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Engineering Design II",
+                "instructors": [
+                    "Alex Birdwell",
+                    "Michael Beltran"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alex Birdwell\n847/467-3858\nSegal Design Institute, Rm 2.215, FORD 2133 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Ford Hive Rm 2350: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "416-0",
+        "course_name": "Computational Nanodynamics",
+        "course_reference_number": [
+            "26963"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computational Nanodynamics",
+                "instructors": [
+                    "Sinan Keten"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sinan Keten\n847/491-5282\nTechnological Institute, Rm A133, 2145 Sheridan Rd, EV CAMPUS\nOffice Hours: s-keten@northwestern.edu",
+                "Meeting Info": "Technological Institute L170: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "426-1",
+        "course_name": "Advanced Finite Element Methods I",
+        "course_reference_number": [
+            "24190"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Finite Element Methods I",
+                "instructors": [
+                    "Mark Fleming"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Fleming\nTechnological Institute, Rm L497, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description"
+            }
+        ]
+    },
+    {
+        "course_number": "430-0",
+        "course_name": "Turbulence & Combustion",
+        "course_reference_number": [
+            "26964"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Turbulence & Combustion",
+                "instructors": [
+                    "Sandip Ghosal"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sandip Ghosal\n847/467-5990\nTechnological Institute, Rm L495, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute MG28: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "447-0",
+        "course_name": "AI in Manfuacturing",
+        "course_reference_number": [
+            "22906"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "AI in Manfuacturing",
+                "instructors": [
+                    "Naichen Shi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Naichen Shi",
+                "Meeting Info": "Technological Institute L211: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: ME340-1: Introduction to Manufacturing Processes, ME224: Scientific and embedded programing in Python, MATH 228: Multiple Integration and Vector Calculus."
+            }
+        ]
+    },
+    {
+        "course_number": "457-0",
+        "course_name": "Fundamental and Applications of Metamaterials",
+        "course_reference_number": [
+            "26966"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamental and Applications of Metamaterials",
+                "instructors": [
+                    "Cheng Sun"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cheng Sun\n8474670704\nTechnological Institute, Rm B392, 2145 Sheridan Road, EV CAMPUS",
+                "Meeting Info": "2001 Sheridan GPC GN350: Wed, Fri 9:00AM - 10:20AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "467-0",
+        "course_name": "Industrial Energy Management and Utilization",
+        "course_reference_number": [
+            "21346"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Industrial Energy Management and Utilization",
+                "instructors": [
+                    "Manohar Kulkarni"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Manohar Kulkarni\n847/467-6741\nTechnological Institute, Rm B290, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M177: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "472-1",
+        "course_name": "Robot Design Studio",
+        "course_reference_number": [
+            "25951"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Robot Design Studio",
+                "instructors": [
+                    "Ed Colgate",
+                    "Raphael Cherney"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ed Colgate\n847/491-4264\nTechnological Institute, Rm B282, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M166: Mon, Wed, Fri 1:00PM - 2:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Selected Topics in Mechanical Engg",
+        "course_reference_number": [
+            "26866",
+            "26867",
+            "26868"
+        ],
+        "course_info": [
+            {
+                "section": "22",
+                "course_name": "Sensing, Navigation, and Machine Learning for Robo",
+                "instructors": [
+                    "Selected Topics in Mechanical Engg",
+                    "Matthew Elwin"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Physical Intelligence and Embodied AI",
+                "instructors": [
+                    "Selected Topics in Mechanical Engg",
+                    "Malcolm MacIver"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "25",
+                "course_name": "Mechanics of Thin Films",
+                "instructors": [
+                    "Selected Topics in Mechanical Engg",
+                    "Yonggang Huang"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Sensing, Navigation, and Machine Learning for Robo",
+                "Instructors": "Matthew Elwin\n847/491-5474\nTechnological Institute, Rm A292, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute MG51: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course will be a practical introduction to robotic sensing, navigation and machine learning techniques in robotics. The course focuses on bridging the gap between theoretical developments, simulation, and real hardware. Students will be expected to code fundamental robotic algorithms using C++ and the Robot Operating System (ROS).",
+                "Registration Requirements": "Instructor permission is required. To apply for permission please fill out the following form\nhttps://forms.cloud.microsoft/r/8bjxuRtAsP",
+                "Learning Objectives": "Gain practical experience with a variety of software tools. Possible topics include Linux/Unix basics, Robot Operating System, software version control, real-time operating systems, C++/Python introductions, networking with Linux, etc.",
+                "Evaluation Method": "Problem sets and project work. Students will be expected to document projects in an online portfolio. There will be no exams.",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "A Gentle Introduction to ROS, J. O'Kane, ISBN 978-1492143239. https://cse.sc.edu/~jokane/agitr/"
+            },
+            {
+                "Topic": "Physical Intelligence and Embodied AI",
+                "Instructors": "Malcolm MacIver\n847/491-3540\nTechnological Institute, Rm B292, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Physical Intelligence and Embodied AI\n\nRecent advances in artificial intelligence have been driven primarily by large-scale learning from static datasets. However, biological intelligence emerges through continuous interaction among brains, bodies, and environments. This course develops physical intelligence—the idea that morphology, mechanics, and the sensorimotor loop perform real computation—and connects it to modern embodied AI, where agents that act in physical or simulated environments learn very differently from disembodied ones. Building on the mechanics, dynamics, controls, and programming background of mechanical engineering students, the course moves from \"brainless\" mechanical intelligence (passive-dynamic walkers, compliant bodies) through active sensing and feedback to reinforcement learning, planning, and the evolutionary origins of cognition. Students implement embodied agents in simulation and build a final agent that senses, acts, and learns in a predator-prey arena modeled on the instructor's research.",
+                "Registration Requirements": "Prerequisites: dynamics; programming (Python or equivalent); some exposure to feedback control recommended."
+            },
+            {
+                "Topic": "Mechanics of Thin Films",
+                "Instructors": "Yonggang Huang\n847/467-3165\nTechnological Institute, Rm A116, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Technological Institute M177: Mon, Tues, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Mechanics of Thin Films\n\nThin films play an important role in many technological applications including microelectronic devices, magnetic storage media, surface coatings, and recently stretchable electronics. This course provides a comprehensive introduction to mechanics-related topics involving stress and defect formation in thin films.",
+                "Class Materials (Required)": "None"
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Seminar",
+        "course_reference_number": [
+            "26911",
+            "26912"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar",
+                "instructors": [
+                    "Junsoo Kim"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Seminar",
+                "instructors": [
+                    "Junsoo Kim"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Junsoo Kim\n847/491-4322\nCatalysis Bldg, Rm 326, 2137 Tech Drive, EV CAMPUS",
+                "Meeting Info": "Technological Institute L211: Mon 3:00PM - 4:20PM",
+                "Overview of class": "This a seminar course. See http://www.mccormick.northwestern.edu/mechanical/events/seminars.html for dates and topics.",
+                "Evaluation Method": "S/U"
+            },
+            {
+                "Instructors": "Junsoo Kim\n847/491-4322\nCatalysis Bldg, Rm 326, 2137 Tech Drive, EV CAMPUS",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "513-0",
+        "course_name": "Professional Essentials",
+        "course_reference_number": [
+            "26913"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Professional Essentials",
+                "instructors": [
+                    "Elizabeth Gerber"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elizabeth Gerber",
+                "Meeting Info": "Technological Institute L160: Wed 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

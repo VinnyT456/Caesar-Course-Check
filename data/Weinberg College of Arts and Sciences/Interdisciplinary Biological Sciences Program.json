@@ -1,0 +1,179 @@
+[
+    {
+        "course_number": "402-0",
+        "course_name": "Molecular Biology of Human Disease",
+        "course_reference_number": [
+            "26370"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Molecular Biology of Human Disease",
+                "instructors": [
+                    "Richard Morimoto"
+                ],
+                "days": [
+                    "Monday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:00AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Richard Morimoto",
+                "Meeting Info": "Meets in Non-General PurposeRm: Mon, Thurs 9:00AM - 11:00AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only. All others need permission from the IBiS Office, ibis@northwestern.edu."
+            }
+        ]
+    },
+    {
+        "course_number": "404-0",
+        "course_name": "Principles and Methods in Systems Biology",
+        "course_reference_number": [
+            "23523"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Principles and Methods in Systems Biology",
+                "instructors": [
+                    "Richard Carthew"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Richard Carthew\n847/467-4891\nPancoe 3111",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Systems biology is not any single field in biology but rather, it is an approach to studying all of the life sciences. Systems biology is different from classical approaches such as reductionism, and it can tackle problems that cannot be solved by these other approaches. It uses quantitative measurement of individuals, whether organisms, cells, or molecules, and describes their collective behavior - how they act and function as groups or populations in living systems. It combines analysis of big data with simple mathematical modeling to capture the essence of collective behaviors. Systems biology is a gateway to synthetic biology, which engineers novel living systems based on collective behaviors. This course will focus on systems approaches to study important phenomena in molecular and cell biology, and developmental biology. Emphasis on modeling, analysis of big data, and interpretation of results will be given in the course.",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only. All others need permission from the IBiS Office, ibis@northwestern.edu."
+            }
+        ]
+    },
+    {
+        "course_number": "412-0",
+        "course_name": "Fundamentals in Biological Sciences: Genomics, Cell Bio, and Developmental Bio",
+        "course_reference_number": [
+            "26376"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals in Biological Sciences: Genomics, Cell Bio, and Developmental Bio",
+                "instructors": [
+                    "Christian Petersen",
+                    "Rosemary Braun",
+                    "Jenna Renee Christensen"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christian Petersen\n847/467-3553\nPancoe 4411",
+                "Meeting Info": "Meets in Non-General PurposeRm: Wed, Fri 2:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only. All others need permission from the IBiS Office, ibis@northwestern.edu."
+            }
+        ]
+    },
+    {
+        "course_number": "455-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "26371",
+            "26372"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Scientific Communication",
+                "instructors": [
+                    "Special Topics",
+                    "Jason Brickner"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:00AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Practical Structural Biology: From Molecular Struc",
+                "instructors": [
+                    "Special Topics",
+                    "Juan Du",
+                    "Wei Lu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:10PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Scientific Communication",
+                "Instructors": "Jason Brickner\n847/467-0210\nPancoe Pavilion, Room 3-105",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 9:00AM - 11:00AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only. All others need permission from the IBiS Office, ibis@northwestern.edu."
+            },
+            {
+                "Topic": "Practical Structural Biology: From Molecular Struc",
+                "Instructors": "Juan Du",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 2:00PM - 3:10PM",
+                "Overview of class": "This course provides an introduction to structural biology, with an emphasis on practical skills and hands-on learning. Potential topics include molecular structure visualization and analysis using PyMOL and ChimeraX, model inspection and building using Coot, the fundamentals and workflow of cryo-electron microscopy (cryo-EM) data processing, structure validation, and preparation of publication-quality figures. The course is designed to be accessible to IBiS students with no prior experience in structural biology.\n\nSessions will feature a lecture or hands-on practical exercise, along with student presentations and discussion of relevant structural biology research papers. Through these activities, students will have opportunities to develop technical skills and learn to critically evaluate and communicate structural research.",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only. All others need permission from the IBiS Office, ibis@northwestern.edu."
+            }
+        ]
+    },
+    {
+        "course_number": "462-0",
+        "course_name": "Seminar in Biological Sciences",
+        "course_reference_number": [
+            "26373"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar in Biological Sciences",
+                "instructors": [
+                    "Sadie Wignall",
+                    "Bethany Sorman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "2:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sadie Wignall",
+                "Meeting Info": "Pancoe Building Abbott Aud: Tues, Thurs 12:30PM - 2:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only. All others need permission from the IBiS Office, ibis@northwestern.edu."
+            }
+        ]
+    }
+]

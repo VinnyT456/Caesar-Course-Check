@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "358-0",
+        "course_name": "Seminar in Epidemiology II",
+        "course_reference_number": [
+            "28186"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar in Epidemiology II",
+                "instructors": [
+                    "Gregory Phillips II"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gregory Phillips II",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: This course is open to only Public Health, Biostat, and Epidemiology students. Permission required for all other students."
+            }
+        ]
+    }
+]

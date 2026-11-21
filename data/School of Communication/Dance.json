@@ -1,0 +1,388 @@
+[
+    {
+        "course_number": "101-2",
+        "course_name": "Dance as Creative Collaboration",
+        "course_reference_number": [
+            "28350"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Danceworks 2027: Collaborative Methods in Dancemak",
+                "instructors": [
+                    "Dance as Creative Collaboration",
+                    "Thomas F. DeFrantz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Danceworks 2027: Collaborative Methods in Dancemak",
+                "Instructors": "Thomas F. DeFrantz",
+                "Meeting Info": "Wirtz 201 Performnce Black Box: Mon, Wed 1:30PM - 2:50PM\nWirtz Center Ballroom: Tues, Thurs 6:00PM - 9:00PM",
+                "Overview of class": "This practicum is for students who would like professionalization and practice experience in dance and performance making during Danceworks. The student will work in close collaboration with a guest choreographer, the Artistic Director, and other students rehearsing up to six hours a week, attending tech rehearsals and the four performances for Danceworks. Artistic Director of Danceworks will be the instructor of record and will assign final grade.",
+                "Registration Requirements": "Dance maj/min + MT Cert Students only",
+                "Class Materials (Required)": "None/No cost",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This class is restricted to Dance majors/minors & Music Theatre Certificate students."
+            }
+        ]
+    },
+    {
+        "course_number": "110-0",
+        "course_name": "Movement for the Stage",
+        "course_reference_number": [
+            "28647"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Circus Movement for the Stage",
+                "instructors": [
+                    "Movement for the Stage",
+                    "Sylvia Hernandez-DiStasi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Circus Movement for the Stage",
+                "Instructors": "Sylvia Hernandez-DiStasi",
+                "Meeting Info": "Wirtz 201 Performnce Black Box: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Learn to Fly. Circus as performance practice. Students will learn aerial and ground circus techniques while improving strength, conditioning, and flexibility.",
+                "Registration Requirements": "Pre-reg: Theatre & Dance majors and minors\nOpen to all undergraduates during regular registration",
+                "Class Materials (Required)": "Clothing to be upside down in. $1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "140-1",
+        "course_name": "Basic Theatrical Dance I",
+        "course_reference_number": [
+            "28349"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Basic Theatrical Dance I",
+                "instructors": [],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Wirtz Center Ballroom: Tues, Thurs 4:30PM - 5:50PM",
+                "Overview of class": "This course is an introductory practice-based class designed for students with minimal dance experience. Students will explore basic dance techniques, vocabulary, and movement principles across foundational styles integral to musical theatre. Through structured warm-ups, technical exercises, and physical combinations, the course emphasizes physical conditioning, spatial awareness, musicality, and expressive storytelling through movement.",
+                "Registration Requirements": "Pre-reg: MT Cert Students | Open to all during regular registration",
+                "Class Materials (Required)": "$1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "150-0",
+        "course_name": "Modern/Contemporary I",
+        "course_reference_number": [
+            "28348"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intro to Release",
+                "instructors": [
+                    "Modern/Contemporary I",
+                    "Chrissy Martin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Intro to Release",
+                "Instructors": "Chrissy Martin",
+                "Meeting Info": "Wirtz Center Ballroom: Mon, Wed 12:00PM - 1:20PM",
+                "Overview of class": "In this course, we will focus on the foundations of contemporary western dance through the lens of Irmgard Bartenieff's Total Patterns of Connectivity. The bulk of this class is about moving together, exploring patterns already present in the body, and finding exhilaration and joy in dance. If you want to work on learning repeated patterns, deepen fundamental elements of dance, and energize your week with invigorating and restorative movement, this class is for you.\n\nWe will spend a considerable amount of time on the floor, gradually moving towards standing with flow and momentum. We will move through the six patterns throughout the quarter: Breath, Core-Distal, Head-Tail, Upper-Lower, Body-Half, and Cross Lateral. There may be short readings and viewings of material, writing reflections, one in-class midterm, and one final peer reviewed assessment.",
+                "Registration Requirements": "Pre-reg: Dance maj/min + MT Cert | Open to all undergraduates during regular registration",
+                "Class Materials (Required)": "Kneepads are suggested $18",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Modern/Contemporary II",
+        "course_reference_number": [
+            "28352"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Release",
+                "instructors": [
+                    "Modern/Contemporary II",
+                    "Maggie Vannucci"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "10:30AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Release",
+                "Instructors": "Maggie Vannucci",
+                "Meeting Info": "Wirtz Center Ballroom: Mon, Wed 10:30AM - 11:50AM",
+                "Overview of class": "This course will focus on release-based phrase work and engage with various somatic practices as an entry point towards experiencing functional freedom while dancing. Starting slow and low, we will use an improvisational approach, weaving in Bartenieff fundamental exercises. Focusing on prompts that utilize gravity, planes of space, the floor as a tool, and clear initiation points, while also expanding our connection to each other and the space. The rest of our practice centers on phrase work, adding structure to what we explored in our improvisation.\n\nClass phrases are interested in hardly finding verticality, simultaneously making transitions between steps more fluid and seamless. The movement challenges the body to stay relaxed and efficient, with an emphasis on finding voluminous internal space that expands outward into clear expression. Our weekly class topics will remain central to any feedback provided regarding our phrase work, so we can better learn to attune our focus to one area of the body at a time while we dance. I am invested in cultivating a space for open conversation about somatic sensory experiences throughout the class, as well as a space for experimenting with pathways efficient for your unique anatomy.\n\nOur time together will help each student think about their dancing body, focusing on the process of incorporating information into action. This would be an excellent class for any student looking to progress their current technique experience, grow their floor work skills, and dance with more ease and clarity.",
+                "Class Materials (Required)": "Notebook/Sketchpad $1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "270-0",
+        "course_name": "Classical Dance II",
+        "course_reference_number": [
+            "28351"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate Ballet",
+                "instructors": [
+                    "Classical Dance II",
+                    "Jeffery Hancock"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Intermediate Ballet",
+                "Instructors": "Jeffery Hancock\n847/467-5938\nRyan Center for Musical Arts, 5-145\nOffice Hours: Mon/Wed 3:00-5:00pm, other by appointment",
+                "Meeting Info": "Wirtz Center Ballroom: Mon, Wed 1:30PM - 2:50PM",
+                "Overview of class": "Classical Dance II aims to enhance technical, musical, and artistic skills from a somatic perspective, using whole-body-moving-thinking as a core value. This course will cover fundamental principles, practices, and vocabulary of ballet for for people with some training and awareness of textual and embodied vocabulary. Our practices will progress through barre, center, and across-the-floor exercises, always emphasizing the sensations of integrating the core and limbs into whole-body-moving.",
+                "Registration Requirements": "Pre-reg: Dance maj/min + MT Cert | Open to all undergraduates during regular registration",
+                "Class Materials (Required)": "Ballet slippers or non-slip socks, and comfortable clothing that is not overly baggy. $1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "325-0",
+        "course_name": "Advanced Choreographic Study",
+        "course_reference_number": [
+            "28356"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Choreographic Study",
+                "instructors": [
+                    "James Moreno"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Moreno",
+                "Meeting Info": "Wirtz Center Cellar: Thurs 3:00PM - 5:50PM",
+                "Overview of class": "Operating as both a studio/workshop and lecture/discussion class, this course will explore multiple approaches and practices for making dances. In the studio, students will make solo performances as well as participate in collaborative and ensemble driven exercises that focus on making group work. Students will engage readings, viewings, and discussion that examine theoretical approaches to choreography that will shape the choreography and performing done in class. We will practice a feedback process designed to help students clarify their ideas about dance and how to successfully communicate them in engaging ways. This intersection of students' creative work with a vital feedback process enables students to better understand and articulate their work as creative artists as well as develop a unique and specific point of view about dance in the world.",
+                "Registration Requirements": "Dance maj/min and MT only",
+                "Class Materials (Required)": "$1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: This class is restricted to Dance majors/minors & Music Theatre Certificate students."
+            }
+        ]
+    },
+    {
+        "course_number": "326-0",
+        "course_name": "Advanced Improvisation",
+        "course_reference_number": [
+            "28354"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Improvisation",
+                "instructors": [
+                    "Jeffery Hancock"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeffery Hancock\n847/467-5938\nRyan Center for Musical Arts, 5-145\nOffice Hours: Mon/Wed 3:00-5:00pm, other by appointment",
+                "Meeting Info": "Wirtz Center Ballroom: Tues, Thurs 1:30PM - 2:50PM",
+                "Overview of class": "Improvisation: Practicing Presnt-ing aims to open the space between the past and the future toward the possibility of agency in that split-second; finding agency between sensing, impulse, decision, and re/action. A range of improvisation and scoring techniques created by scholar-practitioners of improvisation will be explored as embodied research in weekly performance practices, compositional processes, and critical embodiment - where values are lived through the choices we make. The class is practice based, meets twice a week, and requires reflective writing in a journal, a video log, and reflective discussion and feedback in class. Final projects are co-defined by the student and professor by week 6, and will be shown the last day of class.Our goal is to explore improvisation as a generative and compositional tool in dance-making that encourages fluid, dynamic play in the field of choice(s).",
+                "Registration Requirements": "Pre-reg: Dance maj/min + MT Cert | Open to all undergraduates during regular registration",
+                "Class Materials (Required)": "Comfortable clothing you can move in, non-slippery socks or soft dance shoes of any type, no street shoes. $1-10",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "345-0",
+        "course_name": "Studies in Collaboration",
+        "course_reference_number": [
+            "28355",
+            "28717"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Danceworks 2027: Collaborative Methods in Dancemak",
+                "instructors": [
+                    "Studies in Collaboration",
+                    "Thomas F. DeFrantz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Dancing the Musical",
+                "instructors": [
+                    "Studies in Collaboration",
+                    "Thomas F. DeFrantz"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Danceworks 2027: Collaborative Methods in Dancemak",
+                "Instructors": "Thomas F. DeFrantz",
+                "Meeting Info": "Wirtz 201 Performnce Black Box: Mon, Wed 1:30PM - 2:50PM\nWirtz Center Ballroom: Tues, Thurs 6:00PM - 9:00PM",
+                "Overview of class": "This practicum is for students who would like professionalization and practice experience in dance and performance making during Danceworks. The student will work in close collaboration with a guest choreographer, the Artistic Director, and other students rehearsing up to six hours a week, attending tech rehearsals and the four performances for Danceworks. Artistic Director of Danceworks will be the instructor of record and will assign final grade.",
+                "Class Materials (Required)": "Notebook, recording device (phone, computer, tablet) $1-25",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Dancing the Musical",
+                "Instructors": "Thomas F. DeFrantz",
+                "Meeting Info": "Wirtz Center Ballroom: Mon, Wed 3:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Dances of the African Diaspora III",
+        "course_reference_number": [
+            "28653"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Contemporary Jazz",
+                "instructors": [
+                    "Dances of the African Diaspora III",
+                    "Erin Kilmurray"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:30AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Contemporary Jazz",
+                "Instructors": "Erin Kilmurray",
+                "Meeting Info": "Wirtz Center Ballroom: Tues, Thurs 10:30AM - 11:50AM",
+                "Overview of class": "Dance 360 - Contemporary Jazz III is designed for students confident and proficient in both Jazz and Contemporary dance practices. Highlighting the hybridity of the form, materials will focus on musicality, bodily isolations, groundedness, and clarity of expression. Class structure includes a sensation based warm-up, physical conditioning, as well as advanced floorwork, turn sequences, jumps, and related stylized choreography. Students will develop strength and flexibility in both body and mind, empowering them to find and express their own individual voices. The classroom culture is a learning community where students build up themselves and each other growing into unique, autonomous, and intelligent movers.",
+                "Registration Requirements": "Pre-reg: Dance maj/min + MT Cert | Open to all undergraduates during regular registration",
+                "Class Materials (Required)": "Notebook $1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Classical Dance III",
+        "course_reference_number": [
+            "28353"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate/Advanced Ballet Technique",
+                "instructors": [
+                    "Classical Dance III",
+                    "Joe Harrison Bowie"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Intermediate/Advanced Ballet Technique",
+                "Instructors": "Joe Harrison Bowie",
+                "Meeting Info": "Wirtz Center Ballroom: Tues, Thurs 12:00PM - 1:20PM",
+                "Overview of class": "Classical Dance III will focus on developing technical, musical, and artistic skills. This course covers the core principles, exercises, and terminology of ballet technique at an intermediate to advanced level. Our physical practice will progress through barre, center, and across-the-floor exercises. We will also incorporate strengthening, conditioning, and body-mind-centering exercises from somatic and strength-building practices.",
+                "Registration Requirements": "Pre-reg: Dance maj/min + MT Cert | Open to all undergraduates during regular registration",
+                "Class Materials (Required)": "Ballet slippers or non-slip socks. $1-25",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

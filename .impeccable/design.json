@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-20T21:10:00Z",
+  "title": "Design System: CAESAR Course Check",
+  "extensions": {
+    "colorMeta": {
+      "line-purple": { "role": "primary", "displayName": "Line Purple", "canonical": "#4e2a84", "tonalRamp": ["#1d0f33", "#2b1850", "#3d206a", "#4e2a84", "#7c52d6", "#a58be6", "#cdbff2", "#ece7f9"] },
+      "sign-white": { "role": "neutral", "displayName": "Sign White", "canonical": "#f8f8fa", "tonalRamp": ["#17151f", "#3a384a", "#5c5a6c", "#8b8a9a", "#b6b5c2", "#d9d8e2", "#eeeef3", "#f8f8fa"] },
+      "night": { "role": "neutral", "displayName": "Night Platform", "canonical": "#0e0d13", "tonalRamp": ["#0e0d13", "#171620", "#2b2a38", "#4a4960", "#7a7890", "#a3a1b6", "#d3d2e0", "#efeef6"] },
+      "ok": { "role": "status", "displayName": "Line Green", "canonical": "#137a45", "tonalRamp": ["#0a3d23", "#0f5c34", "#137a45", "#2a9a62", "#4cc88a", "#86dcb0", "#bdeed4", "#e3f8ed"] },
+      "warn": { "role": "status", "displayName": "Signal Amber", "canonical": "#9a5a00", "tonalRamp": ["#4d2d00", "#744300", "#9a5a00", "#c78414", "#f0b43c", "#f6cd78", "#fae3b2", "#fdf3dc"] },
+      "bad": { "role": "status", "displayName": "Stop Red", "canonical": "#c0281b", "tonalRamp": ["#5e140d", "#8a1d13", "#c0281b", "#e0584a", "#ff7a6c", "#ff9f94", "#ffc7c1", "#ffe8e5"] }
+    },
+    "typographyMeta": {
+      "count": { "displayName": "Count", "purpose": "Enrollment number, the loudest element." },
+      "title": { "displayName": "Title", "purpose": "Status headline." },
+      "wordmark": { "displayName": "Wordmark", "purpose": "Header band title." },
+      "body": { "displayName": "Body", "purpose": "Inputs, tabs, buttons." },
+      "label": { "displayName": "Label", "purpose": "Field labels and route captions." },
+      "mono": { "displayName": "Mono", "purpose": "Clock times and activity timestamps." }
+    },
+    "shadows": [
+      { "name": "train-halo", "value": "0 0 0 3px var(--bg)", "purpose": "Separates the train from the track." },
+      { "name": "field-focus-rule", "value": "0 0 0 1px var(--rule)", "purpose": "Focused field outline." },
+      { "name": "outline-button-ring", "value": "inset 0 0 0 1.5px var(--text-muted)", "purpose": "Stop and Monitor again button ring." }
+    ],
+    "motion": [
+      { "name": "ease-out", "value": "cubic-bezier(.22, 1, .36, 1)", "purpose": "All state transitions." },
+      { "name": "dur", "value": "140ms", "purpose": "Default transition duration." },
+      { "name": "ping", "value": "2s ease-out infinite", "purpose": "Monitoring dot pulse." },
+      { "name": "arrive", "value": "520ms ease-out", "purpose": "Terminal station lighting on alert." }
+    ],
+    "breakpoints": []
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Start monitoring, Open CAESAR, Solve captcha.",
+      "html": "<button class=\"ds-btn-primary\">Start monitoring</button>",
+      "css": ".ds-btn-primary { font: 700 13px 'Helvetica Neue', system-ui, sans-serif; min-height: 36px; padding: 0 16px; border: 0; border-radius: 4px; background: #4e2a84; color: #fff; cursor: pointer; transition: background-color 140ms cubic-bezier(.22,1,.36,1); } .ds-btn-primary:hover { background: #3d206a; } .ds-btn-primary:focus-visible { outline: 2px solid #6b3fc0; outline-offset: 2px; } .ds-btn-primary:active { transform: translateY(1px); }"
+    },
+    {
+      "name": "Outline Button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Stop monitoring and Monitor again; neutral, never red.",
+      "html": "<button class=\"ds-btn-outline\">Stop monitoring</button>",
+      "css": ".ds-btn-outline { font: 700 13px 'Helvetica Neue', system-ui, sans-serif; min-height: 36px; padding: 0 16px; border: 0; border-radius: 4px; background: transparent; color: #17151f; box-shadow: inset 0 0 0 1.5px #5c5a6c; cursor: pointer; } .ds-btn-outline:hover { background: #eeeef3; } .ds-btn-outline:focus-visible { outline: 2px solid #6b3fc0; outline-offset: 2px; }"
+    },
+    {
+      "name": "Course Roundel",
+      "kind": "custom",
+      "refersTo": "roundel",
+      "description": "White-on-purple pill naming the course.",
+      "html": "<span class=\"ds-roundel\">COMP_SCI 340-0</span>",
+      "css": ".ds-roundel { font: 700 12px/1 'Helvetica Neue', system-ui, sans-serif; letter-spacing: .02em; color: #fff; background: #4e2a84; border-radius: 999px; padding: 6px 12px; white-space: nowrap; }"
+    },
+    {
+      "name": "Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Sunken sign-slot input with a muted bottom rule.",
+      "html": "<label class=\"ds-label\">Subject<input class=\"ds-input\" placeholder=\"COMP_SCI…\" /></label>",
+      "css": ".ds-label { display: grid; gap: 3px; font: 600 11px 'Helvetica Neue', system-ui, sans-serif; color: #5c5a6c; } .ds-input { font: 500 13px 'Helvetica Neue', system-ui, sans-serif; color: #17151f; background: #eeeef3; border: 1px solid transparent; border-bottom-color: #5c5a6c; border-radius: 4px 4px 0 0; padding: 0 8px; height: 30px; } .ds-input::placeholder { color: #5c5a6c; font-weight: 400; } .ds-input:focus-visible { outline: none; border-bottom: 2px solid #6b3fc0; background: #f8f8fa; box-shadow: 0 0 0 1px #d9d8e2; }"
+    },
+    {
+      "name": "Header Band",
+      "kind": "nav",
+      "refersTo": "header-band",
+      "description": "Purple band with wordmark and verification status.",
+      "html": "<div class=\"ds-band\"><b>CAESAR Course Check</b><span>Verified</span></div>",
+      "css": ".ds-band { display: flex; align-items: center; justify-content: space-between; height: 44px; padding: 0 12px 0 16px; background: #4e2a84; color: #fff; font: 12px 'Helvetica Neue', system-ui, sans-serif; } .ds-band b { font-size: 14px; font-weight: 700; }"
+    },
+    {
+      "name": "Tabs",
+      "kind": "nav",
+      "description": "Course | Activity tabs with a 3px purple underline.",
+      "html": "<div class=\"ds-tabs\"><button class=\"on\">Course</button><button>Activity</button></div>",
+      "css": ".ds-tabs { display: flex; gap: 16px; border-bottom: 2px solid #d9d8e2; } .ds-tabs button { font: 700 13px 'Helvetica Neue', system-ui, sans-serif; color: #5c5a6c; background: none; border: 0; border-bottom: 3px solid transparent; margin-bottom: -2px; padding: 4px 0 7px; cursor: pointer; } .ds-tabs button:hover { color: #17151f; } .ds-tabs button.on { color: #17151f; border-color: #4e2a84; } .ds-tabs button:focus-visible { outline: 2px solid #6b3fc0; outline-offset: 2px; }"
+    },
+    {
+      "name": "Route Strip",
+      "kind": "custom",
+      "description": "Signature: track with end stations and a train showing time since last check.",
+      "html": "<div class=\"ds-route\"><div class=\"ds-track\"><div class=\"ds-done\"></div></div><span class=\"ds-stn\" style=\"left:-6px\"></span><span class=\"ds-stn\" style=\"right:-6px\"></span><span class=\"ds-train\"></div>",
+      "css": ".ds-route { position: relative; height: 18px; margin: 12px 6px 0; width: 240px; } .ds-track { position: absolute; left: 0; right: 0; top: 7px; height: 4px; background: #d9d8e2; border-radius: 2px; overflow: hidden; } .ds-done { width: 40%; height: 100%; background: #4e2a84; } .ds-stn { position: absolute; top: 3px; width: 12px; height: 12px; border-radius: 50%; background: #f8f8fa; border: 3px solid #4e2a84; box-sizing: border-box; } .ds-train { position: absolute; left: 40%; top: 4px; width: 10px; height: 10px; margin-left: -5px; border-radius: 50%; background: #4e2a84; box-shadow: 0 0 0 3px #f8f8fa; }"
+    },
+    {
+      "name": "Activity Rail",
+      "kind": "custom",
+      "description": "Activity log as a line of stops.",
+      "html": "<ol class=\"ds-stops\"><li><time>20:41:03</time><span>Checked: 148 enrolled</span></li><li><time>20:40:02</time><span>Checked: 148 enrolled</span></li></ol>",
+      "css": ".ds-stops { list-style: none; margin: 0; padding: 0 0 0 14px; position: relative; font: 12px 'Helvetica Neue', system-ui, sans-serif; color: #17151f; } .ds-stops::before { content: ''; position: absolute; left: 4px; top: 12px; bottom: 12px; width: 3px; background: #4e2a84; border-radius: 2px; } .ds-stops li { position: relative; display: flex; gap: 12px; padding: 3px 0; } .ds-stops li::before { content: ''; position: absolute; left: -14px; top: 8px; width: 7px; height: 7px; border-radius: 50%; background: #f8f8fa; border: 2px solid #4e2a84; box-sizing: content-box; margin-left: -1px; } .ds-stops time { font: 500 11px/1.7 ui-monospace, Menlo, monospace; color: #5c5a6c; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Purple Line Platform",
+    "overview": "A 340x520 tray popover dressed as transit wayfinding: a saturated Northwestern-purple band across the top, signage-white (light) or night-platform near-black (dark) ground, a white-on-purple roundel naming the course, and a route strip whose stations carry state. The scene is a glance at a platform sign: which class, is the line running, what is the count, when is the next check. It is recognizable with the text removed: band, roundel, line with stations.\n\nDensity is compact and calm. Humanist transit sans with tabular numerals does all the work; colour is spent on one line colour (purple) and three status colours. Light and dark follow the OS and are two times of day on the same platform, not two themes.",
+    "keyCharacteristics": [
+      "Purple band header is the only fully saturated surface; the rest is near-neutral tinted toward violet.",
+      "One line colour (purple) for action, selection, the route and the activity rail.",
+      "Status colours (ok, warn, bad) appear only as the status dot, the alert state, and error text.",
+      "Flat: no elevation shadows, depth by tonal sunken fields and 2px rules.",
+      "Tabular numerals for every count and time."
+    ],
+    "rules": [
+      { "name": "The One Line Rule", "body": "Purple is the only brand colour; it marks what is active or actionable. Status colours never decorate and never appear as button fills.", "section": "colors" },
+      { "name": "The Day/Night Pair Rule", "body": "Every semantic colour has a light and a dark value defined together in app.css; new colours are added as a pair and contrast-checked on both grounds.", "section": "colors" },
+      { "name": "The Tabular Rule", "body": "Any number that changes (count, countdown, clock) uses tabular numerals so the layout does not shift between polls.", "section": "typography" }
+    ],
+    "dos": [
+      "Do keep the purple band, roundel and route strip as the three constants of any new screen.",
+      "Do use purple (accent) only for what is active or actionable; use status colours only for status.",
+      "Do define any new colour as a light/night pair and set it as a CSS custom property in app.css.",
+      "Do use tabular numerals for all changing numbers and 24h en-GB clocks.",
+      "Do keep placeholders, disabled fields and muted text at the muted token values so they stay legible.",
+      "Do disable animation under `prefers-reduced-motion`."
+    ],
+    "donts": [
+      "Don't make the Stop button red or fill it with a status colour.",
+      "Don't add elevation shadows, gradients or pastel status cards; depth is tonal.",
+      "Don't introduce a second brand hue or a neutral-gray accent.",
+      "Don't hard-code colour hex values in components when a token exists."
+    ]
+  }
+}

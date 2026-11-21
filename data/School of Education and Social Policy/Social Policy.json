@@ -1,0 +1,128 @@
+[
+    {
+        "course_number": "312-0",
+        "course_name": "Social Policymaking and Implementation",
+        "course_reference_number": [
+            "27847"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Social Policymaking and Implementation",
+                "instructors": [
+                    "Quinn Mulroy"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Quinn Mulroy",
+                "Meeting Info": "2001 Sheridan GPC 2109: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Social policy is integral to the fabric of society. It helps to determine who has access to resources and services, regulates how those are obtained, and is constantly negotiated by changing ideas about public need and the common good. A primary goal of this course is to explore social policy in the United States as a political, economic, and ideological process that is embedded in the racialized, classed, and gendered context of American society. In this class, we will learn about factors that shape policymaking, examine ways that policy impacts society through institutional and interpersonal pathways, and practice skills to analyze policy from development to implementation.\n\nThe first part of the course will focus on policy framing and development as key elements of policymaking. We will examine how social issues become policy problems, how and why policy agendas are set, whose voice is represented, and how research is engaged in the policymaking process. We will form policy workgroups to examine specific policy problems and learn about the ways that policy seeks to address social issues like poverty, educational access, and violence. Individually, students will have the opportunity to focus in on a specific social issue that is meaningful to them and explore how policy is used to address it. The second part of the course will focus on policy implementation, with an emphasis on the ways that policy impacts people differently depending on their identity, social status, and positionality in society. We will develop policy analysis skills, use analytical tools to examine impact, and learn how to read, write, and interrogate policy briefs as public-facing documents.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "313-0",
+        "course_name": "Race, Inequality, and the Political Analysis of Public Policy",
+        "course_reference_number": [
+            "27845"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Race, Inequality, and the Political Analysis of Public Policy",
+                "instructors": [
+                    "Sally Nuamah"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sally Nuamah",
+                "Meeting Info": "2001 Sheridan GPC 1105: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This class aims to help each student think critically about the role of public policy in shaping racial inequality. The course will cover substantive issues around race in politics and how they intersect with many issues, most notably capitalism, sexism, and classism. Further, this course will familiarize you with substantive research on politics with concrete insights for public policy stakeholders. Together, we will use these insights to become better political analysts.\n\nIn this class, we will take nothing for granted: we will discuss the fundamentals of the policy process throughout the quarter (for example, how a bill becomes a law). We will then investigate the role of race in shaping these policy processes (for example, how racial divides shape partisanship positions on a bill). We will discuss the various groups outside of the institutional system that affects and are affected by public policy, including the general public, activists, and organizers. We will discuss the strengths and limits of policy and likely generate more questions than we can answer.\n\nWhile the main focus of the course is to discuss race, policy, and inequality, there will also be an emphasis on public policy and political science writing formats, styles, and standards. We want to ensure that you can take your learning and apply it to formats useful in real-world policy circles.",
+                "Teaching Method": "Lecture and project based work",
+                "Class Materials (Required)": "Everything is available for free",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "331-0",
+        "course_name": "Economics of Inequality and Discrimination",
+        "course_reference_number": [
+            "27846"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Economics of Inequality and Discrimination",
+                "instructors": [
+                    "Jonathan Guryan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jonathan Guryan",
+                "Meeting Info": "2001 Sheridan GPC GN200: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "The gap between rich and poor is significantly larger in the United States than it was 40 years ago. In this course we explore why this may have happened and what policies have been attempted to address the causes and consequences of inequality. We will investigate these questions through the lens of economics, and will learn fundamental economic concepts as a way to answer these questions. The first part of the course will begin with a discussion about what inequality is and how to measure it. We will discuss how inequality in earnings, wealth, and wellbeing have changed in the U.S. over time, and will talk about various economic theories to explain these changes. The second part of the course will explore policies designed to address the causes and consequences of inequality. We will also learn about fundamental economic concepts - including opportunity cost, comparative advantage, supply and demand, human capital, and individual responses to incentives - as a way to critically examine the effectiveness of these policies. The final part of the course will focus specifically on inequality along race and gender lines, with some attention to whether these differences are the result of discrimination. We will also explore how economic thinking can help us analyze policies designed to address past and present discrimination.",
+                "Evaluation Method": "Lecture and in-class discussion; problem sets, written policy briefs, exam",
+                "Class Materials (Required)": "Ehrenberg & Smith, Modern Labor Economics; Goldin & Katz, The Race Between Education and Technology",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students need to take ECON 202 and any one 200-level statistics course"
+            }
+        ]
+    },
+    {
+        "course_number": "337-0",
+        "course_name": "The Social Side of College: Understanding the Lives of Undergraduate Students",
+        "course_reference_number": [
+            "27849"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Social Side of College: Understanding the Lives of Undergraduate Students",
+                "instructors": [
+                    "Simone Zinaida Ispa-Landa"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Simone Zinaida Ispa-Landa",
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5103: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "What explains the distinctive nature of the North American residential college experience? Why do American college students live, eat, and socialize together on campus in ways that differ from universities worldwide? How do campus architecture and physical spaces shape student interactions and social hierarchies? How can we explain US college party cultures and nightlife? How do aspects of the college environment influence college students' romantic and sexual relationships with one another? How do family backgrounds and parenting styles affect students' college trajectories? How does college athletics both create opportunities and reinforce inequalities? And what social divisions and connections define elite college communities? In this course, we will learn to view the four-year residential North American college as the product of historical and contemporary institutional structures. Instead of taking elements of the college experience for granted, we will learn to question and ask where they came from and discuss the pros and cons of viewing them from different vantage points.",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ANTIREQ: Students who have completed or are currently enrolled in SOC_POL 351-0 \"The Social Side of College: Understanding the Lives of Undergraduate Students\" may not enroll."
+            }
+        ]
+    }
+]

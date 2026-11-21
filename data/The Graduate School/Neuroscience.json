@@ -1,0 +1,148 @@
+[
+    {
+        "course_number": "401-2",
+        "course_name": "Fundamentals of Neuroscience",
+        "course_reference_number": [
+            "21402"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Neuroscience",
+                "instructors": [
+                    "Gordon Shepherd",
+                    "Benayahu Elbaz-Eilon",
+                    "Liorimar Ramos Medina",
+                    "Amber Leaver"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "11:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gordon Shepherd",
+                "Meeting Info": "Annenberg Hall G32: Mon, Wed 9:30AM - 11:20AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "402-2",
+        "course_name": "NUIN Winter Rotation",
+        "course_reference_number": [
+            "21406"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "NUIN Winter Rotation",
+                "instructors": [
+                    "Melissa Moore",
+                    "Jena Pitman-Leung"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melissa Moore",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Anatomy and Physiology of the Central Hearing Mechanism",
+        "course_reference_number": [
+            "21405"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Anatomy and Physiology of the Central Hearing Mechanism",
+                "instructors": [
+                    "Adrian Rodriguez Contreras"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adrian Rodriguez Contreras",
+                "Meeting Info": "Frances Searle Building 2378: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "436-0",
+        "course_name": "Drugs and the Brain",
+        "course_reference_number": [
+            "21404"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Drugs and the Brain",
+                "instructors": [
+                    "Loukia Parisiadou",
+                    "Jennifer Kearney"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Loukia Parisiadou",
+                "Meeting Info": "TBA: Thurs 1:00PM - 3:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "441-0",
+        "course_name": "Biophysical Signal Processing for Movement & Rehabilitation Sciences",
+        "course_reference_number": [
+            "21403"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biophysical Signal Processing for Movement & Rehabilitation Sciences",
+                "instructors": [
+                    "AnaMaria Acosta"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "AnaMaria Acosta",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 10:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

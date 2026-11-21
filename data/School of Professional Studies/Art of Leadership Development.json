@@ -1,0 +1,60 @@
+[
+    {
+        "course_number": "200-0",
+        "course_name": "Strategic Thinking and Leading",
+        "course_reference_number": [
+            "20399"
+        ],
+        "course_info": [
+            {
+                "section": "43",
+                "course_name": "Strategic Thinking and Leading",
+                "instructors": [
+                    "Diane Knoepke"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Diane Knoepke",
+                "Meeting Info": "TBA: Tues 6:30PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "204-0",
+        "course_name": "Developing People and Teams",
+        "course_reference_number": [
+            "20596"
+        ],
+        "course_info": [
+            {
+                "section": "42",
+                "course_name": "Developing People and Teams",
+                "instructors": [
+                    "E Bliss Hansen"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "E Bliss Hansen",
+                "Meeting Info": "TBA: Mon 6:30PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    }
+]

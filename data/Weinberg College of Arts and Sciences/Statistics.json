@@ -1,0 +1,934 @@
+[
+    {
+        "course_number": "201-0",
+        "course_name": "Introduction to Programming for Data Science",
+        "course_reference_number": [
+            "28000"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Programming for Data Science",
+                "instructors": [
+                    "Shreeya Behera"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Shreeya Behera",
+                "Meeting Info": "Fisk Hall 217: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "This introductory course provides a foundation in programming with Python and R, focusing on essential skills for data science. Students will learn to write, execute, debug, and test code while developing an understanding of both languages' unique features. Key topics include using conditional statements and loops, creating user-defined and recursive functions, and selecting appropriate data structures to manage data effectively. Students will translate real-world problems into coding solutions, incorporating best practices for efficiency, style, and reproducibility, including version control, style guides, and effective commenting. This course emphasizes building a solid programming base tailored for data science applications.",
+                "Registration Requirements": "High School Algebra",
+                "Learning Objectives": "Write, execute, debug and test code in Python and R\nUse conditional statements and loops to implement various tasks\nCreate user-defined and recursive functions to create specialized code blocks\nIncorporate the appropriate data structures of a programming language to handle data\nTranslate a problem from layman terms to a coding problem in Python and R\nIncorporate best programming practices for writing efficient code in Python and R\nIncorporate best practices for code reproducibility (version control, style guides, and commenting)",
+                "Teaching Method": "There will be three 50-minute lectures per week. The lectures will mostly include in-class coding with explanatory notes as comments on the script; along with some diagrams to visualize some coding concepts better. The last 5 minutes of each lecture will be an in-class quiz (except on the first day and day of midterms).",
+                "Evaluation Method": "STUDENTS WILL BE EVALUATED through (1) homework assignments, (2) in-class quizzes, (3) midterm exams\n\nThe midterm exams will be in class on paper. The exam dates will be posted on the Canvas page. Six homework assignments will be given throughout the quarter, and top five homework score will be taken. There will be an in-class quiz for almost every lecture day. Top 15 quiz scores will be taken.",
+                "Class Materials (Required)": "A Practical Introduction to Python Programming by Brian Heinold\n\nAn Introduction to R by Alex Douglas",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "202-0",
+        "course_name": "Introduction to Statistics and Data Science",
+        "course_reference_number": [
+            "27946"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Statistics and Data Science",
+                "instructors": [
+                    "Danielle Sass"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danielle Sass",
+                "Meeting Info": "Harris Hall 107: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "This course introduces students to the discipline of statistics and data science as a science of understanding and analyzing data. Students will learn the importance of data collection and sampling, methods to analyze data, and how to use data to make inferences and conclusions about real world phenomena. Students will be introduced to the online statistical programming software, Posit Cloud, to apply both descriptive and inferential statistics to real data sets.",
+                "Registration Requirements": "Prerequisite: High School Algebra\n\nMay not receive credit for both STAT 202-0 and STAT 210-0\n\nWhen selecting an introductory statistics course to fulfill a major/minor requirement, students should consult the Undergraduate Catalog and/or the department to confirm the course they want to register for will fulfill the requirement.",
+                "Learning Objectives": "1. Use statistical software to wrangle data (i.e., manage and process data).\n2. Use statistical software to perform exploratory data analyses. That is, explore data numerically and visually to gain understanding through data and generate hypotheses and inferences to later test.\n3. Recognize the importance of data collection, identify limitations in data collection methods, and determine how they affect the scope of inference.\n4. Have a conceptual understanding of the unified nature of statistical inference.\n5. Apply estimation and testing methods to analyze single variables or the relationship between two variables in order to understand natural phenomena and make data-based decisions.\n6. Model numerical response variables using a single or multiple explanatory variable(s).\n7. Interpret results correctly, effectively, and in context without relying on statistical jargon.\n8. Critique data-based claims and evaluate data-based decisions.",
+                "Teaching Method": "The course is taught using a flipped lecture design. Most classes will be devoted to daily activities where we will code and discuss problems together followed by students working on problems by themselves or in groups. Students will be expected to adequately prepare for each class, so they are able to work through the daily activities and discuss the work with instructors and fellow classmates. Each class will typically end with a discussion of the concepts and ideas for that day's material. There will be some days that will be more discussion/lecture oriented, but for the most part classes will be dedicated to working with real data.",
+                "Evaluation Method": "Students will be evaluated through (1) assignments; (2) reading tutorials; (3) in-class assessments; (4) 2 exams and a (5) final exam",
+                "Class Materials (Required)": "(1) Free online textbook, Introduction to Statistics and Data Science (https://nustat.github.io/intro-stat-data-sci/)\n(2) Online statistical software Posit Cloud (https://posit.cloud)",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "210-0",
+        "course_name": "Introduction to Probability and Statistics",
+        "course_reference_number": [
+            "27947"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Probability and Statistics",
+                "instructors": [
+                    "Frank Limbrock"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Frank Limbrock",
+                "Meeting Info": "Tech Institute Lecture Room 2: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC GN210: Tues 5:00PM - 5:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "228-0",
+        "course_name": "Series and Multiple Integrals",
+        "course_reference_number": [
+            "27996"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Series and Multiple Integrals",
+                "instructors": [
+                    "Dmitry Tamarkin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dmitry Tamarkin\n8474915569\nLunt B6",
+                "Meeting Info": "Technological Institute L361: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Empirical and Deductive Reasoning Foundational Dis\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: PreReq: Student must be a Data Science Major or Statistics Major/Minor to enroll.",
+                "Associated Classes": "DIS - Annenberg Hall G21: Tues 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "301-2",
+        "course_name": "Data Science 2 with R",
+        "course_reference_number": [
+            "27987",
+            "27988"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Science 2 with R",
+                "instructors": [
+                    "Danielle Sass"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data Science 2 with R",
+                "instructors": [
+                    "Shengbin Ye"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danielle Sass",
+                "Meeting Info": "Frances Searle Building 2370: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Only Statistics majors, Data Science, majors, Data Science minors, and Statistics Masters students assigned to take STAT 301-2 in this quarter are able to register for this course.\n\nAs the second course in the STAT 301 Data Science with R series, our objective is to build upon and extend the foundational analytical skills and knowledge gained in STAT 301-1. While many data science problems can be solved using knowledge from multiple coding languages and technologies, this course chooses to utilize R through the IDE RStudio to conduct data science. Students will be introduced to machine learning and will develop skills, tools, and strategies for modeling and understanding complex data. Methods to be addressed include linear regression and classification, tree-based models, model selection, and model assessment, resampling methods, regularization methods. These skills will be developed through project/lab based learning (1-2 projects/labs per week). The skills developed in this course are necessary for STAT 301-3 Data Science 3 with R.",
+                "Registration Requirements": "Course requires STAT 301-1 Data Science 1 with R or instructor's permission to enroll - we assume students will be well versed in the skills covered in STAT 301-1 Data Science 1 with R. That is, students should be comfortable using R and RStudio to manage, manipulate, and visualize data. Students should be prepared to spend approximately 5 to 9 hours outside of class working per week on this course - dependent on knowledge of R.",
+                "Learning Objectives": "Students will be able to (1) explain/define each of the statistical learning methods introduced throughout the quarter; (2) demonstrate application of statistical learning methods on real datasets; (3) explain/define model building, selection, and assessment techniques; and (4) demonstrate the application of model building, selection, and assessment techniques to real datasets.",
+                "Teaching Method": "A typical class will devote about 10-20 minutes to discussion/lecture with the remaining time devoted to projects/labs where students will either work by themselves or in groups. Students will be expected to adequately prepare for each discussion/lecture by reviewing assigned material (e.g. readings, videos, etc…) because the majority of class time will be spent working on projects/labs - designed around the assigned material. Students will be expected to collaborate and engage with other students to help each other learn and solve problems",
+                "Evaluation Method": "There will be a final project in place of a written exam. We will also evaluate progress throughout the quarter using project/lab-based learning (1-2 projects/labs per week) and 1-2 exams.",
+                "Class Materials (Required)": "(1) Laptop for in class projects/labs — contact department if access to a laptop is an issue.\n(2) Free online textbook, Tidy Modeling with R: https://www.tmwr.org/\n(3) Free downloadable pdf, An Introduction to Statistical Learning with Application in R 2nd Edition: https://www.statlearning.com/\n(4) Free statistical software R (https://cran.rstudio.com/)\n(5) Free integrated development environment software RStudio (https://www.rstudio.com/). Think of R as the car engine needed to power and run everything while RStudio is the steering wheel/dashboard that we use to run and control the car.",
+                "Class Notes": "ATTENDANCE AT THE FIRST CLASS IS MANDATORY",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 301-1\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Shengbin Ye",
+                "Meeting Info": "Harris Hall L07: Mon, Wed 5:30PM - 6:50PM",
+                "Overview of class": "Only Statistics majors, Data Science, majors, Data Science minors, and Statistics Masters students assigned to take STAT 301-2 in this quarter are able to register for this course.\n\nAs the second course in the STAT 301 Data Science with R series, our objective is to build upon and extend the foundational analytical skills and knowledge gained in STAT 301-1. While many data science problems can be solved using knowledge from multiple coding languages and technologies, this course chooses to utilize R through the IDE RStudio to conduct data science. Students will be introduced to machine learning and will develop skills, tools, and strategies for modeling and understanding complex data. Methods to be addressed include linear regression and classification, tree-based models, model selection, and model assessment, resampling methods, regularization methods. These skills will be developed through project/lab based learning (1-2 projects/labs per week). The skills developed in this course are necessary for STAT 301-3 Data Science 3 with R.",
+                "Registration Requirements": "Course requires STAT 301-1 Data Science 1 with R or instructor's permission to enroll - we assume students will be well versed in the skills covered in STAT 301-1 Data Science 1 with R. That is, students should be comfortable using R and RStudio to manage, manipulate, and visualize data. Students should be prepared to spend approximately 5 to 9 hours outside of class working per week on this course - dependent on knowledge of R.",
+                "Learning Objectives": "Students will be able to (1) explain/define each of the statistical learning methods introduced throughout the quarter; (2) demonstrate application of statistical learning methods on real datasets; (3) explain/define model building, selection, and assessment techniques; and (4) demonstrate the application of model building, selection, and assessment techniques to real datasets.",
+                "Teaching Method": "A typical class will devote about 10-20 minutes to discussion/lecture with the remaining time devoted to projects/labs where students will either work by themselves or in groups. Students will be expected to adequately prepare for each discussion/lecture by reviewing assigned material (e.g. readings, videos, etc…) because the majority of class time will be spent working on projects/labs - designed around the assigned material. Students will be expected to collaborate and engage with other students to help each other learn and solve problems",
+                "Evaluation Method": "There will be a final project in place of a written exam. We will also evaluate progress throughout the quarter using project/lab-based learning (1-2 projects/labs per week) and 1-2 exams.",
+                "Class Materials (Required)": "(1) Laptop for in class projects/labs — contact department if access to a laptop is an issue.\n(2) Free online textbook, Tidy Modeling with R: https://www.tmwr.org/\n(3) Free downloadable pdf, An Introduction to Statistical Learning with Application in R 2nd Edition: https://www.statlearning.com/\n(4) Free statistical software R (https://cran.rstudio.com/)\n(5) Free integrated development environment software RStudio (https://www.rstudio.com/). Think of R as the car engine needed to power and run everything while RStudio is the steering wheel/dashboard that we use to run and control the car.",
+                "Class Notes": "ATTENDANCE AT THE FIRST CLASS IS MANDATORY",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 301-1\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Data Visualization",
+        "course_reference_number": [
+            "27954",
+            "27955"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Visualization",
+                "instructors": [
+                    "Arend M Kuyper"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data Visualization",
+                "instructors": [
+                    "Emre Besler"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arend M Kuyper\nIPR, 2040 Sheridan Road, Evanston",
+                "Meeting Info": "Harris Hall L07: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Only Statistics majors, Data Science minors, Data Science majors, and Applied Statistics Masters students assigned to take 302 in this quarter are able to register for this course.\n\nThis section of the course will be taught primarily using R\n\nData visualization (dataviz) plays an important role in both data exploration, analysis, and communication. Quality data visualizations have the power to help analysts better understand and effectively communicate their work. Students will learn how to construct quality data visualizations using RStudio. The course will address visualizing data of various forms (e.g. panel, spatial, temporal, etc.) and from various statistical domains such as inferential, descriptive, and predictive statistics. The course will focus on principles and techniques used to create static visualizations. The course will also provide an introduction to interactive visualizations and dashboards. These skills will be developed through project/lab-based learning (1-2 projects/labs per week). A significant proportion of the course will be dedicated to a large-scale project.",
+                "Registration Requirements": "Only Statistics majors, Data Science minors, Data Science majors, and Applied Statistics Masters students assigned to take STAT 302 in this quarter are able to register for this course.\n\nBoth an introductory understanding of statistics and an introductory understanding of programming. Prerequisites: STAT 201-0 or GEN_ENG 150-0 or GEN_ENG 151-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent.",
+                "Learning Objectives": "Students will be able to communicate the core concepts of the grammar of graphics that underlie all static statistical graphics. Students will be able to utilize the grammar of graphics (as implemented in R) to construct static data visualizations tailored to various types of datasets. Students will be able to construct basic interactive data visualizations.",
+                "Teaching Method": "A typical class will devote about 10-20 minutes to discussion/lecture with the remaining time devoted to projects/labs where students will either work by themselves or in groups. Students will be expected to adequately prepare for each discussion/lecture by reviewing assigned material (e.g. readings, videos, etc.) because the majority of class time will be spent working on projects/labs - designed around the assigned material. Students will be expected to collaborate and engage with other students to help each other learn and solve problems.",
+                "Evaluation Method": "There will be a final project. We will also evaluate progress throughout the quarter using project/lab-based learning (1-2 projects/labs per week). Other assessment types may also be used at the instructor's discretion.",
+                "Class Materials (Required)": "(1) Free online textbook, ggplot2: Elegant Graphics for Data Analysis, 3rd Edition: https://ggplot2-book.org/index.html\n(2) Free online textbook, Fundamentals of Data Visualization: https://clauswilke.com/dataviz/\n(3) Free online textbook, Mastering Shiny: Build Interactive Apps, Reports & Dashboards Powered by R: https://mastering-shiny.org/index.html\n(4) Free statistical software R (https://cran.rstudio.com/)\n(5) Free integrated development environment software RStudio (https://www.rstudio.com/). Think of R as the car engine needed to power and run everything while RStudio is the steering wheel/dashboard that we use to run and control the car.",
+                "Class Materials (Suggested)": "Grammar of Graphics (Statistics and Computing) by Leland Wilkinson. Springer-Verlag New York, 2005. ISBN: 9780387245447 (Print) 9780387286952 (Online). Northwestern students can access a free pdf version through the library.",
+                "Class Notes": "ATTENDANCE AT THE FIRST CLASS IS MANDATORY",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 201-0 or GEN_ENG 150-0 or GEN_ENG 151-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Emre Besler",
+                "Meeting Info": "Harris Hall L07: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Only Statistics majors, Data Science minors, Data Science majors, and Applied Statistics Masters students assigned to take 302 in this quarter are able to register for this course.\n\nThis section of the course will be taught primarily using Python.\n\nVisualizing data plays an important role in both data exploration and presenting analytic results. Quality data visualizations help analysts better understand and effectively communicate their work. This course will help students develop the necessary skills and knowledge to produce quality data visualizations. To this purpose, student will use different libraries of Python programming language and go through an array of labs. Each lab will be focused on a specific component of professional, complete figure created by Python.",
+                "Registration Requirements": "Only Statistics majors, Data Science minors, Data Science majors, and Applied Statistics Masters students assigned to take STAT 302 in this quarter are able to register for this course.\n\nBoth an introductory understanding of statistics and an introductory understanding of programming. Prerequisites: STAT 201-0 or GEN_ENG 150-0 or GEN_ENG 151-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent.\n\nIf you have introductory Python knowledge but you are not sure if it is sufficient for the course, please email emre.besler@northwestern.edu to check.",
+                "Learning Objectives": "At the completion of this course, students should be able to:\n• Identify, define, and describe all the components that create static data visualizations.\n• Select and construct appropriate data visualizations for data exploration and presentation.\n• Build a series of data visualizations to tell a truthful and compelling story with data.\n• Develop skills necessary to be an independent and active learner, especially as it relates to coding.",
+                "Teaching Method": "A typical class will devote about 10-20 minutes to discussion/lecture with the remaining time devoted to labs/projects where students will either work by themselves or in groups. Students will be expected to adequately prepare for each discussion/lecture by reviewing assigned material (e.g. readings, videos, etc.) because the majority of class time will be spent working on projects/labs - designed around the assigned material.",
+                "Evaluation Method": "There will be 11 labs (80%) and a final project (20%).",
+                "Class Materials (Required)": "A laptop that is able to run any Python programming environment.",
+                "Class Notes": "ATTENDANCE AT THE FIRST CLASS IS MANDATORY\n\nThis course will have a mostly flipped classroom format: Lecture videos will be assigned daily/weekly outside of class before the day of the lecture. Lecture time will be reserved for the students to work on the labs and the final project with the instructor.\n\nAttendance for the lectures is not mandatory; however, students who miss the lectures are expected to complete the labs on their own.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 201-0 or GEN_ENG 150-0 or GEN_ENG 151-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "303-2",
+        "course_name": "Data Science 2 with Python",
+        "course_reference_number": [
+            "27989",
+            "27990",
+            "27991"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Science 2 with Python",
+                "instructors": [
+                    "Lizhen Shi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Data Science 2 with Python",
+                "instructors": [
+                    "Shreeya Behera"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "6:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Data Science 2 with Python",
+                "instructors": [
+                    "Emre Besler"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lizhen Shi",
+                "Meeting Info": "2001 Sheridan GPC 2447: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Only Statistics majors, Data Science majors, Data Science minors, and Applied Statistics Masters students assigned to take 303-2 in this quarter are able to register for this course.\n\nSTAT 303-2 is the first course in predictive modeling in the STAT 303 sequence. It focuses on linear models and foundational techniques in supervised learning, emphasizing both statistical understanding and practical implementation in Python. Topics include linear regression, logistic regression, model assessment and validation, cross-validation, regularization methods, and feature selection. Students will learn how to build, evaluate, and interpret predictive models, understand the tradeoffs between model complexity and generalization, and apply these tools to real-world datasets.",
+                "Registration Requirements": "Only Statistics majors, Data Science majors, Data Science minors, and Applied Statistics Masters students assigned to take 303-2 in this quarter are able to register for this course.\n\nSTAT 303-1 or consent of the instructor.",
+                "Learning Objectives": "At the end of the course, students should be able to:\nFormulate predictive modeling problems (regression vs. classification) and prepare data appropriately for modeling.\nFit and interpret linear models, including linear regression and logistic regression, and understand key modeling assumptions and limitations.\nEvaluate and compare models using appropriate performance metrics and validation strategies such as train/test splits and cross-validation.\nControl model complexity using regularization and feature selection, and explain the bias-variance tradeoff in practice.\nCommunicate results clearly, including modeling choices, interpretation, and performance, using written summaries and reproducible Python workflows.",
+                "Teaching Method": "Each class meeting combines pre-class reading, an interactive lecture with Poll Everywhere concept checks, and a brief end-of-class quiz (most days).",
+                "Evaluation Method": "Small assignments (10%): brief end-of-class quizzes in most lectures.\nAssignments (24%): five coding assignments, submitted as Quarto-rendered HTML; the lowest score is dropped.\nMidterm exam (20%): in person, paper-based.\nFinal exam (25%): in person, paper-based, during finals week.\nPrediction problem (15%): a Kaggle-style binary classification challenge with several checkpoints, graded on meeting performance thresholds rather than ranking.\nAttendance (6%): recorded through Poll Everywhere concept checks.",
+                "Class Materials (Required)": "An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013), with Python codes https://github.com/JWarmenhoven/ISLR-python, ISBN-13: 978-1461471370 (available for free online)",
+                "Class Materials (Suggested)": "Linear Models with Python by Julian J. Faraway\nPython data science handbook by Jake VanderPlas\nThe Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 303-1\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Shreeya Behera",
+                "Meeting Info": "Swift Hall 107: Mon, Wed 5:30PM - 6:50PM",
+                "Overview of class": "Only Statistics majors, Data Science majors, Data Science minors, and Applied Statistics Masters students assigned to take 303-2 in this quarter are able to register for this course.\n\nThis course introduces supervised machine learning in Python, with a focus on linear and logistic regression. It prepares students for learning advanced machine learning methods.",
+                "Registration Requirements": "Only Statistics majors, Data Science majors, Data Science minors, and Applied Statistics Masters students assigned to take 303-2 in this quarter are able to register for this course.\n\nSTAT 303-1 or consent of the instructor.",
+                "Learning Objectives": "At the end of the course, students should be able to:\n1. Translate a problem described in layman terms to a regression problem.\n2. Identify the suitability of regression for a given problem.\n3. Develop, interpret, and validate regression models.\n4. Integrate regression modeling as a component of the larger data science project.\n5. Demonstrate proficiency with coding in the Python programming language, in the context of regression.\n6. Collaborate in a team to develop a complete regression-based data science solution that answers a question of interest.",
+                "Evaluation Method": "1. Homework Assignments: Students will have biweekly assignments to practice and demonstrate the coding techniques, tools and methods taught during class hours. These assignments will test students on learning objectives 2,3 and 5.\n2. Midterm exam: Students will have a midterm exam, which will test students on learning objectives 1,2,3 and 5.\n3. Final exam: Students will have a final exam, which will test students on the learning objectives 1,2,3, 4 and 5.\n4. Course project: Students will have the freedom to identify a problem of their choice and develop a complete data science solution that includes regression/classification. This assessment will test students on all the learning objectives.\n5. Quizzes: Students will have a quiz at the end of each lecture.",
+                "Class Materials (Required)": "An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013), with Python codes https://github.com/JWarmenhoven/ISLR-python, ISBN-13: 978-1461471370 (available for free online)",
+                "Class Materials (Suggested)": "Linear Models with Python by Julian J. Faraway\nPython data science handbook by Jake VanderPlas\nThe Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 303-1\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Emre Besler",
+                "Meeting Info": "2001 Sheridan GPC 2447: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Only Statistics majors, Data Science majors, Data Science minors, and Applied Statistics Masters students assigned to take 303-2 in this quarter are able to register for this course.\n\nThis course introduces supervised machine learning in Python, with a focus on linear and logistic regression. It prepares students for learning advanced machine learning methods.",
+                "Registration Requirements": "Only Statistics majors, Data Science majors, Data Science minors, and Applied Statistics Masters students assigned to take 303-2 in this quarter are able to register for this course.\n\nSTAT 303-1 or consent of the instructor.",
+                "Learning Objectives": "At the end of the course, students should be able to:\n1. Translate a problem described in layman terms to a regression problem.\n2. Identify the suitability of regression for a given problem.\n3. Develop, interpret, and validate regression models.\n4. Integrate regression modeling as a component of the larger data science project.\n5. Demonstrate proficiency with coding in the Python programming language, in the context of regression.\n6. Collaborate in a team to develop a complete regression-based data science solution that answers a question of interest.",
+                "Evaluation Method": "1. Homework Assignments: Students will have biweekly assignments to practice and demonstrate the coding techniques, tools and methods taught during class hours. These assignments will test students on learning objectives 2,3 and 5.\n2. Midterm exam: Students will have a midterm exam, which will test students on learning objectives 1,2,3 and 5.\n3. Final exam: Students will have a final exam, which will test students on the learning objectives 1,2,3, 4 and 5.\n4. Course project: Students will have the freedom to identify a problem of their choice and develop a complete data science solution that includes regression/classification. This assessment will test students on all the learning objectives.\n5. Quizzes: Students will have a quiz at the end of each lecture.",
+                "Class Materials (Required)": "An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013), with Python codes https://github.com/JWarmenhoven/ISLR-python, ISBN-13: 978-1461471370 (available for free online)",
+                "Class Materials (Suggested)": "Linear Models with Python by Julian J. Faraway\nPython data science handbook by Jake VanderPlas\nThe Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: STAT 303-1\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Information Management for Data Science",
+        "course_reference_number": [
+            "27994"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Information Management for Data Science",
+                "instructors": [
+                    "Emre Besler"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Emre Besler",
+                "Meeting Info": "Harris Hall L07: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The Information Management for Data Science course aims to give students an extensive skillset to upload, clean, process, store and utilize data from various sources. Starting with the main libraries and data structures in Python, it will focus on Python functions, methods and attributes to process the data at hand. The course then moves on to advanced techniques to obtain data. Namely, it will cover HTML text from web sites using Xpath techniques, and Javascript Object Notation (JSON) files online. The course then moves on to relational databases and how to obtain data from them using Structured Query Language (SQL). Students are not expected to have any prior knowledge on SQL; it will be introduced from scratch and applied during the lectures.",
+                "Registration Requirements": "Prerequisites: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0\n\nEnrollment in this course is restricted to Data Science majors",
+                "Learning Objectives": "At the completion of this course, students should be able to:\n\nIdentify data parts that misleading, wrong, irrelevant or redundant according to the task at hand and process the dataset they uploaded accordingly.\nCreate new variables from the data they have, in a new data type if necessary.\nVisualize the data in an interactive and visually aesthetic manner.\nScrape different types of data from online sources and process it for further analysis.\nHandle SQL queries to obtain data that is spread across multiple and relational databases.\nObtain data from a mobile application or a website and process it for numerical analysis\nDesign relational databases according to the needs of the datasets at hand.",
+                "Teaching Method": "Each 80-minute class time will be divided into a 70-minute lecture and 10 minutes to work on the weekly set of exercises. Concepts will be introduced in the lecture part, and students will work on exercises in the last 10 minutes. Students are encouraged to ask questions and collaborate during the in-class work time. Everyone must bring their own laptop in each class, as coding in Python and SQL will be required. Installation of any Python environment (Anaconda Navigator will be the one used in class.) and SQLite Studio is necessary.",
+                "Evaluation Method": "There will be 5 homework assignments (30%), 9 weekly exercise sets (30%), a midterm exam, (20%) and a final exam (20%).",
+                "Class Materials (Required)": "No Textbook, a laptop for coding is necessary",
+                "Class Notes": "The whole course is based on the Python and SQL programming languages. We recommend everyone to install the Anaconda distribution. Once Anaconda is installed, you need find Jupyter Notebook and Spyder in it. Installation of SQLite Studio is also necessary.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this course is reserved for Data Science Majors only Prerequisite: STAT 201-0 or GEN_ENG 150-0 or GEN_ENG 151-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0"
+            }
+        ]
+    },
+    {
+        "course_number": "320-1",
+        "course_name": "Statistical Theory & Methods 1",
+        "course_reference_number": [
+            "27982"
+        ],
+        "course_info": [
+            {
+                "section": "22",
+                "course_name": "Statistical Theory & Methods 1",
+                "instructors": [
+                    "Arend M Kuyper"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arend M Kuyper\nIPR, 2040 Sheridan Road, Evanston",
+                "Meeting Info": "Harris Hall L07: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "We will develop concepts of probability theory necessary to understand statistical theory. Specific topics to be discussed include sample spaces, probability measures, conditional probability, independence, random variables, distributions, expected values, and limit theory. The sequel (320-2) emphasizes statistical inference.",
+                "Registration Requirements": "Prerequisites/Corequisites: Introductory Statistics (STAT 202-0, STAT 210-0, or equivalent); Series, Sequences, and Multivariable Integration (STAT 228-0/Math 235-0, or BOTH Math 226-0 AND Math 230-2 — or equivalent courses)",
+                "Learning Objectives": "1. Construct probability models by defining sample spaces and events, applying the axioms of probability, and using counting techniques.\n2. Solve multi-stage problems using conditional probability, the Law of Total Probability, Bayes' rule, and independence.\n3. Select a common distribution (e.g., Binomial, Poisson, Exponential, Normal) to model a scenario and justify the choice.\n4. Derive distributions of transformed random variables, sums of independent random variables, and order statistics.\n5. Analyze relationships among random variables using joint, marginal, and conditional distributions, covariance, and correlation.\n6. Calculate expectations, variances, and conditional expectations using linearity and the laws of total expectation and variance.\n7. Apply Markov's and Chebyshev's inequalities, the Law of Large Numbers, and the Central Limit Theorem to bound or approximate probabilities.\n8. Communicate solutions as clear, logically complete arguments that state assumptions and justify each step.\n9. Critique proposed solutions to probability problems by finding and correcting errors in assumptions, reasoning, or calculation.",
+                "Teaching Method": "The course will use a flipped/blended design, meaning a sizable portion of class time will be dedicated to working on activities and homework/quizzes/mastery problems. A typical class will devote 15- 25 minutes to discussion/lecture, with the remaining time devoted to activities and homework/quizzes/mastery problems where we work together to build a deeper understanding of course materials. Ideally, the first 15-25 minutes of discussion/lecture will be driven by students through the submission of questions or request for clarifications prior to class time - mechanism will be in place to facilitate this process. Given the course design, students will be expected to adequately prepare for each discussion/lecture by reviewing assigned material (e.g. readings, videos, etc.) because class time will be focused on pre-submitted questions and then working on homework/quizzes/mastery problems designed to reinforce understanding of course concepts. Students will be expected to collaborate and engage with other students to solve problems and help each other learn.",
+                "Evaluation Method": "Students will be evaluated through small assignments, weekly homework assignments, 2 exams, and a final take-home assignment. Other assessment types may also be used at the instructor's discretion.",
+                "Class Materials (Required)": "The Art of Chance, by Dennis Sun, Gene Kim, and Anav Sood, free online text (https://dlsun.github.io/skis/)\nMathematical Statistics and Data Analysis, 3rd Edition, by John A. Rice, ISBN (Print) 9780534399429, ISBN (digital) 9781111793715, other options are available\nOther learning materials will be provided by the instructor",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this course is reserved for Data Science Majors only Co-requisites: STAT 202-0 or 210-0 or 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent, and STAT 228-0 or MATH 235-0 or both MATH 226-0 and 230-2 or MATH 228-2 or 281-2 or 285-3 or 290-3 or 291-3 or ES_APPM 252-2"
+            }
+        ]
+    },
+    {
+        "course_number": "320-2",
+        "course_name": "Statistical Theory & Methods 2",
+        "course_reference_number": [
+            "27956",
+            "27957"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Statistical Theory & Methods 2",
+                "instructors": [
+                    "Wenxin Jiang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Statistical Theory & Methods 2",
+                "instructors": [
+                    "Wenxin Jiang"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wenxin Jiang\n847.491.5081\n2006 Sheridan, Room 203/Department of Statistics",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "We introduce fundamental statistical concepts such as parameter estimation, confidence intervals, and hypothesis testing. In addition to obligatory learning of such topics at the basic textbook level, we will also provide a higher level of learning, deriving statistical formulas from probability theory, for more statistics-oriented students. This higher level of learning will apply a new trick of moment generating functions, in addition to probability knowledge learned from Stat 320-1.\n\nNOTE: If you took a STAT 320-1 equivalent course (STAT 383-0, MATH 310-1, MATH 311-1, MATH 314-0, MATH 385-0, ELEC_ENG 302-0, or IEMS 202-0), please see https://statistics.northwestern.edu/documents/stat320-1_and_its_equivalents.pdf for information on the topics that may not be covered in the equivalent course but that you will be required to understand for STAT 320-2. Students who have not taken STAT 320-1 are responsible for independently learning these topics prior to starting STAT 320-2.",
+                "Registration Requirements": "Statistics 320-1 or equivalent*\n\n*NOTE: If you took a STAT 320-1 equivalent course (STAT 383-0, MATH 310-1, MATH 311-1, MATH 314-0, MATH 385-0, ELEC_ENG 302-0, or IEMS 202-0), please see https://statistics.northwestern.edu/documents/stat320-1_and_its_equivalents.pdf for information on the topics that may not be covered in the equivalent course but that you will be required to understand for STAT 320-2. Students who have not taken STAT 320-1 are responsible for independently learning these topics prior to starting STAT 320-2.",
+                "Learning Objectives": "Students are expected to develop the ability of independently solving basic statistical problems, explaining the solution process, and verifying the answers, without using AI.",
+                "Teaching Method": "Weekly lectures",
+                "Evaluation Method": "Based on assignments/quizzes/exams administered in AI-free environment.",
+                "Class Materials (Required)": "(a) An Introduction to Mathematical Statistics and Its Applications, 6th edition, by R.J. Larsen and M.L. Marx, published by Pearson, ISBN-13: 978-0-13-411421-7.\n(b) Foundations and Applications of Statistics, An Introduction Using R, by Randall Pruim, published by American Mathematical Society, ISBN: 978-1-4694-2848-8",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: To enroll students must have completed STAT 320-1 or STAT 383-0 or MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or ELEC_ENG 302-0 or IEMS 202-0"
+            },
+            {
+                "Instructors": "Wenxin Jiang\n847.491.5081\n2006 Sheridan, Room 203/Department of Statistics",
+                "Meeting Info": "Technological Institute M152: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "We introduce fundamental statistical concepts such as parameter estimation, confidence intervals, and hypothesis testing. In addition to obligatory learning of such topics at the basic textbook level, we will also provide a higher level of learning, deriving statistical formulas from probability theory, for more statistics-oriented students. This higher level of learning will apply a new trick of moment generating functions, in addition to probability knowledge learned from Stat 320-1.\n\nNOTE: If you took a STAT 320-1 equivalent course (STAT 383-0, MATH 310-1, MATH 311-1, MATH 314-0, MATH 385-0, ELEC_ENG 302-0, or IEMS 202-0), please see https://statistics.northwestern.edu/documents/stat320-1_and_its_equivalents.pdf for information on the topics that may not be covered in the equivalent course but that you will be required to understand for STAT 320-2. Students who have not taken STAT 320-1 are responsible for independently learning these topics prior to starting STAT 320-2.",
+                "Registration Requirements": "Statistics 320-1 or equivalent*\n\n*NOTE: If you took a STAT 320-1 equivalent course (STAT 383-0, MATH 310-1, MATH 311-1, MATH 314-0, MATH 385-0, ELEC_ENG 302-0, or IEMS 202-0), please see https://statistics.northwestern.edu/documents/stat320-1_and_its_equivalents.pdf for information on the topics that may not be covered in the equivalent course but that you will be required to understand for STAT 320-2. Students who have not taken STAT 320-1 are responsible for independently learning these topics prior to starting STAT 320-2.",
+                "Learning Objectives": "Students are expected to develop the ability of independently solving basic statistical problems, explaining the solution process, and verifying the answers, without using AI.",
+                "Teaching Method": "Weekly lectures",
+                "Evaluation Method": "Based on assignments/quizzes/exams administered in AI-free environment.",
+                "Class Materials (Required)": "(a) An Introduction to Mathematical Statistics and Its Applications, 6th edition, by R.J. Larsen and M.L. Marx, published by Pearson, ISBN-13: 978-0-13-411421-7.\n(b) Foundations and Applications of Statistics, An Introduction Using R, by Randall Pruim, published by American Mathematical Society, ISBN: 978-1-4694-2848-8",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: To enroll students must have completed STAT 320-1 or STAT 383-0 or MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or ELEC_ENG 302-0 or IEMS 202-0"
+            }
+        ]
+    },
+    {
+        "course_number": "328-0",
+        "course_name": "Causal Inference",
+        "course_reference_number": [
+            "27986"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Causal Inference",
+                "instructors": [
+                    "Elizabeth Tipton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elizabeth Tipton",
+                "Meeting Info": "555 Clark B03: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Introduction to modern statistical thinking about causal inference. Topics include completely randomized experiments, confounding, the potential outcomes framework, ignorability of assignment mechanisms, observational studies, matching, propensity scores, and other quasi-experimental designs.",
+                "Registration Requirements": "STAT 320-2, STAT 350-0",
+                "Teaching Method": "Combination of lecture and seminar.",
+                "Evaluation Method": "Homework, Midterm, Final.",
+                "Class Materials (Required)": "We will use a combination of open source materials, including books and articles. The primary text will be: Gerber, A. S., & Green, D. P. (2012) Field Experiments: Design, Analysis, and Interpretation. WW Norton. Other sources will be available for free through the library or on the course system.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have completed STAT 320-2 and STAT 350-0 or ECON 381-2 or MATH 386-2 to enroll in this course."
+            }
+        ]
+    },
+    {
+        "course_number": "350-0",
+        "course_name": "Regression Analysis",
+        "course_reference_number": [
+            "27958"
+        ],
+        "course_info": [
+            {
+                "section": "22",
+                "course_name": "Regression Analysis",
+                "instructors": [
+                    "Arend M Kuyper"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arend M Kuyper\nIPR, 2040 Sheridan Road, Evanston",
+                "Meeting Info": "Frances Searle Building 1421: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This is an applied regression course. We will discuss statistical estimation and inferential techniques such as least-squares, confidence intervals, and hypothesis tests, regarding both the regression parameters and the error variance. We will study the regression models by specifying what the underlying assumptions are, how to check them through diagnostics, and how to build models based on data. Homework will be assigned weekly or biweekly (about 7 assignments). One close-book midterm exam (one double-sided formula sheet is allowed); One midterm exam. One final exam/project.",
+                "Registration Requirements": "Prerequisites: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0. Prerequisite or co requisite: STAT 320-1. Some basic familiarity with R is helpful, but not entirely necessary (see suggested materials for resources for R).",
+                "Learning Objectives": "By the end of the class students are expected to (1) formulate statistical questions for a real life problem; (2) use visualization techniques to explore the data; (3) choose the appropriate statistical methods and justify the choice; (4) perform regression analysis using R programming; (5) describe and present the data analysis results.",
+                "Teaching Method": "A typical class will devote about 15-30 minutes to discussion/lecture with the remaining time devoted to working on activities and homework where students will either work by themselves or in groups. Students will be expected to adequately prepare for each discussion/lecture by reviewing assigned material (e.g. readings, videos, etc…) because the majority of class time will be spent working on activities/homework which will be designed around the assigned material. Students will be expected to collaborate and engage with other students to help each other learn and solve problems. We will be using R and RStudio for conducting and communicating statistical analyses and concepts.",
+                "Evaluation Method": "Students will be evaluated through small assignments, weekly homework assignments, a midterm exam, and a final exam/project. Other assessment types may also be used at the instructor's discretion.",
+                "Class Materials (Required)": "(1) Applied Regression Analysis and Generalized Linear Models Third Edition, By John Fox, ISBN-10: 1452205663, ISBN-13: 978-1452205663\n(2) Laptop for in class activities/homework — contact department if access to a laptop is an issue.\n(3) Free statistical software R (https://cran.rstudio.com/)\n(4) Free integrated development environment software RStudio (https://www.rstudio.com/). Think of R as the car engine needed to power and run everything while RStudio is the steering wheel/dashboard that we use to run and control the car.",
+                "Class Materials (Suggested)": "(1) While we will be developing a free online R companion book to go with the course, the author has developed one and students may want to purchase this as an extra resource: An R Companion to Applied Regression 3rd Edition, By John Fox and Sanford Weisberg, ISBN-10: 1544336470, ISBN-13: 978-1544336473\n(2) Free online textbook, Tidy Modeling with R: https://www.tmwr.org/\n(3) Free online textbook, Introduction to Statistics and Data Science:\n(4) R & Python Learning Resources on Departments website: https://nustat.github.io/intro-stat-data-sci/ https://statistics.northwestern.edu/undergraduate/r_python_resources.html",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: STAT 201-0 or GEN_ENG 150-0 or GEN_ENG 151-0 and STAT 202-0 or 210-0 or 232-0 or PSYCH 201-0 or IEMS 201-0 or 303-0. Co-requisite: STAT 320-1 or 383-0 or MATH 310-1 or 311-1 or 314-0 or 385-0 or ELEC_ENG 302-0 or IEMS 302-0."
+            }
+        ]
+    },
+    {
+        "course_number": "353-0",
+        "course_name": "Advanced Regression",
+        "course_reference_number": [
+            "27992"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Regression",
+                "instructors": [
+                    "Elizabeth Tipton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elizabeth Tipton",
+                "Meeting Info": "University Hall 122: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This course covers modern regression methods, including: (1) generalized linear models (binary, categorical, and count data), (2) random effects, mixed effects, and non-linear models, and (3) model selection. The course emphasizes both the theoretical development of the methods, as well as their application, including the communication of models and results .",
+                "Registration Requirements": "STAT 350 and one of: STAT 320-2 or 420-2 or MATH 310-2",
+                "Teaching Method": "Lecture and labs",
+                "Evaluation Method": "Homework, Midterm, Final.",
+                "Class Materials (Required)": "We will use two books:\n-Faraway, Extending the Linear Model with R, 2016.\n-James, Witten, Hastie, and Tibshirani, An Introduction to Statistical Learning (2nd edition), 2021 (this book can be downloaded from the publisher for free)..\nWe will also use the free statistical program R.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: STAT 350-0 or ECON 381-2 or MATH 386-2 and STAT 320-2 or STAT 420-2 or MATH 310-2"
+            }
+        ]
+    },
+    {
+        "course_number": "362-0",
+        "course_name": "Advanced Machine Learning for Data Science",
+        "course_reference_number": [
+            "27995"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Machine Learning for Data Science",
+                "instructors": [
+                    "Arvind Krishna"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arvind Krishna",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "The Advanced Machine Learning course aims to give students a thorough understanding of the mathematical theory and implementation of various Machine Learning (ML) and Deep Learning (DL) models. The course will go beyond supervised learning to analyze unsupervised learning, recommendation engines and anomaly detection tasks. It will then move to the concept of big data, motivating the necessity of Deep Neural Networks. Different architectures of neural networks will be covered, implementing software that analyzes data in image and time-series format. The students are expected to have a basic understanding of ML concepts and terminology from the Data Science (STAT 301/303-1-2-3) sequence, on which the course builds a more mathematical foundation. The coding language is Python, which will be used to implement ML/DL projects on a variety of datasets.",
+                "Registration Requirements": "STAT 303-1,2,3 or STAT 301-1,2,3",
+                "Learning Objectives": "At the completion of this course, students should be able to:\n- Derive and implement hard and soft clustering algorithms from scratch.\n- Understand how to reduce the dimensionality of data and when it is necessary to do so.\n- Create a short and practical Machine Learning software using scikit-learn library.\n- Understand different ways to set up a Machine Learning task.\n- Detect anomalies such as product malfunction and credit card fraud.\n- Implement a recommendation engine for movies and online retail products.\n- Understand Deep Learning theory and how to implement neural networks from scratch\n- Create neural networks with specialized architecture to analyze image and time-series data\n- Handle Keras and Tensorflow libraries to create neural networks",
+                "Teaching Method": "There will be a lecture during class time. Students are encouraged to ask questions; the lecture is intended to be as interactive as possible. The students are encouraged to ask questions during and after class and in office hours.\n\nEveryone must bring their own laptop to each class, as coding in Python will be required. Installation of Anaconda Navigator is necessary.",
+                "Evaluation Method": "Quizzes (5%)\nHomework assignments (25%)\nFinal project (20%)\nExams (50%)",
+                "Class Materials (Required)": "The course does not have any textbooks. The main content will be taught and uploaded in lecture notes. Any useful parts/exercises from various books will be uploaded as supplementary material.\n\nEveryone must bring their own laptop to each class, as coding in Python will be required. Installation of Anaconda Navigator is necessary.",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this course is reserved for Data Science Majors only Prerequisites: STAT 301-3 or STAT 303-3."
+            }
+        ]
+    },
+    {
+        "course_number": "364-0",
+        "course_name": "Large Language Models: Foundations, Training, and Inference",
+        "course_reference_number": [
+            "28003"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Large Language Models: Foundations, Training, and Inference",
+                "instructors": [
+                    "Lizhen Shi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lizhen Shi",
+                "Meeting Info": "555 Clark B03: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Large Language Models (LLMs) power modern AI systems such as chatbots, code assistants, and domain-specific foundation models. Rather than treating LLMs as a single architectural breakthrough, this course presents them as the result of an evolution in language modeling, representation learning, and scalable training. The course begins with the historical foundations of language modeling, including words, tokens, and embeddings. We then examine the limitations of traditional statistical approaches and study how attention mechanisms and transformer architectures enabled the development of scalable language models. Building on this foundation, we explore modern LLM pipelines, including pretraining objectives, tokenization, scaling laws, instruction tuning, preference alignment, prompting, and inference-time decoding.\n\nThe course emphasizes conceptual understanding over framework-specific details: students learn not only how LLMs work, but also why key design choices succeed, what trade-offs they introduce, and where current models still fail. Students complete three coding assignments in Python and PyTorch and a final project applying course concepts to an applied or research-oriented problem. The course is designed for a mixed audience of advanced undergraduate, master's, and PhD students; all students share a common conceptual core, while the expected depth of analysis, independence, engagement with research literature, and final project scope scale by academic level.",
+                "Registration Requirements": "Prior coursework in machine learning, linear algebra, and probability/statistics, and programming experience in Python:\n\nMachine learning: STAT 362-0, COMP SCI 349-0, STAT 415-0, or equivalent.\n\nLinear algebra: MATH 240-0, MATH 281-3, MATH 285-1, MATH 290-1, MATH 291-1, GEN ENG 205-1, GEN ENG 206-1, or equivalent.\n\nProbability/statistics: STAT 320-1, STAT 383-0, MATH 310-1, MATH 311-1, MATH 314-0, MATH 385-0, ELEC ENG 302-0, IEMS 302-0, or equivalent.\n\nStudents with comparable preparation may enroll with permission of the instructor.",
+                "Learning Objectives": "At the completion of this course, students should be able to:\nExplain the historical evolution of LLMs from statistical language modeling to transformers.\nDescribe how transformer-based language models work and why scaling matters.\nUnderstand the end-to-end LLM pipeline: tokenization, pretraining, post-training, and inference.\nEvaluate trade-offs, limitations, and failure modes of modern LLMs.\nApply course concepts in coding assignments and a final project grounded in research literature.",
+                "Teaching Method": "In-class lectures emphasizing conceptual understanding and system-level reasoning about large language models, combined with interactive assessment and feedback through Poll Everywhere (concept checks, reading-based or reflection questions, and short surveys). Pre-class preparation, coding assignments, paper readings, and quizzes are listed on weekly course pages. Questions are handled through Ed Discussion and virtual office hours.",
+                "Evaluation Method": "Coding Assignments (three): 45%\nFinal Project: 30%\nIn-Class Assessments: 16%\nParticipation (surveys, Ed Discussion participation, attendance): 9%\n\nAll students are assessed on the same grading categories and learning goals. Graduate students are held to higher expectations for independence, depth of analysis, engagement with research literature, and technical communication. On coding assignments they receive less scaffolding and complete additional analysis or reflection components, and graduate final projects must include a research-oriented question, a literature-grounded comparison, an extension of an existing method, or a more substantial empirical evaluation.",
+                "Class Materials (Required)": "Daniel Jurafsky and James H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, Third Edition draft. Freely available online from the authors (no cost; no ISBN, as this is a pre-publication draft).\nA laptop capable of running Python, VS Code, uv, and Quarto (all free software).",
+                "Class Materials (Suggested)": "Additional readings, including selected research papers and online materials, will be posted on Canvas (no cost).",
+                "Class Notes": "Python is the primary programming language; students will use PyTorch and related libraries. Setup instructions for VS Code, uv, and Quarto will be provided on Canvas. Some assignments are submitted as Quarto-rendered HTML files.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this course is reserved for Data Science Majors only Prerequisites: STAT 362-0, COMP_SCI 349-0, or STAT 415-0; and MATH 240-0/281-3/285-1/290-1/291-1, GEN_ENG 205-1, or GEN_ENG 206-1; and STAT 320-1, STAT 383-0, MATH 310-1/311-1/314-0/385-0, ELEC_ENG 302-0, IEMS 302-0, or equivalent."
+            }
+        ]
+    },
+    {
+        "course_number": "365-0",
+        "course_name": "Introduction to the Analysis of Financial Data",
+        "course_reference_number": [
+            "27984"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to the Analysis of Financial Data",
+                "instructors": [
+                    "Thomas Severini"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Severini\n847.467.1254\n2006 Sheridan Road/Room 305/Department of Statistics",
+                "Meeting Info": "2001 Sheridan GPC 1105: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "The goal of this course is to present an introduction to the use of statistical methods in finance. The topics to be covered include models for returns, portfolio theory, the capital asset pricing model, and the market model. The emphasis will be on understanding the basic methods of finance and using these methods to guide the statistical analysis of financial data.",
+                "Registration Requirements": "Math 240-0 and STAT 320-2 and STAT 320-3 or STAT 350-0 or ECON 281-0 or ECON 381-2.",
+                "Learning Objectives": "1. Understand the nature and properties of return data used in finance 2. Develop and interpret statistical models for financial data 3. Understand the role of statistical concepts in evaluating assets 4. Use mathematical and statistical techniques to construct optimal portfolios 5. Use statistical software to analyze financial data, estimate parameters of return distributions, and to draw appropriate conclusions",
+                "Teaching Method": "Lectures",
+                "Evaluation Method": "Grades will be based on two in-class exams and a take-home final exam.",
+                "Class Materials (Required)": "Introduction to Statistical Methods for Financial Models by T. A. Severini. CRC Press. ISBN:\nISBN 978-0-367-65787-1 Price: $58.39 (on Amazon 10/8/2026)",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: STAT 350-0 or ECON 381-2 and MATH 240-0 or MATH 285-1 or MATH 281-3 or MATH 290-1or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Data Science Project",
+        "course_reference_number": [
+            "27993"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Data Science Project",
+                "instructors": [
+                    "Arvind Krishna"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Arvind Krishna",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "In this course, students will work collaboratively on a real-world data science project presented by an actual stakeholder. Meetings with stakeholders will be scheduled based on their availability and the needs of the project. Students will work in teams, with each team focusing on different aspects of the project. Proficiency in tools such as Git and GitHub is expected, along with the ability to collaborate effectively within teams and, when necessary, across teams. The course emphasizes the development of practical skills and offers hands-on experience with modern data science tools and collaborative workflows.",
+                "Registration Requirements": "STAT 301-3 or STAT 303-3 or consent of instructor. Will be good to have STAT 362-0 completed since the project involves working with deep learning models.",
+                "Learning Objectives": "1. Experience the challenges and the open-ended nature of a real-data science project\n2. Convert the problem between its domain-specific language and data science terminology\n3. Learn the commonly used tools and techniques useful in a data science project\n4. Perform exploratory data analysis (EDA) and apply modern machine learning methods\n5. Learn new data analytics theory, methods, tools, and techniques, if applicable in the project\n6. Develop proficiency in collaborative teamwork using version control systems like Git and GitHub\n7. Demonstrate the ability to effectively document and present analysis results in a clear and organized manner.",
+                "Teaching Method": "The students will assigned to teams based on their skills and preferences. Teams will present their progress on the objectives once every two weeks, receive feedback from the instructor, and objectives for next week. The bi-weekly objectives will be decided by the instructor, but will be intended to achieve the stakeholders' goals.",
+                "Evaluation Method": "A student in this class will be evaluated based on their contribution in achieving the bi-weekly objectives of their team.",
+                "Class Materials (Required)": "No required textbook.",
+                "Class Materials (Suggested)": "In-class lecture notes will be provided",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration in this course is reserved for Data Science Majors only Prerequisites: STAT 301-3 or STAT 303-3"
+            }
+        ]
+    },
+    {
+        "course_number": "420-2",
+        "course_name": "Introduction to Statistical Theory & Methodology-2",
+        "course_reference_number": [
+            "27968"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Statistical Theory & Methodology-2",
+                "instructors": [
+                    "Jiping Wang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jiping Wang\n847.467.6896\nDepartment of Statistics, Room 101B, 2006 Sheridan Road, Evanston\nOffice Hours: TBA or contact instructor",
+                "Meeting Info": "2001 Sheridan GPC 1105: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course provides a comprehensive introduction to theory and method in statistical inference. Topics to be covered in this course include point estimation, hypothesis testing, interval estimation, large-sample theory and Bayesian methods.",
+                "Registration Requirements": "Stat 420-1 or equivalent.",
+                "Evaluation Method": "Grades will be based on weekly homework, a take-home midterm exam, and an in-class final exam.",
+                "Class Materials (Required)": "1. Statistical Inference by Casella and Berger, Duxbury. Second Edition • ISBN-10: 0534243126 • ISBN-13: 978-0534243128\n\n2. Mathematical Statistics by Bickel and Doksum (Volume 1), Publisher: Chapman and Hall/CRC; 2 edition (April 13, 2015) • Language: English • ISBN-10: 1498723802 • ISBN-13: 978-1498723800"
+            }
+        ]
+    },
+    {
+        "course_number": "430-2",
+        "course_name": "Probability for Statistical Inference 2",
+        "course_reference_number": [
+            "27999"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Probability for Statistical Inference 2",
+                "instructors": [
+                    "Miklos Z. Racz"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Miklos Z. Racz",
+                "Meeting Info": "2001 Sheridan GPC 4103: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course is the second in a three-quarter sequence of graduate probability theory with an eye towards statistical inference. The first course covers an introduction to mathematical probability theory including measure theory, law of large numbers, and the central limit theorem. In this course, after a brief review of the aforementioned topics, we cover Markov chains, conditional expectation, martingales, Poisson processes, and selected advanced topics, together with statistical applications.\n\nA brief outline of topics covered is as follows:\n\nLectures 1 - 2: Introduction and overview. Review of measure theory, concentration inequalities, law of large numbers, central limit theorem.\n\nLectures 3 - 7: Markov chains: introduction, stationary distribution, convergence, ergodic theorem, recurrence and transience. Statistical applications.\n\nLectures 8 - 9: Conditional expectation.\n\nLecture 10: Midterm exam.\n\nLectures 11 - 14: Martingales: introduction, stopping times, optional stopping theorem, applications, martingale convergence, and more. Statistical applications.\n\nLectures 15 - 16: Poisson processes: introduction, superposition, thinning. Continuous time Markov chains. Statistical applications.\n\nLectures 17 - 18: Selected topics, time and interest permitting, which may include: Brownian motion, heavy tails, extreme value theory, Markov chain mixing times, large deviations, concentration of measure, random matrices, and more, with statistical applications.\n\nWeek 10: Review and final exam.",
+                "Registration Requirements": "STAT 430-1 or permission of instructor. (If you would like to take the course and have not taken STAT 430-1, please email the instructor to discuss.)",
+                "Learning Objectives": "The course is designed for PhD students whose ultimate research will involve rigorous mathematical probability, with a focus on statistical applications. The learning objectives are to develop a rigorous understanding of mathematical probability and to understand the deep connections between probability and statistics.",
+                "Teaching Method": "Interactive Lectures",
+                "Evaluation Method": "There will be homework problem sets throughout the semester (approximately weekly), as well as a midterm and a final exam. Your final score is a combination of your performance in these, with the following breakdown: HW 30%, midterm 30%, final 40%.",
+                "Class Materials (Required)": "Probability Theory: lecture notes by Amir Dembo (for a similar course at Stanford), 2021. Freely available online: https://adembo.su.domains/stat-310c/lnotes.pdf",
+                "Class Materials (Suggested)": "There are many texts that cover first year graduate probability. While the focus and scope of this course is slightly different, these texts can be valuable resources. In particular, consider consulting: R. Durrett, Probability: Theory and Examples (5th Edition), 2019, and P. Billingsley, Probability and Measure (3rd Edition), 1995.",
+                "Class Notes": "Please email the instructor with any questions."
+            }
+        ]
+    },
+    {
+        "course_number": "436-0",
+        "course_name": "Reinforcement Learning",
+        "course_reference_number": [
+            "28002"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Reinforcement Learning",
+                "instructors": [
+                    "Bradly Stadie"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bradly Stadie",
+                "Meeting Info": "2001 Sheridan GPC 2447: Mon, Wed 5:00PM - 6:20PM",
+                "Overview of class": "Reinforcement Learning (RL) is the problem of learning to align agent behavior with human desires. This alignment is done with the introduction of a reward signal, which tells the agent the desirability of its current state. The agent then interacts with its environments, looking for actions that can maximally align its state with the provided reward. RL appears most naturally in the context of robotics, but also has applications to industrial design, biology, medicine, optimization, and machine learning. Recently, deep RL has been a crucial component in large language models (LLMS), where reinforcement learning from human feedback allows us to better align LLMs with human sensibilities. The key algorithms in RL are policy gradients and TD methods such as Q-learning. We will cover both classes of methods extensively in the class.",
+                "Registration Requirements": "Linear algebra (MATH 240-0), Stat 415-0 (Introduction to Machine Learning) or similar",
+                "Learning Objectives": "Students will be able to read current literature in reinforcement learning, and will understand how to code basic RL algorithms in Python.",
+                "Teaching Method": "Lecture",
+                "Evaluation Method": "40% Three Assignments\n25% Midterm\n5% Final Project Proposal\n30% Final Project"
+            }
+        ]
+    },
+    {
+        "course_number": "465-0",
+        "course_name": "Statistical Methods for Bioinformatics and Computational Biology",
+        "course_reference_number": [
+            "27983"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Statistical Methods for Bioinformatics and Computational Biology",
+                "instructors": [
+                    "Jiping Wang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jiping Wang\n847.467.6896\nDepartment of Statistics, Room 101B, 2006 Sheridan Road, Evanston\nOffice Hours: TBA or contact instructor",
+                "Meeting Info": "2001 Sheridan GPC 2447: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "The goal of this course is to provide an introduction of statistical methodologies in important topices in bioinformatics and computational biology. The course covers statstical methodologies used in two major topics including gene expression data analysis and high-throughput DNA sequence analysis. Statistical theory or methods to be introduced in this course include Z-test, t-test, regression, ANOVA, multivariate data analysis, Bayesian statistics, bootstrap, Monte-Carlo simulation, clustering algorithms, Markov Chain, Hidden Markov Chain, mixture model, etc. Students will learn basic knowledges and programming skills to perform most common bioinformatic analyses of data generated from current molecular biology research.\n\nStudents from different majors may benefit differently from this interdisciplinary course. The lectures will cover both priciples of genomics and simple R codes writing to realize the statistical analyses. Therefore students with no background in biology or programming should NOT be intimidated, but must be motivated to learn. In particular, students who are interested in bioinformatic research, gene expression analysis and high throughput sequence data analysis are highly encouraged.",
+                "Registration Requirements": "Graduate students from all majors can enroll into this class without permission number. Undergraduate students must get permission number from the instructor to register for this class.",
+                "Learning Objectives": "Students are expected to be able to write codes to realized most common statistical analyses in gene expression and DNA sequence analysis.",
+                "Evaluation Method": "Homework and term project",
+                "Class Materials (Required)": "No textbooks are required. All lectures will be based on published papers and the lecture notes prepared by the instructor."
+            }
+        ]
+    },
+    {
+        "course_number": "519-0",
+        "course_name": "Responsible Conduct of Research Training",
+        "course_reference_number": [
+            "27985"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Responsible Conduct of Research Training",
+                "instructors": [
+                    "Elizabeth Tipton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elizabeth Tipton",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "595-0",
+        "course_name": "Internship",
+        "course_reference_number": [
+            "28001"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Internship",
+                "instructors": [
+                    "Hongmei Jiang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hongmei Jiang\n847.467.1087\n2006 Sheridan, Room 101A",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

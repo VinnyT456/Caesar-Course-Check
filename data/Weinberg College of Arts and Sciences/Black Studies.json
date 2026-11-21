@@ -1,0 +1,728 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "28152"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fighting Apartheid, Locally and Globally",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Martha Biondi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Fighting Apartheid, Locally and Globally",
+                "Instructors": "Martha Biondi",
+                "Meeting Info": "University Hall 312: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This first year seminar introduces students to apartheid, the system of white supremacy in South Africa that relegated the nation's Black majority to isolated homelands, deprived them of political and civil rights, forcibly extracted their labor and denied them free mobility. A worldwide anti-apartheid movement from the 1940s to the 1990s helped to isolate and bring down the regime. Americans played an important role, including a Black Chicagoan named Prexy Nesbitt whose leadership and organizing anchor some of the seminar.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "212-1",
+        "course_name": "Introduction to African-American History: Key concepts from 1700-1861",
+        "course_reference_number": [
+            "28112"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to African-American History: Key concepts from 1700-1861",
+                "instructors": [
+                    "Sylvester Johnson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sylvester Johnson\n847/467-5410\n5-128 Crowe, 1860 Campus Dr\nOffice Hours: Tuesday 1:00 pm to 2:00 pm and by appontment",
+                "Meeting Info": "Lunt Hall 105: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "This undergraduate course traces the making of the African Diaspora from West and Central African empires to the U.S. Civil War in 1865. We study the early period of African American history through a global, transnational lens. Rather than treating enslaved and free Black people merely as subjects of empire and slavery, the course takes seriously how African-descended peoples actively shaped the modern Atlantic world through acts of political revolution, religious formation, cultural creation, technology development, and economic innovation. Starting with cultural and economic systems in West-Central Africa, then moving to Caribbean and Southern underground markets, we explore maritime networks, patent battles, and early mutual-aid financial institutions. The course examines how Black technological mastery and entrepreneurial agency intersected with human trafficking, regimes of slavery, and formations of gender, kinship, and freedom struggles across the Americas.\n\nThe course is designed as an interactive \"historical lab\" requiring no prerequisites. It employs a \"flipped\" approach for active learning, features brief lectures, and structures generous attention to collaboratively workshopping primary sources so that students learn to explore and explain complex dimensions of history and culture.\n\nThis course also equips students with skills in the responsible use of generative AI to support discovery of expert sources, rigorous analysis of evidence, critical thinking, and intellectual argument based on primary sources and analysis.",
+                "Learning Objectives": "• Identify, analyze, and evaluation cultural, economic, and political formations of African Atlantic societies\n• Examine and assess economic practices of free and enslaved African-descended peoples in North America\n• Situate North American freedom struggles within global, transnational contexts\n• Locate, interrogate, and explain primary sources as evidence for understanding historical developments in African American life\n• Understand and employ generative AI and other digital tools to locate expert sources, discover and/or translate/transcribe primary sources, and identify trends in scholarly debates about African American history",
+                "Class Materials (Required)": "N/A",
+                "Class Attributes": "Historical Studies Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Kresge Centennial Hall 2-319: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "213-0",
+        "course_name": "History of the Black World",
+        "course_reference_number": [
+            "28151"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "History of the Black World",
+                "instructors": [
+                    "Martha Biondi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Martha Biondi",
+                "Meeting Info": "University Hall 121: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This course delves into the history of colonialism and anticolonialism in 20th century Africa through memoir, literary nonfiction, literature and film. Readings include Andree Blouin's My Country, Africa: Autobiography of the Black Pasionaria, Elaine Mokhtefi's Algiers, Third World Capital; Ngugi Wa Thiong'o's In the House of the Interpreter and Chinua Achebe's No Longer at Ease.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "225-0",
+        "course_name": "African-American Culture",
+        "course_reference_number": [
+            "28088"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "African-American Culture",
+                "instructors": [
+                    "Kent Brooks"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kent Brooks",
+                "Meeting Info": "Wirtz Center SOUTH: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "This course explores the evolution of Gospel music from its African roots to today's abundant sub-genres of contemporary Gospel. Through readings, videos, and live performances, students will engage in critical discussions regarding the language, expression, and social-historical implications of this original American art form. The class also looks at the lives of some of Gospel's luminaries, including Chicago's own Professor Thomas A. Dorsey, the \"Father of Black Gospel Music.\"",
+                "Learning Objectives": "In The Beginning - Students will establish context for the study of gospel music through:\n1. The exploration of West African Griot religious and music culture,\n2. Liberation theology,\n3. Robert Darden's three research revelations regarding the lives of Black Americans as seen through their music,\n4. Interpretations of early spirituals, work songs, and code songs,\n5. The works of ethnographer, Alan Lomax, and Black religion scholar, Dr. Albert Raboteau.\n\nThe Rise of Spirituals - Students will be able to discuss the construct and performance of early spirituals within the contexts of the both the fields and the sacred space. They will also be expected to identify accompanying expressions like the ring shout and its ties to West Africa. Students should be able to articulate the importance of the first independent Black religious denomination in the United States and emphasize the necessity for unapologetic Black sacred expression. The Post-Reconstruction South will also be explored as well as the emergence of Methodism, Pentecostalism, and the musical expression of each movement.\n\nFrom Spirituals to Gospel - Students will be expected show knowledge of:\n1. The spirituality of the Gullah Culture,\n2. Black Code culture,\n3. The contribution of the Fisk Jubilee Singers,\n4. Minstrelsy and spirituals,\n5. Foundational elements of gospel music,\n6. The Great Migration's influence on gospel music,\n7. Barbershop Quartets, Chicago's Storefront Churches, and Race Records\n8. Proto-gospel and its composers\n\nEarly Pioneers - Students will be able to identify early gospel innovators and the contributions of each to the development of gospel music. These artists include (but are not limited to) Rev. William Sherwood, Rev. Charles A. Tindley, Mrs. Lucie Campbell, Professor Thomas A. Dorsey, and Sallie Martin.\n\nGospel Music in Chicago - Students will explore the development of gospel music in Chicago. They will be expected to know how the Great Migration supported the expansion of early gospel music and why the storefront church was vital to its growth. The careers and lives of Chicago legends James Cleveland, Thomas A. Dorsey, Mahalia Jackson, Rosetta Tharpe, Delois Barrett, and others will provide the context of study. Students will explore the emergence and sound of Golden Age gospel quartet singing and mixed group singing advanced by gospel legend (and Northwestern University classical piano major) Roberta Martin.\n\nGirl Power - Students will explore the lives of prominent women in gospel music, in particular Mahalia Jackson, Rosetta Tharpe, and Clara Ward. Students will be expected to identify and demonstrate knowledge of systems where gender and race become critical elements in the development of these artists.\n\nGospel Music and Civil Rights - Students will explore the emergence and development of freedom songs and message songs of the Civil Rights Era. This exploration includes the repurposing of spirituals and hymns as well as original refrains and pieces that were responses to resistance to the movement.\n\nTransition toward Contemporary Gospel Music and Contemporary Gospel Voices - Objectives include recognizing elements in text, composition, and instrumentation that point toward the evolution of Golden Age gospel to contemporary gospel. This analysis is supported in the works of Richard Smallwood, Andrae Crouch, and Edwin Hawkins.",
+                "Evaluation Method": "• Attendance, assignments, discussion, and participation - 40%\n• Section One Exam - 10%\n• Section Two Exam, Project, or Paper - 15%\n• Section Three Exam, Project, or Paper - 15%\n• Final Exam - 20%",
+                "Class Materials (Required)": "People Get Ready: A New History of Black Gospel Music by Robert Darden; (c) 2004 Continuum International Publishing Group, Inc., ISBN 0-8264-1752-3 (paperback)\n\nAdditional Materials will be provided in class and on Canvas",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "236-0",
+        "course_name": "Introduction to Black Studies",
+        "course_reference_number": [
+            "28089"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Black Studies",
+                "instructors": [
+                    "Kennetta Perry"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kennetta Perry",
+                "Meeting Info": "Kresge Centennial Hall 2-435: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "This course surveys major concepts, methodologies and issues of academic debate that have shaped the field of Black Studies in the U.S academy. Students will be introduced to the history of the development of the field of Black Studies and its connections to longstanding struggles for self-possessed Black educational spaces, diasporic and transnational movements shaped by Black intellectuals interrogating structures of power and disempowerment, as well as pedagogic practices regarding education as a political resource for social change. With a grounding in some of the broad historical currents shaping the history of the field, students will also be introduced to foundational concepts and intellectual frameworks that have shaped the field and continue to animate critical debates in Black Studies. In the final weeks of the course, students will actively engage a host of contemporary issues shaping cutting-edge research in the field including work on environmental and climate justice, discriminatory design in AI technologies, queer Black life on screen, and race and medicine. In doing so, students will encounter the complexities of Black life and its discontents and the dynamic nature of the histories and cultures of populations of the Black Diaspora.",
+                "Learning Objectives": "• explain the historical development and role of Black Studies in the U.S. academy.\n• understand some of the foundational concepts and theoretical frameworks shaping the field of Black Studies.\n• understand and develop a critical awareness about the role that race and ideas about Blackness have played in shaping the histories, cultures and identities of people of African descent in various parts of the world.\n• develop a transnational view of Black histories, cultures, communities and identities.\n• develop a more expansive vocabulary for discussing contemporary racial politics.\n• develop skills in critical thinking, analytical writing, collaboration and verbal communication.",
+                "Class Materials (Required)": "All required readings and media for this course will be available on Canvas.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSocial and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "247-0",
+        "course_name": "Black Life. Trans Life.",
+        "course_reference_number": [
+            "28154"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Black Life. Trans Life.",
+                "instructors": [
+                    "Marquis Bey"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marquis Bey",
+                "Meeting Info": "Kresge Centennial Hall 2-435: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course will introduce students to the parameters and textures of black life, trans life, and black trans life. Popular discourse has either depicted black trans people as glamorous superstars or always and already predisposed to death. This course, then, seeks to usefully complicate these narratives and focus on black and trans life.",
+                "Learning Objectives": "• Reference an archive of thinkers, writers, and visionaries who have offered glimpses into a more just world\n• Articulate sophisticated thoughts regarding race, gender, and their intersections\n• Express clearly their ideas and feelings regarding systems, histories, and discourses of oppression and also joy\n• Develop their ideas in writing and speaking, as well as in individual and group settings",
+                "Class Materials (Required)": "All materials will be provided to students on Canvas",
+                "Class Attributes": "U.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "262-0",
+        "course_name": "Introduction to Black Religions: The North American Experience",
+        "course_reference_number": [
+            "28153"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Black Religions: The North American Experience",
+                "instructors": [
+                    "Parker Blair"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Parker Blair",
+                "Meeting Info": "Kresge Centennial Hall 2-425: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "In this course students will be introduced to the variety of Black religions in the United States from the early 19th century to the present. We will examine the historical and political dynamics that shaped these traditions from their origins in Africa to the formation of new religions that emerged in urban cities on the East Coast and in the Midwest. We will use written and multimedia sources to explore topics such as gender, migration, the movement for civil rights, and Black religious technologies in the 21st century.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "Social Meaning of Race",
+        "course_reference_number": [
+            "28090"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Social Meaning of Race",
+                "instructors": [
+                    "John Marquez"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Marquez\n847 491 5122\n1860 Campus Dr Crowe 5-135",
+                "Meeting Info": "Kresge Cent. Hall 2-380 Kaplan: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Racism is probably the most enduring paradox in modern democracies. This is especially true in the U.S.A. Scholars have proven how race determines where we live, the quality of education we receive, our economic opportunities, our access to the law, our access to health care, the quality of air we breathe, and often even our access to life itself. For example, in the U.S., roughly 20% of the Black, Latinx, and Native American populations live in poverty as compared to only 9% of whites. Blacks, Latinxs, and Native Americans experience premature death at rates that are roughly 60% higher than whites. Black and Latinx graduation rates from colleges are roughly twice as low as whites. Blacks and Latinxs are incarcerated at rate that is over twice as high as white people. This course is designed to help students understand this paradox. Questions we will consider are: What is race and how did it become such a central organizing principle in our world? How does race relate to other vectors of power such as class, gender, and sexuality? How are our identities or subjectivities shaped by race? How does race differ from ethnicity or nationality? How does racial ideology shape policy? How do the histories of racialized groups relate to one another? How have racialized groups informed our understanding of race through their expressive cultures or activism? We will explore these issues through readings, discussions, lectures, films, short stories, and music.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nU.S. Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Topics in African-American Studies",
+        "course_reference_number": [
+            "28091",
+            "28092",
+            "28093",
+            "28813"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Black Feminist Theory",
+                "instructors": [
+                    "Topics in African-American Studies",
+                    "Marquis Bey"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Race and the American Musical",
+                "instructors": [
+                    "Topics in African-American Studies",
+                    "Justin Mann"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Toni Morrison",
+                "instructors": [
+                    "Topics in African-American Studies",
+                    "Lauren Jackson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Afrofuturism",
+                "instructors": [
+                    "Topics in African-American Studies",
+                    "Thomas F. DeFrantz"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Black Feminist Theory",
+                "Instructors": "Marquis Bey",
+                "Meeting Info": "Kresge Centennial Hall 2-435: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This course begins not from the premise, necessarily, of an intellectual and political genealogy of black women. Though also not to the exclusion of this. But rather, this course is one that thinks black feminist—not black \"women's\"—theory and theorizing; this course chronicles the ways that the political, intellectual, ethical, and social resound radically and progressively and names that resonance—and all its vibrations and textures—black feminist theory. Thus, we will, of course, be reading a variety of black women along the jagged gendered spectrum between and beyond \"cis\" and \"trans,\" but more specifically we will, in this course, be tracing the ways radical politics and ethics arise in such a way as to interrogate the established parameters of race and gender normativity, of our social world. To do this, we will be reading the work of people like bell hooks and Patricia Hill Collins, Toni Morrison and Saidiya Hartman, Jennifer Nash and Hortense Spillers, and more.",
+                "Learning Objectives": "• Reference an archive of thinkers, writers, and visionaries who have offered glimpses into a more just world\n• Articulate sophisticated thoughts regarding race, gender, and their intersections\n• Express clearly their ideas and feelings regarding systems, histories, and discourses of oppression and also joy\n• Develop their ideas in writing and speaking, as well as in individual and group settings",
+                "Class Materials (Required)": "All materials will be provided to students on Canvas",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Race and the American Musical",
+                "Instructors": "Justin Mann",
+                "Meeting Info": "Kresge Centennial Hall 2-430: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "In this seminar, students will analyze how race has worked in relation to the Broadway musical from the early days of the form through to the contemporary. Students will consider how transformations in American race relations, immigration policy, geopolitics, and social policy have influenced when and how race manifests in the genre.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Toni Morrison",
+                "Instructors": "Lauren Jackson",
+                "Meeting Info": "University Hall 418: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Toni Morrison was a Nobel Laureate who experimented with a number of literary genres, including her famous novels and—less famous, still renowned—essays and criticism. This course offers an introduction to the work of Toni Morrison, as author, critic, and literary citizen. Alongside various texts within her oeuvre, we will read past and recent criticism on Morrison, attending formal as well as cultural and historical considerations. This course affords an occasion to practice and develop ways of reading and expressing thought.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nU.S. Perspectives on Power, Justice, and Equity\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Afrofuturism",
+                "Instructors": "Thomas F. DeFrantz",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 2:00PM - 5:00PM",
+                "Overview of class": "Explores AfroFuturism, a literary and cultural aesthetic demonstrating/imagining how people of color project ourselves into narratives of the future. Investigation of speculative fiction, fantasy literature, sound cultures, artworks, music videos, and dance to trace the concept of an AfroFuturist point of view. Creation of AfroFuturist media and performance. Artists considered include writers Samuel R. Delany and Legacy Russell; musicians Parliament-Funkadelic and Sun Ra.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "396-0",
+        "course_name": "Internship in Black Studies",
+        "course_reference_number": [
+            "28094"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Internship in Black Studies",
+                "instructors": [
+                    "Barnor Hesse"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Barnor Hesse\n8474913775\n1860 Campus Dr Crowe 5-131",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "440-0",
+        "course_name": "Black Historiography",
+        "course_reference_number": [
+            "28120"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Black Historiography",
+                "instructors": [
+                    "Kennetta Perry"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kennetta Perry",
+                "Meeting Info": "Crowe 5-138 Af Am Studies Sem: Tues 2:00PM - 4:50PM",
+                "Overview of class": "What are some of the major interpretative debates which have shaped the development of Black history and how might we begin to think about the histories of Black historical production? This graduate course will examine how scholars have shaped approaches to Black history and historical knowledge production across a number of themes. Topics will include gender and enslavement, emancipation in the Americas, decolonization and Black anti-colonial thought, Black agency and resistance, racial capitalism and Black internationalism. In exploring major historiographical debates on these topics, students will be encouraged to think critically about contested visions of ‘Black history' as an academic field of inquiry and as a political and social resource across the diaspora. Likewise, students will be encouraged to consider how lines of interpretation and methodological approaches to Black history have changed over time.",
+                "Learning Objectives": "• Students will develop a working conceptualization of major interpretative debates which have shaped the development Black historiographies.\n• Students will be able to identify how Black historical studies have shaped how we think about concepts which have shaped the field of Black studies including but not limited to gender, slavery, racial capitalism, agency, resistance, decolonization, diaspora and internationalism.\n• Students will be able to critically analyze sources and methods used to produced histories of Black life and Black political praxis.\n• Students will be able to critically reflect upon the craft of writing and historicizing Black life.",
+                "Class Materials (Required)": "Howard French, Born in Blackness\nMarisa Fuentes, Dispossessed Lives\nEmily Owens, Consent in the Presence of Force\nJennifer Morgan, Reckoning With Slavery\nAdom Getachew, World-Making After Empire\nQuito Swan, Pasifika Black\nJennifer Jones, Ambivalent Affinities\nLaura E. Helton, Scattered and Fugitive Things\nMary Hicks, Captive Cosmopolitans\n\nAdditional readings will be made available on Canvas or through NU libraries."
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "Graduate Topics in African American Studies",
+        "course_reference_number": [
+            "28150"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "De-Colonial and Third World Marxism",
+                "instructors": [
+                    "Graduate Topics in African American Studies",
+                    "John Marquez"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "De-Colonial and Third World Marxism",
+                "Instructors": "John Marquez\n847 491 5122\n1860 Campus Dr Crowe 5-135",
+                "Meeting Info": "Crowe 5-138 Af Am Studies Sem: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "The seminar aims to de-provincialize Marxist Theory. It focuses on how thinkers and revolutionaries across Africa, Latin America, the Caribbean, Asia, and the Middle East interpreted and transformed historical materialism to address imperialism, slavery, underdevelopment, coloniality, patriarchy, and racial capitalism. Students will likely engage the works of Karl Marx and Friedrich Engels on primitive accumulation and colonialism; Vladimir Lenin and Rosa Luxembourg on imperialism; W.E.B. Du Bois, C.L.R. James, Clovis Moura, Beatriz Nascimiento, and Cedric Robinson on the Black radical tradition; Silvia Federici, Gayatri Spivak, Selma James, and Raya Dunayevskaya on Marxist feminism; Claudia Jones, Sylvia Wynter, Louise Thompson Patterson, and Lélia Gonzales on Black feminist Marxism; Mao Tse Tung, Amilcar Cabral, Huey Newton, and Glen Coulthard on revolutionary praxis and contradiction; Walter Rodney, Ruy Mauro Marini, and Samir Amin on underdevelopment; and Frantz Fanon, Anibal Quijano, and Denise Ferreira da Silva on psycho-affect and de-colonization."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Independent Study",
+        "course_reference_number": [
+            "28121",
+            "28122",
+            "28123",
+            "28124",
+            "28125",
+            "28126",
+            "28127",
+            "28128",
+            "28129",
+            "28130",
+            "28131",
+            "28132",
+            "28133"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Dotun Ayobade"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "21",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Marquis Bey"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "22",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Barnor Hesse"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "23",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "E. Patrick Johnson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "24",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "John Marquez"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "25",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Mary E Pattillo"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "26",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Kennetta Perry"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "27",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "kihana miraya ross"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "28",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Nitasha Sharma"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "29",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Tracy Vaughn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Sylvester Johnson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "31",
+                "course_name": "Independent Study",
+                "instructors": [
+                    "Nicole A Spigner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "32",
+                "course_name": "Independent Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dotun Ayobade",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Marquis Bey",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Barnor Hesse\n8474913775\n1860 Campus Dr Crowe 5-131",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "E. Patrick Johnson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Marquez\n847 491 5122\n1860 Campus Dr Crowe 5-135",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Mary E Pattillo\n847/491-3409\n1860 Campus Dr. Crowe 5-111",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kennetta Perry",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "kihana miraya ross",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Nitasha Sharma\n847/467-6589\nCrowe Hall 1-127",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Tracy Vaughn\n8474913725\n1860 Campus Dr Crowe 5-103",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvester Johnson\n847/467-5410\n5-128 Crowe, 1860 Campus Dr\nOffice Hours: Tuesday 1:00 pm to 2:00 pm and by appontment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Nicole A Spigner",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "491-0",
+        "course_name": "Reading and Pedagogy",
+        "course_reference_number": [
+            "28134",
+            "28135",
+            "28136",
+            "28137",
+            "28138"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Reading and Pedagogy",
+                "instructors": [
+                    "Martha Biondi"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "21",
+                "course_name": "Reading and Pedagogy",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "22",
+                "course_name": "Reading and Pedagogy",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "23",
+                "course_name": "Reading and Pedagogy",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "24",
+                "course_name": "Reading and Pedagogy",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Martha Biondi",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

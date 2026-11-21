@@ -1,0 +1,120 @@
+[
+    {
+        "course_number": "101-2",
+        "course_name": "Elementary Russian",
+        "course_reference_number": [
+            "27827",
+            "27828"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Elementary Russian",
+                "instructors": [
+                    "Anastasiia Khristenko"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Elementary Russian",
+                "instructors": [
+                    "Bita Takrimi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anastasiia Khristenko",
+                "Meeting Info": "University Library 3722: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Welcome to continuing Elementary Russian! This is the second part in a three-quarter sequence designed to introduce students to the Russian language and contemporary Russian culture. Students will continue to develop the fundamentals of speaking, listening, writing, and reading through a variety of communicative and content-based activities. Emphasis will be placed on practical communication so that students should be able to function at a basic level in authentic situations by the end of the year.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Bita Takrimi",
+                "Meeting Info": "University Library 4770: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Welcome to continuing Elementary Russian! This is the second part in a three-quarter sequence designed to introduce students to the Russian language and contemporary Russian culture. Students will continue to develop the fundamentals of speaking, listening, writing, and reading through a variety of communicative and content-based activities. Emphasis will be placed on practical communication so that students should be able to function at a basic level in authentic situations by the end of the year.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "102-2",
+        "course_name": "Intermediate Russian",
+        "course_reference_number": [
+            "27829"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Continuing the Journey: A Modern Russian Experienc",
+                "instructors": [
+                    "Intermediate Russian",
+                    "Natalia Malinina"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Continuing the Journey: A Modern Russian Experienc",
+                "Instructors": "Natalia Malinina\n847/467-6478\n1880 Campus Dr. (Kresge) Office 3225\nOffice Hours: Mondays 3pm-5pm and by appt",
+                "Meeting Info": "University Library 3622: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Добро пожаловать! Welcome back to Intermediate Russian! This is the second part in a three-quarter sequence focusing on the Russian language and contemporary Russian culture. Students will continue to build their vocabulary and develop their listening, speaking, reading, and writing skills, working with a modern blended textbook and a variety of authenthic materials. They will also learn about Russian culture in daily life and explore Russian literature and art. Most of the class time is devoted to practice in conversation, role-play, and discussions. This course is a firm foundation for more advanced courses, as well as great preparation for students going abroad. By the end of the year students are expected to advance to the Intermediate Low/Intermediate Mid proficiency level (ACTFL scale).\nPrerequisites: Russian 102-1",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "302-2",
+        "course_name": "Advanced Russian in Conversations",
+        "course_reference_number": [
+            "27830"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Russian Rendezvous: Exploring Russia's Rich Cultur",
+                "instructors": [
+                    "Advanced Russian in Conversations",
+                    "Natalia Malinina"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Russian Rendezvous: Exploring Russia's Rich Cultur",
+                "Instructors": "Natalia Malinina\n847/467-6478\n1880 Campus Dr. (Kresge) Office 3225\nOffice Hours: Mondays 3pm-5pm and by appt",
+                "Meeting Info": "University Library 3722: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "While focusing on conversation, this year-long course promotes the development of all language skills-- speaking, reading, writing, and listening--through a variety of communicative and content-based activities. The goal is to help students to master all of the major structures of Russian and to begin to function in a wide range of settings over a wide range of topics. Beyond assigned topics and themes, students will be encouraged to pursue and develop their own interests in Russian contemporary culture.",
+                "Class Attributes": "Advanced Expression\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

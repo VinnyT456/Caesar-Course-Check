@@ -1,0 +1,513 @@
+[
+    {
+        "course_number": "231-0",
+        "course_name": "Guitar Class",
+        "course_reference_number": [
+            "22097"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Guitar Class",
+                "instructors": [
+                    "Kevin Loh"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kevin Loh",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "235-0",
+        "course_name": "Brass Class I",
+        "course_reference_number": [
+            "22098"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Brass Class I",
+                "instructors": [
+                    "Patrick William Horton"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patrick William Horton",
+                "Meeting Info": "RCMA Lower Level 113: Tues, Thurs 6:00PM - 6:50PM",
+                "Overview of class": "This course introduces students to the performance techniques, pedagogical approaches, and content knowledge essential for teaching brass instruments. Through hands-on laboratory experiences and peer teaching, students will develop foundational performance skills on multiple brass instruments and explore effective strategies for teaching beginners. By the end of the course, students will be able to model and teach basic brass techniques, apply pedagogical principles in classroom and individual settings, and critically reflect on performances and teaching to support continued growth.",
+                "Registration Requirements": "There are no registration requirements for this course.",
+                "Learning Objectives": "Course Goal 1 - Performance Skills: Demonstrate foundational performance skills on multiple brass instruments.\n• CG1.LO1 Tone Production: Demonstrate characteristic tone production at the beginner level on multiple brass instruments.\n• CG1.LO2 Basic Articulation: Demonstrate basic articulation technique on multiple brass instruments.\n• CG1.LO3 Aural Skills: Perform on multiple brass instruments without the aid of Western standard music notation (e.g., improvised patterns, repertoire learned by ear, or call and response activities).\n• CG1.LO4 Etudes and Exercises: Perform introductory exercises and etudes with beginner-level accuracy on multiple brass instruments using Western standard music notation.\nCourse Goal 2 - Content Knowledge: Develop a foundational knowledge of brass instrument mechanics and performance practices.\n• CG2.LO1 Instrument Mechanics: Explain the basic acoustics and fundamentals of tone production for brass instruments.\n• CG2.LO2 Instrument Fingerings: Identify fingerings and concert pitch for the beginner range of each brass instrument.\n• CG2.LO3 Equipment: Identify recommended equipment for beginning brass musicians.\n• CG2.LO4 Maintenance: Describe basic maintenance for brass instruments.\n• CG2.LO5 Brass Traditions: Compare a variety of brass performance traditions.\nCourse Goal 3 - Pedagogical Skills: Develop foundational skills and strategies for teaching beginner brass musicians.\n• CG3.LO1 Learning Sequence: Implement skill-building exercises and learning sequences appropriate for beginning brass musicians.\n• CG3.LO2 Diagnostic Skills: Identify common beginning brass performance issues.\n• CG3.LO3 Remediation Strategies: Select practice strategies that support the remediation of common beginner brass performance issues.\n• CG3.LO4 Feedback: Provide constructive feedback, including suggestions for improvement, to beginning brass musicians.\n• CG3.LO5 Instructional Materials: Evaluate how selected repertoire or instructional materials supports the developmental needs of beginning brass musicians.\nCourse Goal 4 - Reflective Practice: Examine performances and teaching episodes to determine successes and areas for improvement.\n• CG4.LO1 Performance Reflection: Reflect critically on one's own and peers' musical performances to support continued artistic growth.\n• CG4.LO2 Teaching Reflection: Reflect critically on one's own and peers' teaching episodes to support continued pedagogical growth.",
+                "Teaching Method": "This course will include direct instruction, instructor modeling, and lab-based student practice. This course uses a flipped classroom approach so that class meetings can focus on applying technical and pedagogical skills. Students will be expected to transport the university-provided instruments to and from each class, play with classmates during each class, lead selected exercises, and provide constructive feedback to peers.",
+                "Evaluation Method": "Students will be evaluated through video-recorded performance assessments on multiple brass instruments, self-reflections, teaching episodes, in-class quizzes, professionalism, and an oral exam.",
+                "Class Materials (Required)": "• Weidner, B. (2023). Brass Techniques and Pedagogy (2nd Ed.). PALNI Press.\nhttps://pressbooks.palni.org/brasstechniquesandpedagogy/\n• Brass instruments (provided by Northwestern University)",
+                "Class Materials (Suggested)": "• Valve oil (Al Cass recommended)\n• Trombone slide cream (Superslick recommended)"
+            }
+        ]
+    },
+    {
+        "course_number": "238-0",
+        "course_name": "String Class II",
+        "course_reference_number": [
+            "22099"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "String Class II",
+                "instructors": [
+                    "Stacia Spencer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stacia Spencer\n847/467-6514\n1818 Hinman Ave",
+                "Meeting Info": "RCMA Lower Level 111: Mon, Wed 10:00AM - 10:50AM",
+                "Overview of class": "This is a continuation of the study of fundamental string techniques and pedagogy course designed to develop basic performance and teaching skills. Emphasis is on playing techniques as well as information about teaching strings in the context of school orchestra.",
+                "Registration Requirements": "Passing grade in MUSIC_ED 237 String Class I",
+                "Learning Objectives": "Entry-level skills on string instrument(s).\nTeaching proficiency when working with novice musicians.",
+                "Teaching Method": "Reading, discussion, in-class teaching, lesson observations, and peer-to-peer coaching",
+                "Evaluation Method": "Marked progress on course learning objectives.",
+                "Class Materials (Required)": "Essential Elements for Strings - Teacher Manual Book 1\nISBN: 9798350120738\n$70.00",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MUSIC_ED 237-0 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "239-0",
+        "course_name": "Percussion Class",
+        "course_reference_number": [
+            "22100"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Percussion Class",
+                "instructors": [],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "8:30AM",
+                "end_time": "9:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Regenstein Hall of Music 011: Tues, Thurs 8:30AM - 9:20AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "314-0",
+        "course_name": "Practicum",
+        "course_reference_number": [
+            "22174",
+            "22175",
+            "22176"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching Instrumental I",
+                "instructors": [
+                    "Practicum",
+                    "Ludger Clayton Dahm"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00AM",
+                "end_time": "9:20AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Teaching Choral I",
+                "instructors": [
+                    "Practicum",
+                    "Diego Pinto"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "7:00AM",
+                "end_time": "9:20AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Teaching General Music II",
+                "instructors": [
+                    "Practicum",
+                    "Jen Blackwell"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Teaching Instrumental I",
+                "Instructors": "Ludger Clayton Dahm",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 7:00AM - 9:20AM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Teaching Choral I",
+                "Instructors": "Diego Pinto",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues, Thurs 7:00AM - 9:20AM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Teaching General Music II",
+                "Instructors": "Jen Blackwell\n847/467-1682\nRCMA 4-141\nOffice Hours: by appointment",
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "326-0",
+        "course_name": "World Music Pedagogy",
+        "course_reference_number": [
+            "22207"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "World Music Pedagogy",
+                "instructors": [
+                    "Sarah Bartolome"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah Bartolome",
+                "Meeting Info": "RCMA Lower Level 121: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: 3rd year or above."
+            }
+        ]
+    },
+    {
+        "course_number": "358-0",
+        "course_name": "Philosophy of Music Education",
+        "course_reference_number": [
+            "22101"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Philosophy of Music Education",
+                "instructors": [
+                    "Jen Blackwell"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jen Blackwell\n847/467-1682\nRCMA 4-141\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 121: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The purpose of this course is to stimulate your thinking about your role as a music educator, as well as the role of music in the broader educative experience. In this course you will explore some of the philosophical principles, concepts, and ideas that provide music education with purpose and direction. Grappling with these ideas will improve your knowledge and understanding about music teaching and the actions of music educators. This class will help you articulate a vision for music in schools and a philosophical orientation toward music teaching and learning.",
+                "Learning Objectives": "This course is designed to enable you to:\n● communicate philosophical orientations toward music education in clear writing and oral discourse;\n● understand, articulate, and critique philosophical arguments in music and education\n● demonstrate knowledge and understanding of various philosophical positions in and related to music education through speech and writing;\n● develop an increased understanding of the ways philosophy can inform practice;\n● demonstrate an understanding of the issues, challenges, and potentials of music education through writings, presentations, and discussions.",
+                "Teaching Method": "Lecture, discussion, presentations",
+                "Evaluation Method": "Tests, assignments, discussion leadership",
+                "Class Materials (Required)": "Dewey, J. (1997). Experience and Education. Free Press.\nISBN-10: 0684838281\nCost: $10",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Enrollment is restricted to Music Education Majors, Minors, and Masters students. Bienen students in other majors may enroll with permission.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "362-0",
+        "course_name": "Teaching General Music II",
+        "course_reference_number": [
+            "22102"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching General Music II",
+                "instructors": [
+                    "Jen Blackwell"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jen Blackwell\n847/467-1682\nRCMA 4-141\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 121: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "This course provides perspectives on a variety of contemporary music education practices, including relevant technologies, popular music pedagogy, and critical educational issues. This course focuses on sociocultural and constructivist practices that emphasize student success through student centered, culturally relevant approaches to music.",
+                "Learning Objectives": "Students will demonstrate the ability to teach music to students, K-12 settings and community ensembles, using relevant technologies. Students will demonstrate the ability to teach popular music to students in K-12 settings and community ensembles. Classroom writing assignments are based on music teaching pedagogies and approaches, planning, curriculum, assessment, and the sequencing of skills in teaching music across various populations.",
+                "Teaching Method": "Lecture and practical teaching experience.",
+                "Evaluation Method": "Assignments and practicum.",
+                "Class Materials (Required)": "Holley, Steve (2019). Coaching a popular music ensemble: Blending formal, non-formal, and informal approaches in the rehearsal. McLemore Ave Music.\nACTION-BASED APPROACHES IN POPULAR MUSIC\nby edited by Steve Holley, Kat Reinhert, and Zack Moir",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: Course is restircted to Juniors and above."
+            }
+        ]
+    },
+    {
+        "course_number": "364-0",
+        "course_name": "Teaching Instrumental Music I",
+        "course_reference_number": [
+            "22103"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching Instrumental Music I",
+                "instructors": [
+                    "Ludger Clayton Dahm"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ludger Clayton Dahm",
+                "Meeting Info": "RCMA 1-164: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Teaching and administrative principles for elementary and middle school instrumental music programs. Rehearsal dynamics, conducting, rehearsal room management, and pedagogy for school ensembles.",
+                "Registration Requirements": "Prerequisite: Must be 3rd year and above and have completed MUSIC_ED 230, 231, 232, 233, 234, 235, or 236. Co-registration requirement in MUSIC ED 314-0.",
+                "Learning Objectives": "1. Develop a philosophy of instrumental music education that could serve as a program mission statement\n2. Critically consider the role of the teacher and student in a large ensemble setting\n3. Be able to apply elements of direct instruction and constructivist pedagogical approaches\n4. Be able to design a teaching plan that emphasizes comprehensive musicianship as a complement to performance skill\n5. Observe and develop pedagogical skills for school settings\n6. Be able to teach rhythmic and tonal concepts using a sound-to-symbol approach\n7. Be able to analyze repertoire for pedagogical purposes\n8. Be able to apply cooperative learning approaches through peer teaching and chamber music\n9. Be able to apply effective rehearsal strategies in large ensembles\n10. Consider approaches for effective classroom management and motivation in instrumental music education\n11. Add to their developing professional portfolio",
+                "Teaching Method": "Lecture, discussion, field experience.",
+                "Evaluation Method": "Teaching evaluations, written assignments",
+                "Class Materials (Required)": "Feldman, E. & Contzius, A. (2024). Instrumental music education: Teaching with the musical and practical in harmony (4th ed.). New York: Routledge.\nISBN 9781032432038\nPrice: $85",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Must be 3rd year and above and have completed MUSIC_ED 230, 231, 232, 233, 234, 235, or 236. Co-registration requirement in MUSIC ED 314-0."
+            }
+        ]
+    },
+    {
+        "course_number": "366-0",
+        "course_name": "Teaching Choral Music I",
+        "course_reference_number": [
+            "22104"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching Choral Music I",
+                "instructors": [
+                    "Diego Pinto"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Diego Pinto",
+                "Meeting Info": "RCMA Lower Level 113: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course provides an overview of the multifaceted nature of choral teaching and learning in elementary and middle school, setting a foundation for students' construction of their philosophy and practices as a choral music educator. Topics covered include but are not limited to rehearsal techniques, vocal technique, repertoire, curriculum design, classroom management, and the adolescent changing voice. Students will apply the acquired knowledge and skills through assigned projects and practicum placements, which shall be determined at the beginning of the class term. Readings, assignments, and classwork will provide practical tools to ensure that what you do on and off the podium reflects best practices to develop an outstanding, thriving choral program applicable in any teaching format and at any educational level.",
+                "Registration Requirements": "Prerequisite: Must be 3rd year or above. Co-registration requirement in MUSIC ED 314.",
+                "Learning Objectives": "After completing this course, students should be able to:\n1. Identify and describe essential components of middle school choral pedagogy, including vocal technique principles, sight-singing methodologies, warm-up exercises, rehearsal strategies, and characteristics of the adolescent socioemotional development and changing voice.\n2. Explain how culturally responsive repertoire selection, student-centered teaching practices, and developmentally appropriate vocal pedagogy align with their developing philosophy of choral music education.\n3. Demonstrate effective, evidence-based rehearsal techniques, classroom management strategies, sight-singing instruction, and warm-up sequences.\n4. Evaluate choral repertoire using pre-established criteria to assess appropriateness for middle school voices, difficulty level, musical content, curricular objectives, and pedagogical opportunities.\n5. Design comprehensive rehearsal plans and concert programs that demonstrate balanced repertoire choices across diverse styles, languages, and difficulty levels while addressing the needs of changing voices and incorporating effective pedagogical sequences.\n6. Develop an original philosophy of choral teaching articulating their core beliefs and pedagogical priorities concerning choral music education.\n7. Build a choral program website (ePortfolio) that showcases their philosophy of choral teaching, choral pedagogy, and sample materials.",
+                "Class Materials (Required)": "1. Textbook: Choral Music: Methods and Materials (Grades 5-12).\nAuthors: Barbara A. Brinson; Steven M. Demorest\nEdition: 2nd\nPublisher: Schirmer, Cengage Learning\nYear: 2014\nISBN-13: 9781133599661\nPrice: $147 (Amazon)\n\n\n2. Textbook: Growing Musicians: Teaching Music in Middle School and Beyond.\nAuthors: Bridget Sweet\nPublisher: Oxford University Press\nYear: 2016\nISBN-13: 9780199372072\nPrice: $37 (Amazon)",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Enrollment is restricted to third-year or higher undergraduate Music Education majors or Master of Music Education students."
+            }
+        ]
+    },
+    {
+        "course_number": "401-0",
+        "course_name": "Music in Higher Education",
+        "course_reference_number": [
+            "22189"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Music in Higher Education",
+                "instructors": [
+                    "Steven Morrison"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Steven Morrison",
+                "Meeting Info": "BSM East Conference Room 3-111: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "426-0",
+        "course_name": "World Music Pedagogy",
+        "course_reference_number": [
+            "28784"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "World Music Pedagogy",
+                "instructors": [
+                    "Sarah Bartolome"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah Bartolome",
+                "Meeting Info": "RCMA Lower Level 121: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "458-0",
+        "course_name": "Philosophy of Music Education",
+        "course_reference_number": [
+            "22208"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Philosophy of Music Education",
+                "instructors": [
+                    "Jen Blackwell"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jen Blackwell\n847/467-1682\nRCMA 4-141\nOffice Hours: by appointment",
+                "Meeting Info": "RCMA Lower Level 121: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The purpose of this course is to stimulate your thinking about your role as a music educator, as well as the role of music in the broader educative experience. In this course you will explore some of the philosophical principles, concepts, and ideas that provide music education with purpose and direction. Grappling with these ideas will improve your knowledge and understanding about music teaching and the actions of music educators. This class will help you articulate a vision for music in schools and a philosophical orientation toward music teaching and learning.",
+                "Learning Objectives": "This course is designed to enable you to:\n● communicate philosophical orientations toward music education in clear writing and oral discourse;\n● understand, articulate, and critique philosophical arguments in music and education\n● demonstrate knowledge and understanding of various philosophical positions in and related to music education through speech and writing;\n● develop an increased understanding of the ways philosophy can inform practice;\n● demonstrate an understanding of the issues, challenges, and potentials of music education through writings, presentations, and discussions.",
+                "Teaching Method": "Lecture, discussion, presentations",
+                "Evaluation Method": "Tests, assignments, discussion leadership",
+                "Class Materials (Required)": "Dewey, J. (1997). Experience and Education. Free Press.\nISBN-10: 0684838281\nCost: $10",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Enrollment is restricted to Music Education Grad students. Bienen students in other majors may enroll with permission.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "520-0",
+        "course_name": "Research Center Seminar",
+        "course_reference_number": [
+            "22212"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Research Center Seminar",
+                "instructors": [
+                    "Steven Morrison"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Steven Morrison",
+                "Meeting Info": "RCMA Lower Level 113: Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "524-0",
+        "course_name": "Qualitative Research in Music Education",
+        "course_reference_number": [
+            "22213"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Qualitative Research in Music Education",
+                "instructors": [
+                    "Sarah Bartolome"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sarah Bartolome",
+                "Meeting Info": "RCMA Lower Level 111: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "course_number": "470-0",
+        "course_name": "Special Topics in Plant Biology and Conservation",
+        "course_reference_number": [
+            "22690",
+            "22691"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Application of Genomics",
+                "instructors": [
+                    "Special Topics in Plant Biology and Conservation",
+                    "Susan Strickler"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Intro to Data Science & Visualization for Ecologis",
+                "instructors": [
+                    "Special Topics in Plant Biology and Conservation",
+                    "Gordon Smith"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Application of Genomics",
+                "Instructors": "Susan Strickler",
+                "Meeting Info": "Technological Institute L150: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Genomic data has surged in recent years, transforming biology and opening opportunities for exciting new questions. To leverage this data, a variety of skills not previously critical to biology are required. This course focuses on the theory and application of genomic technologies that can be applied across the tree of life. Linux command line and programming basics as well as data and code management best practices will be covered. Labs will train students how to use proper techniques with real data to avoid common pitfalls. In-class problems, hack-a-thons, and a final team project will enable students to apply the methods learned to their own questions in genomics. Students from all Colleges are welcome to enroll in the course and it is open to all interested advanced undergraduate and graduate students.",
+                "Registration Requirements": "Students should have a basic understanding of biology and will need to request a permission number with their home department. Office Hours will be held early afternoon on Thursdays.",
+                "Teaching Method": "Lectures, discussion, and hands-on computational labs using real genomic data",
+                "Evaluation Method": "Weekly exercises, paper discussions, attendance and participation, and final team project",
+                "Class Materials (Required)": "Students are required to bring a laptop to class for in class activities. We have a Quest allocation that contains all the software and materials needed to run in class exercises.",
+                "Class Materials (Suggested)": "There is no required textbook but the following book may be helpful for those new to the field: Buffalo, Vance. Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools. O'Reilly Media, 2015). Background readings will be supplied from the literature."
+            },
+            {
+                "Topic": "Intro to Data Science & Visualization for Ecologis",
+                "Instructors": "Gordon Smith",
+                "Meeting Info": "Technological Institute LG52: Mon, Wed 2:00PM - 3:50PM",
+                "Overview of class": "In this course we will explore the fundamentals and best practices in data science using the open-source tool R, building a foundation in the necessary coding and statistical analysis skills required to examine data of all types. While this class is designed to serve as an introduction to these topics for biologists and environmental scientists, the foundations and applications taught are intended to be relevant to students with more experience as well. Class activities will include a mix of lectures, hands-on coding assignments, and independent projects using data applicable to students' interests.",
+                "Learning Objectives": "After participating in this course, you will be able to:\n\nExplore, manage, and wrangle data of different structures using the R programming language\n\nSelect, apply and interpret appropriate statistical tests to answer environmental questions\n\nDisplay statistical results using data visualization best practices and communicate these results to scientific audiences",
+                "Evaluation Method": "Class grades will be based on the following major components:\n\nClass participation - 10%\n\nSkills checks - 20%\n\nAssignments - 40%\n\nFinal project - 30%",
+                "Class Materials (Required)": "On Canvas. If you don't have access to this Canvas site or are having trouble with it, let me know as soon as you can! There is no required text for this class."
+            }
+        ]
+    }
+]

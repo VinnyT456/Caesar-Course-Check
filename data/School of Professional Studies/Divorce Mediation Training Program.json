@@ -1,0 +1,33 @@
+[
+    {
+        "course_number": "201-0",
+        "course_name": "Divorce Mediation",
+        "course_reference_number": [
+            "20610"
+        ],
+        "course_info": [
+            {
+                "section": "44",
+                "course_name": "Divorce Mediation",
+                "instructors": [
+                    "Erin Birt",
+                    "Matthew David Carroll"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erin Birt",
+                "Meeting Info": "TBA: Wed, Thurs, Fri 6:00PM - 9:00PM\nTBA: Sa 9:30AM - 1:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

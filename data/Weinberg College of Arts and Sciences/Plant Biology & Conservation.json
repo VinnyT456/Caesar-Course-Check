@@ -1,0 +1,37 @@
+[
+    {
+        "course_number": "440-0",
+        "course_name": "Agroecosystems: The Ecology of Food Production",
+        "course_reference_number": [
+            "22693"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Agroecosystems: The Ecology of Food Production",
+                "instructors": [
+                    "Gordon Smith"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gordon Smith",
+                "Meeting Info": "Technological Institute L150: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "As anthropogenic change continues to impact ecosystem function, understanding the ecology of agricultural landscapes becomes increasingly pressing. In this course we will examine the underlying ecological principles governing agricultural practices. Using a combination of lectures, literature discussion and field visits, we will cover the history and impacts of sustainable (and unsustainable) food production from the lens of the biotic and abiotic interactions that make it possible. Finally, we will explore how the understanding of these interactions may allow us to maintain agricultural yields in the face of novel climate patterns.",
+                "Registration Requirements": "BIOL_SCI 203 or 241, or EARTH 212, or graduate standing or permission of instructor.",
+                "Teaching Method": "In person; mix of lectures and discussion",
+                "Evaluation Method": "Exams, independent projects, and participation in class activities",
+                "Class Materials (Required)": "No required textbook; all necessary materials will be provided on Canvas",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: BIOL_SCI 203-0 or BIOL_SCI 241-0 or EARTH 212-0 or BIOL_SCI 339-0 or PBC Graduate student standing or permission of instructor\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

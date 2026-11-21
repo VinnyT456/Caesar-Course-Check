@@ -1,0 +1,36 @@
+[
+    {
+        "course_number": "201-A",
+        "course_name": "Writing for Media",
+        "course_reference_number": [
+            "20513"
+        ],
+        "course_info": [
+            {
+                "section": "12",
+                "course_name": "Writing for Media",
+                "instructors": [
+                    "David Nelson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Nelson",
+                "Meeting Info": "Online: Mon 6:15PM - 9:15PM",
+                "Overview of class": "This course teaches students clear, concise and coherent writing - the same basics taught at the Medill School of Journalism, Media, Integrated Marketing Communications. Writing for Media encourages and instructs in the appropriate and ethical use of artificial intelligence as part of the writing exercises. Assignments start in class and continue with rewriting until the next session. The instructor remains available for coaching and feedback all week long. Students gain confidence and demonstrate improvement in written expression each week. The skills acquired in Writing for Media provide a solid foundation for future course work at Northwestern University as well as in professional settings.\n\nSchedule note: this course will meet remotely, with weekly remote synchronous sessions held on the scheduled day.",
+                "Registration Requirements": "Prerequisites: none.",
+                "Teaching Method": "Lectures\nDiscussion\nwriting exercises\nOnline work",
+                "Evaluation Method": "Class participation\nHomework\nLab writing exercises\nOnlline work\nReadings",
+                "Class Materials (Required)": "Materials may include the following. Confirm course texts and materials by contacting instructor or viewing course Canvas site or University bookstore website.\n\nKessler & McDonald, When Words Collide, 2ndh Edition\n- chapters provided by Prof. Nelson\n\nStrunk & White, The Elements of Style, 4th edition - to be purchased\n\nRecommended: The New York Times or The Washington Post",
+                "Class Notes": "We work together. Leave ego at the door. Have fun.",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,304 @@
+[
+    {
+        "course_number": "483-0",
+        "course_name": "Using Data to Make Informed Decisions",
+        "course_reference_number": [
+            "26983",
+            "26984"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Using Data to Make Informed Decisions",
+                "instructors": [
+                    "Olga Kamenchuk Nisbet"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Using Data to Make Informed Decisions",
+                "instructors": [
+                    "Olga Kamenchuk Nisbet"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Olga Kamenchuk Nisbet",
+                "Meeting Info": "Frances Searle Building 2370: Tues 9:30AM - 12:20PM",
+                "Overview of class": "In this course, students study the use, collection, analysis, and application of information in organizational planning and decision-making. Particular attention is given to sampling methods, survey methodology, social media/website analytics, and focus groups. The goal is to produce students who make informed decisions when presented with organizational and market research.",
+                "Class Attributes": "MSC Core Requirement",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Custom Leadership Program may enroll in this class."
+            },
+            {
+                "Instructors": "Olga Kamenchuk Nisbet",
+                "Meeting Info": "Frances Searle Building 2370: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "In this course, students study the use, collection, analysis, and application of information in organizational planning and decision-making. Particular attention is given to sampling methods, survey methodology, social media/website analytics, and focus groups. The goal is to produce students who make informed decisions when presented with organizational and market research.",
+                "Class Attributes": "MSC Core Requirement",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Custom Leadership Program may enroll in this class."
+            }
+        ]
+    },
+    {
+        "course_number": "483-6",
+        "course_name": "Using Data to Make Informed Decisions",
+        "course_reference_number": [
+            "26986"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Using Data to Make Informed Decisions",
+                "instructors": [
+                    "Olga Kamenchuk Nisbet"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Olga Kamenchuk Nisbet",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "In this course, students study the use, collection, analysis, and application of information in organizational planning and decision-making. Particular attention is given to sampling methods, survey methodology, social media/website analytics, and focus groups. The goal is to produce students who make informed decisions when presented with organizational and market research.",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Online Leadership Program may enroll in this class."
+            }
+        ]
+    },
+    {
+        "course_number": "529-0",
+        "course_name": "Master of Science in Communication Seminar Topics",
+        "course_reference_number": [
+            "26982"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Global Leadership Intensive: Lessons from the Rena",
+                "instructors": [
+                    "Master of Science in Communication Seminar Topics",
+                    "Leslie A DeChurch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Global Leadership Intensive: Lessons from the Rena",
+                "Instructors": "Leslie A DeChurch",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "The Global Leadership Intensive immerses students in the history, culture, and leadership of Renaissance Florence to sharpen their capacity for leadership today. The course is built around five topics: Leading from Within: Strengths, Values, and Purpose; The Bottega: Leading Teams; Bridging Factions: Intergroup Leadership; Leading Without Authority: Soft Power and St. Catherine of Siena; and Building a Legacy: Leadership That Lasts. Each workshop pairs site visits and Renaissance cases with team exercises and applies them to the challenges leaders face today.\n\nThis hybrid course combines pre-program preparation, a week in Florence, and post-program reflection. Students will create a Renaissance Leadership Portfolio, a curated collection that links historic insights to their current teams, projects, and career aspirations. Along the way, they'll benefit from deep networking with accomplished alumni and experience accelerated growth that extends beyond the classroom.",
+                "Class Attributes": "MSC Concentration: Artificial Intelligence\nMSC Concentration: Organizational Leadership",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Custom Leadership Program may enroll in this class.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "537-6",
+        "course_name": "Information Design",
+        "course_reference_number": [
+            "26987"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Information Design",
+                "instructors": [
+                    "Eric Patrick"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eric Patrick\n847/491-4229\nAMS 214\nOffice Hours: Mondays 1:00PM-3:00PM, Wednesdays 10:00am-12:00pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "In the age of big data, we increasingly need ways to present that data to persuade, inform, educate, and understand large volumes of information. Information design is an interdisciplinary field that tells us the stories of data, helping us to understand our increasingly complex world and share our conclusions with others. \"Information\" can be expanded beyond traditional data. Charts and visualizations to the information of physical spaces, software interfaces, publication design, and dashboards for diverse disciplines. While information design borrows from diverse fields like psychology, statistics, cartography, cognitive science, visual design and human machine interaction, there are a series of basic principles that make up the foundations of the field. At the conclusion of the class, students will have a solid understanding of how to secure and prepare data for visualization, how to choose a relevant visual framework to represent that data, and how to use principles of visual design to maximize comprehension, retention and appeal of those designs.",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Online Leadership Program may enroll in this class."
+            }
+        ]
+    },
+    {
+        "course_number": "540-0",
+        "course_name": "Leading Collaboration",
+        "course_reference_number": [
+            "26988",
+            "26989"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Leading Collaboration",
+                "instructors": [
+                    "Leslie A DeChurch"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Leading Collaboration",
+                "instructors": [
+                    "Leslie A DeChurch"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Leslie A DeChurch",
+                "Meeting Info": "Frances Searle Building 1421: Fri 9:30AM - 12:20PM",
+                "Overview of class": "This action-oriented course builds participants' collaborative leadership skills. Through a series of case studies, activities, and projects, students learn how to effectively lead diverse and often distributed teams. The course explores the specific challenges associated with leading teams, some of which include building and designing teams, managing information exchange within and across teams, structuring effective group decision processes, igniting creative thinking, enabling complex problem solving, and managing team conflict.",
+                "Class Attributes": "MSC Core Requirement",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Custom Leadership Program may enroll in this class."
+            },
+            {
+                "Instructors": "Leslie A DeChurch",
+                "Meeting Info": "Frances Searle Building 1421: Sa 9:30AM - 12:30PM",
+                "Overview of class": "This action-oriented course builds participants' collaborative leadership skills. Through a series of case studies, activities, and projects, students learn how to effectively lead diverse and often distributed teams. The course explores the specific challenges associated with leading teams, some of which include building and designing teams, managing information exchange within and across teams, structuring effective group decision processes, igniting creative thinking, enabling complex problem solving, and managing team conflict.",
+                "Class Attributes": "MSC Core Requirement",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Custom Leadership Program may enroll in this class."
+            }
+        ]
+    },
+    {
+        "course_number": "546-0",
+        "course_name": "Leadership, Media & Strategy",
+        "course_reference_number": [
+            "26990"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Leadership, Media & Strategy",
+                "instructors": [
+                    "Rick Morris"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rick Morris\n8474914262\n2240 Campus Drive, Frances Searle, 1-123",
+                "Meeting Info": "Frances Searle Building 3417: Sa 2:00PM - 5:00PM",
+                "Overview of class": "This course covers strategy and leadership within the context of the global media and communications industries to discuss several important business concepts: strategies for operation in regulated environments, crisis response for business operations, and the intersection of technology and regulation. These concepts are extended to different example global media and communication organizations and are equally usable for people in established businesses, start-ups, and entrepreneurs. This course covers \"how to get things done\" in the business world through examining the meta-record of what has worked and not worked in the past and what is rapidly developing daily. We will cover both business-based strategies as well as those that incorporate corporate responsibility.",
+                "Class Attributes": "MSC Concentration: Organizational Leadership"
+            }
+        ]
+    },
+    {
+        "course_number": "547-0",
+        "course_name": "Digital Media Planning",
+        "course_reference_number": [
+            "26991"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Digital Media Planning",
+                "instructors": [
+                    "Yu Xu"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yu Xu",
+                "Meeting Info": "Frances Searle Building 2378: Sa 2:00PM - 5:00PM",
+                "Overview of class": "This course focuses on the evolving media landscape and the adaptation of strategic communications to media technology and usage. The lectures will cover topics such as emerging media technologies, paid/owned/earned media, data-driven and data-informed media planning, programmatic and computational advertising, digital marketing and analytics, electronic word-of-mouth and customer reviews, and the business of audience and media measurement. The goal of the course is to provide students with fundamental knowledge and skills to design and evaluate evidence-based media strategies for different purposes.",
+                "Class Attributes": "MSC Concentration: Strategic Communication"
+            }
+        ]
+    },
+    {
+        "course_number": "550-0",
+        "course_name": "Generative AI & the Media",
+        "course_reference_number": [
+            "26993"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Generative AI & the Media",
+                "instructors": [
+                    "Nicholas Diakopoulos"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nicholas Diakopoulos",
+                "Meeting Info": "Garage Workspace Classroom 1: Thurs 1:00PM - 3:50PM",
+                "Overview of class": "Since the launch of ChatGPT in late 2022 generative AI has proliferated throughout society, capturing the imagination of the public with its potential to upend much of how people create and consume media and information. In this course we'll demystify this new technology, understand how it works, how to control it through prompting, and how to implement it in various use cases found in media production and communication. We'll also step back with a critical eye to ask questions of how generative AI changes the larger media system and raises ethical and governance issues around data, copyright, privacy, bias, and more.",
+                "Class Materials (Required)": "While there is no textbook or other fees for books and resources in this course, you are however required to sign up for a Gemini Pro account for the duration of the course , which costs about $20 / month, or you can potentially get it free for a year: https://gemini.google/students/.",
+                "Class Attributes": "MSC Concentration: Artificial Intelligence",
+                "Enrollment Requirements": "Enrollment Requirements: Only students in the MSC Custom Leadership Program may enroll in this class."
+            }
+        ]
+    },
+    {
+        "course_number": "555-0",
+        "course_name": "Brand Management",
+        "course_reference_number": [
+            "26992"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Brand Management",
+                "instructors": [
+                    "TJ Billard"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "TJ Billard",
+                "Meeting Info": "Frances Searle Building 2370: Sa 2:00PM - 5:00PM",
+                "Overview of class": "Brands are ubiquitous to modern society. The logics of branding shape how we view nearly every aspect of social life and, oftentimes, how we view ourselves. But the practices of brand management—of creating, shaping, maintaining, and contesting brand meaning—have transformed dramatically in recent decades. Technological changes have \"opened up\" the processes of branding and shifted the distribution of communicative power within consumer culture. At the same time, brands have become more \"personal,\" taking on public personalities and more explicit stances on issues of identity and justice. This course provides an overview of how these changes have altered the practices of brand management, bringing together both critical and administrative perspectives on contemporary branding. The ultimate aim is to provide students with a practical understanding of how brand management works, while also providing them with the conceptual tools to critique those practices.",
+                "Class Attributes": "MSC Concentration: Strategic Communication"
+            }
+        ]
+    }
+]

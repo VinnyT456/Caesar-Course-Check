@@ -1,0 +1,24 @@
+[
+    {
+        "course_number": "420-2",
+        "course_name": "Global and Avant-Garde Studies Colloquium",
+        "course_reference_number": [
+            "24058"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Global and Avant-Garde Studies Colloquium",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

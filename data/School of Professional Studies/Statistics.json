@@ -1,0 +1,32 @@
+[
+    {
+        "course_number": "202-DL",
+        "course_name": "Introduction to Statistics and Data Science",
+        "course_reference_number": [
+            "20553"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Statistics and Data Science",
+                "instructors": [
+                    "Michael Bailey"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Bailey",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "This course focuses on the analysis of data using computer software. The approach is conceptual—I want you to understand, not to memorize. Important concepts include samples versus populations, normal curves and the central limit theorem, sampling distributions, standard errors, statistical inference, correlation and regression, t-tests, analysis of variance (ANOVA), and the chi-squared test. We will also discuss the replication crisis in science and how bad statistics helped cause it. Students who take this class will learn to avoid these problems.\n\nThis course is conducted completely online. A technology fee will be added to tuition.\n\nFoundational disciplines / distribution: social sciences or scientific inquiry and quantitative reasoning",
+                "Registration Requirements": "There are no formal prerequisites for this course.\n\nRecommended skills include comfort with basic algebra and some experience with spreadsheet software, such as Microsoft Excel or Google Spreadsheet.",
+                "Learning Objectives": "By the end of this course, you will be able to:\n\nIdentify situations in which statistical tests are appropriate and the general rationale for their application.\nDistinguish situations in which each of the following statistical tests are appropriate: Z-test, one-sample t-test, paired t-test, two-sample t-test, correlation, regression, multiple regression, chi-squared.\nConduct the statistical tests from the second bullet point above using computer software and identify the key aspects of the output.\nUsing the results of the statistical tests, write informative results for these tests.\nList, and conduct, the steps necessary for statistical inference.\nDistinguish Type 1 and Type 2 errors and factors that influence (and do not influence) them.\nIdentify some of the statistical reasons for the current replication crisis in science.",
+                "Class Materials (Required)": "Materials available in Canvas.",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

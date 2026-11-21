@@ -1,0 +1,1052 @@
+[
+    {
+        "course_number": "201-0",
+        "course_name": "Cornerstone Design",
+        "course_reference_number": [
+            "24199"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Cornerstone Design",
+                "instructors": [
+                    "Eric Vincent Garcia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eric Vincent Garcia",
+                "Meeting Info": "Technological Institute M164: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Corequisite: CIV_ENV 301-1 Cornerstone Design Lab"
+            }
+        ]
+    },
+    {
+        "course_number": "216-0",
+        "course_name": "Mechanics of Materials I",
+        "course_reference_number": [
+            "24065"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Mechanics of Materials I",
+                "instructors": [
+                    "Federico Ciardo"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Federico Ciardo",
+                "Meeting Info": "Pancoe Building Abbott Aud: Mon, Tues, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite: Students must have already taken GEN_ENG 205-2 in order to enroll."
+            }
+        ]
+    },
+    {
+        "course_number": "280-2",
+        "course_name": "Architectural Engineering & Design Seminar II",
+        "course_reference_number": [
+            "26538"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Architectural Engineering & Design Seminar II",
+                "instructors": [
+                    "Giorgia Chinazzo",
+                    "Shelley Finnigan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Giorgia Chinazzo",
+                "Meeting Info": "Technological Institute A230: Mon 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "301-1",
+        "course_name": "Cornerstone Design Lab",
+        "course_reference_number": [
+            "24201"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cornerstone Design Lab",
+                "instructors": [
+                    "Eric Vincent Garcia"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eric Vincent Garcia",
+                "Meeting Info": "Technological Institute M345: Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Corequisite: CIV_ENV 201-0 Cornerstone Design"
+            }
+        ]
+    },
+    {
+        "course_number": "301-2",
+        "course_name": "Professional Development Seminar II",
+        "course_reference_number": [
+            "24202"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Professional Development Seminar II",
+                "instructors": [
+                    "Eric Vincent Garcia",
+                    "George Wells"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eric Vincent Garcia",
+                "Meeting Info": "Technological Institute A230: Thurs 3:30PM - 4:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Seniors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "309-0",
+        "course_name": "Climate and Energy - Law and Policy",
+        "course_reference_number": [
+            "24209"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Climate and Energy",
+                "instructors": [
+                    "Law and Policy",
+                    "Keith Harley"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Keith Harley\nKharley@kentlaw.edu",
+                "Meeting Info": "Technological Institute M128: Fri 4:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Concrete Properties",
+        "course_reference_number": [
+            "24066"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Concrete Properties",
+                "instructors": [
+                    "Matthew Dominick D'Ambrosia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matthew Dominick D'Ambrosia",
+                "Meeting Info": "Technological Institute L168: Mon, Wed 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: Students must have completed CIV_ENV 216 to register for this course.",
+                "Associated Classes": "LAB - Technological Institute L168: Fri 4:00PM - 5:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "325-0",
+        "course_name": "Reinforced Concrete",
+        "course_reference_number": [
+            "24068"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Reinforced Concrete",
+                "instructors": [
+                    "Gianluca Cusatis"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gianluca Cusatis\n2145 N. Sheridan Road / Tech A125\nOffice Hours: g-cusatis@northwestern.edu",
+                "Meeting Info": "Technological Institute L221: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Technological Institute L168: Tues 2:30PM - 3:20PM"
+            }
+        ]
+    },
+    {
+        "course_number": "336-10",
+        "course_name": "Project Scheduling",
+        "course_reference_number": [
+            "24070"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Project Scheduling",
+                "instructors": [
+                    "Ivan Mutis"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ivan Mutis",
+                "Meeting Info": "Lutkin Hall: Wed 3:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "LAB - Technological Institute MG47: Fri 11:00AM - 12:20PM"
+            }
+        ]
+    },
+    {
+        "course_number": "346-0",
+        "course_name": "Ecohydrology",
+        "course_reference_number": [
+            "24073"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Ecohydrology",
+                "instructors": [
+                    "Aaron Packman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aaron Packman\n847/491-9902\n2145 N. Sheridan / Tech A314\nOffice Hours: a-packman@northwestern.edu",
+                "Meeting Info": "Technological Institute LG52: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: Students must have taken CIV_ENV 260, one course in fluid mechanics, or have graduate standing.",
+                "Associated Classes": "LAB - Technological Institute L150: Fri 12:30PM - 1:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "353-0",
+        "course_name": "Energy Geostructures & Geosystems",
+        "course_reference_number": [
+            "24208"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Energy Geostructures & Geosystems",
+                "instructors": [
+                    "Alessandro Rotta Loria"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alessandro Rotta Loria\ntel8474671340\nTech A120\nOffice Hours: By appt",
+                "Meeting Info": "Technological Institute L168: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "361-2",
+        "course_name": "Public & Environmental Health",
+        "course_reference_number": [
+            "24197"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Public & Environmental Health",
+                "instructors": [
+                    "Luisa Marcelino"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Luisa Marcelino\n847.491.4035\n2145 N. Sheridan Road / Tech A218\nOffice Hours: l-marcelino@northwestern.edu",
+                "Meeting Info": "Technological Institute MG28: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "364-0",
+        "course_name": "Sustainable Water Systems",
+        "course_reference_number": [
+            "24076"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Sustainable Water Systems",
+                "instructors": [
+                    "George Wells"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "George Wells\n847/491-8794\nTech Building A318\nOffice Hours: Wednesday 3-5PM",
+                "Meeting Info": "Technological Institute MG28: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is resereve for students who have completed MECH_ENG 241-0 and CIV_ENV 260-0.",
+                "Associated Classes": "DIS - Technological Institute L251: Mon 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "365-0",
+        "course_name": "Environmental Laboratory",
+        "course_reference_number": [
+            "24077"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Civ_Env Seniors",
+                "instructors": [
+                    "Environmental Laboratory",
+                    "Yingqian Xiong"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Civ_Env Seniors",
+                "Instructors": "Yingqian Xiong",
+                "Meeting Info": "Tech A147: Tues 1:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "374-0",
+        "course_name": "Data Science for Urban Systems",
+        "course_reference_number": [
+            "24211"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Data Science for Urban Systems",
+                "instructors": [
+                    "Ying Chen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ying Chen",
+                "Meeting Info": "Technological Institute LG52: Mon, Wed 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Technological Institute M128: Fri 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "382-1",
+        "course_name": "Capstone Design I",
+        "course_reference_number": [
+            "24195"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Capstone Design I",
+                "instructors": [
+                    "Kimberly Gray",
+                    "Tom Mozina",
+                    "Neil Reindel",
+                    "Eric Vincent Garcia"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kimberly Gray\n847/467-4252\n2145 N. Sheridan Road / TECH A322\nOffice Hours: k-gray@northwestern.edu",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "385-2",
+        "course_name": "Architectural Engineering & Design 2: Intermediate",
+        "course_reference_number": [
+            "24198"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Architectural Engineering & Design 2: Intermediate",
+                "instructors": [
+                    "Laurence Booth",
+                    "Scott Cyphers"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Laurence Booth",
+                "Meeting Info": "Technological Institute L441: Tues, Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Engineering Juniors or Seniors.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics in Civil and Environmental Engrg",
+        "course_reference_number": [
+            "24078",
+            "24079"
+        ],
+        "course_info": [
+            {
+                "section": "3",
+                "course_name": "Building Enclosure Design",
+                "instructors": [
+                    "Special Topics in Civil and Environmental Engrg",
+                    "Maria Raggousis",
+                    "Peter Babaian"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:20AM"
+            },
+            {
+                "section": "4",
+                "course_name": "Towards A Carbon Neutral Built Environment",
+                "instructors": [
+                    "Special Topics in Civil and Environmental Engrg",
+                    "Jackson Jewett"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Building Enclosure Design",
+                "Instructors": "Maria Raggousis",
+                "Meeting Info": "Technological Institute M120: Mon, Wed 9:00AM - 10:20AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Permission of department\nSeniors/Grad Students Only\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Towards A Carbon Neutral Built Environment",
+                "Instructors": "Jackson Jewett",
+                "Meeting Info": "Technological Institute L168: Tues, Thurs 1:00PM - 2:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Seniors/Grad Students Only\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-1",
+        "course_name": "Community-based Design 1",
+        "course_reference_number": [
+            "24081"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Community-based Design 1",
+                "instructors": [
+                    "Kimberly Gray"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kimberly Gray\n847/467-4252\n2145 N. Sheridan Road / TECH A322\nOffice Hours: k-gray@northwestern.edu",
+                "Meeting Info": "Technological Institute A110: Mon, Wed 4:00PM - 5:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Theory of Elasticity",
+        "course_reference_number": [
+            "24116"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Theory of Elasticity",
+                "instructors": [
+                    "Oluwaseyi Balogun"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Oluwaseyi Balogun\n847/491-3054\nCatalysis Bldg, Rm 325, 2137 Tech Drive, EV CAMPUS",
+                "Meeting Info": "Technological Institute F281: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "424-0",
+        "course_name": "Stability of Structures",
+        "course_reference_number": [
+            "24117"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Stability of Structures",
+                "instructors": [
+                    "Zdenek Bazant"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zdenek Bazant\n1 847 491 4025\nTECH A135\nOffice Hours: z-bazant@northwestern.edu",
+                "Meeting Info": "University Library 3322: Tues, Thurs 9:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "426-1",
+        "course_name": "Advanced Finite Element Methods 1",
+        "course_reference_number": [
+            "24118"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Finite Element Methods 1",
+                "instructors": [
+                    "Mark Fleming"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Fleming\nTechnological Institute, Rm L497, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 2: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "448-0",
+        "course_name": "Computational Chemodynamics",
+        "course_reference_number": [
+            "24119"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Computational Chemodynamics",
+                "instructors": [
+                    "Jean-François Gaillard"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jean-François Gaillard\n1 847 467 1376\nTECH A234\nOffice Hours: jf-gaillard@northwestern.edu",
+                "Meeting Info": "Frances Searle Building 2370: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "449-0",
+        "course_name": "Environmental Particles and Surface Chemistry",
+        "course_reference_number": [
+            "24210"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Environmental Particles and Surface Chemistry",
+                "instructors": [
+                    "Ludmilla Aristilde"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ludmilla Aristilde\n847/491-2999\nTech A316\nOffice Hours: By Appointment",
+                "Meeting Info": "Technological Institute L170: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "471-1",
+        "course_name": "Transportation Systems Analysis 1",
+        "course_reference_number": [
+            "24120"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Transportation Systems Analysis 1",
+                "instructors": [
+                    "Omer Verbas"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "6:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Omer Verbas",
+                "Meeting Info": "Technological Institute F280: Mon 4:00PM - 6:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "480-1",
+        "course_name": "Travel Demand Analysis & Forecasting 1",
+        "course_reference_number": [
+            "24121"
+        ],
+        "course_info": [
+            {
+                "section": "3",
+                "course_name": "Travel Demand Analysis & Forecasting 1",
+                "instructors": [
+                    "Amanda Blomberg Stathopoulos"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Amanda Blomberg Stathopoulos\n847/491-5629\nTech Institue / Room A335\nOffice Hours: a-stathopoulos@northwestern.edu",
+                "Meeting Info": "Technological Institute L251: Tues, Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "483-0",
+        "course_name": "Infrastructure Systems Analysis",
+        "course_reference_number": [
+            "24191"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Infrastructure Systems Analysis",
+                "instructors": [
+                    "Pablo Luis Durango-Cohen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pablo Luis Durango-Cohen\n1 847 491 4008\nTECH A332\nOffice Hours: pdc@northwestern.edu",
+                "Meeting Info": "Technological Institute L168: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Associated Classes": "DIS - Technological Institute L168: Fri 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "508-0",
+        "course_name": "M.S. Research Paper for non-thesis option",
+        "course_reference_number": [
+            "24203",
+            "24204",
+            "24205",
+            "24206",
+            "24207"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "M.S. Research Paper for non-thesis option",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "M.S. Research Paper for non-thesis option",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "M.S. Research Paper for non-thesis option",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "M.S. Research Paper for non-thesis option",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "M.S. Research Paper for non-thesis option",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "512-2",
+        "course_name": "Structural Engineering & Mechanics Sem",
+        "course_reference_number": [
+            "24194",
+            "26524"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Structural Engineering & Mechanics Sem",
+                "instructors": [
+                    "Federico Ciardo",
+                    "Lucia Stein-Montalvo"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Structural Engineering & Mechanics Sem",
+                "instructors": [
+                    "Giorgia Chinazzo",
+                    "Shelley Finnigan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Federico Ciardo",
+                "Meeting Info": "Technological Institute A230: Wed 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Giorgia Chinazzo",
+                "Meeting Info": "Technological Institute A230: Mon 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "515-1",
+        "course_name": "Geotechnics Seminar",
+        "course_reference_number": [
+            "24155"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Geotechnics Seminar",
+                "instructors": [
+                    "Alessandro Rotta Loria"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alessandro Rotta Loria\ntel8474671340\nTech A120\nOffice Hours: By appt",
+                "Meeting Info": "Technological Institute F280: Wed 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "516-2",
+        "course_name": "Seminar in Environmental Engineering and Science",
+        "course_reference_number": [
+            "24193"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar in Environmental Engineering and Science",
+                "instructors": [
+                    "Kimberly Gray"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kimberly Gray\n847/467-4252\n2145 N. Sheridan Road / TECH A322\nOffice Hours: k-gray@northwestern.edu",
+                "Meeting Info": "Technological Institute A230: Fri 2:00PM - 3:15PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "517-2",
+        "course_name": "Seminar in Transportation Engineering",
+        "course_reference_number": [
+            "24196"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Seminar in Transportation Engineering",
+                "instructors": [
+                    "Ying Chen"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ying Chen",
+                "Meeting Info": "Chambers Hall L11: Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

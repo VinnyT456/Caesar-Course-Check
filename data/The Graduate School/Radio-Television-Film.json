@@ -1,0 +1,64 @@
+[
+    {
+        "course_number": "457-0",
+        "course_name": "Art of the Real",
+        "course_reference_number": [
+            "27763"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Art of the Real",
+                "instructors": [
+                    "Lakshmi Padmanabhan"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lakshmi Padmanabhan",
+                "Meeting Info": "Annie May Swift Hall 219: Thurs 1:00PM - 2:50PM\nHelmerich Auditorium: Thurs 3:00PM - 4:50PM",
+                "Overview of class": "This class will explore fundamental questions in the art and theory of nonfiction cinema. Students will view a range of observational, engaged, experimental, personal, industrial and commercial films from across the 130-year history of the medium, surveying acknowledged landmarks alongside under-recognized outliers and contemporary works. The course materials (including an intensive in-class screening schedule as well as visits from guest filmmakers, curators, and critics) will situate documentary within a spectrum encompassing narrative, avant-garde, and non-theatrical approaches to film. Readings and discussions will examine the material, formal, ethical, and political conditions of production and reception, paying close attention to questions of technology and environment and applying feminist and decolonial frameworks to prevailing narratives. Students will be asked to maintain consistent attendance, produce regular response papers, lead discussion around films and texts, and produce a final research paper or a final media arts project.",
+                "Registration Requirements": "Undergraduates will need to reach out to instructor with a request to register.",
+                "Learning Objectives": "Engaged students will emerge from this class as more receptive, sensitive, and informed viewers of films from across the global history of nonfiction cinema. The course aims to provide the tools for close analysis, critical comparison, and constructive discussion of media; to create a space for informed and respectful debate of challenging and often imperfect objects; and to empower students to advance their own perspectives and to envision new futures for documentary film.",
+                "Class Materials (Required)": "All readings and screenings will be made available via Canvas or in class."
+            }
+        ]
+    },
+    {
+        "course_number": "550-0",
+        "course_name": "Documentary Practices",
+        "course_reference_number": [
+            "27764"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Documentary Practices",
+                "instructors": [
+                    "Spencer Parsons"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Spencer Parsons",
+                "Meeting Info": "Louis Hall 118: Tues 6:00PM - 8:50PM\nLouis Hall 106: Thurs 6:00PM - 7:50PM",
+                "Overview of class": "This course will examine problems of performance for camera in documentary practice and documentary techniques in creating and/or capturing performance for fiction. We will consider documentary and anti-illusionistic practices in theater, such as the living newspaper and neo-futurism, as well as traditional documentary work complicated by the performances of subjects, documentary re-enactments, and devised narratives. Assignments require students to work on both sides of the camera and to perform live acting exercises in class.",
+                "Learning Objectives": "Skills developed and evaluated will be regular performance practice for audience and camera, as well as dramatic scene analysis of fiction and documentary performance. Students will both perform and direct performance for assignments. Assignments will include live performance in class and short sketches and films to be shot out of class, as well as leading and participating in discussion of films shown in-class. As in-class critique, discussion, and performance of scenes are essential to the subject matter, class participation will be particularly emphasized.",
+                "Class Materials (Required)": "100 NEO FUTURIST PLAYS FROM TOO MUCH LIGHT MAKES THE BABY GO BLIND by the Neo-Futurists\n\nAll other readings provided for free as PDF.\n\nPersonal hard drives for editing class projects. Loaner hard drives from the Cage can be used by students with insufficient resources.",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Documentary Media MFA Students."
+            }
+        ]
+    }
+]

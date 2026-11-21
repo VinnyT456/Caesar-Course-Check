@@ -1,0 +1,62 @@
+[
+    {
+        "course_number": "401-DL",
+        "course_name": "Foundations of Enterprise, Regulatory, and Technology Risk",
+        "course_reference_number": [
+            "20461"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Foundations of Enterprise, Regulatory, and Technology Risk",
+                "instructors": [
+                    "Michael Diarra"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Diarra",
+                "Meeting Info": "Online: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "402-DL",
+        "course_name": "Foundations of Quantitative Reasoning and Risk Analytics",
+        "course_reference_number": [
+            "20462"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Foundations of Quantitative Reasoning and Risk Analytics",
+                "instructors": [
+                    "Kari Danek"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kari Danek",
+                "Meeting Info": "Online: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    }
+]

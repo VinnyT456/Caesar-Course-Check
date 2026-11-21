@@ -1,0 +1,135 @@
+[
+    {
+        "course_number": "404-0",
+        "course_name": "Literature, Medicine, and Bioethics",
+        "course_reference_number": [
+            "26970"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Literature, Medicine, and Bioethics",
+                "instructors": [
+                    "Catherine Belling"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Catherine Belling",
+                "Meeting Info": "Meets in Non-General PurposeRm: Wed 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Medical Humanities and Bioethics Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "406-0",
+        "course_name": "The Practice of Medical Humanities and Bioethics",
+        "course_reference_number": [
+            "26967"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Practice of Medical Humanities and Bioethics",
+                "instructors": [
+                    "Katie L Watson"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Katie L Watson",
+                "Meeting Info": "Meets in Non-General PurposeRm: Thurs 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Medical Humanities and Bioethics Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "410-0",
+        "course_name": "Special Topics in Medical Humanities and Bioethics",
+        "course_reference_number": [
+            "26968",
+            "26969"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Special Topics in Medical Humanities and Bioethics",
+                "instructors": [
+                    "Megan Crowley-Matoka"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:00PM"
+            },
+            {
+                "section": "33",
+                "course_name": "Special Topics in Medical Humanities and Bioethics",
+                "instructors": [
+                    "Megan Crowley-Matoka"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Megan Crowley-Matoka",
+                "Meeting Info": "Meets in Non-General PurposeRm: Thurs 12:00PM - 1:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Medical Humanities and Bioethics Students Only"
+            },
+            {
+                "Instructors": "Megan Crowley-Matoka",
+                "Meeting Info": "Meets in Non-General PurposeRm: Thurs 12:00PM - 1:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Medical Humanities and Bioethics Students Only\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "500-0",
+        "course_name": "Capstone Project in Medical Humanities and Bioethics",
+        "course_reference_number": [
+            "26974"
+        ],
+        "course_info": [
+            {
+                "section": "10",
+                "course_name": "Capstone Project in Medical Humanities and Bioethics",
+                "instructors": [
+                    "Megan Crowley-Matoka"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Megan Crowley-Matoka",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Medical Humanities and Bioethics Students Only"
+            }
+        ]
+    }
+]

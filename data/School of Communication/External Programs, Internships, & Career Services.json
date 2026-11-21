@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "400-0",
+        "course_name": "Internship",
+        "course_reference_number": [
+            "28194"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Internship",
+                "instructors": [
+                    "Katy Kelly"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Katy Kelly",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

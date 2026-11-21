@@ -1,0 +1,137 @@
+[
+    {
+        "course_number": "301-DL",
+        "course_name": "Organization Behavior",
+        "course_reference_number": [
+            "20552"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Organization Behavior",
+                "instructors": [
+                    "Andrew Giger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Giger",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "307-DL",
+        "course_name": "Leadership Principles",
+        "course_reference_number": [
+            "20563"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Leadership Principles",
+                "instructors": [
+                    "Denise Eisenhauer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Denise Eisenhauer",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "311-DL",
+        "course_name": "Conflict Resolution",
+        "course_reference_number": [
+            "20556"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Conflict Resolution",
+                "instructors": [
+                    "Elizabeth Scott"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Elizabeth Scott",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "321-DL",
+        "course_name": "Employment Law",
+        "course_reference_number": [
+            "20555"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Employment Law",
+                "instructors": [
+                    "Jonathan Nall"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jonathan Nall",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "369-DL",
+        "course_name": "Entrepreneurship and Technology",
+        "course_reference_number": [
+            "20573"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Entrepreneurship and Technology",
+                "instructors": [
+                    "Tina Hrabak"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tina Hrabak",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

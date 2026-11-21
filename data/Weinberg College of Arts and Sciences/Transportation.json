@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "310-0",
+        "course_name": "Seminar in Transportation and Logistics",
+        "course_reference_number": [
+            "25762"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Seminar in Transportation and Logistics",
+                "instructors": [
+                    "Ian Savage"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ian Savage\n847/491-8241\nAndersen Hall, Room 330",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Advanced Expression"
+            }
+        ]
+    }
+]

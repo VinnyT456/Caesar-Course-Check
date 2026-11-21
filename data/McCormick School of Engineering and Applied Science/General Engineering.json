@@ -1,0 +1,553 @@
+[
+    {
+        "course_number": "150-0",
+        "course_name": "Programming for Engineers",
+        "course_reference_number": [
+            "26805"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Programming for Engineers",
+                "instructors": [
+                    "Connor Bain"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Connor Bain",
+                "Meeting Info": "Annenberg Hall G21: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisites: Students may not enroll in more than one attempt of or receive receive credit for one of the following courses: COMP_SCI 150, GEN_ENG 150, and GEN_ENG 151"
+            }
+        ]
+    },
+    {
+        "course_number": "205-4",
+        "course_name": "Engineering Analysis IV",
+        "course_reference_number": [
+            "26714",
+            "28711"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Engineering Analysis IV",
+                "instructors": [
+                    "Alex Alberts"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "02",
+                "course_name": "Engineering Analysis IV",
+                "instructors": [
+                    "Alex Alberts"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alex Alberts",
+                "Meeting Info": "Tech Institute Lecture Room 3: Mon, Tues, Wed, Thurs, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Alex Alberts",
+                "Meeting Info": "2122 Sheridan Rd Classroom 250: Mon, Tues, Wed, Thurs, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "211-0",
+        "course_name": "Engineering Physics - Statics",
+        "course_reference_number": [
+            "26809",
+            "26810",
+            "26811",
+            "26812"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Engineering Physics",
+                "instructors": [
+                    "Statics",
+                    "Yonggang Huang"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Engineering Physics",
+                "instructors": [
+                    "Statics",
+                    "Yonggang Huang"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "03",
+                "course_name": "Engineering Physics",
+                "instructors": [
+                    "Statics",
+                    "Arantzazu Alarcon-Fleming"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "04",
+                "course_name": "Engineering Physics",
+                "instructors": [
+                    "Statics",
+                    "Arantzazu Alarcon-Fleming"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yonggang Huang\n847/467-3165\nTechnological Institute, Rm A116, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Tues, Wed, Thurs, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 151-0 (Programming), MATH 220-1 or equivalent"
+            },
+            {
+                "Instructors": "Yonggang Huang\n847/467-3165\nTechnological Institute, Rm A116, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Tues, Wed, Thurs, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 151-0 (Programming), MATH 220-1 or equivalent"
+            },
+            {
+                "Instructors": "Arantzazu Alarcon-Fleming\n847/491-1392\nTech A220\nOffice Hours: By Appointment",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Tues, Wed, Thurs, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 151-0 (Programming), MATH 220-1 or equivalent"
+            },
+            {
+                "Instructors": "Arantzazu Alarcon-Fleming\n847/491-1392\nTech A220\nOffice Hours: By Appointment",
+                "Meeting Info": "Technological Institute MG51: Mon, Tues, Wed, Thurs, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 151-0 (Programming), MATH 220-1 or equivalent"
+            }
+        ]
+    },
+    {
+        "course_number": "220-1",
+        "course_name": "Analy/Comp Graph",
+        "course_reference_number": [
+            "26715"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Analy/Comp Graph",
+                "instructors": [
+                    "Kelsey Rydland",
+                    "James Conway III"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kelsey Rydland",
+                "Meeting Info": "Technological Institute MG47: Wed 6:30PM - 8:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "231-0",
+        "course_name": "Probability and Statistics for Engineers",
+        "course_reference_number": [
+            "26806",
+            "26807"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Probability and Statistics for Engineers",
+                "instructors": [
+                    "Bruce E Ankenman"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Probability and Statistics for Engineers",
+                "instructors": [
+                    "Bruce E Ankenman"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bruce E Ankenman",
+                "Meeting Info": "Pancoe Building Abbott Aud: Mon, Tues, Wed, Fri 9:00AM - 9:50AM\nLocation of Midterm TBD: Tues 6:00PM - 8:00PM\nLocation of Midterm TBD: Tues 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 151-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            },
+            {
+                "Instructors": "Bruce E Ankenman",
+                "Meeting Info": "Pancoe Building Abbott Aud: Mon, Tues, Wed, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Tues 6:00PM - 8:00PM\nLocation of Midterm TBD: Tues 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 151-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            }
+        ]
+    },
+    {
+        "course_number": "241-0",
+        "course_name": "Linear Algebra for Engineers",
+        "course_reference_number": [
+            "26800",
+            "26801",
+            "26802",
+            "26803",
+            "26804"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Linear Algebra for Engineers",
+                "instructors": [
+                    "Ilya Mikhelson"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Linear Algebra for Engineers",
+                "instructors": [
+                    "Michael Honig",
+                    "David Chopp"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "03",
+                "course_name": "Linear Algebra for Engineers",
+                "instructors": [
+                    "Michael Honig",
+                    "David Chopp"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "04",
+                "course_name": "Linear Algebra for Engineers",
+                "instructors": [
+                    "Niall Mangan"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "05",
+                "course_name": "Linear Algebra for Engineers",
+                "instructors": [
+                    "Niall Mangan"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ilya Mikhelson",
+                "Meeting Info": "Frances Searle Building 1441: Mon, Tues, Wed, Thurs, Fri 10:00AM - 10:50AM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 150-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            },
+            {
+                "Instructors": "Michael Honig",
+                "Meeting Info": "Frances Searle Building 1441: Mon, Tues, Wed, Thurs, Fri 11:00AM - 11:50AM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 150-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            },
+            {
+                "Instructors": "Michael Honig",
+                "Meeting Info": "Frances Searle Building 1441: Mon, Tues, Wed, Thurs, Fri 12:00PM - 12:50PM\nLocation of Midterm TBD: Wed 6:00PM - 7:00PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 150-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            },
+            {
+                "Instructors": "Niall Mangan",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Tues, Wed, Thurs, Fri 1:00PM - 1:50PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 150-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            },
+            {
+                "Instructors": "Niall Mangan",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon, Tues, Wed, Thurs, Fri 2:00PM - 2:50PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM\nLocation of Midterm TBD: Wed 6:00PM - 8:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: GEN_ENG 150-0, GEN_ENG 151-0, or COMP_SCI 150-0; MATH 220-2 or equivalent. You may not enroll in GEN_ENG 231-0 & GEN_ENG 241-0 during initial registration. Restriction will be removed after initial registration period if capacity allows."
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Continuous Registration",
+        "course_reference_number": [
+            "26726"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Continuous Registration",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "519-0",
+        "course_name": "Responsible Conduct for Research Training",
+        "course_reference_number": [
+            "26720",
+            "26721"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Responsible Conduct for Research Training",
+                "instructors": [
+                    "Deborah Klos"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "6:30PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Responsible Conduct for Research Training",
+                "instructors": [
+                    "Javier Aquino"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Deborah Klos",
+                "Meeting Info": "Technological Institute M177: Tues 4:30PM - 6:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Instructors": "Javier Aquino",
+                "Meeting Info": "Technological Institute M177: Wed 5:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "545-0",
+        "course_name": "Teaching Experience",
+        "course_reference_number": [
+            "26722"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching Experience",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "546-0",
+        "course_name": "Teaching Experience",
+        "course_reference_number": [
+            "26723"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Teaching Experience",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "547-0",
+        "course_name": "Off-site Research",
+        "course_reference_number": [
+            "28750"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Off-site Research",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

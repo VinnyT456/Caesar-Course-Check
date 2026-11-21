@@ -1,0 +1,59 @@
+[
+    {
+        "course_number": "448-0",
+        "course_name": "Applied AI for Business",
+        "course_reference_number": [
+            "28333"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied AI for Business",
+                "instructors": [],
+                "days": [
+                    "Tuesday",
+                    "Friday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Annenberg Hall G15: Tues, Fri 3:30PM - 5:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Topics in MBAi: Health Tech",
+        "course_reference_number": [
+            "28334"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Health Tech",
+                "instructors": [
+                    "Special Topics in MBAi: Health Tech",
+                    "Joshua DeAndria"
+                ],
+                "days": [
+                    "Monday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Health Tech",
+                "Instructors": "Joshua DeAndria",
+                "Meeting Info": "Kellogg Global Hub 2130: Mon, Thurs 3:30PM - 5:00PM\nKellogg Global Hub 2130: Mon, Thurs 3:30PM - 5:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

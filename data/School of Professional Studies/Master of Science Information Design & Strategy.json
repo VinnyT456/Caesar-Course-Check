@@ -1,0 +1,419 @@
+[
+    {
+        "course_number": "401-DL",
+        "course_name": "Models and Theories of User-Centered Design",
+        "course_reference_number": [
+            "20470"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Models and Theories of User-Centered Design",
+                "instructors": [
+                    "Lauren T Liss"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lauren T Liss",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: ids, 22mhi, 22mmi, 22IDS, 22IDC, 22ILD"
+            }
+        ]
+    },
+    {
+        "course_number": "405-DL",
+        "course_name": "User Research",
+        "course_reference_number": [
+            "20471"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "User Research",
+                "instructors": [
+                    "Michael Callero"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Callero",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22ILD"
+            }
+        ]
+    },
+    {
+        "course_number": "407-DL",
+        "course_name": "Information and Content Strategy",
+        "course_reference_number": [
+            "20472"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Information and Content Strategy",
+                "instructors": [
+                    "Kevin Budelmann"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kevin Budelmann",
+                "Meeting Info": "DISTANCE COURSE: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22SCC, 22ILD, 22ICS"
+            }
+        ]
+    },
+    {
+        "course_number": "409-DL",
+        "course_name": "Data Science, Management, and Business Strategy",
+        "course_reference_number": [
+            "20473"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Data Science, Management, and Business Strategy",
+                "instructors": [
+                    "Chris Rinere"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Chris Rinere",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC 22mhi, 22mmi, 22IDA"
+            }
+        ]
+    },
+    {
+        "course_number": "411-DL",
+        "course_name": "Information Design and Architecture",
+        "course_reference_number": [
+            "20474"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Information Design and Architecture",
+                "instructors": [
+                    "Matt Grossman"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matt Grossman",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22ILD"
+            }
+        ]
+    },
+    {
+        "course_number": "413-DL",
+        "course_name": "Visual Communication",
+        "course_reference_number": [
+            "20475"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Visual Communication",
+                "instructors": [
+                    "Kelly Cutler"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kelly Cutler",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22MAL, 22LSC, 22ILD"
+            }
+        ]
+    },
+    {
+        "course_number": "425-DL",
+        "course_name": "Learning Environment Design",
+        "course_reference_number": [
+            "20476"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Learning Environment Design",
+                "instructors": [
+                    "David Noffs"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Noffs",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22MAL, 22LSC, 22ILD"
+            }
+        ]
+    },
+    {
+        "course_number": "432-DL",
+        "course_name": "Storytelling and Technical Writing",
+        "course_reference_number": [
+            "20477"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Storytelling and Technical Writing",
+                "instructors": [
+                    "Ignatius Aloysius"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ignatius Aloysius",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22SCC, 22ILD, 22ICS"
+            }
+        ]
+    },
+    {
+        "course_number": "452-DL",
+        "course_name": "Intro to Data Collection and Analytics",
+        "course_reference_number": [
+            "20478"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Intro to Data Collection and Analytics",
+                "instructors": [
+                    "Russell Roberson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Russell Roberson",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC 22mhi, 22mmi, 22IDA"
+            }
+        ]
+    },
+    {
+        "course_number": "459-DL",
+        "course_name": "AI for Strategic Insight",
+        "course_reference_number": [
+            "20483"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "AI for Strategic Insight",
+                "instructors": [
+                    "Michael Dain"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Dain",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC 22mhi, 22mmi, 22IDA"
+            }
+        ]
+    },
+    {
+        "course_number": "464-DL",
+        "course_name": "Interface Design",
+        "course_reference_number": [
+            "20481"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Interface Design",
+                "instructors": [
+                    "Lauren T Liss"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lauren T Liss",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: MS_IDS 401 & 405"
+            }
+        ]
+    },
+    {
+        "course_number": "466-DL",
+        "course_name": "Design Systems and Operations",
+        "course_reference_number": [
+            "20482"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Design Systems and Operations",
+                "instructors": [
+                    "Alicia Warren Hossein"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alicia Warren Hossein",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: MS_IDS 401 & 405"
+            }
+        ]
+    },
+    {
+        "course_number": "481-DL",
+        "course_name": "Leadership and Business Strategy",
+        "course_reference_number": [
+            "20480"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Leadership and Business Strategy",
+                "instructors": [
+                    "Vanessa Lewin"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vanessa Lewin",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: 22IDS, 22IDC, 22ILD"
+            }
+        ]
+    },
+    {
+        "course_number": "498-DL",
+        "course_name": "Capstone Project",
+        "course_reference_number": [
+            "20479"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Capstone Project",
+                "instructors": [
+                    "Jessica Ashley"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jessica Ashley",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: IDS CAPSTONE"
+            }
+        ]
+    }
+]

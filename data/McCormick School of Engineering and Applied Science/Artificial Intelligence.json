@@ -1,0 +1,91 @@
+[
+    {
+        "course_number": "371-0",
+        "course_name": "Representation, Reasoning, and Language",
+        "course_reference_number": [
+            "23536"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Representation, Reasoning, and Language",
+                "instructors": [
+                    "Mohammed Alam"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mohammed Alam",
+                "Meeting Info": "Technological Institute M128: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Artificial Intelligence (MSAI)"
+            }
+        ]
+    },
+    {
+        "course_number": "431-0",
+        "course_name": "Frameworks for Artificial Intelligence",
+        "course_reference_number": [
+            "23535"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Frameworks for Artificial Intelligence",
+                "instructors": [
+                    "Kristian Hammond"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hammond",
+                "Meeting Info": "Technological Institute M164: Fri 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Artificial Intelligence (MSAI)"
+            }
+        ]
+    },
+    {
+        "course_number": "437-0",
+        "course_name": "Deep Learning",
+        "course_reference_number": [
+            "23537"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Deep Learning",
+                "instructors": [
+                    "David Demeter"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Demeter",
+                "Meeting Info": "Technological Institute M164: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment in this course is reserved for students in the Master of Science in Artificial Intelligence (MSAI)"
+            }
+        ]
+    }
+]

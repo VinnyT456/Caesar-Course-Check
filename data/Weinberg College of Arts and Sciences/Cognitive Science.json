@@ -1,0 +1,57 @@
+[
+    {
+        "course_number": "345-0",
+        "course_name": "Presenting Ideas & Data",
+        "course_reference_number": [
+            "27685"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Presenting Ideas & Data",
+                "instructors": [
+                    "Steven Franconeri"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Steven Franconeri\n847/467-1259\n2029 Sheridan Road\nOffice Hours: By Appointment",
+                "Meeting Info": "Lutkin Hall: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Advanced Expression\nSocial and Behavioral Science Foundational Discipl\nAttendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-2",
+        "course_name": "Senior Thesis Seminar",
+        "course_reference_number": [
+            "22415"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Thesis Seminar",
+                "instructors": [
+                    "Erin M Leddon"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erin M Leddon\n847/491-5778\n2001 Sheridan, Office 4188\nOffice Hours: By appt",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

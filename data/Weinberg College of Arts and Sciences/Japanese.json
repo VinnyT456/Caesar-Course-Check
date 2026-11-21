@@ -1,0 +1,241 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Japanese I",
+        "course_reference_number": [
+            "23656",
+            "23657",
+            "23658"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Japanese I",
+                "instructors": [
+                    "Yumi Shiojima"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Japanese I",
+                "instructors": [
+                    "Yumi Shiojima"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Japanese I",
+                "instructors": [
+                    "Yumi Shiojima"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yumi Shiojima\n8474912764\n1880 Campus Drive, Kresge Hall, Office 4-349\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Library 5322: Mon, Tues, Thurs, Fri 9:00AM - 9:50AM",
+                "Overview of class": "AY 26-27 Japanese I (JAPANESE 111-1, 2, and 3) is a yearlong course that covers the first half of college-level elementary Japanese. In Japanese I, students will build a solid foundation for Japanese language learning while developing the four skills of speaking, listening, reading, and writing. Students will also learn various aspects of Japanese culture and society through in-class activities and written assignments. Careful and thorough review and preparation for each class session are required.",
+                "Registration Requirements": "Except for JAPANESE 111-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "The year-end goal of Japanese I is to bring students' overall Japanese proficiency to the Intermediate-Low level defined by the American Council on Teaching of Foreign Languages (ACTFL) proficiency guidelines. Upon completing the course, students can greet, introduce themselves, describe their families and friends, describe their familiar places, and discuss their daily routines, experiences, and opinions.",
+                "Teaching Method": "This course is conducted mostly in Japanese, and class hours are spent mainly on oral proficiency development. Written assignments are given for reading and writing proficiency development.",
+                "Evaluation Method": "Class participation and performance; assignments; quizzes; oral, listening, and written examinations.",
+                "Class Materials (Required)": "Oka, M. et al. (2021). TOBIRA 1: Beginning Japanese. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-870-6.\n\nOka, M. et al. (2022). TOBIRA 1: Beginning Japanese Workbook 1 - Hiragana/Katakana, Kanji, Reading, Writing. Tokyo: Kuroshio Publishers. ISBN: 978-4-87424-910-9.\n\nOka, M. et al. (2023). TOBIRA 1: Beginning Japanese Workbook 2 - Vocabulary, Grammar, Listening. Tokyo: Kuroshio Publishers. ISBN: 978-4-87424-950-5",
+                "Class Materials (Suggested)": "Endo-Hudson, M. (1994). English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN: 0-934034-16-8; Makino, S. & Tsutsui M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times. ISBN 4-7890-0454-6; Kodansha. (2012). Kodansha's Essential Kanji Dictionary. Tokyo: Kodansha. ISBN: 978-1568363974.",
+                "Class Attributes": "Prerequisites apply, see description\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Yumi Shiojima\n8474912764\n1880 Campus Drive, Kresge Hall, Office 4-349\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Library 5322: Mon, Tues, Thurs, Fri 10:00AM - 10:50AM",
+                "Overview of class": "AY 26-27 Japanese I (JAPANESE 111-1, 2, and 3) is a yearlong course that covers the first half of college-level elementary Japanese. In Japanese I, students will build a solid foundation for Japanese language learning while developing the four skills of speaking, listening, reading, and writing. Students will also learn various aspects of Japanese culture and society through in-class activities and written assignments. Careful and thorough review and preparation for each class session are required.",
+                "Registration Requirements": "Except for JAPANESE 111-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "The year-end goal of Japanese I is to bring students' overall Japanese proficiency to the Intermediate-Low level defined by the American Council on Teaching of Foreign Languages (ACTFL) proficiency guidelines. Upon completing the course, students can greet, introduce themselves, describe their families and friends, describe their familiar places, and discuss their daily routines, experiences, and opinions.",
+                "Teaching Method": "This course is conducted mostly in Japanese, and class hours are spent mainly on oral proficiency development. Written assignments are given for reading and writing proficiency development.",
+                "Evaluation Method": "Class participation and performance; assignments; quizzes; oral, listening, and written examinations.",
+                "Class Materials (Required)": "Oka, M. et al. (2021). TOBIRA 1: Beginning Japanese. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-870-6.\n\nOka, M. et al. (2022). TOBIRA 1: Beginning Japanese Workbook 1 - Hiragana/Katakana, Kanji, Reading, Writing. Tokyo: Kuroshio Publishers. ISBN: 978-4-87424-910-9.\n\nOka, M. et al. (2023). TOBIRA 1: Beginning Japanese Workbook 2 - Vocabulary, Grammar, Listening. Tokyo: Kuroshio Publishers. ISBN: 978-4-87424-950-5",
+                "Class Materials (Suggested)": "Endo-Hudson, M. (1994). English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN: 0-934034-16-8; Makino, S. & Tsutsui M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times. ISBN 4-7890-0454-6; Kodansha. (2012). Kodansha's Essential Kanji Dictionary. Tokyo: Kodansha. ISBN: 978-1568363974.",
+                "Class Attributes": "Prerequisites apply, see description\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Yumi Shiojima\n8474912764\n1880 Campus Drive, Kresge Hall, Office 4-349\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Library 5322: Mon, Tues, Thurs, Fri 11:00AM - 11:50AM",
+                "Overview of class": "AY 26-27 Japanese I (JAPANESE 111-1, 2, and 3) is a yearlong course that covers the first half of college-level elementary Japanese. In Japanese I, students will build a solid foundation for Japanese language learning while developing the four skills of speaking, listening, reading, and writing. Students will also learn various aspects of Japanese culture and society through in-class activities and written assignments. Careful and thorough review and preparation for each class session are required.",
+                "Registration Requirements": "Except for JAPANESE 111-1, students must pass the preceding course with C- or above, or must be placed into the course by the departmental placement test.",
+                "Learning Objectives": "The year-end goal of Japanese I is to bring students' overall Japanese proficiency to the Intermediate-Low level defined by the American Council on Teaching of Foreign Languages (ACTFL) proficiency guidelines. Upon completing the course, students can greet, introduce themselves, describe their families and friends, describe their familiar places, and discuss their daily routines, experiences, and opinions.",
+                "Teaching Method": "This course is conducted mostly in Japanese, and class hours are spent mainly on oral proficiency development. Written assignments are given for reading and writing proficiency development.",
+                "Evaluation Method": "Class participation and performance; assignments; quizzes; oral, listening, and written examinations.",
+                "Class Materials (Required)": "Oka, M. et al. (2021). TOBIRA 1: Beginning Japanese. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-870-6.\n\nOka, M. et al. (2022). TOBIRA 1: Beginning Japanese Workbook 1 - Hiragana/Katakana, Kanji, Reading, Writing. Tokyo: Kuroshio Publishers. ISBN: 978-4-87424-910-9.\n\nOka, M. et al. (2023). TOBIRA 1: Beginning Japanese Workbook 2 - Vocabulary, Grammar, Listening. Tokyo: Kuroshio Publishers. ISBN: 978-4-87424-950-5",
+                "Class Materials (Suggested)": "Endo-Hudson, M. (1994). English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN: 0-934034-16-8; Makino, S. & Tsutsui M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times. ISBN 4-7890-0454-6; Kodansha. (2012). Kodansha's Essential Kanji Dictionary. Tokyo: Kodansha. ISBN: 978-1568363974.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 111-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 111-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Japanese II",
+        "course_reference_number": [
+            "23660",
+            "23661"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Japanese II",
+                "instructors": [
+                    "Noriko Taira Yasohama"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Japanese II",
+                "instructors": [
+                    "Noriko Taira Yasohama"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Noriko Taira Yasohama\n8474671986\n1880 Campus Drive, Kresge Hall, Office 4-552\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Hall 312: Mon, Tues, Thurs, Fri 12:00PM - 12:50PM",
+                "Overview of class": "AY 26-27 Japanese II (JAPANESE 121-1, 2 and 3) is a yearlong course that continues elementary Japanese following Japanese I (JAPANESE 111) and prepares students for intermediate Japanese (JAPANESE 211). Students further develop speaking, listening, reading, and writing skills while exploring aspects of Japanese culture and society through readings, written work, and in-class discussions.\n\nThe course emphasizes describing personal experiences, daily life, and social topics with increasing accuracy and sophistication. Students practice defining words and retelling a story they have heard or read while expanding vocabulary and grammatical structures. Consistent preparation and active participation are expected. Through ongoing oral and written feedback, students build linguistic accuracy and learner autonomy.",
+                "Registration Requirements": "Completion of the prerequisite course with a grade of C- or above, or placement by departmental test.",
+                "Learning Objectives": "By the end of the course, students aim to reach ACTFL Intermediate-Mid level (CEFR A2-B1.1). Students will be able to handle a range of everyday conversational situations and comprehend moderately complex texts with some fluency.",
+                "Teaching Method": "Classes are conducted primarily in Japanese and focus on interpersonal communication. Students are expected to read grammar explanation in the textbook, watch a corresponding video clip, practice required vocabulary and complete an assignment as class preparation. Reading, listening and writing skills are developed through assignments completed outside of class.",
+                "Evaluation Method": "Class engagement, oral and written examinations, essays/reports and a short presentation.",
+                "Class Materials (Required)": "Oka, M. et al. (2022). TOBIRA II: Beginning Japanese. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-900-0.\n\nOka, M. et al. (2023). TOBIRA II: Beginning Japanese Workbook 1: Kanji|Reading|Writing. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-960-4\n\nOka, M. et al. (2024) TOBIRA II: Beginning Japanese Workbook 2\n-Vocabulary, Grammar, Listening. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-9819",
+                "Class Materials (Suggested)": "Hudson, M. E. (1994) English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN 978-0934034166.",
+                "Class Attributes": "Prerequisites apply, see description\nSpecific requirements in the language",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Noriko Taira Yasohama\n8474671986\n1880 Campus Drive, Kresge Hall, Office 4-552\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Hall 312: Mon, Tues, Thurs, Fri 1:00PM - 1:50PM",
+                "Overview of class": "AY 26-27 Japanese II (JAPANESE 121-1, 2 and 3) is a yearlong course that continues elementary Japanese following Japanese I (JAPANESE 111) and prepares students for intermediate Japanese (JAPANESE 211). Students further develop speaking, listening, reading, and writing skills while exploring aspects of Japanese culture and society through readings, written work, and in-class discussions.\n\nThe course emphasizes describing personal experiences, daily life, and social topics with increasing accuracy and sophistication. Students practice defining words and retelling a story they have heard or read while expanding vocabulary and grammatical structures. Consistent preparation and active participation are expected. Through ongoing oral and written feedback, students build linguistic accuracy and learner autonomy.",
+                "Registration Requirements": "Completion of the prerequisite course with a grade of C- or above, or placement by departmental test.",
+                "Learning Objectives": "By the end of the course, students aim to reach ACTFL Intermediate-Mid level (CEFR A2-B1.1). Students will be able to handle a range of everyday conversational situations and comprehend moderately complex texts with some fluency.",
+                "Teaching Method": "Classes are conducted primarily in Japanese and focus on interpersonal communication. Students are expected to read grammar explanation in the textbook, watch a corresponding video clip, practice required vocabulary and complete an assignment as class preparation. Reading, listening and writing skills are developed through assignments completed outside of class.",
+                "Evaluation Method": "Class engagement, oral and written examinations, essays/reports and a short presentation.",
+                "Class Materials (Required)": "Oka, M. et al. (2022). TOBIRA II: Beginning Japanese. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-900-0.\n\nOka, M. et al. (2023). TOBIRA II: Beginning Japanese Workbook 1: Kanji|Reading|Writing. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-960-4\n\nOka, M. et al. (2024) TOBIRA II: Beginning Japanese Workbook 2\n-Vocabulary, Grammar, Listening. Tokyo: Kuroshio Publishers. ISBN 978-4-87424-9819",
+                "Class Materials (Suggested)": "Hudson, M. E. (1994) English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN 978-0934034166.",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 121-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 121-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "211-2",
+        "course_name": "Japanese III",
+        "course_reference_number": [
+            "23670"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Japanese III",
+                "instructors": [
+                    "Junko Sato"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Junko Sato\n8474912762\n1880 Campus Drive, Kresge Hall, Office 4-347\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Library 3370: Mon, Wed, Fri 2:00PM - 3:15PM",
+                "Overview of class": "AY 26-27 Japanese III (JAPANESE 211-1, 2, 3) is a year-long, college-level intermediate course and the sequel to Japanese II (JAPANESE 121-1, 2, 3). In Japanese III, students will continue developing the four skills -- speaking, listening, reading, and writing - while exploring various aspects of Japanese culture and society through reading materials, TV dramas, class discussions and interview projects. Formal writing styles are introduced, and students will learn to distinguish between formal and casual speech and writing styles. The year-end proficiency goal for 211 is Intermediate-High, as defined by the American Council on Teaching of Foreign Languages (ACTFL) proficiency guidelines.",
+                "Registration Requirements": "Students must have completed the preceding course with C- or above, or must be placed into the course through the departmental placement test.",
+                "Learning Objectives": "Upon successful completion of the year-long course, the students will be able to:\n\n1) Handle daily situations comfortably and appropriately,\n\n2) Describe and narrate daily events and personal experiences in an organized manner,\n\n3) Summarize the main points of short presentations or stories,\n\n4) Utilize casual and formal styles in both speech and writing,\n\n5) Attain a working knowledge of kanji frequently used in the media,\n\n6) Communicate with native speakers on familiar topics in informal settings,\n\n7) Deepen their understanding of customs, culture, and social phenomena of contemporary Japan, and\n\n8) Learn strategies to become autonomous learners.",
+                "Teaching Method": "Discussion. This course is conducted in Japanese.",
+                "Evaluation Method": "Class participation and performance, assignments, quizzes, oral and written examinations, projects.",
+                "Class Materials (Required)": "JAPANESE 211-1\nOka, M. et al. (2025). Tobira 1: Intermediate Japanese. Tokyo: Kuroshio Publishers. ISBN: 978-4-8011-1018-2\n\nJAPANESE 211-2\nOka, M. et al. (2025). Tobira 1: Intermediate Japanese. Tokyo: Kuroshio Publishers. ISBN: 978-4-8011-1018-2\n\nOka, M. et al. (2026). Tobira 2: Intermediate Japanese. Tokyo: Kuroshio Publishers. To be published in September 2026.\n\nJAPANESE 211-3\nOka, M. et al. (2026). Tobira 2: Intermediate Japanese. Tokyo: Kuroshio Publishers. To be published in September 2026.",
+                "Class Materials (Suggested)": "Kano et al (2015). [新版] Basic Kanji Book Vol. 2. Tokyo: Bonjinsha. ISBN: 978-4-89358-883-8",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 211-1 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 211-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "312-1",
+        "course_name": "Japanese IV: Contemporary Japanese Literary Works for Reading & Discussion",
+        "course_reference_number": [
+            "23671"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Japanese IV: Contemporary Japanese Literary Works for Reading & Discussion",
+                "instructors": [
+                    "Junko Sato"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Junko Sato\n8474912762\n1880 Campus Drive, Kresge Hall, Office 4-347\nOffice Hours: Varies quarter to quarter, please check with instructor.",
+                "Meeting Info": "University Hall 218: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "AY 26-27 In this course, students will enhance their language skills by exploring and discussing Japanese literary materials. While literature courses in Japanese studies often emphasize historical contexts and specific analytical frameworks for the texts, this course focuses on students' own engagement with and linguistic analysis of written works. The course materials will include poems, essays, manga, short stories, and novels. Supplementary movies may also be provided depending on availability.",
+                "Registration Requirements": "Students must have completed JAPANESE 211-3 with C- or above, or must be placed into the class through the departmental placement test.",
+                "Learning Objectives": "1) Enhance language proficiency in reading and speaking to the Advanced-Low, as defined by the ACTFL Proficiency Guidelines,\n\n2) Explore various literary genres to identify their stylistic elements and themes,\n\n3) Develop critical thinking skills by analyzing texts from multiple perspectives, and\n\n4) Become an autonomous learner by examining strategies to achieve proficiency independently.",
+                "Teaching Method": "Discussion. This course is conducted in Japanese.",
+                "Evaluation Method": "Class participation and performance, assignments, projects, oral and written exams.",
+                "Class Materials (Required)": "All materials will be provided via Canvas.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed Japanese 211-3 with at least a C- or be placed in according to placement test results. Prerequisite: Students must have passed Japanese 211-3 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    }
+]

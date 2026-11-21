@@ -1,0 +1,369 @@
+[
+    {
+        "course_number": "225-0",
+        "course_name": "Principles of Entrepreneurship",
+        "course_reference_number": [
+            "22898",
+            "22899",
+            "22900"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Principles of Entrepreneurship",
+                "instructors": [
+                    "Nick Robertson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Principles of Entrepreneurship",
+                "instructors": [
+                    "Kate Malone Jackson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Principles of Entrepreneurship",
+                "instructors": [
+                    "Emily Baum"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nick Robertson",
+                "Meeting Info": "Garage Workspace Classroom 1: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "This survey-style course serves as the foundational course for the Farley undergraduate minor in entrepreneurship. It is also a good choice for students who simply wish to familiarize themselves with the world of entrepreneurship. Students will learn to think like entrepreneurs, and will be introduced to key topics relevant to entrepreneurship, including customer discovery, finance, and marketing. They will also learn how to understand and analyze a broad range of entrepreneurial activity, and will have the opportunity to locate their own goals and values within the field of entrepreneurship.",
+                "Registration Requirements": "No Prerequisites",
+                "Class Materials (Required)": "1. Disciplined Entrepreneurship: 24 Steps to a Successful Startup by Bill Aulet, ISBN: 978-1-118-69228-8, free with student account you create at OReilly.com https://learning.oreilly.com/library/view/disciplined-entrepreneurship- 2nd/9781394222513/\n-----\n2. Value Proposition Design: How to Create Products and Services Customers Want by Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos, ISBN: 978-1-118-96805-5, free with student account you create at OReilly.com https://learning.oreilly.com/library/view/value-proposition- design/9781118968062/cover.xhtml\n-----\n3. Founded: The No B.S. Guide for Student Entrepreneurs by Melissa Kaufman and Mike Raab, ISBN: 978-1639090075, between $9.99 and $16 depending on format (paperback or e-book)",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Students cannot register if they have already completed IEMS 225-0."
+            },
+            {
+                "Instructors": "Kate Malone Jackson",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This survey-style course serves as the foundational course for the Farley undergraduate minor in entrepreneurship. It is also a good choice for students who simply wish to familiarize themselves with the world of entrepreneurship. Students will learn to think like entrepreneurs, and will be introduced to key topics relevant to entrepreneurship, including customer discovery, finance, and marketing. They will also learn how to understand and analyze a broad range of entrepreneurial activity, and will have the opportunity to locate their own goals and values within the field of entrepreneurship.",
+                "Registration Requirements": "No Prerequisites",
+                "Class Materials (Required)": "1. Daring Greatly by Brene Brown\nISBN: 9781592408412\nISBN: 9781101594995\n-----\n2. Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull and Amy Wallace\nISBN: 9780593594643\nISBN: 9780679644507",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Students cannot register if they have already completed IEMS 225-0."
+            },
+            {
+                "Instructors": "Emily Baum",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This survey-style course serves as the foundational course for the Farley undergraduate minor in entrepreneurship. It is also a good choice for students who simply wish to familiarize themselves with the world of entrepreneurship. Students will learn to think like entrepreneurs, and will be introduced to key topics relevant to entrepreneurship, including customer discovery, finance, and marketing. They will also learn how to understand and analyze a broad range of entrepreneurial activity, and will have the opportunity to locate their own goals and values within the field of entrepreneurship.",
+                "Registration Requirements": "No Prerequisites",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Antirequisite: Students cannot register if they have already completed IEMS 225-0."
+            }
+        ]
+    },
+    {
+        "course_number": "331-0",
+        "course_name": "Entrepreneurial Sales and Marketing",
+        "course_reference_number": [
+            "24750"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Entrepreneurial Sales and Marketing",
+                "instructors": [
+                    "Nick Robertson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nick Robertson",
+                "Meeting Info": "Garage Workspace Classroom 1: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This course meets a core requirement for the Farley undergraduate minor in entrepreneurship. The goal of the course is to teach students about the tools and strategies that startups use to generate revenue. It covers a broad range of topics related to sales and marketing including branding, positioning, lead generation, direct selling, social media, content marketing, influencer marketing, SEO, paid search, email marketing and other current trends. The class is a mixture of lecture, breakout groups and guest speakers.",
+                "Registration Requirements": "No requirements",
+                "Class Materials (Required)": "A Harvard Business Review reading packet includes three required articles. Some articles may be available to you at no cost each month; all three must be read before class.\n\nIt costs $13.80 and can be found at https://hbsp.harvard.edu/import/1471725. It contains: Know Your Customers' \"Jobs to Be Done\" Product Number: R1609D-PDF-ENG; The Most Successful Brands Focus on Users - Not Buyers Product Number: H045EC-PDF-ENG; Storytelling That Moves People Product Number: R0306B-PDF-ENG",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Leadership, Ethics, and You",
+        "course_reference_number": [
+            "24751"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Leadership, Ethics, and You",
+                "instructors": [
+                    "Eduardo Acuna"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eduardo Acuna",
+                "Meeting Info": "Ford ITW Auditorium 1350: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This class is designed for students who want to explore how ethics and integrity are tied to leadership, and how developing leadership skills can contribute to students' future successes in both entrepreneurial endeavors and more traditional careers.",
+                "Class Materials (Required)": "Harvard Business Packet: Approx $40",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "24747",
+            "24748",
+            "24749"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Leading Innovative Teams",
+                "instructors": [
+                    "Special Topics",
+                    "Mary Song"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Strategies for Financing New Ventures",
+                "instructors": [
+                    "Special Topics",
+                    "Rebecca Sholiton"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Frontlines of Food: The Innovations Reshaping the",
+                "instructors": [
+                    "Special Topics",
+                    "Hayes Ferguson",
+                    "Tran Ha"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Leading Innovative Teams",
+                "Instructors": "Mary Song",
+                "Meeting Info": "Ford ITW Auditorium 1350: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "The process of innovation - developing a new idea, creating a novel product, and scaling production - cannot be accomplished single-handedly. Rather, innovation requires a collaborative team and a leader who can build an organization that is willing and able to share knowledge, resolve differences, and learn together.\n\nThis course is designed for undergraduates who want to understand transformational leadership and the unique role that leaders play in nurturing teams to problem-solve, collaborate, and continuously innovate.\n\nWe will examine leadership and the impact of leadership styles on team effectiveness, drawing from theories and case studies, as well as our personal experiences. We will explore organizational culture, motivation, conflict management, and communication. Finally, we will develop our own approaches to leadership as we tackle innovation work - whether in the classroom as students or in the industry as future entrepreneurs and executives.",
+                "Class Materials (Required)": "All class materials will be available on Canvas at NO cost to the student",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Strategies for Financing New Ventures",
+                "Instructors": "Rebecca Sholiton",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "This survey-style course introduces students to some of the most common ways that entrepreneurs secure funding for new ventures. Students will be exposed to a variety of funding strategies and approaches, including venture capital, crowdfunding, and bootstrapping.",
+                "Class Materials (Required)": "TBD",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Frontlines of Food: The Innovations Reshaping the",
+                "Instructors": "Hayes Ferguson",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Food innovation is reshaping how we eat, from breakthrough products and technologies to new business models, dining experiences, and creative responses to food system challenges. In this course, students will learn to read emerging trends, identify entrepreneurial opportunities, and build their own perspective on what matters most in today's food landscape. Throughout the quarter, guest speakers will discuss the problems they're tackling, the innovations they're building, and the opportunities they see on the horizon.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "470-1",
+        "course_name": "NUvention: Medical Innovation",
+        "course_reference_number": [
+            "24752"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "NUvention: Medical Innovation",
+                "instructors": [
+                    "Lillian Zakarija",
+                    "Eduardo Acuna"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lillian Zakarija",
+                "Meeting Info": "Kellogg Global Hub L120: Wed 6:00PM - 9:00PM",
+                "Overview of class": "NUvention: Medical is designed to expose students to the holistic process of developing and commercializing new medical technologies through the lens of a startup. A partnership between four Northwestern schools, this class brings together students in interdisciplinary teams to simulate the ways in which medical innovations evolve from clinical needs and become viable ventures. Students engage with challenges tied to product development, intellectual property, industry regulations, and business modeling as they learn what it means to be entrepreneurial in the medical technology space. This course spans two quarters, fall 2023 and winter 2024, and satisfies the experiential course requirement for undergraduate and graduate students in the entrepreneurship minor program.",
+                "Registration Requirements": "An application is required for this class.\nhttps://docs.google.com/forms/d/e/1FAIpQLSd08Q07q1eXbmkXu7D7756cqHd8xejQ_nKrpPGYTy9ZWqyUuw/viewform",
+                "Class Materials (Required)": "No class materials required",
+                "Class Attributes": "Registration is By Application Only"
+            }
+        ]
+    },
+    {
+        "course_number": "473-1",
+        "course_name": "NUvention: Media",
+        "course_reference_number": [
+            "24744"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "NUvention: Media",
+                "instructors": [
+                    "Lawrence Birnbaum",
+                    "Jeremy Gilbert"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lawrence Birnbaum",
+                "Meeting Info": "Fisk Hall 111: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "NUvention: Media & AI brings together students from across Northwestern schools to explore how artificial intelligence and computational technologies will shape the future of media, and who want to learn a process for creating new, AI-powered ventures in the news and media space. Student teams will use human-centered design methods to identify an opportunity gap, design interaction and presentation models, build functioning prototypes that fulfill those needs, and develop a compelling pitch and business plan to launch and sustain their product/service. Along the way, students will learn an innovation and venture development process. Students will interact with industry veterans and domain experts who inspire and guide the student team as they pursue their projects.",
+                "Class Materials (Required)": "No required materials"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Product Management",
+        "course_reference_number": [
+            "26518"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Product Management",
+                "instructors": [
+                    "Aneta Gola"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aneta Gola",
+                "Meeting Info": "Garage Workspace Classroom 1: Mon 6:00PM - 8:50PM",
+                "Overview of class": "This course aims to enable students' entrepreneurial success while challenging them to build the best product they can possibly build by using key insights from entrepreneurs and product managers at successful companies. The course focuses on customer problems, customer research, simple MVP tests, market requirements, product requirements, and product vision decks. By the end of the quarter, students will be well-versed in the fundamentals of product management.",
+                "Class Materials (Required)": "All class materials will be available on Canvas at some cost to the student (approx $20)"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "24745",
+            "24746"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Frontlines of Food: The Innovations Reshaping the",
+                "instructors": [
+                    "Special Topics",
+                    "Hayes Ferguson",
+                    "Tran Ha"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "NUvention: Biotechnology",
+                "instructors": [
+                    "Special Topics",
+                    "Mark Werwath",
+                    "Danielle Tullman-Ercek"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Frontlines of Food: The Innovations Reshaping the",
+                "Instructors": "Hayes Ferguson",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Food innovation is reshaping how we eat, from breakthrough products and technologies to new business models, dining experiences, and creative responses to food system challenges. In this course, students will learn to read emerging trends, identify entrepreneurial opportunities, and build their own perspective on what matters most in today's food landscape. Throughout the quarter, guest speakers will discuss the problems they're tackling, the innovations they're building, and the opportunities they see on the horizon.",
+                "Registration Requirements": "No requirements"
+            },
+            {
+                "Topic": "NUvention: Biotechnology",
+                "Instructors": "Mark Werwath",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues 5:00PM - 7:50PM",
+                "Overview of class": "NUvention: Biotechnology responds to the growing demand for innovation in biotechnology by bringing together interdisciplinary student teams from across Northwestern to develop ventures that harness biology to address societal challenges. Focusing on applications in areas including food, agriculture, sustainable materials, energy, consumer products, industrial biotechnology, and diagnostics, students will identify market opportunities, evaluate commercialization pathways, and build new ventures around biotechnology-enabled solutions. The course focuses on biotechnology ventures outside the pharmaceutical and therapeutic sectors and does not cover products requiring FDA drug approval. Developed in partnership with Northwestern's Center for Synthetic Biology, the course introduces students to the unique opportunities and challenges of bringing biotechnology innovations to market.",
+                "Registration Requirements": "An application is required for this class.\nhttps://docs.google.com/forms/d/e/1FAIpQLSeZAYrJwVCu8V5-14Lq_dAPQzXvKEy4y_bENDp9K7S1uqKv6Q/viewform",
+                "Class Attributes": "Registration is By Application Only"
+            }
+        ]
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "course_number": "225-0",
+        "course_name": "Principles of Entrepreneurship",
+        "course_reference_number": [
+            "22895",
+            "22896",
+            "22897"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Principles of Entrepreneurship",
+                "instructors": [
+                    "Nick Robertson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Principles of Entrepreneurship",
+                "instructors": [
+                    "Kate Malone Jackson"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "03",
+                "course_name": "Principles of Entrepreneurship",
+                "instructors": [
+                    "Emily Baum"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nick Robertson",
+                "Meeting Info": "Garage Workspace Classroom 1: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted: Students cannot take ENTREP/IEMS 325-0 prior to taking this course. Please contact the department with any further questions."
+            },
+            {
+                "Instructors": "Kate Malone Jackson",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted: Students cannot take ENTREP/IEMS 325-0 prior to taking this course. Please contact the department with any further questions."
+            },
+            {
+                "Instructors": "Emily Baum",
+                "Meeting Info": "Ford ITW Auditorium 1350: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted: Students cannot take ENTREP/IEMS 325-0 prior to taking this course. Please contact the department with any further questions."
+            }
+        ]
+    },
+    {
+        "course_number": "294-0",
+        "course_name": "Professional Practice Studio",
+        "course_reference_number": [
+            "22908"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Professional Practice Studio",
+                "instructors": [
+                    "Michael Watson",
+                    "Janice Mejia"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Watson",
+                "Meeting Info": "Frances Searle Building 2370: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: DSGN 106-1, DSGN 106-2, sophomore standing. Antirequisite: IEMS 394-0."
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Introduction to Statistical Learning",
+        "course_reference_number": [
+            "22907"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Statistical Learning",
+                "instructors": [
+                    "Narjes Sadeghiamirshahidi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Narjes Sadeghiamirshahidi",
+                "Meeting Info": "Technological Institute M152: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "302-0",
+        "course_name": "Probability",
+        "course_reference_number": [
+            "22797",
+            "22798"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Probability",
+                "instructors": [
+                    "Jill Wilson"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Probability",
+                "instructors": [
+                    "Jill Wilson"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jill Wilson",
+                "Meeting Info": "Technological Institute C135: Thurs 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: prior completion of or concurrent enrollment in MATH 228-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Jill Wilson",
+                "Meeting Info": "Technological Institute C135: Thurs 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: prior completion of or concurrent enrollment in MATH 228-2. Add both classes to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "303-0",
+        "course_name": "Engineering Statistics",
+        "course_reference_number": [
+            "22800",
+            "22801",
+            "22802"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Engineering Statistics",
+                "instructors": [
+                    "Barry Nelson"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Engineering Statistics",
+                "instructors": [
+                    "Barry Nelson"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "23",
+                "course_name": "Engineering Statistics",
+                "instructors": [
+                    "Barry Nelson"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Barry Nelson",
+                "Meeting Info": "Technological Institute C135: Wed 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150-0, GEN_ENG 150-0, or GEN_ENG 151-0; IEMS 302-0; GEN_ENG 205-1, GEN_ENG 206-1, MATH 240-0 or GEN_ENG 241-0.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Barry Nelson",
+                "Meeting Info": "Technological Institute C135: Wed 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150-0, GEN_ENG 150-0, or GEN_ENG 151-0; IEMS 302-0; GEN_ENG 205-1, GEN_ENG 206-1, MATH 240-0 or GEN_ENG 241-0."
+            },
+            {
+                "Instructors": "Barry Nelson",
+                "Meeting Info": "Technological Institute C135: Wed 5:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150-0, GEN_ENG 150-0, or GEN_ENG 151-0; IEMS 302-0; GEN_ENG 205-1, GEN_ENG 206-1, MATH 240-0 or GEN_ENG 241-0."
+            }
+        ]
+    },
+    {
+        "course_number": "304-0",
+        "course_name": "Statistical Learning for Data Analysis",
+        "course_reference_number": [
+            "22804",
+            "22805"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Statistical Learning for Data Analysis",
+                "instructors": [
+                    "Daniel Apley"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Statistical Learning for Data Analysis",
+                "instructors": [
+                    "Daniel Apley"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Apley",
+                "Meeting Info": "Technological Institute C135: Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Daniel Apley",
+                "Meeting Info": "Technological Institute C135: Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "313-0",
+        "course_name": "Linear Optimization for Decision Making",
+        "course_reference_number": [
+            "22807",
+            "22808"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Linear Optimization for Decision Making",
+                "instructors": [
+                    "David Morton"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Linear Optimization for Decision Making",
+                "instructors": [
+                    "David Morton"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Morton",
+                "Meeting Info": "Technological Institute C135: Mon 3:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 110-0, COMP_SCI 111-0, COMP_SCI 150-0, GEN_ENG 150-0, or GEN_ENG 151-0, GEN_ENG 205-1, GEN_ENG 206-1, MATH 240-0 or GEN_ENG 241-0; MATH 228-1."
+            },
+            {
+                "Instructors": "David Morton",
+                "Meeting Info": "Technological Institute C135: Mon 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 110-0, COMP_SCI 111-0, COMP_SCI 150-0, GEN_ENG 150-0, or GEN_ENG 151-0, GEN_ENG 205-1, GEN_ENG 206-1, MATH 240-0 or GEN_ENG 241-0; MATH 228-1."
+            }
+        ]
+    },
+    {
+        "course_number": "317-0",
+        "course_name": "Discrete Event Systems Simulation",
+        "course_reference_number": [
+            "22812",
+            "22813"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Discrete Event Systems Simulation",
+                "instructors": [
+                    "Chang-Han Rhee"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Discrete Event Systems Simulation",
+                "instructors": [
+                    "Chang-Han Rhee"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Chang-Han Rhee",
+                "Meeting Info": "Technological Institute C135: Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: IEMS 303-0; IEMS 315-0.\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Chang-Han Rhee",
+                "Meeting Info": "Technological Institute C135: Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: IEMS 303-0; IEMS 315-0."
+            }
+        ]
+    },
+    {
+        "course_number": "342-0",
+        "course_name": "Organizational Behavior",
+        "course_reference_number": [
+            "22809"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Organizational Behavior",
+                "instructors": [
+                    "Janice Mejia"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Janice Mejia",
+                "Meeting Info": "Technological Institute M152: Wed 5:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "345-0",
+        "course_name": "Negotiations and Conflict Resolution for Engineers",
+        "course_reference_number": [
+            "22894"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Negotiations and Conflict Resolution for Engineers",
+                "instructors": [
+                    "James Rekoske"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Rekoske",
+                "Meeting Info": "Technological Institute M152: Thurs 5:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "352-0",
+        "course_name": "Foundations of Generative AI & Reasoning Systems",
+        "course_reference_number": [
+            "22903"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Foundations of Generative AI & Reasoning Systems",
+                "instructors": [
+                    "Diego Klabjan"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Diego Klabjan",
+                "Meeting Info": "Technological Institute L221: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: IEMS 304-0 and COMP_SCI 217-0. Anti-requisite: Students may not enroll if they have previous credit in IEMS 352-0 or prior 308-0 Data Science and Analytics."
+            }
+        ]
+    },
+    {
+        "course_number": "365-0",
+        "course_name": "Analytics for Social Good",
+        "course_reference_number": [
+            "22902"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Analytics for Social Good",
+                "instructors": [
+                    "Sean Sinclair"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sean Sinclair",
+                "Meeting Info": "Technological Institute C135: Wed 4:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: COMP_SCI 150-0, GEN_ENG 150-0, or GEN_ENG 151-0; IEMS 201-0, IEMS 303-0 or GEN_ENG 231-0; One of IEMS 313-0, IEMS 310-0, CIV_ENV 304-0, MATH 368-0 or COMP_SCI 336-0 (with instructor approval)."
+            }
+        ]
+    },
+    {
+        "course_number": "382-0",
+        "course_name": "Operations Engineering and Management",
+        "course_reference_number": [
+            "22810"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Operations Engineering and Management",
+                "instructors": [
+                    "Seyed MR Iravani"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Seyed MR Iravani",
+                "Meeting Info": "Annenberg Hall G15: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: IEMS 201-0, IEMS 303-0, or GEN_ENG 231-0; IEMS 310-0 or IEMS 313-0."
+            }
+        ]
+    },
+    {
+        "course_number": "402-0",
+        "course_name": "Statistical Learning",
+        "course_reference_number": [
+            "22904"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Statistical Learning",
+                "instructors": [
+                    "Daniel Apley"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Apley",
+                "Meeting Info": "Technological Institute M228: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "446-0",
+        "course_name": "Game Theory and Networked Systems",
+        "course_reference_number": [
+            "22905"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Game Theory and Networked Systems",
+                "instructors": [
+                    "Dashun Wang"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dashun Wang",
+                "Meeting Info": "Technological Institute M228: Mon 3:30PM - 6:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "450-2",
+        "course_name": "Mathematical Optimization II",
+        "course_reference_number": [
+            "22841"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Mathematical Optimization II",
+                "instructors": [
+                    "Zikai Xiong"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Zikai Xiong",
+                "Meeting Info": "Technological Institute M228: Tues, Thurs 9:30AM - 10:20AM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "460-1",
+        "course_name": "Stochastic Processes I",
+        "course_reference_number": [
+            "22842"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Stochastic Processes I",
+                "instructors": [
+                    "Izzy Grosof"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Izzy Grosof",
+                "Meeting Info": "Technological Institute M228: Mon, Wed 11:00AM - 12:20PM\nTechnological Institute L150: Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Selected Topics in IE",
+        "course_reference_number": [
+            "22843"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "AI in Manufacturing: Data Analytics",
+                "instructors": [
+                    "Selected Topics in IE",
+                    "Naichen Shi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "AI in Manufacturing: Data Analytics",
+                "Instructors": "Naichen Shi",
+                "Meeting Info": "Technological Institute L211: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Prerequisites apply, see description",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    }
+]

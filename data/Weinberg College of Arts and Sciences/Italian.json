@@ -1,0 +1,349 @@
+[
+    {
+        "course_number": "101-1",
+        "course_name": "Elementary Italian",
+        "course_reference_number": [
+            "24781"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Elementary Italian",
+                "instructors": [
+                    "Paola Morgavi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paola Morgavi\n847/491-8265\n1860 S. Campus Drive, Crowe Hall #2-143",
+                "Meeting Info": "Kresge Centennial Hall 2-325: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "A beginning course in Italian language and culture, Elementary Italian is devoted to developing all four language skills (speaking, listening, reading, and writing) within the three modes of communication (interpersonal, interpretive, presentational). While studying the language, students will be introduced to Italy and its people and they will gain both language and cultural competence. At the end of full-year Italian 101 sequence, students will be able to handle successfully a few uncomplicated communicative tasks, participate in simple conversations on topics related to personal information, personal preferences, daily activities, and immediate needs. This course is the first in a three-part sequence for beginning students of Italian. Classes are conducted entirely in Italian and are very lively, with lots of give-and-take among participants. Students with some experience in Italian may take the online placement test to place out of any or all of the first-year sequence. Please note that Tuesdays classes meet asynchronously.",
+                "Registration Requirements": "None",
+                "Learning Objectives": "1st quarter of Elementary Italian course sequence.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Evaluation Method": "Quizzes, writing and oral assignments, listening & reading comprehension assignments, final exam.",
+                "Class Materials (Required)": "New Italian Espresso Textbook, beginner & pre-intermediate, Alma Edizioni, Ean: 9788861827240; New Italian Espresso Workbook, beginner & pre-intermediate, Alma Edizioni, Ean: 9788861827301 e-book",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "101-2",
+        "course_name": "Elementary Italian",
+        "course_reference_number": [
+            "24782",
+            "24783",
+            "24784"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Elementary Italian",
+                "instructors": [
+                    "Daniela Pozzi Pavan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Elementary Italian",
+                "instructors": [
+                    "Daniele Biffanti"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Elementary Italian",
+                "instructors": [
+                    "Daniele Biffanti"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniela Pozzi Pavan\n847/467-1448\n1860 S. Campus Drive, Crowe Hall #2-145",
+                "Meeting Info": "Locy Hall 314: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "A beginning course in Italian language and culture, Elementary Italian is devoted to developing all four language skills (speaking, listening, reading, and writing) within the three modes of communication (interpersonal, interpretive, presentational). While studying the language, students will be introduced to Italy and its people and they will gain both language and cultural competence. At the end of full-year Italian 101 sequence, students will be able to handle successfully a few uncomplicated communicative tasks, participate in simple conversations on topics related to personal information, personal preferences, daily activities, and immediate needs. This course is the second in a three-part sequence for beginning students of Italian. Classes are conducted entirely in Italian and are very lively, with lots of give-and-take among participants. Students with some experience in Italian may take the online placement test to place out of any or all of the first-year sequence. Please note that Tuesdays classes meet asynchronously.",
+                "Registration Requirements": "Completion of Italian 101-1 or equivalent proficiency as demonstrated by online placement exam & oral interview.",
+                "Learning Objectives": "Second quarter of Elementary Italian course sequence.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Evaluation Method": "Quizzes, writing and oral assignments, listening & reading comprehension assignments, final exam.",
+                "Class Materials (Required)": "New Italian Espresso Textbook, beginner & pre-intermediate, updated edition, Alma Edizioni, ISBN 9788861827240 New Italian Espresso Workbook, beginner & pre-intermediate, Updated edition, Alma Edizioni, Digital ISBN: 9788861827301",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Daniele Biffanti",
+                "Meeting Info": "Locy Hall 305: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "A beginning course in Italian language and culture, Elementary Italian is devoted to developing all four language skills (speaking, listening, reading, and writing) within the three modes of communication (interpersonal, interpretive, presentational). While studying the language, students will be introduced to Italy and its people and they will gain both language and cultural competence. At the end of full-year Italian 101 sequence, students will be able to handle successfully a few uncomplicated communicative tasks, participate in simple conversations on topics related to personal information, personal preferences, daily activities, and immediate needs. This course is the second in a three-part sequence for beginning students of Italian. Classes are conducted entirely in Italian and are very lively, with lots of give-and-take among participants. Students with some experience in Italian may take the online placement test to place out of any or all of the first-year sequence. Please note that Tuesdays classes meet asynchronously.",
+                "Registration Requirements": "Completion of Italian 101-1 or equivalent proficiency as demonstrated by online placement exam & oral interview.",
+                "Learning Objectives": "Second quarter of Elementary Italian course sequence.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Evaluation Method": "Quizzes, writing and oral assignments, listening & reading comprehension assignments, final exam.",
+                "Class Materials (Required)": "New Italian Espresso Textbook, beginner & pre-intermediate, updated edition, Alma Edizioni, ISBN 9788861827240 New Italian Espresso Workbook, beginner & pre-intermediate, Updated edition, Alma Edizioni, Digital ISBN: 9788861827301",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Daniele Biffanti",
+                "Meeting Info": "Locy Hall 305: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "A beginning course in Italian language and culture, Elementary Italian is devoted to developing all four language skills (speaking, listening, reading, and writing) within the three modes of communication (interpersonal, interpretive, presentational). While studying the language, students will be introduced to Italy and its people and they will gain both language and cultural competence. At the end of full-year Italian 101 sequence, students will be able to handle successfully a few uncomplicated communicative tasks, participate in simple conversations on topics related to personal information, personal preferences, daily activities, and immediate needs. This course is the second in a three-part sequence for beginning students of Italian. Classes are conducted entirely in Italian and are very lively, with lots of give-and-take among participants. Students with some experience in Italian may take the online placement test to place out of any or all of the first-year sequence. Please note that Tuesdays classes meet asynchronously.",
+                "Registration Requirements": "Completion of Italian 101-1 or equivalent proficiency as demonstrated by online placement exam & oral interview.",
+                "Learning Objectives": "Second quarter of Elementary Italian course sequence.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Evaluation Method": "Quizzes, writing and oral assignments, listening & reading comprehension assignments, final exam.",
+                "Class Materials (Required)": "New Italian Espresso Textbook, beginner & pre-intermediate, updated edition, Alma Edizioni, ISBN 9788861827240 New Italian Espresso Workbook, beginner & pre-intermediate, Updated edition, Alma Edizioni, Digital ISBN: 9788861827301",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "102-2",
+        "course_name": "Intermediate Italian",
+        "course_reference_number": [
+            "24785",
+            "24786"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate Italian",
+                "instructors": [
+                    "Daniela Pozzi Pavan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Intermediate Italian",
+                "instructors": [
+                    "Paola Morgavi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniela Pozzi Pavan\n847/467-1448\n1860 S. Campus Drive, Crowe Hall #2-145",
+                "Meeting Info": "Locy Hall 314: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Italian 102-2 is the second part of the Intermediate sequence. Intermediate Italian continues and completes the two-year sequence in Italian language and culture. At the end of the full 102 sequence (102-1,2,3), students are expected to create with the language when talking and writing about familiar topics, to understand the main ideas and some supporting details from a variety of texts (newspaper articles, short stories, ...), to describe and narrate, with some consistency, in all major time frames while organizing their discourse into paragraphs. Students will significantly increase their knowledge of Italy's history and culture. After the completion of the entire sequence of Italian 102, students will be eligible to study in Italy and will be ready to embark on the minor or major in Italian. The second-year Italian course sequence completes the two-year WCAS language requirement. The classroom is very lively, with lots of conversation, partnering, and small group exercises. Students will be guided toward independence, posing and solving language problems on their own and in collaboration with classmates. Please note that Tuesday classes will meet asynchronously.",
+                "Registration Requirements": "Prerequisite: 102-1 or equivalent.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Class Materials (Required)": "Class materials will be made available on Canvas.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Paola Morgavi\n847/491-8265\n1860 S. Campus Drive, Crowe Hall #2-143",
+                "Meeting Info": "Locy Hall 314: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Italian 102-2 is the second part of the Intermediate sequence. Intermediate Italian continues and completes the two-year sequence in Italian language and culture. At the end of the full 102 sequence (102-1,2,3), students are expected to create with the language when talking and writing about familiar topics, to understand the main ideas and some supporting details from a variety of texts (newspaper articles, short stories, ...), to describe and narrate, with some consistency, in all major time frames while organizing their discourse into paragraphs. Students will significantly increase their knowledge of Italy's history and culture. After the completion of the entire sequence of Italian 102, students will be eligible to study in Italy and will be ready to embark on the minor or major in Italian. The second-year Italian course sequence completes the two-year WCAS language requirement. The classroom is very lively, with lots of conversation, partnering, and small group exercises. Students will be guided toward independence, posing and solving language problems on their own and in collaboration with classmates. Please note that Tuesday classes will meet asynchronously.",
+                "Registration Requirements": "Prerequisite: 102-1 or equivalent.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Class Materials (Required)": "Class materials will be made available on Canvas.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSpecific requirements in the language\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "133-2",
+        "course_name": "Intensive Italian",
+        "course_reference_number": [
+            "24787"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intensive Italian",
+                "instructors": [],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Locy Hall 110: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "133-1/134-2 is the second segment of the Intensive Italian sequence that started in the Fall. Intensive Italian is a double course that fulfills the WCAS two-year language requirement in one academic year. At the end of the entire 133/134 sequence, students will be able to create with the language when talking and writing about familiar topics; to understand the main ideas and some supporting details from a variety of texts (newspaper articles, short stories, …); to describe and narrate, with some consistency, in all major time frames while organizing their discourse into paragraphs. While studying the language, students will be constantly exposed to the Italian culture. By the end of the intensive sequence, students are expected to achieve language, cultural, and intercultural competence enabling them to study in Italy and to embark on the minor or major in Italian. Intensive Italian classes are small and highly interactive. Please note that Tuesdays classes will meet asynchronously.",
+                "Registration Requirements": "133-1/134-1 or equivalent.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Class Materials (Required)": "New Italian Espresso Textbook, beginner, Alma Edizioni, (+ DVD), ISBN-13:978-88-6182-354-9 (preferably hard copy) New Italian Espresso Workbook, beginner, Alma Edizioni, ISBN-13:978-88-6182-357-0 (preferably online workbook) and Canvas Website",
+                "Class Notes": "Students MUST be registered for both Italian 133-2 and 134-2. However, students should wait until the add/drop period to register for 134-2, to avoid potential issues with adding a 5th course.",
+                "Class Attributes": "Prerequisites apply, see description\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "134-2",
+        "course_name": "Intensive Italian",
+        "course_reference_number": [
+            "24788"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intensive Italian",
+                "instructors": [],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Locy Hall 110: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "133-1/134-2 is the second segment of the Intensive Italian sequence that started in the Fall. Intensive Italian is a double course that fulfills the WCAS two-year language requirement in one academic year. At the end of the entire 133/134 sequence, students will be able to create with the language when talking and writing about familiar topics; to understand the main ideas and some supporting details from a variety of texts (newspaper articles, short stories, …); to describe and narrate, with some consistency, in all major time frames while organizing their discourse into paragraphs. While studying the language, students will be constantly exposed to the Italian culture. By the end of the intensive sequence, students are expected to achieve language, cultural, and intercultural competence enabling them to study in Italy and to embark on the minor or major in Italian. Intensive Italian classes are small and highly interactive. Please note that Tuesdays classes will meet asynchronously.",
+                "Registration Requirements": "133-1/134-1 or equivalent.",
+                "Teaching Method": "Instruction in Italian, with group & small group exercises; speaking & writing; grammar exercises.",
+                "Class Materials (Required)": "New Italian Espresso Textbook, beginner, Alma Edizioni, (+ DVD), ISBN-13:978-88-6182-354-9 (preferably hard copy) New Italian Espresso Workbook, beginner, Alma Edizioni, ISBN-13:978-88-6182-357-0 (preferably online workbook) and Canvas Website",
+                "Class Notes": "Students MUST be registered for both Italian 133-2 and 134-2. However, students should wait until the add/drop period to register for 134-2, to avoid potential issues with adding a 5th course.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "205-0",
+        "course_name": "Voyage Through Italy",
+        "course_reference_number": [
+            "24790"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Voyage Through Italy",
+                "instructors": [
+                    "Paola Nasti"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paola Nasti",
+                "Meeting Info": "Kresge Centennial Hall 2-335: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "What is Italy? This course begins from the premise that Italy is not a geographical given but something continually constructed: a name of uncertain, contested etymology; a peninsula as much divided by its own mountains as bounded by its seas; a young state (1861) laid over a far older cultural idea; a language that became common only in the twentieth century; a people whose sense of belonging is, as historians remind us, an invention that took hold precisely because so many came to share it. We therefore treat italianità — Italianness — not as a fixed essence but as a transnational concept: an identity made and remade beyond as well as within the nation's borders, in departure, return, encounter, and arrival.\n\nOur catalyst is the voyage. The phrase voyage to Italy evokes the Grand Tour — the foreign traveller, from Goethe to Dickens, who came to admire or to disdain the cradle of antiquity. We reverse that gaze. Instead of the outsider looking in, we follow Italians who discover a country not their own: internal migrants uprooted from local worlds into a nation to which they belonged only in name, and emigrants who first felt themselves italiani in the pain of separation across the Atlantic, forging hybrid identities such as the Italian-American. In its second half the course turns to the African and East-European migrants who, since the 1990s, have remade Italy demographically and reopened the question of who Italians are — bringing to the surface the plural, conflicted history that a polished, unitary italianità had concealed, and asking whether identity might be founded not on erasing difference but on it.\n\nMoving from De Amicis and Pascoli through neorealism (Rossellini, Germi, Visconti) to contemporary cinema and migrant writing (Amelio, Gianfranco Rosi, Erri De Luca, Amara Lakhous, Igiaba Sciego), we read literature, film, and song as the mirror in which Italy has repeatedly asked itself who it is — and as creative acts that have both shaped and contested that answer. The course is conducted in Italian; films are in Italian and some criticism is in English.",
+                "Registration Requirements": "Intermediate Italian or equivalent",
+                "Learning Objectives": "1. Read closely across forms and media. Analyze the forms, genres, and styles through which Italian writers, filmmakers, and songwriters have represented migration — De Amicis's didactic tale, Pascoli's poemetto with its mix of Italian and emigrant English, emigrant letters and folk songs, neorealist cinema and commedia all'italiana, documentary, and migrant and second-generation writing — using the vocabulary of literary and film analysis (narrative voice, point of view, genre, register, mise-en-scène, montage, the documentary gaze). (FD-LA 1)\n2. Place works in their contexts. Explain how the historical, social, and political conditions of each period — Unification and mass emigration, war and Resistance, the economic miracle and internal migration, post-1990 immigration and the Mediterranean crossings — shaped these works; assess how artists addressed their audiences, and how their works affirmed or challenged prevailing ideas of nation, class, race, gender, and belonging.\n3. Recognize difference and continuity. Compare the experiences of emigrants, internal migrants, and immigrants as they appear in literature and art, recognizing both the variety of cultures and voices these works reveal and the recurring patterns that link them — departure, loss, language, hospitality and hostility — and so understand italianità as a plural, transnational identity that is continually constructed rather than a fixed essence.\n4. Use critical approaches. Draw on scholarly criticism — film studies, migration studies, postcolonial and literary theory — and its reading practices, using it to support, contextualize, or challenge their own interpretations rather than simply summarizing it.\n5. Interpret persuasively, in speech and in writing. Build and defend arguments about texts, films, and songs in class discussion, an oral research presentation, structured debates, written responses, and a final essay, grounding each argument in specific textual and visual evidence.\n6. Write better and see more sharply. Use close attention to how authors and filmmakers shape language, image, and sound to make their own writing more precise, better supported, and more attentive to style, and to sharpen their aesthetic judgment — while progressing from intermediate to advanced proficiency in Italian.",
+                "Class Materials (Required)": "No class materials",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nPrerequisites apply, see description\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "275-0",
+        "course_name": "Dante's Divine Comedy",
+        "course_reference_number": [
+            "24789"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Dante's Divine Comedy",
+                "instructors": [
+                    "Paola Nasti"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paola Nasti",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Dante's Divine Comedy takes readers on an unforgettable journey through Hell, Purgatory, and Paradise. In this course, we'll read key cantos from the poem while exploring the vibrant—and often turbulent—world of the late Middle Ages that shaped it. Through close textual analysis, we will consider how the Comedy engages enduring questions concerning justice and love, reason and will, knowledge and happiness, and the relationship between human experience and the divine. Particular attention will be given to Dante's synthesis of literary, philosophical, and theological traditions, as well as to the ways in which the poem responds to contemporary political tensions and religious debates.\nBy connecting the poem to its historical context, we'll see how Dante brings together literature, philosophy, and theology to imagine a world ordered by meaning, responsibility, and hope.\n\nThe course also offers opportunities to work according to individual strengths through creative and independent projects, fostering both rigorous scholarship and intellectual independence.",
+                "Registration Requirements": "None.",
+                "Learning Objectives": "Develop close reading skills through detailed analysis of selected cantos from Dante's Divine Comedy, with attention to language, structure, and poetic form.\n\nUnderstand how the Comedy reflects and engages the cultural, political, philosophical, and theological contexts of the late Middle Ages.\n\nEvaluate Dante's treatment of key intellectual and spiritual questions - such as justice, free will, knowledge, and the relationship between the human and the divine - within the broader framework of medieval thought.",
+                "Teaching Method": "Class participation; discussion; group work; lecture (two 80-minute lectures weekly); online work; presentations; readings; research project; writing assignments",
+                "Evaluation Method": "Class participation; discussion; homework; online work; final project; quizzes; writing assignments",
+                "Class Materials (Required)": "Dante's Divine Comedy is available on line (with various commentaries). Buying a paper copy of ‘Inferno', is highly advised.\nAny edition is allowed as long as it includes footnotes and commentary.\nWe will be using the following edition:\nDante Alighieri, 'Divine Comedy', 3 vols, translated by Robert and Jean Hollander, edited by Robert Hollander, New York: Doubleday 2002. 2004, 2007.",
+                "Class Notes": "This class is conducted in English.\n\nIf the class is fully booked, please get in touch with the instructor.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "351-0",
+        "course_name": "Italian Film and Transnational Cinema",
+        "course_reference_number": [
+            "24803"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Italian Film and Transnational Cinema",
+                "instructors": [
+                    "Alessia Ricciardi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alessia Ricciardi\n847/491-8259\n1860 S. Campus Drive, Crowe Hall #2-133",
+                "Meeting Info": "Locy Hall 106: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "The course will explore films by Michelangelo Antonioni and filmmakers he has influenced, including Wim Wenders, Wong Kar-wai, and Sofia Coppola. We will examine how their distinct cinematic languages express the loneliness, displacement, alienation, and desire for connection that characterize modern life.\n\nAlthough emerging from different cinematic traditions, the films we will study develop a remarkably resonant visual and narrative language for articulating experiences of loneliness and longing. These are not merely emotional states but also ways of experiencing the visual and sensory dimensions of modernity, particularly in an age of increased mobility, technological mediation, and geographic displacement. Through music, fragmented narration, repetition, editing, and color, longing becomes almost tangible, as fleeting moments are transformed into enduring affective experiences.\n\nWe will focus on how these directors transform cinematic space into a medium of emotional intensity and render longing an aesthetic experience.\n\nThis course is taught in English.",
+                "Evaluation Method": "Participation in class discussion (20%), Oral presentation (20%), Short essay (3-4pages) (20%), Final Oral Exam (40%)",
+                "Class Materials (Required)": "Class materials will be made available on Canvas.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

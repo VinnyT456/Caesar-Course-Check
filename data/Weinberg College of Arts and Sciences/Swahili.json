@@ -1,0 +1,85 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Swahili I",
+        "course_reference_number": [
+            "28339",
+            "28340"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Swahili I",
+                "instructors": [
+                    "Peter Mwangi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Swahili I",
+                "instructors": [
+                    "Peter Mwangi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Peter Mwangi\n847.467.2004\n620 Library Place, RM 211, Evanston, IL 60208\nOffice Hours: Fall 2021 Office Hours: Mon and Wed 2 - 4 pm",
+                "Meeting Info": "University Hall 112: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Peter Mwangi\n847.467.2004\n620 Library Place, RM 211, Evanston, IL 60208\nOffice Hours: Fall 2021 Office Hours: Mon and Wed 2 - 4 pm",
+                "Meeting Info": "University Hall 112: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Swahili II",
+        "course_reference_number": [
+            "28341"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Swahili II",
+                "instructors": [
+                    "Peter Mwangi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Peter Mwangi\n847.467.2004\n620 Library Place, RM 211, Evanston, IL 60208\nOffice Hours: Fall 2021 Office Hours: Mon and Wed 2 - 4 pm",
+                "Meeting Info": "University Hall 112: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

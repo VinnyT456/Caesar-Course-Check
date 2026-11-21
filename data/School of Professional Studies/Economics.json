@@ -1,0 +1,131 @@
+[
+    {
+        "course_number": "201-DL",
+        "course_name": "Introduction to Macroeconomics",
+        "course_reference_number": [
+            "20572"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Macroeconomics",
+                "instructors": [
+                    "Gordon R Green"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gordon R Green",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "This course provides a comprehensive introduction to the principles, models, and empirical evidence of macroeconomics. Students will explore the forces that shape the economy at a national and global level, including economic growth, inflation, unemployment, and fluctuations in output.\n\nThe course emphasizes the application of economic theory to real-world policy issues and current events, with a focus on understanding how households, firms, governments, and central banks interact within the macroeconomic system. Topics include measuring economic performance with GDP and other indicators, the determinants of long-run growth, the role of productivity and technological change, business cycle dynamics, fiscal and monetary policy, the causes and consequences of inflation, and the complexities of open-economy macroeconomics.\n\nThe course provides a unified framework integrates theoretical models with empirical evidence, helping students develop both analytical and critical thinking skills. Case studies, data analysis exercises, and policy debates will be central to the learning process. By the end of the course, students will have the tools to interpret macroeconomic data, evaluate policy proposals, and understand the economic forces influencing their own lives and the broader society.",
+                "Registration Requirements": "Prerequisites: None, though familiarity with basic algebra is helpful.\n\nThis course is limited to School of Professional Studies students only. Undergraduate students in other schools at Northwestern are not permitted to enroll in this course.",
+                "Learning Objectives": "By the end of this course, students will be able to:\n\n● Analyze macroeconomic data and trends\n\n● Discuss the drivers of economic growth and business cycles\n\n● Evaluate the effectiveness of fiscal and monetary policies\n\n● Interpret the impact of macroeconomic policies in a global context\n\n● Knowledgeably read about, analyze, and discuss macroeconomic issues",
+                "Class Materials (Required)": "Course Materials: Macroeconomics, Third Edition by Daron Acemoglu, David Laibson, and John List. Podcast, journal articles",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "310-A",
+        "course_name": "Microeconomics",
+        "course_reference_number": [
+            "20521"
+        ],
+        "course_info": [
+            {
+                "section": "16",
+                "course_name": "Microeconomics",
+                "instructors": [
+                    "Deepasriya Sampath Kumar"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Deepasriya Sampath Kumar",
+                "Meeting Info": "Wieboldt Hall 701: Thurs 6:15PM - 9:15PM",
+                "Overview of class": "This course is concerned with the behavior of individual economic agents and their interactions. We will introduce the basics of microeconomic analysis and do a quick review of some basic economic concepts, study consumer behavior and market demand by showing how a consumer may make optimal choices, how individual demands are formed, and how market demand can be derived, discuss the firm's technologies, production functions and production costs and lay the foundation for the study of behavior of firms under different forms of market structure. Topics in game theory and business strategies will be covered as well as topics of economic efficiency and public policy. We will also touch upon marginal analysis using deeper algebraic and mathematical techniques than used in introductory microeconomic courses.",
+                "Registration Requirements": "Prerequisites: ECON 202 and MATH 220",
+                "Class Materials (Required)": "Materials may include the following. Confirm course texts and materials by contacting instructor or viewing course Canvas site or University bookstore website.\n\nIntermediate Microeconomics and Its Applications, 12th Edition, Nicholson and Snyder, 2014. (NS)",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "311-CN",
+        "course_name": "Macroeconomics",
+        "course_reference_number": [
+            "20514"
+        ],
+        "course_info": [
+            {
+                "section": "64",
+                "course_name": "Macroeconomics",
+                "instructors": [
+                    "Mark Witte"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Witte",
+                "Meeting Info": "University Hall 101: Wed 6:15PM - 9:15PM",
+                "Overview of class": "This course covers macroeconomics and monetary policy and the behavior of the economy as a whole, with an emphasis on the current economic crisis in the United States and Europe. Topics include income, inflation, unemployment, and growth; consumption, investment, and rate of interest; monetary and fiscal policy. Midterm and final exams, weekly quizzes and homework are the requirements for this lecture-based course.",
+                "Registration Requirements": "Prerequisites: ECON 201, 202, MATH 220, or equivalents. Basic algebra and graphing.",
+                "Learning Objectives": "Students will be expected to understand how the interaction of the goods market and the money/asset markets can lead to possible multiple equilibria in macroeconomics, how the economy can get stuck in bad ones, and how it may be possible to make matters better...or worse. Students will understand the measurement of price level changes, labor market variables, productivity, and the macroeconomic imbalances that can exist with the government budget and for assets and trade flows between nations in world markets. Students will understand the monetary and financial systems and how they contributed to our current situation, both in the US and Europe. Students will also understand the determinants of long run economic growth, and the resulting implications.",
+                "Teaching Method": "Lectures, some class participation, in-class quizzes, out of class homework, readings from texts and articles.",
+                "Evaluation Method": "Midterm, final, weekly quizzes, and homework.",
+                "Class Materials (Required)": "Materials will be available online.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "358-CN",
+        "course_name": "Economics of Art and Culture",
+        "course_reference_number": [
+            "20569"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Economics of Art and Culture",
+                "instructors": [
+                    "James A. Hornsten"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James A. Hornsten\n847/491-8220",
+                "Meeting Info": "Kresge Centennial Hall 2-319: Mon 6:15PM - 9:15PM",
+                "Overview of class": "The course examines the application of economic analysis to the creative and performing arts, and the heritage and cultural industries, whether publicly or privately owned. It is concerned with the economic organization of the cultural sector and with the behavior of producers, consumers and governments in that sector. Topics may include performing arts (ballet, opera, Broadway, orchestra); art museums; festivals and cultural tourism; and copyright-reliant creative industries (music, film, TV shows, video games, book publishing).",
+                "Registration Requirements": "Prerequisites: ECON 281, ECON 310-A, ECON 310-B.",
+                "Learning Objectives": "Students should be able to apply microeconomic tools to analyze the incentives of those who produce and consume a variety of artistic products, as well as government policies that impact their decisions. E.g., what are the key economic problems faced by a painter, art gallery, collector/investor, auction house, philanthropist, or a funding organization such as the NEA?",
+                "Teaching Method": "Problem sets, midterm, \"final\" exam on the last day of class, individual project",
+                "Class Materials (Required)": "There is no required textbook, but supplementary materials (slides, articles, podcasts, videos) will be made available through Canvas.",
+                "Class Materials (Suggested)": "(Recommended) Economics of Art and Culture, 3rd edition, 2023, Cambridge University Press, ISBN: 978-0521690423",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    }
+]

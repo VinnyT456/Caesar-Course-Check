@@ -1,0 +1,305 @@
+[
+    {
+        "course_number": "401-DL",
+        "course_name": "Introduction to Sports Analytics",
+        "course_reference_number": [
+            "20590"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Introduction to Sports Analytics",
+                "instructors": [
+                    "Adam Grossman",
+                    "Leslie McGreevy"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Grossman",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "402-0",
+        "course_name": "Fundamentals of Sports Marketing",
+        "course_reference_number": [
+            "20587"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Fundamentals of Sports Marketing",
+                "instructors": [
+                    "Jim Andrews"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jim Andrews",
+                "Meeting Info": "Wieboldt Hall 712: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre.Req. Reserved for MSA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "403-DL",
+        "course_name": "Sports Organizations: Leadership Theory & Application",
+        "course_reference_number": [
+            "20592"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Sports Organizations: Leadership Theory & Application",
+                "instructors": [
+                    "Adam Cook"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Adam Cook",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "405-DL",
+        "course_name": "Legal and Ethical Issues in Sports Management",
+        "course_reference_number": [
+            "20591"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Legal and Ethical Issues in Sports Management",
+                "instructors": [
+                    "LaKeisha Marsh"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "LaKeisha Marsh",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "406-0",
+        "course_name": "Sports Public Relations and Crisis Communication",
+        "course_reference_number": [
+            "20588"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Sports Public Relations and Crisis Communication",
+                "instructors": [
+                    "David DeVries"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David DeVries",
+                "Meeting Info": "Wieboldt Hall 712: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre.Req. Reserved for MSA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "430-DL",
+        "course_name": "Sports Operations",
+        "course_reference_number": [
+            "20595"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Sports Operations",
+                "instructors": [
+                    "Katie Krall"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Katie Krall",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre.Req."
+            }
+        ]
+    },
+    {
+        "course_number": "451-DL",
+        "course_name": "The Technology of Sport",
+        "course_reference_number": [
+            "20589"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "The Technology of Sport",
+                "instructors": [
+                    "Brice Clinton"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brice Clinton",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req"
+            }
+        ]
+    },
+    {
+        "course_number": "453-DL",
+        "course_name": "College Sports Management - Internal Affairs",
+        "course_reference_number": [
+            "20594"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "College Sports Management",
+                "instructors": [
+                    "Internal Affairs",
+                    "Doug Bakker"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Doug Bakker",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre.Req."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "28818"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Athlete Representation",
+                "instructors": [
+                    "Special Topics",
+                    "Alexandros Saratsis"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Athlete Representation",
+                "Instructors": "Alexandros Saratsis",
+                "Meeting Info": "Wieboldt Hall 711: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req Reserved for MSA Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "498-DL",
+        "course_name": "Capstone",
+        "course_reference_number": [
+            "20593"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Capstone",
+                "instructors": [
+                    "Caroline Heffernan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Caroline Heffernan",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSA CAPSTONE Reserved for MSA Students Only\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

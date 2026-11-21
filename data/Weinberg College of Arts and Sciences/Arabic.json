@@ -1,0 +1,235 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Arabic I",
+        "course_reference_number": [
+            "22645",
+            "22646",
+            "22647"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Arabic I",
+                "instructors": [
+                    "Ragy Mikhaeel"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:10PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Arabic I",
+                "instructors": [
+                    "Fadia M Antabli"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:40PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Arabic I",
+                "instructors": [
+                    "Fadia M Antabli"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:10PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ragy Mikhaeel\n8474670927\nCrowe Hall 4-117",
+                "Meeting Info": "University Library 4670: Mon, Wed, Fri 11:00AM - 12:10PM",
+                "Overview of class": "First-Year Arabic, Arabic 111, is a three-quarter sequence providing a thorough grounding for listening, speaking, reading, and writing Arabic. The course follows the integrated approach which blends the standard Arabic, Fuṣḥā, and the dialect or colloquial language, āmmiyya, in a way that reflects the authentic practice of native Arabic speakers. To develop reading and writing skills we will be using Modern Standard Written Arabic called Fuṣḥā; to develop speaking and listening skills we will be using an educated spoken version of the āmmiyya of the Levantine dialect.\n\nWe will cover units 2-7 and the topics airport and taxi, student housing, eating, clothing and colors, and visiting the Americana University. Instructors will use an interactive approach including conversational practice, reading, interactive small group exercises, and cultural presentations.",
+                "Registration Requirements": "Arabic 111-1 or equivalent; or instructor consent. Students with prior knowledge of Arabic (learned either through school or at home) will need to take the Arabic placement exam before being allowed to register.",
+                "Learning Objectives": "Students completing three quarters of Arabic 111 will be able to read and comprehend simple, authentic texts on familiar topics, write informal notes and short paragraphs on topics connected to daily life, and initiate and sustain short conversations on daily-life topics with educated native speakers who are accustomed to conversing with learners of Arabic as a foreign language.",
+                "Teaching Method": "First-Year Arabic uses a communicative, proficiency-oriented approach with fully integrated audiovisual media to teach modern Arabic as a living language. Instructors will use an interactive approach in the classroom, including conversational practice in class, reading practice, interactive small group exercises, and cultural presentations.",
+                "Evaluation Method": "The final grade for the course will be based on the following: Attendance and participation, homework assignments, four quizzes given throughout the quarter, and a short oral project.",
+                "Class Materials (Required)": "Arabiyyat al-Naas Part One, Second Edition: An Introductory Course in Arabic. Younes, Weatherspoon, Foster. (2023) Publisher: Routledge. Print ISBN: 9781138492868.",
+                "Class Notes": "All students should plan on daily homework outside of class. The course is taught in Arabic.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: ARABIC 111-1"
+            },
+            {
+                "Instructors": "Fadia M Antabli\n847/467-6780\nCrowe Hall 4-113, 1860 Campus Drive, Evanston, IL 60208",
+                "Meeting Info": "Kresge 4531 MENA Seminar Rm: Mon, Wed, Fri 12:30PM - 1:40PM",
+                "Overview of class": "First-Year Arabic, Arabic 111, is a three-quarter sequence providing a thorough grounding for listening, speaking, reading, and writing Arabic. The course follows the integrated approach which blends the standard Arabic, Fuṣḥā, and the dialect or colloquial language, āmmiyya, in a way that reflects the authentic practice of native Arabic speakers. To develop reading and writing skills we will be using Modern Standard Written Arabic called Fuṣḥā; to develop speaking and listening skills we will be using an educated spoken version of the āmmiyya of the Levantine dialect.\n\nWe will cover units 2-7 and the topics airport and taxi, student housing, eating, clothing and colors, and visiting the Americana University. Instructors will use an interactive approach including conversational practice, reading, interactive small group exercises, and cultural presentations.",
+                "Registration Requirements": "Arabic 111-1 or equivalent; or instructor consent. Students with prior knowledge of Arabic (learned either through school or at home) will need to take the Arabic placement exam before being allowed to register.",
+                "Learning Objectives": "Students completing three quarters of Arabic 111 will be able to read and comprehend simple, authentic texts on familiar topics, write informal notes and short paragraphs on topics connected to daily life, and initiate and sustain short conversations on daily-life topics with educated native speakers who are accustomed to conversing with learners of Arabic as a foreign language.",
+                "Teaching Method": "First-Year Arabic uses a communicative, proficiency-oriented approach with fully integrated audiovisual media to teach modern Arabic as a living language. Instructors will use an interactive approach in the classroom, including conversational practice in class, reading practice, interactive small group exercises, and cultural presentations.",
+                "Evaluation Method": "The final grade for the course will be based on the following: Attendance and participation, homework assignments, four quizzes given throughout the quarter, and a short oral project.",
+                "Class Materials (Required)": "Arabiyyat al-Naas Part One, Second Edition: An Introductory Course in Arabic. Younes, Weatherspoon, Foster. (2023) Publisher: Routledge. Print ISBN: 9781138492868.",
+                "Class Notes": "All students should plan on daily homework outside of class. The course is taught in Arabic.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: ARABIC 111-1"
+            },
+            {
+                "Instructors": "Fadia M Antabli\n847/467-6780\nCrowe Hall 4-113, 1860 Campus Drive, Evanston, IL 60208",
+                "Meeting Info": "Kresge 4531 MENA Seminar Rm: Mon, Wed, Fri 2:00PM - 3:10PM",
+                "Overview of class": "First-Year Arabic, Arabic 111, is a three-quarter sequence providing a thorough grounding for listening, speaking, reading, and writing Arabic. The course follows the integrated approach which blends the standard Arabic, Fuṣḥā, and the dialect or colloquial language, āmmiyya, in a way that reflects the authentic practice of native Arabic speakers. To develop reading and writing skills we will be using Modern Standard Written Arabic called Fuṣḥā; to develop speaking and listening skills we will be using an educated spoken version of the āmmiyya of the Levantine dialect.\n\nWe will cover units 2-7 and the topics airport and taxi, student housing, eating, clothing and colors, and visiting the Americana University. Instructors will use an interactive approach including conversational practice, reading, interactive small group exercises, and cultural presentations.",
+                "Registration Requirements": "Arabic 111-1 or equivalent; or instructor consent. Students with prior knowledge of Arabic (learned either through school or at home) will need to take the Arabic placement exam before being allowed to register.",
+                "Learning Objectives": "Students completing three quarters of Arabic 111 will be able to read and comprehend simple, authentic texts on familiar topics, write informal notes and short paragraphs on topics connected to daily life, and initiate and sustain short conversations on daily-life topics with educated native speakers who are accustomed to conversing with learners of Arabic as a foreign language.",
+                "Teaching Method": "First-Year Arabic uses a communicative, proficiency-oriented approach with fully integrated audiovisual media to teach modern Arabic as a living language. Instructors will use an interactive approach in the classroom, including conversational practice in class, reading practice, interactive small group exercises, and cultural presentations.",
+                "Evaluation Method": "The final grade for the course will be based on the following: Attendance and participation, homework assignments, four quizzes given throughout the quarter, and a short oral project.",
+                "Class Materials (Required)": "Arabiyyat al-Naas Part One, Second Edition: An Introductory Course in Arabic. Younes, Weatherspoon, Foster. (2023) Publisher: Routledge. Print ISBN: 9781138492868.",
+                "Class Notes": "All students should plan on daily homework outside of class. The course is taught in Arabic.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prereq: ARABIC 111-1"
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Arabic II",
+        "course_reference_number": [
+            "22648",
+            "22649"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Arabic II",
+                "instructors": [
+                    "Rana Raddawi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:10PM"
+            },
+            {
+                "section": "22",
+                "course_name": "Arabic II",
+                "instructors": [
+                    "Ragy Mikhaeel"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:10PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rana Raddawi\n847/467-6350\nCrowe 4-121",
+                "Meeting Info": "Kresge 4531 MENA Seminar Rm: Mon, Wed, Fri 11:00AM - 12:10PM",
+                "Overview of class": "Second-year Arabic will focus on the integrated approach which blends the standard Arabic, Fuṣḥā, and the dialect or colloquial language, āmmiyya, in a way that reflects the authentic practice of native Arabic speakers. We will develop reading and writing skills using Modern Standard Arabic and speaking and listening skills using an educated spoken version of the āmmiyya of the Levantine dialect. The integrated approach successfully teaches the reality of the Arabic sociolinguistic and diglossic situation and prepares students fully for the various settings and contexts of the Arab world.\n\nWe will cover Units 22-28 which will include a visit to Sarahs' uncle's house, a visit to Syria, a visit with the doctor, vegetables and fruits, and talking on Skype with friends. Instructors will give grammar explanations in Arabic, helping students integrate new rules to improve speaking and writing. Students will get feedback on their speaking/pronunciation as well as their writing.",
+                "Registration Requirements": "Arabic 121-1 with a C- or equivalent; or permission of the instructor",
+                "Learning Objectives": "After completing Second-Year Arabic, students will feel comfortable speaking about themselves, family members and friends, their studies, trips, wants and desires using full sentences. Students will be able to read and comprehend basic authentic texts and write lengthier paragraphs with increased accuracy. Students will have a good understanding of Arabic grammar, which, among others, includes the root and pattern system, the verbal patterns, and case markings of nouns.",
+                "Teaching Method": "Second year Arabic uses a communicative, proficiency-oriented approach. Students will communicate with the instructor in Arabic and will practice new vocabulary and grammar concepts orally in class. The instructor will give grammar explanations in Arabic and help students integrate new rules to improve speaking and writing. Students will use class time to do group work in Arabic and get feedback on their speaking and pronunciation.",
+                "Evaluation Method": "Students will be assessed using a variety of input: homework, preparation, attendance and participation, four quizzes given throughout the quarter, and an oral interview.",
+                "Class Materials (Required)": "Arabiyyat al-Naas, Part One, Second Edition: An Introductory Course in Arabic. Younes, Weatherspoon, Foster. (2023) Publisher: Routledge. Print ISBN: 9781138492868.",
+                "Class Notes": "This class is taught in Arabic. Attendance is mandatory and there is daily homework.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: ARABIC 121-1"
+            },
+            {
+                "Instructors": "Ragy Mikhaeel\n8474670927\nCrowe Hall 4-117",
+                "Meeting Info": "University Hall 101: Mon, Wed, Fri 2:00PM - 3:10PM",
+                "Overview of class": "Second-year Arabic will focus on the integrated approach which blends the standard Arabic, Fuṣḥā, and the dialect or colloquial language, āmmiyya, in a way that reflects the authentic practice of native Arabic speakers. We will develop reading and writing skills using Modern Standard Arabic and speaking and listening skills using an educated spoken version of the āmmiyya of the Levantine dialect. The integrated approach successfully teaches the reality of the Arabic sociolinguistic and diglossic situation and prepares students fully for the various settings and contexts of the Arab world.\n\nWe will cover Units 22-28 which will include a visit to Sarahs' uncle's house, a visit to Syria, a visit with the doctor, vegetables and fruits, and talking on Skype with friends. Instructors will give grammar explanations in Arabic, helping students integrate new rules to improve speaking and writing. Students will get feedback on their speaking/pronunciation as well as their writing.",
+                "Registration Requirements": "Arabic 121-1 with a C- or equivalent; or permission of the instructor",
+                "Learning Objectives": "After completing Second-Year Arabic, students will feel comfortable speaking about themselves, family members and friends, their studies, trips, wants and desires using full sentences. Students will be able to read and comprehend basic authentic texts and write lengthier paragraphs with increased accuracy. Students will have a good understanding of Arabic grammar, which, among others, includes the root and pattern system, the verbal patterns, and case markings of nouns.",
+                "Teaching Method": "Second year Arabic uses a communicative, proficiency-oriented approach. Students will communicate with the instructor in Arabic and will practice new vocabulary and grammar concepts orally in class. The instructor will give grammar explanations in Arabic and help students integrate new rules to improve speaking and writing. Students will use class time to do group work in Arabic and get feedback on their speaking and pronunciation.",
+                "Evaluation Method": "Students will be assessed using a variety of input: homework, preparation, attendance and participation, four quizzes given throughout the quarter, and an oral interview.",
+                "Class Materials (Required)": "Arabiyyat al-Naas, Part One, Second Edition: An Introductory Course in Arabic. Younes, Weatherspoon, Foster. (2023) Publisher: Routledge. Print ISBN: 9781138492868.",
+                "Class Notes": "This class is taught in Arabic. Attendance is mandatory and there is daily homework.",
+                "Class Attributes": "Specific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: ARABIC 121-1"
+            }
+        ]
+    },
+    {
+        "course_number": "211-2",
+        "course_name": "Arabic III",
+        "course_reference_number": [
+            "22651"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Arabic III",
+                "instructors": [
+                    "Ragy Mikhaeel"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:40PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ragy Mikhaeel\n8474670927\nCrowe Hall 4-117",
+                "Meeting Info": "University Hall 118: Mon, Wed, Fri 12:30PM - 1:40PM",
+                "Overview of class": "This is an intermediate level course in which students will continue to advance their proficiency in Arabic language and learn more about the culture and people of the Middle East. The course continues to follow the integrated approach, which successfully teaches the complexities of the Arabic sociolinguistic and diglossic situation and prepares students fully for the realities of the Arabic world. The course will enhance learners' ability to read, write, understand, and discuss challenging authentic Arabic texts from different sources.\n\nThe class will cover units 9, 11, 13, 14 and the following topics: economy, health, Palestine, and Ethnicity and Religion. Special emphasis will be placed on listening skills as well as conversational skills through small interactive group work designed to increase accuracy and fluency. Advanced challenging grammar discussions will lead to a more nuanced understanding of Arabic.",
+                "Registration Requirements": "Arabic 211-1 with a C- or equivalent; or instructor's consent.",
+                "Learning Objectives": "Students completing the three-class sequence of Arabic 211 will be able to easily comprehend texts on more familiar topics and recognize main ideas from different authentic material. Students will also have learned enough vocabulary and idioms to hold conversations with native Arabic speakers on familiar topics and discuss basic cultural ideas. Improved clarity and intonation will be clearly noticeable in students' pronunciation.",
+                "Teaching Method": "This is a highly interactive class, focusing on developing reading, writing and speaking skills. Special emphasis will be placed on listening skills as well as developing conversational skills through small interactive group work designed to increase accuracy and fluency. Advanced challenging grammar discussions in class will lead to a more nuanced understanding of the Arabic language.",
+                "Evaluation Method": "Homework assignments based on weekly readings and class participation, presentations, several quizzes, oral presentation as well as a short writing project.",
+                "Class Materials (Required)": "Arabiyyat al-Naas Part Two, Second Edition: An Intermediate Course in Arabic. Younes; Al-Masri. (2022) Publisher: Routledge. Print ISBN: 9781138353114",
+                "Class Notes": "This class is taught in Arabic and students will be mainly communicating using Arabic language.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: ARABIC 211-1"
+            }
+        ]
+    },
+    {
+        "course_number": "304-0",
+        "course_name": "Arabic for the Professions: Translation Practice in Medical, Media, Literary, and Legal Contexts.",
+        "course_reference_number": [
+            "22653"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Arabic for the Professions: Translation Practice in Medical, Media, Literary, and Legal Contexts.",
+                "instructors": [
+                    "Rana Raddawi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rana Raddawi\n847/467-6350\nCrowe 4-121",
+                "Meeting Info": "University Hall 318: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "This advanced course is designed for students who wish to use Arabic in professional, high-impact contexts, with a special focus on legal and literary Translation. Designed for students at the advanced level of Arabic proficiency, the course develops practical translation skills in both directions: Arabic to English and English to Arabic.\n\nThrough guided work with authentic and adapted texts, students explore how linguistic structures, genre conventions, cultural references, and communicative purposes influence translation choices. The legal translation component focuses on selected official documents, institutional correspondence, public information texts, and introductory legal materials, emphasizing accuracy, terminology, clarity, and formal register. The literary translation component engages students with short stories, narrative excerpts, dialogue, and selected literary passages, highlighting voice, tone, figurative language, and culturally embedded meanings.\n\nStudents develop strategies for analyzing source texts, identifying translation challenges, consulting dictionaries and parallel texts, comparing alternative translations, and revising their work. They also examine the ethical responsibilities of translators and the opportunities and limitations of AI-assisted translation. Through collaborative activities, peer review, and a final translation portfolio, students strengthen their Arabic and English language skills, deepen their intercultural awareness, and learn to make informed translation decisions for different audiences and contexts.",
+                "Registration Requirements": "Two 200-level courses in Arabic or consent of the instructor",
+                "Learning Objectives": "By the end of the course, students will be able to:\n1) Translate short, connected Arabic and English texts in both directions, preserving the source text's main ideas, relevant details, communicative purpose, and intended audience.\n2) Translate selected official, institutional, and introductory legal texts using consistent terminology, appropriate formal register, and accurate representations of obligations, rights, and factual information.\n3) Translate selected short stories, narrative passages, and dialogues while preserving, to the extent possible, the author's voice, tone, imagery, figurative language, and culturally significant meanings.\n4) Use bilingual and monolingual dictionaries, glossaries, parallel texts, and appropriate digital tools to verify terminology, resolve translation problems, and revise drafts for accuracy, grammatical correctness, coherence, and readability.\n5) Compare at least two possible translations of a selected expression or passage and explain which version better serves the intended audience, genre, and communicative purpose.\n6) Evaluate AI-generated translations by identifying errors or limitations involving meaning, terminology, register, cultural nuance, or style, and apply principles of confidentiality, accuracy, and responsible tool use.",
+                "Evaluation Method": "Practical assignments will involve translation into and out of English and Arabic based on authentic texts from the legal and literary fields such as official documents, institutional texts, contracts, certificates, short stories, dialogues and poems. To aid their work, students will be introduced to and work with conventional and digital resources used for translation. In addition, students will conduct peer editing, revision, AI output evaluation and reflection through comparative practice and final portfolio.",
+                "Class Materials (Required)": "The course material is available through online PDFs. Interactive exercises and assignments are hosted on the course site on Canvas. Additional background readings in English and Arabic (excerpts) will be available to students.",
+                "Class Attributes": "Advanced Expression\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Two 200-level Arabic courses, or instructor permission."
+            }
+        ]
+    }
+]

@@ -1,0 +1,955 @@
+[
+    {
+        "course_number": "400-DL",
+        "course_name": "Math for Modelers",
+        "course_reference_number": [
+            "20403"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Math for Modelers",
+                "instructors": [
+                    "Carrie Dugan"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carrie Dugan",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre. Req."
+            }
+        ]
+    },
+    {
+        "course_number": "401-DL",
+        "course_name": "Applied Statistics with R",
+        "course_reference_number": [
+            "20404"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Applied Statistics with R",
+                "instructors": [
+                    "Syamala Srinivasan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Syamala Srinivasan",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre. Req."
+            }
+        ]
+    },
+    {
+        "course_number": "403-DL",
+        "course_name": "Data Science and Digital Transformation",
+        "course_reference_number": [
+            "20435"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Data Science and Digital Transformation",
+                "instructors": [
+                    "John Derwent"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Derwent",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "411-DL",
+        "course_name": "Unsupervised Learning Methods",
+        "course_reference_number": [
+            "20405"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Unsupervised Learning Methods",
+                "instructors": [
+                    "Joe Wilck"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joe Wilck",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken MSDS 400-DL Math for Data Scientists/PREDICT 400-DL and MSDS 401-DL Applied"
+            }
+        ]
+    },
+    {
+        "course_number": "413-DL",
+        "course_name": "Times Series Analysis and Forecasting",
+        "course_reference_number": [
+            "20406"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Times Series Analysis and Forecasting",
+                "instructors": [
+                    "Jamie Riggs"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jamie Riggs",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "420-0",
+        "course_name": "Database Systems",
+        "course_reference_number": [
+            "20432"
+        ],
+        "course_info": [
+            {
+                "section": "60",
+                "course_name": "Database Systems",
+                "instructors": [
+                    "Abid Ali"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abid Ali",
+                "Meeting Info": "Wieboldt Hall 506: Wed 10:00AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: ADS Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "420-DL",
+        "course_name": "Database Systems",
+        "course_reference_number": [
+            "20407"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Database Systems",
+                "instructors": [
+                    "Atef Bader"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Atef Bader",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre.Req."
+            }
+        ]
+    },
+    {
+        "course_number": "422-0",
+        "course_name": "Practical Machine Learning",
+        "course_reference_number": [
+            "20433"
+        ],
+        "course_info": [
+            {
+                "section": "61",
+                "course_name": "Practical Machine Learning",
+                "instructors": [
+                    "Fan Yang"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Fan Yang",
+                "Meeting Info": "Wieboldt Hall 712: Thurs 3:30PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: ADS Students Only"
+            }
+        ]
+    },
+    {
+        "course_number": "422-DL",
+        "course_name": "Practical Machine Learning",
+        "course_reference_number": [
+            "20409"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Practical Machine Learning",
+                "instructors": [
+                    "Anil Chaturvedi"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anil Chaturvedi",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre- Req: MSDS 400 & 401"
+            }
+        ]
+    },
+    {
+        "course_number": "430-DL",
+        "course_name": "Python for Data Analysis",
+        "course_reference_number": [
+            "20411",
+            "20412"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Python for Data Analysis",
+                "instructors": [
+                    "Carrie Dugan"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "56",
+                "course_name": "Python for Data Analysis",
+                "instructors": [
+                    "Thomas Miller"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carrie Dugan",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre. req."
+            },
+            {
+                "Instructors": "Thomas Miller",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre. req."
+            }
+        ]
+    },
+    {
+        "course_number": "434-DL",
+        "course_name": "Data Science and Cloud Computing",
+        "course_reference_number": [
+            "20413"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Data Science and Cloud Computing",
+                "instructors": [
+                    "David Ostrowski"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Ostrowski",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 400 & MSDS 420"
+            }
+        ]
+    },
+    {
+        "course_number": "442-DL",
+        "course_name": "AI Agent Design and Development",
+        "course_reference_number": [
+            "20438"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "AI Agent Design and Development",
+                "instructors": [
+                    "Atef Bader"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Atef Bader",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "450-DL",
+        "course_name": "Marketing Data Science",
+        "course_reference_number": [
+            "20414"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Marketing Data Science",
+                "instructors": [
+                    "Anil Chaturvedi"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anil Chaturvedi",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "452-DL",
+        "course_name": "Graphical and Network Models",
+        "course_reference_number": [
+            "20415"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Graphical and Network Models",
+                "instructors": [
+                    "Thomas Miller"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Miller",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "453-DL",
+        "course_name": "AI and Natural Language Processing",
+        "course_reference_number": [
+            "20416",
+            "20417"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "AI and Natural Language Processing",
+                "instructors": [
+                    "Alianna Maren"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "56",
+                "course_name": "AI and Natural Language Processing",
+                "instructors": [
+                    "Syamala Srinivasan"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alianna Maren",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            },
+            {
+                "Instructors": "Syamala Srinivasan",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "456-DL",
+        "course_name": "Sports Performance Analytics",
+        "course_reference_number": [
+            "20418"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Sports Performance Analytics",
+                "instructors": [
+                    "Bradley Smith"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bradley Smith",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 400 & MSDS 401"
+            }
+        ]
+    },
+    {
+        "course_number": "458-DL",
+        "course_name": "Artificial Intelligence and Deep Learning",
+        "course_reference_number": [
+            "20419",
+            "20420"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Artificial Intelligence and Deep Learning",
+                "instructors": [
+                    "Alianna Maren"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "56",
+                "course_name": "Artificial Intelligence and Deep Learning",
+                "instructors": [
+                    "Syamala Srinivasan"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alianna Maren",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            },
+            {
+                "Instructors": "Syamala Srinivasan",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "459-DL",
+        "course_name": "Knowledge Engineering",
+        "course_reference_number": [
+            "20421"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Knowledge Engineering",
+                "instructors": [
+                    "Thomas Miller"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Miller",
+                "Meeting Info": "DISTANCE COURSE: Sa 1:00PM - 3:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "460-DL",
+        "course_name": "Decision Analytics",
+        "course_reference_number": [
+            "20422"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Decision Analytics",
+                "instructors": [
+                    "Joe Wilck"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joe Wilck",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken MSDS 400-DL/PREDICT 400-DL and MSDS 401-DL/PREDICT 401-DL."
+            }
+        ]
+    },
+    {
+        "course_number": "462-DL",
+        "course_name": "AI and Computer Vision",
+        "course_reference_number": [
+            "20434"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "AI and Computer Vision",
+                "instructors": [
+                    "Subil Abraham"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Subil Abraham",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS 420 & MSDS 422"
+            }
+        ]
+    },
+    {
+        "course_number": "472-DL",
+        "course_name": "Management Consulting",
+        "course_reference_number": [
+            "20424"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Management Consulting",
+                "instructors": [
+                    "Mark Schumacher"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Schumacher",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "474-DL",
+        "course_name": "Accounting and Finance for Technology Managers",
+        "course_reference_number": [
+            "20425"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Accounting and Finance for Technology Managers",
+                "instructors": [
+                    "Kathryn Daugherty"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kathryn Daugherty",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "475-DL",
+        "course_name": "Project Management",
+        "course_reference_number": [
+            "20426"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Project Management",
+                "instructors": [
+                    "Dan Baumgartner"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dan Baumgartner",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "476-DL",
+        "course_name": "Business Process Analytics",
+        "course_reference_number": [
+            "20439"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Business Process Analytics",
+                "instructors": [
+                    "Irene Tsapara"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:30AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Irene Tsapara",
+                "Meeting Info": "TBA: Sa 9:00AM - 11:30AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "480-DL",
+        "course_name": "Business Leadership and Communications",
+        "course_reference_number": [
+            "20427"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Business Leadership and Communications",
+                "instructors": [
+                    "Kimberly Chulis"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kimberly Chulis",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "485-DL",
+        "course_name": "Data Governance, Ethics, and Law",
+        "course_reference_number": [
+            "20436",
+            "20437"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Data Governance, Ethics, and Law",
+                "instructors": [
+                    "Abid Ali"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "56",
+                "course_name": "Data Governance, Ethics, and Law",
+                "instructors": [
+                    "Candice Bradley"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abid Ali",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            },
+            {
+                "Instructors": "Candice Bradley",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "498-DL",
+        "course_name": "Capstone",
+        "course_reference_number": [
+            "20428",
+            "20429",
+            "20430",
+            "20431"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Capstone",
+                "instructors": [
+                    "Donald Wedding"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "56",
+                "course_name": "Capstone",
+                "instructors": [
+                    "Abid Ali"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "58",
+                "course_name": "Analytics and Modeling Capstone",
+                "instructors": [
+                    "Capstone",
+                    "Chad Bhatti"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "60",
+                "course_name": "AI Capstone",
+                "instructors": [
+                    "Capstone",
+                    "Alianna Maren"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Donald Wedding",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS Capstone"
+            },
+            {
+                "Instructors": "Abid Ali",
+                "Meeting Info": "DISTANCE COURSE: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS Capstone"
+            },
+            {
+                "Topic": "Analytics and Modeling Capstone",
+                "Instructors": "Chad Bhatti",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS Capstone"
+            },
+            {
+                "Topic": "AI Capstone",
+                "Instructors": "Alianna Maren",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSDS Capstone"
+            }
+        ]
+    }
+]

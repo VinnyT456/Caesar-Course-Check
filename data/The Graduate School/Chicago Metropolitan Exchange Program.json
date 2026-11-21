@@ -1,0 +1,60 @@
+[
+    {
+        "course_number": "585-0",
+        "course_name": "Chicago Metropolitan Exchange",
+        "course_reference_number": [
+            "22792",
+            "22793",
+            "22794"
+        ],
+        "course_info": [
+            {
+                "section": "88",
+                "course_name": "Chicago Metropolitan Exchange",
+                "instructors": [
+                    "Kristine Emrich"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "89",
+                "course_name": "Chicago Metropolitan Exchange",
+                "instructors": [
+                    "Kristine Emrich"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "90",
+                "course_name": "Chicago Metropolitan Exchange",
+                "instructors": [
+                    "Kristine Emrich"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristine Emrich",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kristine Emrich",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kristine Emrich",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

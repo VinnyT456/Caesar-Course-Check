@@ -1,0 +1,30 @@
+[
+    {
+        "course_number": "396-B",
+        "course_name": "Professional Health Careers Proseminar II",
+        "course_reference_number": [
+            "20539"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Professional Health Careers Proseminar II",
+                "instructors": [
+                    "Kate Schultz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kate Schultz",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: SPS Pro-Health Only"
+            }
+        ]
+    }
+]

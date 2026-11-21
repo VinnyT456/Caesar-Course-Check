@@ -1,0 +1,120 @@
+[
+    {
+        "course_number": "380-0",
+        "course_name": "Mellon Mays Undergraduate Fellowships Seminar: An Introduction to Doctoral Study",
+        "course_reference_number": [
+            "28837"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Mellon Mays Undergraduate Fellowships Seminar: An Introduction to Doctoral Study",
+                "instructors": [
+                    "Ivy Wilson",
+                    "Elizabeth Lewis Pardoe"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ivy Wilson",
+                "Meeting Info": "Meets in Non-General PurposeRm: Tues 5:00PM - 6:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "500-0",
+        "course_name": "Funded Doctoral Study",
+        "course_reference_number": [
+            "20390"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Funded Doctoral Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "512-0",
+        "course_name": "Continuous Registration",
+        "course_reference_number": [
+            "20388"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Continuous Registration",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: McCormick PhD Students allowed by permission number only. Email mccormick-gradprograms@northwestern.edu for assistance. To request access fill out the form at: https://app.smartsheet.com/b/form/0198e17549e275469760e01dd1e1a781"
+            }
+        ]
+    },
+    {
+        "course_number": "514-0",
+        "course_name": "Continuous Registration Exception",
+        "course_reference_number": [
+            "20389"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Continuous Registration Exception",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "588-0",
+        "course_name": "Resident Masters Study",
+        "course_reference_number": [
+            "20387"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Resident Masters Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

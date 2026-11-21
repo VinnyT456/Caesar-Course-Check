@@ -1,0 +1,99 @@
+[
+    {
+        "course_number": "115-1",
+        "course_name": "Accelerated Elementary Ancient and Biblical Greek",
+        "course_reference_number": [
+            "24039"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Accelerated Elementary Ancient and Biblical Greek",
+                "instructors": [
+                    "Ryan Platte"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ryan Platte\n847/467-6976\nKresge Hall 4355\nOffice Hours: 10-12 pm and by appointment",
+                "Meeting Info": "Fisk Hall 114: Mon, Tues, Wed, Thurs 3:30PM - 4:20PM",
+                "Overview of class": "This course is the first in a two-quarter series designed to teach students to read ancient Greek texts, from the biblical New Testament to Homeric poetry and Platonic philosophy. These two quarters will teach all the fundamentals of grammar and vocabulary and lead students directly into a Fall quarter course dedicated to reading the New Testament in the original language. Thereafter students will progress to a range of genres from the classical and post-classical periods, including ancient Greek history, poetry, philosophy, drama, and more.",
+                "Class Materials (Required)": "Groton, Anne. From Alpha to Omega: a beginning course in Classical Greek [5th Edition], Focus, 2025. 978-1647930189\n\nBruss, Jon and Jennifer Starkey. From Alpha to Omega: ancillary exercises [2nd Edition]. Focus, 2023. 978-1585107100",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "201-2",
+        "course_name": "Introduction to Greek Literature",
+        "course_reference_number": [
+            "24032"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Lysias and Plato",
+                "instructors": [
+                    "Introduction to Greek Literature",
+                    "Abbe Walker"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Lysias and Plato",
+                "Instructors": "Abbe Walker",
+                "Meeting Info": "Kresge 4364 Classics Sem Rm: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "This course is the second of the second-year Greek series, designed to solidify the grammatical concepts learned in first-year while introducing students to the study of unaltered ancient literary texts. In this course we will focus on ancient Attic prose by reading from Lysias I: On the Murder of Eratosthenes. We will pay close attention to grammar and style, but we will also gain insight into the complexities of ancient Athenian culture, politics, and religion - especially in respect to the ancient legal system.",
+                "Class Materials (Required)": "Steadman, Geoffrey. Lysias I and Plato's Crito: Greek Text with Facing Vocabulary and Commentary. ISBN 0984306560.",
+                "Class Attributes": "Reading in the language, discussion in English\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Readings in Greek Literature",
+        "course_reference_number": [
+            "24033"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Gender and Homecoming in Homer's Odyssey",
+                "instructors": [
+                    "Readings in Greek Literature",
+                    "Marianne Hopman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Gender and Homecoming in Homer's Odyssey",
+                "Instructors": "Marianne Hopman\n847/491-8361\nKresge Hall 4361\nOffice Hours: Tu/Th from 3:30-4:30pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Whether in Christopher Nolan's 2026 film adaptation or in the ancient Greek text itself, women play such a prominent role in the Odyssey that the nineteenth-century scholar Samuel Butler argued that the poem was composed by a woman. Odysseus' survival on his journey home from Troy to Ithaca depends on encounters with a series of powerful female figures, some beautiful, others monstrous, who may facilitate or hinder his return. In addition, his restoration as the legitimate ruler of Ithaca after a long absence hinges on the willingness and ability of his wife, Penelope, to keep rival suitors at bay. This course examines the construction of gender ideology in selected passages from the Odyssey, with particular attention to negotiations of power and authority and to the extent to which the poem reinforces and naturalizes patriarchal ideology. Special attention will be paid to the formulaic language of Homeric epic and to the ways digital tools such as the Chicago Homer can help us identify, analyze, and interpret formulas.",
+                "Class Materials (Required)": "Stanford, W. B. (1998). Homer: Odyssey I-XII. Edited with Introduction and Commentary. London: Bloomsbury Academics. ISBN 978-1853995026\n\nStanford, W. B. 1998. Homer: Odyssey XIII-XXIV. Edited with an Introduction and Commentary. London: Bloomsbury Academics. ISBN 9781853995125",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

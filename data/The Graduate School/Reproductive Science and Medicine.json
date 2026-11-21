@@ -1,0 +1,197 @@
+[
+    {
+        "course_number": "406-0",
+        "course_name": "Emerging Research in Reproductive Science and Medicine",
+        "course_reference_number": [
+            "28213"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Emerging Research in Reproductive Science and Medicine",
+                "instructors": [
+                    "Lindsey Block"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lindsey Block",
+                "Meeting Info": "TBA: Mon, Wed 3:30PM - 5:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Medical Management of Fertility",
+        "course_reference_number": [
+            "28212"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Medical Management of Fertility",
+                "instructors": [
+                    "MaryEllen Pavone"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "MaryEllen Pavone",
+                "Meeting Info": "TBA: Thurs 2:00PM - 5:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "442-0",
+        "course_name": "Reproductive Research Laboratory I",
+        "course_reference_number": [
+            "28216"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Reproductive Research Laboratory I",
+                "instructors": [
+                    "Pamela Monahan",
+                    "Lindsey Block"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pamela Monahan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "450-0",
+        "course_name": "Reproductive Aging Impacts on Fertility and Overall Health",
+        "course_reference_number": [
+            "28218"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Reproductive Aging Impacts on Fertility and Overall Health",
+                "instructors": [
+                    "Francesca Duncan"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Francesca Duncan",
+                "Meeting Info": "TBA: Tues, Thurs 2:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "455-0",
+        "course_name": "Science Communication in Reproductive Science and Medicine",
+        "course_reference_number": [
+            "28217"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Science Communication in Reproductive Science and Medicine",
+                "instructors": [
+                    "Giulia Vigone"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Giulia Vigone",
+                "Meeting Info": "TBA: Thurs 10:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "591-0",
+        "course_name": "Thesis Capstone in Reproductive Science and Medicine",
+        "course_reference_number": [
+            "28215"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Thesis Capstone in Reproductive Science and Medicine",
+                "instructors": [
+                    "Aubrey Converse",
+                    "Nimra Chohan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aubrey Converse",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "595-0",
+        "course_name": "Research in Reproductive Science and Medicine",
+        "course_reference_number": [
+            "28214"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Research in Reproductive Science and Medicine",
+                "instructors": [
+                    "Aubrey Converse",
+                    "Nimra Chohan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aubrey Converse",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

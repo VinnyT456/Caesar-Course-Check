@@ -1,0 +1,30 @@
+[
+    {
+        "course_number": "364-DL",
+        "course_name": "Business and Professional Ethics",
+        "course_reference_number": [
+            "20548"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Business and Professional Ethics",
+                "instructors": [
+                    "John Laing"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Laing\n847/491-2558\nKresge 3-230",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "This course examines, from a philosophical perspective, a variety of ethical issues relating to contemporary business. Types of questions asked in the course include: Should corporations be viewed solely as profit-making entities? What is the appropriate regulatory response to recent corporate scandals? What obligations do corporations have when they market their products? How should corporations be evaluated when it comes to broader issues of social and economic justice, such as CEO compensation, health care coverage, and income disparities? What is the impact of the increasing globalization of corporations on these topics?\n\nThe course is conducted completely online. A technology fee will be added to tuition.\n\nFoundational disciplines / distribution: humanities. Meets requirement for philosophy course on professional ethics.",
+                "Registration Requirements": "This course is limited to School of Professional Studies students only. Undergraduate students in other schools at Northwestern are not permitted to enroll in this course.",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "course_number": "346-0",
+        "course_name": "Modeling and Computation in Science & Engineering",
+        "course_reference_number": [
+            "28365"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Modeling and Computation in Science & Engineering",
+                "instructors": [
+                    "Michael Miksis"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michael Miksis",
+                "Meeting Info": "Technological Institute M338: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "28368"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Simple Discrete Models",
+                "instructors": [
+                    "Special Topics",
+                    "Luis A Nunes Amaral"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Simple Discrete Models",
+                "Instructors": "Luis A Nunes Amaral",
+                "Meeting Info": "Technological Institute M416: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "414-0",
+        "course_name": "Differential Equations of Mathematical Physics",
+        "course_reference_number": [
+            "28366"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Differential Equations of Mathematical Physics",
+                "instructors": [
+                    "Vladimir Volpert"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Vladimir Volpert\n2145 Sheridan Road",
+                "Meeting Info": "Technological Institute M416: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "420-2",
+        "course_name": "Asymptotic and Perturbation Methods in Applied Mathematics",
+        "course_reference_number": [
+            "28696"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Asymptotic and Perturbation Methods in Applied Mathematics",
+                "instructors": [
+                    "Danny Abrams"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danny Abrams",
+                "Meeting Info": "Technological Institute M416: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "448-0",
+        "course_name": "Numerical Methods for Random Processes",
+        "course_reference_number": [
+            "28369"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Numerical Methods for Random Processes",
+                "instructors": [
+                    "Hermann Riecke"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hermann Riecke",
+                "Meeting Info": "Technological Institute M416: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

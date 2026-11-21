@@ -1,0 +1,63 @@
+[
+    {
+        "course_number": "208-2",
+        "course_name": "Intermediate Polish: Language and Culture",
+        "course_reference_number": [
+            "27840"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Intermediate Polish: Language and Culture",
+                "instructors": [
+                    "Klaudia Cierluk"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Klaudia Cierluk",
+                "Meeting Info": "University Library 3722: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "In Winter Quarter of Second Year Polish, the students expand their speaking, reading and writing skills by building on grammar and vocabulary. As a complement to the linguistic side of the course, the students will gain a greater familiarity with Polish history and culture through varied means including readings of literary works, articles from contemporary Polish newspapers and movies.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "358-1",
+        "course_name": "Polish for Advanced and Native Speakers",
+        "course_reference_number": [
+            "28582"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Polish for Advanced and Native Speakers",
+                "instructors": [
+                    "Michal Wilczewski"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michal Wilczewski\n847 4676485\n1880 Campus Dr., Kresge Hall, Suite 3305 (Office 3359), Evanston, IL 60208\nOffice Hours: Tuesdays and Thursdays 11am-12pm",
+                "Meeting Info": "University Library 3322: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Advanced Expression\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    }
+]

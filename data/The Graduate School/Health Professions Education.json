@@ -1,0 +1,58 @@
+[
+    {
+        "course_number": "420-1",
+        "course_name": "Learning Theory for Health Professions Educators",
+        "course_reference_number": [
+            "20322"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Learning Theory for Health Professions Educators",
+                "instructors": [
+                    "Patricia Garcia",
+                    "Michelle Fletcher",
+                    "Karen Mangold"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patricia Garcia",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "460-1",
+        "course_name": "Education Technology for Health Professions Educators",
+        "course_reference_number": [
+            "20323"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Education Technology for Health Professions Educators",
+                "instructors": [
+                    "David Salzman",
+                    "Michelle Fletcher",
+                    "Karen Mangold"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Salzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

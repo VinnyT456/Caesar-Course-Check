@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "202-DL",
+        "course_name": "Introduction to Finance",
+        "course_reference_number": [
+            "20549"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Finance",
+                "instructors": [
+                    "Cindy Wirtz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cindy Wirtz",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "course_number": "310-0",
+        "course_name": "Foundations of Learning in a New Language",
+        "course_reference_number": [
+            "27017"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Foundations of Learning in a New Language",
+                "instructors": [
+                    "Joao Goebel"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Joao Goebel",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Thurs 6:00PM - 8:50PM",
+                "Overview of class": "The Foundations of Learning in a New Language course engages pre-service teacher candidates in exploring historical, political, sociocultural, philosophical and educational practices that impact linguistically and culturally diverse learners in American schools. Topics include historical and current federal and state laws regarding the learning of English as a new language, foundations of first and second language acquisition, child development, sociocultural theory, and comparative international language instruction. Research and evidence based instructional models are discussed, with a deepened appreciation for factors contributing to sustained student achievement, including, but not limited to the psychological, cognitive, sociological, and cultural factors that impact student learning. An emphasis is placed on the standards for initial Teachers of English to Speakers of Other Languages (TESOL) Pre-K-12 Teacher Preparation Programs and the WIDA Language Development Standards.\n\nThis course can be applied towards endorsements in English as a Second Language and Bilingual Education on a Professional Educator License and carries 15 clinical clock hours of experience.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "311-0",
+        "course_name": "Elementary Science Methods and Content",
+        "course_reference_number": [
+            "27024"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Elementary Science Methods and Content",
+                "instructors": [
+                    "Stacey Cloud"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stacey Cloud",
+                "Meeting Info": "2001 Sheridan GPC 4103: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "This course prepares preservice teachers to teach science in the elementary grades. Inquiry is a\ngrounding principle that will be explored in the context of science planning. Candidates will\nexamine interdisciplinary planning and shared pedagogy, and methodologies for science. Some\nclass sessions, readings, or experiences will focus on science in contrast with some of the cross-\ncurricular approaches. Science topics include the fundamental principles and interrelationships\namong various areas of science (life, physical, environmental, earth and space), science and\nengineering practices and investigation to solve problems, and how to engage students in\nacquiring new knowledge. Candidates will work with and examine Next Generation Science\nStandards, Common Core Standards, and Illinois State Standards.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "327-0",
+        "course_name": "Educating Exceptional Children",
+        "course_reference_number": [
+            "27001",
+            "27002"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Educating Exceptional Children",
+                "instructors": [
+                    "Connor See"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            },
+            {
+                "section": "21",
+                "course_name": "Educating Exceptional Children",
+                "instructors": [
+                    "Connor See"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Connor See",
+                "Meeting Info": "2001 Sheridan GPC 4103: Tues 6:00PM - 8:50PM",
+                "Overview of class": "In this course we explore multiple major theories of typical cognitive and affective development, and their concomitant approaches to understanding and managing neurodiversity in the inclusive classroom. The focus is on integrating across theoretical frameworks in order to maximize classroom support and minimize the need for individual differentiation for students struggling with physical, academic or emotional challenges, including learning disabilities, emotional disturbance, attention deficit disorder, and autism spectrum disorder. Theoretical concepts are introduced in both readings and lecture. Teamwork exercises designed to promote research and theory-based practice provide students with opportunities to analyze increasingly complex case studies, while developing skills in educational leadership, collegial collaboration and student advocacy.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Instructors": "Connor See",
+                "Meeting Info": "2001 Sheridan GPC 1135: Thurs 6:00PM - 8:50PM",
+                "Overview of class": "In this course we explore multiple major theories of typical cognitive and affective development, and their concomitant approaches to understanding and managing neurodiversity in the inclusive classroom. The focus is on integrating across theoretical frameworks in order to maximize classroom support and minimize the need for individual differentiation for students struggling with physical, academic or emotional challenges, including learning disabilities, emotional disturbance, attention deficit disorder, and autism spectrum disorder. Theoretical concepts are introduced in both readings and lecture. Teamwork exercises designed to promote research and theory-based practice provide students with opportunities to analyze increasingly complex case studies, while developing skills in educational leadership, collegial collaboration and student advocacy.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "338-0",
+        "course_name": "Computational Tools for Justice and Inquiry-Based Learning",
+        "course_reference_number": [
+            "27018"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Computational Tools for Justice and Inquiry-Based Learning",
+                "instructors": [
+                    "Paula Hooper"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paula Hooper",
+                "Meeting Info": "2001 Sheridan GPC GN210: Mon 6:00PM - 8:50PM",
+                "Overview of class": "Computational Tools for Justice and Inquiry-Based Learning is a course designed to help\nteachers use empirical models to explore new technologies, evaluate their educational potential,\nand develop scenarios of use consistent with their teaching philosophy. The course starts with a\nreflection on the relationship between teaching philosophy and technology use. We will also\nexplore children's everyday uses of technology. We then will take an in-depth look at three\nemerging technologies: personal broadcasting (e.g., blogs, podcasts), Wikipedia, and gaming. In\neach case, you will get extensive experience with the technology, examine empirical models that\ncan be applied to the technologies, and reflect on how the technologies intersect with your\nteaching philosophy. The course also provides exposure to a variety of technologies that are\ncommon in school settings.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "385-0",
+        "course_name": "Student Teaching in Multilingual and Multicultural Contexts: Secondary Math",
+        "course_reference_number": [
+            "27023"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Student Teaching in Multilingual and Multicultural Contexts: Secondary Math",
+                "instructors": [
+                    "James Lynn"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Lynn",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Thurs 5:00PM - 7:50PM",
+                "Overview of class": "The Student Teaching Seminar supports teacher candidates in developing skills, practices, and understandings essential for successful professional educators, including the use of theoretical knowledge to inform professional practice and the cultivation of questions rooted in practice to illuminate the meaning of theory. Teacher candidates are guided in the development and implementation of instructional units and lessons that apply a variety of methods and approaches (including ones designed to support linguistically diverse students). Teacher candidates work together and with the support of mentors to consider the selection and evaluation of instructional materials and consider how they can be used, scaffolded, and adapted to meet the needs of students. Further, teacher candidates examine, adapt, and develop a range of classroom assessments to effectively measure content area learning as well as English language development. Based on assessment findings, teacher candidates plan logical next steps for students and consider how to effectively differentiate instruction. The course emphasizes teacher reflection in support of growth.\n\nStudents must be full-time student teachers at a school placement. This course can be applied towards endorsements in English as a Second Language and Bilingual Education on a Professional Educator License and carries 15 clinical clock hours of experience specific to these endorsements.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: TEACH_ED 375-0"
+            }
+        ]
+    },
+    {
+        "course_number": "386-0",
+        "course_name": "Student Teaching in Multilingual and Multicultural Contexts: Secondary Science",
+        "course_reference_number": [
+            "27022"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Student Teaching in Multilingual and Multicultural Contexts: Secondary Science",
+                "instructors": [
+                    "Dawn Novak"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dawn Novak",
+                "Meeting Info": "Lunt Hall 102: Thurs 5:00PM - 7:50PM",
+                "Overview of class": "The Student Teaching Seminar supports teacher candidates in developing skills, practices, and understandings essential for successful professional educators, including the use of theoretical knowledge to inform professional practice and the cultivation of questions rooted in practice to illuminate the meaning of theory. Teacher candidates are guided in the development and implementation of instructional units and lessons that apply a variety of methods and approaches (including ones designed to support linguistically diverse students). Teacher candidates work together and with the support of mentors to consider the selection and evaluation of instructional materials and consider how they can be used, scaffolded, and adapted to meet the needs of students. Further, teacher candidates examine, adapt, and develop a range of classroom assessments to effectively measure content area learning as well as English language development. Based on assessment findings, teacher candidates plan logical next steps for students and consider how to effectively differentiate instruction. The course emphasizes teacher reflection in support of growth.\n\nStudents must be full-time student teachers at a school placement. This course can be applied towards endorsements in English as a Second Language and Bilingual Education on a Professional Educator License and carries 15 clinical clock hours of experience specific to these endorsements.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: TEACH_ED 376-0."
+            }
+        ]
+    },
+    {
+        "course_number": "387-0",
+        "course_name": "Student Teaching in Multilingual and Multicultural Contexts: Elementary",
+        "course_reference_number": [
+            "27021"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Student Teaching in Multilingual and Multicultural Contexts: Elementary",
+                "instructors": [
+                    "Janis Morgan"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Janis Morgan",
+                "Meeting Info": "2001 Sheridan GPC 2109: Thurs 5:00PM - 7:50PM",
+                "Overview of class": "The Student Teaching Seminar supports teacher candidates in developing skills, practices, and understandings essential for successful professional educators, including the use of theoretical knowledge to inform professional practice and the cultivation of questions rooted in practice to illuminate the meaning of theory. Teacher candidates are guided in the development and implementation of instructional units and lessons that apply a variety of methods and approaches (including ones designed to support linguistically diverse students). Teacher candidates work together and with the support of mentors to consider the selection and evaluation of instructional materials and consider how they can be used, scaffolded, and adapted to meet the needs of students. Further, teacher candidates examine, adapt, and develop a range of classroom assessments to effectively measure content area learning as well as English language development. Based on assessment findings, teacher candidates plan logical next steps for students and consider how to effectively differentiate instruction. The course emphasizes teacher reflection in support of growth.\n\nStudents must be full-time student teachers at a school placement. This course can be applied towards endorsements in English as a Second Language and Bilingual Education on a Professional Educator License and carries 15 clinical clock hours of experience specific to these endorsements.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: TEACH_ED 377-0."
+            }
+        ]
+    },
+    {
+        "course_number": "388-0",
+        "course_name": "Student Teaching in Multilingual & Multicultural Contexts: Secondary Humanities",
+        "course_reference_number": [
+            "27009"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Student Teaching in Multilingual & Multicultural Contexts: Secondary Humanities",
+                "instructors": [
+                    "Rebekah Stathakis"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rebekah Stathakis",
+                "Meeting Info": "2001 Sheridan GPC 1105: Thurs 5:00PM - 7:50PM",
+                "Overview of class": "The Student Teaching Seminar supports teacher candidates in developing skills, practices, and understandings essential for successful professional educators, including the use of theoretical knowledge to inform professional practice and the cultivation of questions rooted in practice to illuminate the meaning of theory. Teacher candidates are guided in the development and implementation of instructional units and lessons that apply a variety of methods and approaches (including ones designed to support linguistically diverse students). Teacher candidates work together and with the support of mentors to consider the selection and evaluation of instructional materials and consider how they can be used, scaffolded, and adapted to meet the needs of students. Further, teacher candidates examine, adapt, and develop a range of classroom assessments to effectively measure content area learning as well as English language development. Based on assessment findings, teacher candidates plan logical next steps for students and consider how to effectively differentiate instruction. The course emphasizes teacher reflection in support of growth.\n\nStudents must be full-time student teachers at a school placement. This course can be applied towards endorsements in English as a Second Language and Bilingual Education on a Professional Educator License and carries 15 clinical clock hours of experience specific to these endorsements.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPermission of School\nDepartment Majors Only\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: TEACH_ED 378-0 or MS_ED 478-0."
+            }
+        ]
+    }
+]

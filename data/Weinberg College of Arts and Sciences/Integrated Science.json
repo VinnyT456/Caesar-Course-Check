@@ -1,0 +1,1457 @@
+[
+    {
+        "course_number": "398-0",
+        "course_name": "Undergraduate Research",
+        "course_reference_number": [
+            "22540",
+            "22541",
+            "22542",
+            "22543",
+            "22544",
+            "22545",
+            "22546",
+            "22547",
+            "22548",
+            "22549",
+            "22550",
+            "22551",
+            "22552",
+            "22553",
+            "22554",
+            "22555",
+            "22556",
+            "22557",
+            "22558",
+            "22559",
+            "22560",
+            "22561",
+            "22562",
+            "22563",
+            "22564",
+            "22565",
+            "22566",
+            "22567",
+            "22568",
+            "22569",
+            "22570",
+            "22571",
+            "22572",
+            "22573",
+            "22574",
+            "22575",
+            "22576",
+            "22577",
+            "22578",
+            "22579",
+            "22580",
+            "22581",
+            "22582",
+            "22583",
+            "22584",
+            "22585",
+            "22586",
+            "22587",
+            "22588",
+            "22589",
+            "22590",
+            "22591",
+            "22592",
+            "22593",
+            "22594",
+            "22595",
+            "22596",
+            "22597",
+            "22598",
+            "22599",
+            "22600",
+            "22601",
+            "22602",
+            "22603",
+            "22604",
+            "22605",
+            "22606",
+            "22607",
+            "22608",
+            "22609",
+            "22610",
+            "22611",
+            "22612",
+            "22613",
+            "22614",
+            "22615",
+            "22616",
+            "22617",
+            "22618",
+            "22619",
+            "22535",
+            "22536",
+            "22537",
+            "22538",
+            "22539"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Frederic Rasio"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "21",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Andrew Lee"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "22",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "David Meyer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "23",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Jason Brickner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "24",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Magdalena Osburn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "25",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Cynthia Thompson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "26",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Noshir Contractor"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "27",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Richard B Silverman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "28",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Samuel Stupp"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "29",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Frederic Rasio"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Jennifer B. Dunn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "31",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Neal Blair"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "32",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Richard Morimoto"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "33",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Klinton Bicknell"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "34",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Thomas Meade"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "35",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Danna Freedman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "36",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Yarrow Axford"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "37",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Robert Lamb"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "38",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Tiffany Schmidt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "39",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Franz Geiger"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "40",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Suzan van der Lee"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "41",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Thomas O'Halloran"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "42",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Hermann Riecke"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "43",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Aleksandar Kuzmanovic"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "44",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Paul Umbanhowar"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "45",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Carl Dahl"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "46",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Nathaniel Stern"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "47",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Brian Odom"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "48",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Raffaella Margutti"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "49",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Wen-fai Fong"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "50",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Mark Beeman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "51",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "William Dichtel"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "52",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Ian Horswill"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "53",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Sandy Zabell"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "54",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "George C Schatz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "55",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Laura Lackner"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "56",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Justin Notestein"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "57",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Yan Chen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "58",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Timothy Kovachy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "59",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Hao F Zhang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "60",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Yue Yang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "61",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Christian Petersen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "62",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Heather Anne Aranyi"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "63",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Michelle Driscoll"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "64",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Daniel Dombeck"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "65",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Andrew Jacobson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "66",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Yevgenia Kozorovitskiy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "67",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Vijay Mittal"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "68",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Istvan Kovacs"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "69",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "William Halperin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "70",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Heather Anne Aranyi"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "71",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Andrew Geraci"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "72",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Mark Hersam"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "73",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Istvan Kovacs"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "74",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Keith Tyo"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "75",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Neelesh Patankar"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "76",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Sasha Tchekhovskoy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "77",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "James M Rondinelli"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "78",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Erica Hartmann"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "79",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Indira Raman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "80",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Venkat Chandrasekhar"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "81",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Eric Zaslow"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "82",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Paul Umbanhowar"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "83",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Chad Mirkin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "84",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Jens Koch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "85",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Karl Scheidt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "86",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Ishwar Radhakrishnan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "87",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Katherine Amato"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "88",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Andre De Gouvea"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "89",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Ian McCue"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "90",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Derk Joester"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "91",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Geoffrey Bentsen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "92",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "James Gaynor"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "93",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Todd Gingrich"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "94",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Jeffrey Savas"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "95",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Sonali Chaudhury"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "96",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Rosemary Braun"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "97",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "SonBinh Nguyen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "98",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Nikos Hardavellas"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "99",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Jeffrey Richards"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "100",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Benjamin Weinkove"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "101",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Kenneth Poeppelmeier"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "102",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Milan Mrksich"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "103",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "James E Fitzgerald"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "104",
+                "course_name": "Undergraduate Research",
+                "instructors": [
+                    "Loretta Li"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Frederic Rasio\n847/491-7904\nTechnological Institute (2145 Sheridan Road), Room F-213, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Andrew Lee",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "David Meyer\n847/491-4516\nTech F255, Evanston\nOffice Hours: office hours: MWF 12:30-1:30 PM",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Jason Brickner\n847/467-0210\nPancoe Pavilion, Room 3-105",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Magdalena Osburn\n847/491-4254\nTech F291/F292\nOffice Hours: by appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Cynthia Thompson\n847/491-2421\n2240 Campus Drive",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Noshir Contractor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Richard B Silverman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Samuel Stupp",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Frederic Rasio\n847/491-7904\nTechnological Institute (2145 Sheridan Road), Room F-213, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Jennifer B. Dunn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Neal Blair\n847/491-8790\nTECH A228\nOffice Hours: As arranged (n-blair@northwestern.edu)",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Richard Morimoto",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Klinton Bicknell",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Thomas Meade\n847/491-2481\nSilverman Hall (East Tower), 2nd floor, room 2503",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Danna Freedman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Yarrow Axford\nTechnological Institute F394/F395\nOffice Hours: axford@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Robert Lamb\n847/491-5433\nCook Hall, 2200 Campus Dr, Room 3141",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Tiffany Schmidt\n847/467-4332\nPancoe 1121\nOffice Hours: Phone or email for appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Franz Geiger",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Suzan van der Lee\n847/491-8183\nTech F494\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Thomas O'Halloran",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Hermann Riecke",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Aleksandar Kuzmanovic",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Paul Umbanhowar\n847/467-5063\nechnological Institute, Rm B227, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Carl Dahl",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Nathaniel Stern\n847/467-0625\nTech F141",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Brian Odom\n847/467-5452\nTechnology Institute Building (2145 Sheridan Road), Room F-315, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Raffaella Margutti",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Wen-fai Fong",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Mark Beeman\n847/491-4617\n104 Cresap Hall\nOffice Hours: Office Hours: M 11:00am-noon, by appt",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "William Dichtel",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Ian Horswill",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Sandy Zabell\n8474915564\nLunt 227",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "George C Schatz",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Laura Lackner",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Justin Notestein\n8474915357\nTechnological Institute E250 (Mail to Tech E136)",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Yan Chen",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Timothy Kovachy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Hao F Zhang",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Yue Yang",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Christian Petersen\n847/467-3553\nPancoe 4411",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Heather Anne Aranyi",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Michelle Driscoll",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Daniel Dombeck\n847/467-0475\nPancoe 2409",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Andrew Jacobson\n847/491-3132\nTech F396/F398",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Yevgenia Kozorovitskiy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Vijay Mittal",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Istvan Kovacs",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "William Halperin\n847/491-3686\nTechnological Institute (2145 Sheridan Road), Room F-126, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Heather Anne Aranyi",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Andrew Geraci",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Mark Hersam\n847/491-2696\nRoom 1135 Cook Hall\nOffice Hours: Wednesday, 2-4 pm",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Istvan Kovacs",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Keith Tyo",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Neelesh Patankar\n847/491-3021\nTechnological Institute, Rm L490, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Sasha Tchekhovskoy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "James M Rondinelli\n847/491-3198\n3037 Cook Hall\nOffice Hours: Wednesdays, 9-11 am",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Erica Hartmann",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Indira Raman\n847/467-7912\nCook Hall, Room 2-131\nOffice Hours: by appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Venkat Chandrasekhar\n847/491-3444\nTechnological Institute Building (2145 Sheridan Road), Room F-125, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Eric Zaslow\n8474676447\nLunt 302",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Paul Umbanhowar\n847/467-5063\nechnological Institute, Rm B227, 2145 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Chad Mirkin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Jens Koch\n847/467-2583\nTechnological Institute Building (2145 Sheridan Road), Room F-332, Evanston, IL\nOffice Hours: by appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Karl Scheidt",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Ishwar Radhakrishnan\n847/467-1173\nCook Hall, Room 4135",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Katherine Amato\n847/467-5890\n1810 Hinman Avenue, Room A62",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Andre De Gouvea\n847467 6462\nTechnological Institute (2145 Sheridan Road), Room F-325, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Ian McCue",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Derk Joester",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Geoffrey Bentsen",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "James Gaynor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Todd Gingrich",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Jeffrey Savas",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Sonali Chaudhury",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Rosemary Braun",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "SonBinh Nguyen",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Nikos Hardavellas",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Jeffrey Richards",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Benjamin Weinkove\n847 4915587\nLunt Hall 310 2033 Sheridan Road",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Kenneth Poeppelmeier",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Milan Mrksich",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "James E Fitzgerald",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            },
+            {
+                "Instructors": "Loretta Li",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

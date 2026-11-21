@@ -1,0 +1,532 @@
+[
+    {
+        "course_number": "290-4",
+        "course_name": "Introductory Topics in Middle East and North African Studies",
+        "course_reference_number": [
+            "26981",
+            "28693",
+            "28694"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Re-inventing The Past: Archaeology, Politics, and",
+                "instructors": [
+                    "Introductory Topics in Middle East and North African Studies",
+                    "Oya Topcuoglu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Violence in Israel/Palestine: A History",
+                "instructors": [
+                    "Introductory Topics in Middle East and North African Studies",
+                    "Shira Pinhas"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Fossil Fuels and Climate Change in Palestine/Israe",
+                "instructors": [
+                    "Introductory Topics in Middle East and North African Studies",
+                    "Shira Pinhas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Re-inventing The Past: Archaeology, Politics, and",
+                "Instructors": "Oya Topcuoglu\n847/491-2402\nCrowe 4-121",
+                "Meeting Info": "Locy Hall 301: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Re-inventing The Past: Archaeology, Politics, and Identity in the Middle East\n\nSince the 19th century, archaeology has played a pivotal role in the politics of the modern Middle East. As nation-states emerged, leaders and intellectuals often turned to the ancient past to construct and legitimize national identities. Archaeological discoveries were used to create narratives that linked contemporary populations to illustrious ancient civilizations, thereby fostering a sense of pride and continuity. This instrumentalization of archaeology served political agendas, reinforcing territorial claims and cultural heritage.\n\nIn this course, we will explore the complicated relationship between archaeology, politics, and national identity in the modern Middle East, tracing how this relationship has changed over time. Through a series of case studies from various countries and time periods, we will study how archaeological discoveries and interpretations have been instrumentalized to serve political agendas, shape cultural narratives, and construct national identities. Working with primary and secondary sources (such as official documents, images, and artifacts), we will consider the conditions under which historical actors operated, analyze causes and consequences, and compare continuities and ruptures across cases. We will critically examine the role of archaeology in contemporary political discourse and its impact on regional and global perceptions of the Middle East. The course will include a field trip to the ISAC Museum of the University of Chicago, where we will engage directly with the materials, cultures, and places we study.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Violence in Israel/Palestine: A History",
+                "Instructors": "Shira Pinhas\nCrowe 5-167\nOffice Hours: Wednesdays 10:00 – 12:00",
+                "Meeting Info": "Harris Hall L28: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Violence in Palestine/Israel: A History\n\n\"Guns don't kill people, people kill people\" (American proverb). \"You are different with a gun in your hand; the gun is different with you holding it\" (Bruno Latour, Pandora's Hope: Essays on the Reality of Science Studies, 179). These two sayings present diametrically opposed views of the relationship between weapons and society: one regards weapons as a neutral medium that merely executes violent human intentions, while the other attributes to them agency in shaping those very intentions. This course examines this tension through the history of violence and arms in Palestine/Israel, spanning the periods of the Ottoman Empire, British rule, and the establishment of the State of Israel up to the present day. Violence is a human experience unlike any other. It leaves deep emotional and physical imprints, and sometimes transforms the very way people perceive and sense the world. To examine this, we will engage with poetry, music, and film alongside archival sources, inquiring into how violence has shaped the subjectivities of perpetrators, victims, witnesses, and bystanders across various times and contexts.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Fossil Fuels and Climate Change in Palestine/Israe",
+                "Instructors": "Shira Pinhas\nCrowe 5-167\nOffice Hours: Wednesdays 10:00 – 12:00",
+                "Meeting Info": "Kresge Centennial Hall 2-339: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Fossil Fuels and Climate Change in Palestine/Israel: A Global Perspective\n\nWith a warming rate double the global average and half of the world's oil reserves, the Middle East is a pivotal site for understanding the history, present, and future of climate change. Although Israel/Palestine is not today an oil-producing country, historically it was imagined differently: in the 19th and 20th centuries it was considered a promising frontier for oil exploration and became a regional hub of fossil fuel infrastructures, channeling Middle Eastern oil and North African gas to Europe. This seminar examines how the rise of fossil fuels and the dynamics of climate change played out in Palestine/Israel and shaped both the Zionist-Palestinian struggle and Palestine's place within the Middle East. We will consider how the Middle East became \"Middle\" through the interplay between energy sources, infrastructures, and colonial powers. We will explore how carbonization in the region gave rise to new forms of political rule, reshaping identities and altering environments, and how seemingly mundane infrastructures - from coaling depots to automobility - enabled and managed colonial power as well as resistance to it. Drawing on archival materials alongside fiction, poetry, and film in Arabic and Hebrew (all provided in English translation), we will analyze the intimate, everyday, and affective dimensions of carbonization and\nwarming, exploring how these forces shaped subjectivities and societies. Finally, we will consider how different notions of heat and cooling technologies were tied to specific constructions of gender, race, and class.",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-3",
+        "course_name": "Advanced Topics in Middle East & North African Studies",
+        "course_reference_number": [
+            "27487",
+            "26976",
+            "24933",
+            "28586"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Politics of the Middle East",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Wendy Pearlman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Introduction to the Kurdish Question",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Hevi Gokdemir"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:30PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Anthropology of Economic Sanctions",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Emrah Yildiz"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Hazard, Disaster and Society",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Elham Hoominfar"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Politics of the Middle East",
+                "Instructors": "Wendy Pearlman\n8474912259\n2001 Sheridan Road, 3201\nOffice Hours: By appointment only",
+                "Meeting Info": "2001 Sheridan GPC 1440: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Politics of the Middle East\n\nThis course explores the comparative politics of the Middle East and North Africa. The first half of the course focuses on the historical and institutional context of politics and government in the region, roughly from World War I until the eve of the 2011 Arab Uprisings. Here we examine the emergence of independent nation-states, the consolidation of regimes, issues of identity and religion, and patterns in the relationship between state, society, and economy. We compare explanations for the endurance of authoritarian regimes in Arab countries, as well as the political system in Turkey. The second half of the course concentrates on dynamics of mobilization and conflict. Here we explore the Iranian revolution and making of the Islamic Republic. Turning to Arab states, we examine the 2011 uprisings and political developments in their aftermath. We also study the origins and evolution over the struggle for Israel and Palestine. The two halves of the course are interconnected, and students are encouraged and expected to use the material presented each session to inform their engagement with material presented during the sessions that follow.",
+                "Learning Objectives": "By the end of this course, students will:\n\n1. Acquire and demonstrate foundational knowledge about the politics, economics, struggles, and transformations of the modern Middle East and North Africa from the late Ottoman Empire to the present;\n2. Explore the structures and processes that shape the formation and resilience of political regimes, the relationships between state and society, the salience of political identities, and the trajectories of different social movements;\n3. Apply general scholarly theories and concepts to recognize how features of the region's politics compares to politics elsewhere;\n4. Evaluate, discuss, and reflect upon how politics in the region is shaped by history and institutions, on the one hand, and dynamic contestation among multiple identities, interests, and relationships, on the other;\n5. Identify alternative explanations for key developments in the region and use evidence to assess and critique the validity of those explanations;\n6. Compare and contrast countries in the region and assess how these countries have changed over time.",
+                "Teaching Method": "Lecture & discussion section",
+                "Evaluation Method": "Exams, section participation, short research essay",
+                "Class Materials (Suggested)": "Michele Penner Angrist, ed. Politics and Society of the Contemporary Middle East, 3rd Edition (Boulder, CO: Lynne Rienner Publishers, 2019). ISBN 978-1-62637-805-6. [This newest edition is required]\nSandy Tolan, The Lemon Tree: An Arab, a Jew, and the Heart of the Middle East (New York: Bloomsbury, 2006). ISBN 978-1582343433. [Any edition is fine]",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC 1105: Fri 10:00AM - 10:50AM"
+            },
+            {
+                "Topic": "Introduction to the Kurdish Question",
+                "Instructors": "Hevi Gokdemir\n2001 Sheridan Road, 3200\nOffice Hours: By Appointment only",
+                "Meeting Info": "University Library 3322: Wed 2:00PM - 4:30PM",
+                "Overview of class": "Introduction to the Kurdish Question\n\nWho are the Kurds, and why do their politics matter? In this class, we will use Kurdish politics as a lens for working through those larger debates, asking where our theories hold up and where they break. To make sense of broad trends, you also have to understand the exceptions. The Kurds are often described as the largest stateless people in the world, which makes them a hard case for some of our most basic assumptions about nations, borders, and sovereignty. Spread across Turkey, Iraq, Iran, and Syria, the Kurdish question puts pressure on self-determination norms, nationalism, state formation, and alliance politics while shaping the wider MENA region's political order.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Anthropology of Economic Sanctions",
+                "Instructors": "Emrah Yildiz\n847/467-6254\n2001 Sheridan Rd, Room 5130\nOffice Hours: Tuesdays, 1-3pm",
+                "Meeting Info": "2001 Sheridan GPC 3111: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Anthropology of Economic Sanctions\n\nThis seminar introduces the participants to the anthropological study of economic sanctions. Departing from policy-centric frameworks that conceive of sanctions as temporary tools of inter-state diplomacy and alternatives to war, we ponder the analytical utility of approaching them as weapons of war by other means.",
+                "Learning Objectives": "By the end of the course, participants will be able to:\n\nDemonstrate knowledge and understanding of social science theories related to economic sanctions and prevalent interpretations of them as alternatives to military conflict and war in anthropology and allied disciplines\n\nDevelop the ability to critique theories, claims, and policies in the social and behavioral sciences that deal with economic sanctions and their mitigation as well as their objects and subjects of practice through careful evaluation of scholarly arguments including their major assertions, assumptions, evidential basis, and explanatory utility\n\nReflect upon the way in which theories and research about economic sanctions from the social and behavioral sciences help elucidate the factors underlying contemporary social issues, social problems, and/or ethical dilemmas in such research in a global and comparative framework.",
+                "Teaching Method": "Seminar\nReadings\nClass participation\nResearch project\nCase studies\nWriting assignments\nFilms / videos\nPresentations\nDiscussion",
+                "Evaluation Method": "Paper, final\nPresentations\nAttendance\nClass participation\nDiscussion section\nReadings\nWriting assignments\nPaper, mid-term",
+                "Class Materials (Required)": "All required texts, with the exception of the book-length manuscripts given below, can be found under files on the course website or on the Northwestern library database, unless already hyperlinked to an open source on the syllabus",
+                "Class Notes": "Students will be evaluated on the basis of two writing assignments (50%) and class participation (50%). The writing assignments include two 8-page papers drawing upon course materials. Class participation includes (1) Regular attendance (10%) in seminar meetings and contribution to discussions; (2) 14 Seminar questions (25%); (3) Co-leading seminar discussion in one session (15%).",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Hazard, Disaster and Society",
+                "Instructors": "Elham Hoominfar\n2001 Sheridan Road, #2314",
+                "Meeting Info": "Parkes Hall 212: Tues 9:00AM - 11:50AM",
+                "Overview of class": "Hazard, Disaster and Society\n\nThis course examines how socioeconomic and environmental factors work together to cause hazards and disasters in human society. In this course we learn the main concepts about disaster such as preparedness, vulnerability, resilience, response, mitigation, etc. We learn that a disaster does not have the same effect on everyone (all groups of people), and factors of social inequality such as race, ethnicity, class, and gender, make people more vulnerable to impacts of disasters. Also, this course, with an interdisciplinary perspective, analyzes disasters in the global North and South. This is a discussion-intensive course for advanced undergrad students. The classes are the student-centered with an emphasis on collaborative learning. The class meetings will consist of lecture, discussion, presentations, teamwork, activities, video/audio materials and projects.",
+                "Class Materials (Required)": "Smith, Keith. Environmental Hazards: Assessing Risk and Reducing Disaster. 2013. 6th edition. New York: Routledge. Capitalism and Catastrophe: A Critical Disaster Studies Manifesto — Raja Swamy (2025)",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nGlobal Perspectives on Power, Justice, and Equity\nNo Freshmen\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-4",
+        "course_name": "Advanced Topics in Middle East & North African Studies",
+        "course_reference_number": [
+            "28587",
+            "28588",
+            "28589"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Jews of Iran",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Jonathan Brack"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "The Arabian Peninsula Since the 18th Century",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Henri Lauziere"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "The Arab Quest for Independence after WWI",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Henri Lauziere"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Jews of Iran",
+                "Instructors": "Jonathan Brack",
+                "Meeting Info": "Harris Hall L06: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Jews of Iran\n\nIran is home to one of the oldest and, in our days, the largest Jewish communities in the Middle East outside Israel. This course follows its history from antiquity to the present, comparing it with other Jewish minorities under Islamic rule. o what extent were the Jews of Iran integrated into their Persian speaking environment? Why did the community endure when others emigrated, even after the 1979 revolution? How did Iranian Jewish diasporic communities evolve? And how did Jews shape modern Iranian and Middle Eastern history?",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "The Arabian Peninsula Since the 18th Century",
+                "Instructors": "Henri Lauziere\n847/467-3654\nHarris Hall - Room 333",
+                "Meeting Info": "University Hall 102: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "The Arabian Peninsula Since the 18th Century\n\nThis course aims at introducing students to major themes in the modern history, politics and societies of the Arabian Peninsula—a land mass that comprises the seven states: Saudi Arabia, Kuwait, Bahrain, Qatar, the UAE, Oman, and Yemen. Although this subsection of the Middle East has long been neglected in academia, it is now an increasingly pivotal region. The first half of the course will concentrate on state formation and the political, economic, and ideological forces that shaped the Arabian Peninsula until the British",
+                "Learning Objectives": "1- Identify key turning points in the modern history and the Arabian Peninsula—from state formation to cultural transformations—as well as the social, political and economic factors that underlay them.\n2- Appreciate the diversity and specificities of the societies of the Arabian Peninsula in the modern period.\n3- Analyze and interpret historical information and primary sources to formulate arguments about change over time.",
+                "Evaluation Method": "The final grade for the course depends on the satisfactory and timely completion of: • Participation and assignments in discussion sections (20%) • an in-class map quiz on Friday of Week 3 (5%) • a midterm examination on week 5 worth 25% • a take-home final exam at the end of the quarter worth 50%",
+                "Class Materials (Required)": "Materials will be posted on Canvas",
+                "Class Attributes": "Historical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro",
+                "Associated Classes": "DIS - Lutkin Hall: Thurs 11:00AM - 11:50AM"
+            },
+            {
+                "Topic": "The Arab Quest for Independence after WWI",
+                "Instructors": "Henri Lauziere\n847/467-3654\nHarris Hall - Room 333",
+                "Meeting Info": "Harris Hall L05: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "The Quest for Arab Independence after WWI\n\nThis seminar introduces students to major themes in the history of Syria and other Arab-majority areas during and after WWI (1916-1920)—arguably one of the most pivotal periods in modern Middle Eastern history. Ultimately, the course is about the ways in which different historians have understood and interpreted the events that unfolded during this time period. Imagine that you and your classmates are a group of conscientious lawyers examining a case ahead of a trial. In this hypothetical scenario, one party has put forward a case based on a certain narrative of events. Out of concern for its accuracy and plausibility, your task is to determine if, or to what extent, it holds water. The case in question has been put forward by historian Elizabeth Thompson in a book dealing with Syria and the Arabs' quest for independence following WWI. We are going to familiarize ourselves with the facts of the case and the case itself. Then we are going to scrutinize the argument, weigh the evidence, consider alternatives, and assess the extent to which the case withstands scrutiny.",
+                "Learning Objectives": "1) Hone critical thinking skills that are useful in various academic and professional settings—especially the ability to identify and articulate the weaknesses of premises and/or conclusions in ways that are not simply empirical;\n2) Introduce students to the history of Syria and other Arab-majority areas between 1916 and 1920;\n3) Assess the various ways in which historians have sought to explain and interpret this pivotal moment in Middle Eastern history",
+                "Teaching Method": "Seminar",
+                "Evaluation Method": "Four short papers (75%); attendance and participation (25%)",
+                "Class Attributes": "Advanced Expression\nHistorical Studies Foundational Discipline\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-5",
+        "course_name": "Advanced Topics in Middle East & North African Studies",
+        "course_reference_number": [
+            "28559",
+            "28560"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Islamic Law",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Brannon Ingram"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:30PM",
+                "end_time": "5:00PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Mediating Religion",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Usman Hamid"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:30PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Islamic Law",
+                "Instructors": "Brannon Ingram\nCrowe Hall 4-135",
+                "Meeting Info": "555 Clark 230: Wed 2:30PM - 5:00PM",
+                "Overview of class": "Islamic Law\n\nIslamic law - the sacred law of Islam grounded in the Qur'an, the practice of the Prophet Muhammad, and the writings of Muslim scholars and jurists - stretches back nearly 1400 years. This course offers, first, an overview of the origins and evolution of Islamic law from the life of Muhammad to end of the classical era. We then seek, secondly, to understand how colonialism and the modern nation-state affected the conceptualization and implementation of Islamic law in the modern period. To these ends, we look in-depth at two specific areas of law - marriage and divorce, and criminal law - in two specific regions: the Ottoman empire and contemporary Iran.",
+                "Class Materials (Required)": "Rumee Ahmed, Sharia Compliant: A User's Guide to Hacking Islamic Law (Stanford: Stanford University Press, 2018) - 9781503605701 Wael B. Hallaq, An Introduction to Islamic Law (Cambridge: Cambridge University Press, 2009) - 9780521678735 Rudolph Peters, Crime and Punishment in Islamic Law (Cambridge: Cambridge University Press, 2006) - ISBN 9780521796705 Judith E. Tucker, In the House of the Law: Gender and Islamic Law in Ottoman Syria and Palestine (University of California Press, 1998) - ISBN 9780520224742",
+                "Class Notes": "Students must have taken RELIGION 250 or obtain instructor consent in order to register for this course.",
+                "Class Attributes": "Advanced Expression\nEthical and Evaluative Thinking Foundational Disci\nHistorical Studies Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            },
+            {
+                "Topic": "Mediating Religion",
+                "Instructors": "Usman Hamid",
+                "Meeting Info": "Parkes Hall 213: Tues 2:30PM - 5:00PM",
+                "Overview of class": "Mediating Religion\n\nThis seminar is an inquiry into how we experience religion in the world today. It takes seriously the idea of religion as mediated phenomena. We experience the religious through an engagement with multiple sensorial forms—things seen, felt, tasted, heard, and smelt. These can include a wide set of media ranging from YouTube videos of preachers to calendars with images of Hindu deities sold in bazars; mechanized prayer counters to the corporeal remains of venerated figures; food distributed in Hindu temples, Muslim shrines, Christian churches and Sikh gurdwaras to water brought back from pilgrimage to holy sites; Gregorian chants to Muslim calls to prayer; incense lit to commemorate the dead to camphor burnt before the image of the divine. The spaces in which we experience these religious phenomena are ever broadening as well. We do not experience the religious in places of worship alone but also at museums and in public buildings, on superhighways and in cyberspace. Counts toward the Media, Technology, Journalism and Religion (MTJR) religious studies major concentration. While this seminar adopts the perspective of religious materiality, with its concern for aesthetics, presence, memory, and space, it does not require previous knowledge of specific theories or familiarity with any particular religious tradition. It invites students specializing in different traditions and frameworks to engage with scholarship on religion and media in the hope that it offers a fresh perspective on their own materials.",
+                "Class Attributes": "Ethical and Evaluative Thinking Foundational Disci\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-6",
+        "course_name": "Advanced Topics in Middle East & North African Studies",
+        "course_reference_number": [
+            "28561"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "The Maghreb and the Middle East",
+                "instructors": [
+                    "Advanced Topics in Middle East & North African Studies",
+                    "Nasrin Qader"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Maghreb and the Middle East",
+                "Instructors": "Nasrin Qader\n847/491-8263\n1860 S. Campus Drive, Crowe Hall #2-129\nOffice Hours: Thursdays 1:30-3:30 or by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "The Maghreb and the Middle East\n\nThis course offers the students the opportunity to discover the influential work of the renowned Moroccan thinker and writer, Abdelkebir Khatibi. An innovative writer, philosopher, essayist, and poet, the significance of Khatibi's thought on contemporary decolonial thought across disciplines, notably sociology, anthropology, political, literary and aesthetics cannot be overestimated. While much of his theoretical insights are based in the history and aesthetic cultures of Morocco, his concepts and methodologies have given new and nuanced breath to how scholars think, write, and study non-Western histories and cultures. His novel Amour bilingue as well as his collections of essays collected in Maghreb Pluriel and La blessure du nom propre are today necessary references for all serious students and scholars of postcolonial and decolonial thought. In this course, we will begin by first historicizing the Maghreb (Francophone North Africa) as a geographical, historical, and political configuration in order to understand the background of some of Khatibi's thinking. We will then read several essays and two novels, and autobiography by Khatibi and will consult some helpful critical readings on his key notions. The aim of the course is to familiarize students with one of the leading voices in contemporary debates in postcolonial and decolonial studies.",
+                "Learning Objectives": "● Observe the forms, genres, and styles of literary expression through practices of close reading and analysis; ● Gain awareness of the philosophical, cultural, and historical factors in shaping thought;\n● Enhance spoken and written skills in literary and theoretical interpretation, analysis, and commentary;\n● Sharpen powers of interpretation, critique, and aesthetic perception;\n● Enlarge conceptual vocabulary to understand and express abstract notions.",
+                "Teaching Method": "Lecture: Only when needed to contextualize\nSeminar: Class taught in seminar style\nReadings: Combination of theoretical, sociological, and literary readings\nOnline work: Canvas posting\nGroup work\nClass participation\nWriting assignments\nPresentations\nDiscussion",
+                "Evaluation Method": "Presentations: 20% (10% and 10%)\nAttendance: 5%\nClass participation: 5%\nOnline work: 10% Canvas posting\nPeer assessment: 10%\nProject, final: 25%\nQuizzes: 5%\nWriting assignments: 20%",
+                "Class Materials (Required)": "Tentative Reading: (materials will be made available on Canvas) Talbayev \"Khatibi Mediterranean » (article) Alison Rice « Etranger Professionnel\" (article) Matt Reeck « Tattoo—Writing with Dots\" (article) Abdelmajid Hannoum The Invention of the Maghreb (selections) (pdf) Abdelkebir Khatibi Amour bilingue (novel) (out of print) pdf ------. « L'exote » (pdf) ------. La blessure du nom propre (essays ; selections) (pdf) ------. Langue de l'autre (essays ; selections) (pdf) ------. Maghreb Pluriel (essays ; selections) (pdf) ------. Le Scribe et son ombre (autobiography—out of print) (pdf) ------. Un été à Stokholm (novel) (out of print) (pdf)",
+                "Class Notes": "Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.\n\n• Please no eating during class. Drink is fine. • Please turn off your phones before walking in the classroom. No texting, surfing the internet, social media, checking email during class. • You are expected to be in class for the duration of the quarter (this means from the first day of the quarter to the last day of classes and for any meetings during reading week. Since your final paper will be submitted by email, you are free to send it after your departure from campus if you are done with exams before the end of exam week). • No make up or late work will be accepted unless pre-arranged and pre-approved. Please familiarize yourself with university guidelines for missing classes. • Accessibility requests must be made in advance. AI Policy: Assignments for this course must be entirely student work, even if there are imperfections. Self-correction is the best tool for learning and sharpening one's thinking. Assignments will be scrutinized for AI content and if work is found not to have been done by the student, it will be deemed equivalent to cheating.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Approaches and Perspectives in MENA Studies",
+        "course_reference_number": [
+            "24711",
+            "24934"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "The Nahda",
+                "instructors": [
+                    "Approaches and Perspectives in MENA Studies",
+                    "Rebecca Johnson"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Ethnographies of Scale",
+                "instructors": [
+                    "Approaches and Perspectives in MENA Studies",
+                    "Emrah Yildiz"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Nahda",
+                "Instructors": "Rebecca Johnson\n847/467-1365\nUniversity Hall 225",
+                "Meeting Info": "University Hall 418: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "The Nahda\n\nThis course is an introduction to Arabic literary production of the long nineteenth century as it engages the \"nahḍa\" (awakening), understood variously as a discourse on modernity, a utopian social project, and an epistemological rupture wrought by colonialism and capitalism. With special emphasis on the genealogies, practices, and problematics of Arabic literary modernity, this course will introduce students to the major works of Arabic literature produced in the nineteenth and early twentieth centuries and to the major debates, social changes, and material developments that attend the period, including (but not limited to) language reform, migration, print capitalism, imperialism, and nationalism. In short, we will try to understand how these authors, through their texts, both produced and theorized modernity for their readers in the localized contexts of Imperial influence and control on the one hand, and the global-though uneven-nineteenth-century processes of social, political, economic, and technological change.\nPrimary texts will all be available in English translation, but those able are encouraged to follow in Arabic. A separate section can be arranged for discussing the Arabic-language versions.",
+                "Evaluation Method": "Short paper, seminar paper",
+                "Class Materials (Required)": "Rifa' al-Tahtawi, Imam in Paris [The Extraction of Gold from a Description of Paris] (1826)\nAhmad Faris al-Shidyaq, Leg over Leg, vols. 1-2 and 3-4 (1855)\nMuhammad al-Muwaylihi, What Isa Ibn Hisham Told Us (1907)\nThe Arab Renaissance: A Bilingual Anthology of the Nahḍa, ed. Tarek El-Ariss (2018)\nQāsim Amīn, The Liberation of Women (1899), The New Woman (1900)"
+            },
+            {
+                "Topic": "Ethnographies of Scale",
+                "Instructors": "Emrah Yildiz\n847/467-6254\n2001 Sheridan Rd, Room 5130\nOffice Hours: Tuesdays, 1-3pm",
+                "Meeting Info": "2001 Sheridan GPC 2109: Wed 5:00PM - 7:50PM",
+                "Overview of class": "Ethnographies of Scale\n\nThis course interrogates \"scale\" not simply as level, size, or volume but rather as a historically contingent, geographically contested, and socially emergent relation. Moving beyond compartmentalized notions of space, the seminar showcases how everyday transactions and actions, administrative categories, and regimes of human mobility help produce \"scale\" across temporal and spatial horizons. With readings drawn from anthropology, geography, and history—ranging from spatial theories of state power to multi-scalar ethnography and border-crossing fugitives of such powers—seminar participants will examine scale both a means of ethnographic analysis, and a site of social praxis, asking how cross-border mobility, migration, diasporic and transregional connections actively shape geography, history, and category for their interlocutors. The seminar will then offer participants the conceptual space to experiment with scale as a crucial method and analytic in their own ethnographic research and writing in ways that can capture scalar actions in their complex cross-locations.",
+                "Learning Objectives": "By the end of the course, participants will be able to\n• Demonstrate knowledge and understanding of social science theories related to the influence of culture and power on the behavior of individuals, interpersonal relationships, and/or group dynamics in prevalent interpretations of scale, power, and mobility in anthropology and allied disciplines.\n• Develop the ability to critique theories, claims, and policies in the social and behavioral sciences that deal with scale and ethnography as well as their objects and subjects of practice through careful evaluation of scholarly arguments including their major assertions, assumptions, evidential basis, and explanatory utility.\n• Reflect, in a global and comparative framework, upon the ways in which theories and research about scale and mobility across time and space from the social and behavioral sciences help elucidate the factors underlying contemporary social issues, social problems, and/or ethical dilemmas in ethnographic research and analysis.",
+                "Teaching Method": "Seminar\nDiscussion section\nClass participation\nCase studies\nWriting assignments\nPresentations\nDiscussion",
+                "Evaluation Method": "Paper, final\nAttendance\nClass participation\nReadings\nResearch project\nWriting assignments\nPaper, mid-term",
+                "Class Materials (Required)": "All required texts, with the exception of the book-length manuscripts given below, can be found under files on the course website or on the Northwestern library database, unless already hyperlinked to an open source below. Mahajan, Nidhi. 2024. Moorings: Voyages of Capital across the Indian Ocean. Berkeley: University of California Press. ISBN-13: 978-0520413511. Rubaii, Kali. 2026. Resurgency: Outlasting the War on Terror in Iraq. Durham: Duke University Press. ISBN-13: 978-1478038726.",
+                "Class Notes": "Students will be evaluated on the basis of two writing assignments (50%) and class participation (50%). The writing assignments include one American Anthropologist style book review of an ethnographic monograph (20%) and one 12-page paper recasting own research project in light of seminar readings (30%). Class participation includes (1) Regular attendance (10%) in seminar meetings and contribution to discussions; (2) 8 Reading responses (25%); and (3) Co-leading seminar discussion in one session (15%)"
+            }
+        ]
+    },
+    {
+        "course_number": "412-1",
+        "course_name": "MENA Graduate Colloquium",
+        "course_reference_number": [
+            "26977"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "MENA Graduate Colloquium",
+                "instructors": [
+                    "Brannon Ingram"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brannon Ingram\nCrowe Hall 4-135",
+                "Meeting Info": "Parkes Hall 213: Mon 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "412-2",
+        "course_name": "MENA Graduate Colloquium",
+        "course_reference_number": [
+            "26978"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "MENA Graduate Colloquium",
+                "instructors": [
+                    "Brannon Ingram"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brannon Ingram\nCrowe Hall 4-135",
+                "Meeting Info": "555 Clark 230: Mon 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken MENA 412-1 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "412-3",
+        "course_name": "MENA Graduate Colloquium",
+        "course_reference_number": [
+            "26979"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "MENA Graduate Colloquium",
+                "instructors": [
+                    "Brannon Ingram"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brannon Ingram\nCrowe Hall 4-135",
+                "Meeting Info": "Harris Hall L04: Mon 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Students must have taken MENA 412-1 and 412-2 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "MENA Graduate Colloquium Advanced",
+        "course_reference_number": [
+            "26980"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "MENA Graduate Colloquium Advanced",
+                "instructors": [
+                    "Brannon Ingram"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brannon Ingram\nCrowe Hall 4-135",
+                "Meeting Info": "Parkes Hall 215: Mon 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-req: MENA 412-3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "course_number": "422-DL",
+        "course_name": "Practical Machine Learning",
+        "course_reference_number": [
+            "28805"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Practical Machine Learning",
+                "instructors": [
+                    "Donald Wedding"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Donald Wedding",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

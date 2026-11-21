@@ -1,0 +1,160 @@
+[
+    {
+        "course_number": "300-0",
+        "course_name": "Introduction to Music Technology",
+        "course_reference_number": [
+            "22191",
+            "22192"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Music Technology",
+                "instructors": [
+                    "Samuel Robert Scranton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Introduction to Music Technology",
+                "instructors": [
+                    "Samuel Robert Scranton"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Samuel Robert Scranton",
+                "Meeting Info": "RCMA Lower Level 121: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Survey of music software, hardware, techniques, and tools for the professional musician. Topics include MIDI, audio recording and editing, mixing, effects, synthesis, and web publishing.",
+                "Registration Requirements": "Registration requires department consent. Priority is given to majors in the Bienen School of Music. To be added to the wait-list for registration, click or copy/paste this link and fill out the application form: https://www.music.northwestern.edu/course-forms. You may apply for a place in any or all Winter 2027 sections of MUS TECH 300 with a single response at that link, but wait-list applications from previous quarters (for MUS TECH 259 or 300) do not carry over.",
+                "Learning Objectives": "The student will need to be able to record/edit audio and MIDI files, create multi-track recordings, create personalized synthesizer patches, understand and deploy effects processing, make well-balanced stereo mixes, and upload audio to an online publishing platform.",
+                "Teaching Method": "The course will be a mix of lecture and hands-on participation with ample time to explore class concepts at individual pace under instructor supervision.",
+                "Evaluation Method": "Students will submit bi-weekly creative studies demonstrating key concepts. There will also be two larger, more open-ended projects (midterm and final), in which students create compositions that focus on techniques of their choosing.",
+                "Class Materials (Required)": "Students must have a laptop installed with Ableton Live 12 Suite (https://www.ableton.com/en/shop/education/). A \"rent-to-own\" copy is available for $31.17/month.",
+                "Class Materials (Suggested)": "Headphones, MIDI keyboard",
+                "Class Attributes": "20th/21st c. Music Studies Elective\nSoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            },
+            {
+                "Instructors": "Samuel Robert Scranton",
+                "Meeting Info": "RCMA Lower Level 121: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "Survey of music software, hardware, techniques, and tools for the professional musician. Topics include MIDI, audio recording and editing, mixing, effects, synthesis, and web publishing.",
+                "Registration Requirements": "Registration requires department consent. Priority is given to majors in the Bienen School of Music. To be added to the wait-list for registration, click or copy/paste this link and fill out the application form: https://www.music.northwestern.edu/course-forms. You may apply for a place in any or all Winter 2027 sections of MUS TECH 300 with a single response at that link, but wait-list applications from previous quarters (for MUS TECH 259 or 300) do not carry over.",
+                "Learning Objectives": "The student will need to be able to record/edit audio and MIDI files, create multi-track recordings, create personalized synthesizer patches, understand and deploy effects processing, make well-balanced stereo mixes, and upload audio to an online publishing platform.",
+                "Teaching Method": "The course will be a mix of lecture and hands-on participation with ample time to explore class concepts at individual pace under instructor supervision.",
+                "Evaluation Method": "Students will submit bi-weekly creative studies demonstrating key concepts. There will also be two larger, more open-ended projects (midterm and final), in which students create compositions that focus on techniques of their choosing.",
+                "Class Materials (Required)": "Students must have a laptop installed with Ableton Live 12 Suite (https://www.ableton.com/en/shop/education/). A \"rent-to-own\" copy is available for $31.17/month.",
+                "Class Materials (Suggested)": "Headphones, MIDI keyboard",
+                "Class Attributes": "20th/21st c. Music Studies Elective\nSoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "Recording Techniques",
+        "course_reference_number": [
+            "22177"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Recording Techniques",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "RCMA Choral Room 1-190: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "The class will look in detail at microphone design and placement techniques, covering stereo miking; close and distant miking of instruments and ensembles; and \"source\" recording for sound design applications. Students learn how to choose the right microphone for the instrument or voice and how details of mic placement affect the sound quality, often dramatically. The course also covers hardware and effects processing associated with the production process. The material is supplemented by in-class recording and miking demonstrations. Projects consist of students making their own recordings using the techniques covered in class.",
+                "Registration Requirements": "Permission number",
+                "Learning Objectives": "Mic choice, mic placement",
+                "Teaching Method": "Lecture, projects, in-class demonstrations",
+                "Evaluation Method": "Quality of projects",
+                "Class Materials (Required)": "I provide course materials directly (via equipment checkout, articles, or links). Students can use freeware or suggested software.",
+                "Class Materials (Suggested)": "Hardware can be obtained via equipment checkout. Software suitable for processing live signals. Freeware can be substituted for licensed software based on student preferences.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MUS_TECH 300-0 to enroll.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "340-0",
+        "course_name": "Composing With Computers",
+        "course_reference_number": [
+            "22121"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Composing With Computers",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "RCMA Lower Level 121: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Foundational techniques of composition using music and audio software. Techniques of algorithmic composition, sound processing. Analysis of electroacoustic music. Assignments include student compositions.",
+                "Class Materials (Required)": "No materials required for purchase.",
+                "Class Notes": "Prerequisite: MUS_TECH 259-0 or equivalent experience.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed MUS_TECH 300-0 to enroll.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "385-0",
+        "course_name": "Senior Project",
+        "course_reference_number": [
+            "22122"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Project",
+                "instructors": [
+                    "Christopher Mercer"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Mercer\ncamercer@hotmail.com",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

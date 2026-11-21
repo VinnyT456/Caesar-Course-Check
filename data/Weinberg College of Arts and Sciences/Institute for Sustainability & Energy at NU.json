@@ -1,0 +1,87 @@
+[
+    {
+        "course_number": "210-0",
+        "course_name": "Introduction to Sustainability: Challenges and Solutions",
+        "course_reference_number": [
+            "21344"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Sustainability: Challenges and Solutions",
+                "instructors": [
+                    "Udayan Singh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Udayan Singh",
+                "Meeting Info": "Lutkin Hall: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Special Topics in Energy and Sustainability",
+        "course_reference_number": [
+            "21342",
+            "21343"
+        ],
+        "course_info": [
+            {
+                "section": "11",
+                "course_name": "Fundamentals of Corporate Sustainability",
+                "instructors": [
+                    "Special Topics in Energy and Sustainability",
+                    "Alexander Polzin"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "35",
+                "course_name": "Cybersecurity and the Grid",
+                "instructors": [
+                    "Special Topics in Energy and Sustainability",
+                    "Michael E Legatt"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Fundamentals of Corporate Sustainability",
+                "Instructors": "Alexander Polzin",
+                "Meeting Info": "Technological Institute M349: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Cybersecurity and the Grid",
+                "Instructors": "Michael E Legatt",
+                "Meeting Info": "Technological Institute LG66: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "course_number": "111-2",
+        "course_name": "Turkish I",
+        "course_reference_number": [
+            "22652"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Turkish I",
+                "instructors": [
+                    "Oya Topcuoglu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:10PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Oya Topcuoglu\n847/491-2402\nCrowe 4-121",
+                "Meeting Info": "Locy Hall 305: Mon, Wed, Fri 11:00AM - 12:10PM",
+                "Overview of class": "This course offers a distinctive introduction to modern Turkish language and culture through television. Turkish TV shows reach 750 million viewers in 152 countries, and Turkey is second only to the United States in global TV distribution, with large audiences in Russia, China, Korea, the Middle East, and Latin America. Turkish is increasingly a language of global entertainment.\n\nTurkish 111-2, taught in the Winter Quarter, is the second quarter of first-year Turkish. Building on material from the first quarter, the course introduces additional grammar and fundamental sentence structures, presents new vocabulary, and gives students ample opportunities to practice and expand all four language skills. Students will work with Units 8-14 of Elementary Turkish I, along with supplementary print, audio, and video materials provided by the instructor.\n\nThis quarter, students will also watch a new Turkish TV show that explores everyday life in the 1950s through the eyes of Turkey's non-Muslim minorities. Immersed in the characters' personal stories, students will deepen their understanding of Turkish culture and history while practicing their language skills. The show's highly interactive storylines offer rich opportunities to hone listening and pronunciation, internalize basic vocabulary and common phrases, and learn verb tenses and moods for more complex language tasks.\n\nThe course follows a communicative approach, emphasizing group work and language production in class.",
+                "Registration Requirements": "Turkish 111-1 or equivalent; or instructor's consent.",
+                "Learning Objectives": "Students completing three quarters of Turkish 111 will be able to read and comprehend simple, authentic texts on familiar topics, write informal notes and short paragraphs on topics connected to daily life, and to initiate and sustain conversations on daily-life topics with educated native speakers.",
+                "Teaching Method": "First-year Turkish uses a communicative, proficiency-oriented approach with fully integrated audiovisual media to teach modern Turkish as a living language. The instructor will use an interactive approach in the classroom, including reading, translations, listening and conversational practice as interactive small group exercises.",
+                "Evaluation Method": "The final grade for the course will be based on the following criteria:\n- Class participation and attendance,\n- Homework assignments\n- Three short exams\n- Final project",
+                "Class Materials (Required)": "Elementary Turkish: A Complete Course for Beginners. Revised Third Edition (2015). Kurtuluş Öztopçu. Kebikeç-Yayınları Sanat Kitabevi. ISBN: 978-975-7981-40-4.\nA workbook will be provided by the instructor.\nAn active Netflix subscription is required to watch the TV show.",
+                "Class Notes": "Full attendance and active class participation are strongly encouraged for successful completion of the course. In addition to regular participation in class activities, it is important to complete all your homework on time.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Turkish 111-1"
+            }
+        ]
+    }
+]

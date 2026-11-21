@@ -1,0 +1,260 @@
+[
+    {
+        "course_number": "233-CN",
+        "course_name": "Genetics and Molecular Processes Laboratory",
+        "course_reference_number": [
+            "20564"
+        ],
+        "course_info": [
+            {
+                "section": "100",
+                "course_name": "Genetics and Molecular Processes Laboratory",
+                "instructors": [
+                    "Erica Shu"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erica Shu",
+                "Meeting Info": "TBA: Sa 2:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req:Bio_Sci 232 & Chem 132"
+            }
+        ]
+    },
+    {
+        "course_number": "302-DL",
+        "course_name": "Fundamentals of Neurobiology",
+        "course_reference_number": [
+            "20554"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Fundamentals of Neurobiology",
+                "instructors": [
+                    "Serena Klos",
+                    "Erin Cable"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Serena Klos",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "308-CN",
+        "course_name": "Biochemistry",
+        "course_reference_number": [
+            "20538"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Biochemistry",
+                "instructors": [
+                    "Thomas Volpe"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Volpe",
+                "Meeting Info": "Tech Institute Lecture Room 5: Mon 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: CHEM 215-A"
+            }
+        ]
+    },
+    {
+        "course_number": "313-DL",
+        "course_name": "Human Anatomy",
+        "course_reference_number": [
+            "20532"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Human Anatomy",
+                "instructors": [
+                    "Maxwell Scott Janczak"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maxwell Scott Janczak",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "316-CN",
+        "course_name": "Human Structure and Function",
+        "course_reference_number": [
+            "20520"
+        ],
+        "course_info": [
+            {
+                "section": "14",
+                "course_name": "Human Structure and Function",
+                "instructors": [
+                    "Benjamin Karger"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Benjamin Karger",
+                "Meeting Info": "Wieboldt Hall 709: Tues 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "318-DL",
+        "course_name": "Advanced Human Physiology",
+        "course_reference_number": [
+            "20547"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Human Physiology",
+                "instructors": [
+                    "Charles Rudick"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Charles Rudick",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    },
+    {
+        "course_number": "328-A",
+        "course_name": "Microbiology Lab",
+        "course_reference_number": [
+            "20540"
+        ],
+        "course_info": [
+            {
+                "section": "66",
+                "course_name": "Microbiology Lab",
+                "instructors": [
+                    "Hilary Truchan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hilary Truchan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: BIOL_SCI 328-CN"
+            }
+        ]
+    },
+    {
+        "course_number": "328-CN",
+        "course_name": "Microbiology",
+        "course_reference_number": [
+            "20525"
+        ],
+        "course_info": [
+            {
+                "section": "65",
+                "course_name": "Microbiology",
+                "instructors": [
+                    "Hilary Truchan"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hilary Truchan",
+                "Meeting Info": "Technological Institute A110: Wed 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: BIOL_SCI 328-A"
+            }
+        ]
+    },
+    {
+        "course_number": "390-DL",
+        "course_name": "Advanced Molecular Biology",
+        "course_reference_number": [
+            "20562"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advanced Molecular Biology",
+                "instructors": [
+                    "Thomas Volpe",
+                    "Michele McDonough"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Volpe",
+                "Meeting Info": "Online: Wed 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    }
+]

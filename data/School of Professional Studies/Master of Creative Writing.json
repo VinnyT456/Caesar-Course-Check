@@ -1,0 +1,81 @@
+[
+    {
+        "course_number": "413-DL",
+        "course_name": "Fiction Writing Workshop",
+        "course_reference_number": [
+            "20400",
+            "20401"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Fiction Writing Workshop",
+                "instructors": [
+                    "James Stewart III"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            },
+            {
+                "section": "56",
+                "course_name": "Fiction Writing Workshop",
+                "instructors": [
+                    "Lori Rader-Day"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Stewart III",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            },
+            {
+                "Instructors": "Lori Rader-Day",
+                "Meeting Info": "DISTANCE COURSE: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "479-DL",
+        "course_name": "Poetry for Prose Writers",
+        "course_reference_number": [
+            "20402"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Poetry for Prose Writers",
+                "instructors": [
+                    "John McCarthy"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John McCarthy",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    }
+]

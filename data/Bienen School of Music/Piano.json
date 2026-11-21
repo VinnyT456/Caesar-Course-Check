@@ -1,0 +1,1259 @@
+[
+    {
+        "course_number": "161-0",
+        "course_name": "Applied Piano for Music Majors",
+        "course_reference_number": [
+            "21479",
+            "21480",
+            "21481"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "255-0",
+        "course_name": "Piano Sight Reading",
+        "course_reference_number": [
+            "21674",
+            "21675"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Piano Sight Reading",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Piano Sight Reading",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Meeting Info": "Meets in Non-General PurposeRm: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "261-0",
+        "course_name": "Applied Piano for Music Majors",
+        "course_reference_number": [
+            "21482",
+            "21483",
+            "21484",
+            "21485"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Karen Kan-Walsh"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Karen Kan-Walsh\n847/491-3886\nRyan Center for the Musical Arts, Evanston, IL 60208\nOffice Hours: By appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "305-0",
+        "course_name": "Optional Recital",
+        "course_reference_number": [
+            "21694"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Optional Recital",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "313-2",
+        "course_name": "Piano Repertoire II",
+        "course_reference_number": [
+            "21486"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Piano Repertoire II",
+                "instructors": [
+                    "Daniel Baer"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "8:30AM",
+                "end_time": "9:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Baer",
+                "Meeting Info": "RCMA Lower Level 115: Tues, Thurs 8:30AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "315-2",
+        "course_name": "Piano Pedagogy II",
+        "course_reference_number": [
+            "21487"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Piano Pedagogy II",
+                "instructors": [
+                    "Lam Wong"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lam Wong",
+                "Meeting Info": "RCMA 3-131: Tues 12:30PM - 2:20PM",
+                "Overview of class": "This course is part of the full-year sequence that aims to help you become familiar with the processes and possibilities involved in piano teaching. Winter quarter will focus on various teaching approaches, strategies, and appropriate materials for teaching beginners beyond the first years of lessons. A combination of lectures, discussions, observations, and supervised teaching will help you develop effective and sophisticated teaching skills.",
+                "Registration Requirements": "Students must be undergraduate music majors who have completed their core curriculum. Please contact the instructor (lam.wong@northwestern.edu) to receive recommendations on registering for the course.",
+                "Learning Objectives": "Explore various method books and teaching materials tailored for piano study beyond the first years of lessons; Evaluate the effectiveness of creative and conventional technical drills; Review the \"Classics\" repertoire for piano studies; Address the processes and challenges for transfer students.",
+                "Teaching Method": "Attendance and participation in Tuesday seminars are required, in addition to assigned observation and teaching duties.",
+                "Evaluation Method": "Students will be evaluated for their success in assisting and teaching in assigned children's lessons, assigned projects and observations, contributions to seminar discussions, and a final project.",
+                "Class Materials (Required)": "Students should be collegiate members of Music Teachers National Association (MTNA). The membership fee is $36 (subject to a small adjustment for 2025-26) for the entire academic year.",
+                "Class Materials (Suggested)": "1. Music for Millions Series\n2. Keith Snell Piano Series\n3. Sight Reading Series by Bastien Piano Library\n4. A Line a Day Sight Reading Series\n5. Improve Your Sight-reading! Series",
+                "Class Notes": "It is recommended to register for this course for the full-year sequence. Attendance at the first class is mandatory.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "328-2",
+        "course_name": "Collaborative Piano-Beginning II",
+        "course_reference_number": [
+            "21740"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Collaborative Piano-Beginning II",
+                "instructors": [
+                    "Yasuko Oura"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yasuko Oura",
+                "Meeting Info": "RCMA 3-131: Tues, Thurs 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed PIANO 328-1 to register for this course."
+            }
+        ]
+    },
+    {
+        "course_number": "329-0",
+        "course_name": "Duo Sonata Class",
+        "course_reference_number": [
+            "21734",
+            "21735"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Duo Sonata Class",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Duo Sonata Class",
+                "instructors": [
+                    "Yasuko Oura"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "RCMA 4-198: Tues 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Student must have completed 3 Quarters of Piano 328-0 to register for this course.\nAdd Consent: Instructor Consent Required"
+            },
+            {
+                "Instructors": "Yasuko Oura",
+                "Meeting Info": "RCMA 4-198: Tues 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Student must have completed 3 Quarters of Piano 328-0 to register for this course.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "340-0",
+        "course_name": "Piano Forum",
+        "course_reference_number": [
+            "21673"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Piano Forum",
+                "instructors": [
+                    "Christopher Guzman",
+                    "Yasuko Oura"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "RCMA Recital Hall 1-100: Thurs 1:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "358-0",
+        "course_name": "Applied Keyboard for Music Majors",
+        "course_reference_number": [
+            "21671",
+            "21672"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Harpsichord",
+                "instructors": [
+                    "Applied Keyboard for Music Majors",
+                    "Stephen Alltop"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Organ",
+                "instructors": [
+                    "Applied Keyboard for Music Majors",
+                    "Stephen Alltop"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Harpsichord",
+                "Instructors": "Stephen Alltop\n847/491-2299\nswa440@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Topic": "Organ",
+                "Instructors": "Stephen Alltop\n847/491-2299\nswa440@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "361-0",
+        "course_name": "Applied Piano for Music Majors",
+        "course_reference_number": [
+            "21488",
+            "21489",
+            "21490"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Applied Humanities and Fine Arts Distro\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Junior Recital",
+        "course_reference_number": [
+            "21676",
+            "21677",
+            "21678"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Junior Recital",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Senior Recital",
+        "course_reference_number": [
+            "21491",
+            "21492",
+            "21493"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Senior Recital",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Studio Class",
+        "course_reference_number": [
+            "21741",
+            "21742",
+            "21743"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Studio Class",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Studio Class",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Studio Class",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Thurs 3:00PM - 4:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Tues 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "Regenstein Hall of Music MCR: Mon 3:00PM - 4:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Advanced Piano Pedagogy",
+        "course_reference_number": [
+            "21495"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Piano Pedagogy",
+                "instructors": [
+                    "Lam Wong"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "2:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lam Wong",
+                "Meeting Info": "RCMA 3-131: Fri 12:30PM - 2:20PM",
+                "Overview of class": "This course prepares master students to become successful piano teachers within the music community. It includes regular observations, pedagogy projects, and community engagement with the Northwestern Music Academy and local Music Teachers Association. The curriculum covers a comprehensive approach to piano instruction and technical training methods. Students will also learn about community music schools, standardized tests, and professional engagement.",
+                "Registration Requirements": "Students must be graduate music majors. Please contact the instructor (lam.wong@northwestern.edu) to receive recommendations on registering for the course.",
+                "Learning Objectives": "This course prepares students to become successful music teachers by equipping them with comprehensive piano instruction techniques, strategies for supporting intermediate students, insights into running community music schools, and skills for engaging with professional associations and creating online enrichment programs.",
+                "Teaching Method": "Attendance and participation in Friday seminars are required, in addition to assigned observation and various projects outside of class time.",
+                "Evaluation Method": "Students will be evaluated for their level of success in weekly written assignments, regular observations, class presentations, and pedagogy projects.",
+                "Class Materials (Suggested)": "1. Piano Method books from Faber & Faber series\n2. Piano Method Books from Hal Leonard Piano Library\n3. Piano Method Books from The Music Tree\n4. Piano Method Books from John Thompson's Easiest Piano Course\n5. Piano Method Books from Music for Piano\n6. Music for Millions Series\n7. Keith Snell Piano Series",
+                "Class Notes": "Attendance at the first class is mandatory.",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "429-0",
+        "course_name": "Duo Sonata Class",
+        "course_reference_number": [
+            "21736",
+            "21737"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Duo Sonata Class",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Duo Sonata Class",
+                "instructors": [
+                    "Yasuko Oura"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "RCMA 4-198: Tues 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Yasuko Oura",
+                "Meeting Info": "RCMA 4-198: Tues 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Selected Topics",
+        "course_reference_number": [
+            "21750"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MM Collab. Recital Prep: Vocal",
+                "instructors": [
+                    "Selected Topics",
+                    "Yasuko Oura"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "MM Collab. Recital Prep: Vocal",
+                "Instructors": "Yasuko Oura",
+                "Meeting Info": "RCMA 3-131: Tues, Thurs 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "458-0",
+        "course_name": "Applied Keyboard for Music Majors",
+        "course_reference_number": [
+            "21496",
+            "21497"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Harpsichord",
+                "instructors": [
+                    "Applied Keyboard for Music Majors",
+                    "Stephen Alltop"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Organ",
+                "instructors": [
+                    "Applied Keyboard for Music Majors",
+                    "Stephen Alltop"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Harpsichord",
+                "Instructors": "Stephen Alltop\n847/491-2299\nswa440@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Organ",
+                "Instructors": "Stephen Alltop\n847/491-2299\nswa440@northwestern.edu",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "461-0",
+        "course_name": "Applied Piano for Music Majors",
+        "course_reference_number": [
+            "21498",
+            "21499",
+            "21500"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "MM Recital",
+        "course_reference_number": [
+            "21501",
+            "21502",
+            "21503"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "MM Recital",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Studio Class",
+        "course_reference_number": [
+            "21744",
+            "21745",
+            "21746"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Studio Class",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Studio Class",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Studio Class",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Thurs 3:00PM - 4:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "Regenstein Hall of Music MCR: Tues 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "Regenstein Hall of Music MCR: Mon 3:00PM - 4:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Graduate Students."
+            }
+        ]
+    },
+    {
+        "course_number": "520-0",
+        "course_name": "Piano Pedagogy Internship",
+        "course_reference_number": [
+            "21754"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Piano Pedagogy Internship",
+                "instructors": [
+                    "Lam Wong"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lam Wong",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: DMA Piano Students only"
+            }
+        ]
+    },
+    {
+        "course_number": "561-0",
+        "course_name": "Applied Piano for Music Majors",
+        "course_reference_number": [
+            "21505",
+            "21506",
+            "21507"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Applied Piano for Music Majors",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "580-0",
+        "course_name": "DMA Recital",
+        "course_reference_number": [
+            "21508",
+            "21509",
+            "21510"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "James Giles"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Sylvia Wang"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "DMA Recital",
+                "instructors": [
+                    "Christopher Guzman"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "James Giles\n847/491-5733\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sylvia Wang\n847/491-3906\nMAB 711 Elgin Rd, Evanston IL",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Christopher Guzman",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "583-0",
+        "course_name": "Final Pedagogy Workshop",
+        "course_reference_number": [
+            "21695"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Final Pedagogy Workshop",
+                "instructors": [
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "585-0",
+        "course_name": "DMA Lecture Recital",
+        "course_reference_number": [
+            "21511",
+            "21512"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Document",
+                "instructors": [
+                    "DMA Lecture Recital",
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Coursework",
+                "instructors": [
+                    "DMA Lecture Recital",
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Document",
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Topic": "Coursework",
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "595-0",
+        "course_name": "DMA Research Document",
+        "course_reference_number": [
+            "21513"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "DMA Research Document",
+                "instructors": [
+                    "Christina Wouters"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christina Wouters",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

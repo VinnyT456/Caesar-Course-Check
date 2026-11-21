@@ -1,0 +1,405 @@
+[
+    {
+        "course_number": "200-0",
+        "course_name": "Introduction to Learning Sciences",
+        "course_reference_number": [
+            "26457"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Introduction to Learning Sciences",
+                "instructors": [
+                    "Nichole Pinkard"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nichole Pinkard",
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5103: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "This class will serve as an introduction to the learning sciences through a) reading foundational texts in the areas of cognition, context, and design; b) exploring seminal learning environments and researchers within the Learning Sciences community. and c) applying learnings to examine how to make Northwestern a healthier learning landscape.\n\nThe class is open to undergraduate students interested in exploring the application of learning science theory to community learning ecosystems.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ANTI_REQ: Students cannot take and recieve credit for both LRN_SCI 200-0 and 251-0 topic \"Introduction to Learning Sciences.\""
+            }
+        ]
+    },
+    {
+        "course_number": "214-0",
+        "course_name": "Culture and Cognition",
+        "course_reference_number": [
+            "26454"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Culture and Cognition",
+                "instructors": [
+                    "Fatemeh Hajnaghizadeh"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Fatemeh Hajnaghizadeh",
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5103: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "In this course, we will examine the ways cognition and culture have been defined and utilized across time theoretically and methodologically in formal and informal settings. We will read empirical articles, essays, and reviews of literature that focus on identity, epistemology, gender, race, class, sexuality, nationality, ethnicity, as well as the homogenous versus heterogeneous presentation of culture in media and the academy.",
+                "Class Materials (Required)": "All materials will be made available on Canvas.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ANTIREQ: Students may only enroll in and recieve credit for one attempt of LRN_SCI 214, LOC 214-0, or LOC 214-BR."
+            }
+        ]
+    },
+    {
+        "course_number": "230-0",
+        "course_name": "Introduction to Teaching and Learning",
+        "course_reference_number": [
+            "26456"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Teaching and Learning",
+                "instructors": [
+                    "Miriam Sherin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Miriam Sherin",
+                "Meeting Info": "2001 Sheridan GPC/SESP 3447: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "This course explores the nature of learning and the implications for what it means to teach, with a particular focus on the teaching and learning that occur in US K-12 schools. To do so, we will explore and critique theories of learning and investigate how those theories have animated our own experiences as learners in schools. We will examine the various purposes of schooling and how these ideologies, coupled with theories of learning and societal forces, have worked to produce inequitable conditions and outcomes for students in US schools. We will then consider what theories of learning and a focus on equitable outcomes mean for conceptualizing teaching, and we will analyze cases of teaching to make visible the difficult cognitive work of orchestrating learning. Finally, we will apply what we've learned about learning, teaching, and schooling to analyze contemporary debates in education and how they are covered by the media.",
+                "Learning Objectives": "By the end of this course, students will be able to:\n\nConceptualize learning and how teaching and learning environments are designed in relation to how we conceive of learning\n\nReflect critically on your own educational experiences and situate these experiences within current research on learning, teaching, and schooling\n\nDescribe the inequalities in US education systems and how those inequalities manifest in students' experiences\n\nAnalyze cases of teaching and teacher thinking and assess the conceptions of learning represented\n\nExplore how learning environments can be designed to support more equitable outcomes for students\n\nInterpret contemporary debates in education using conceptions of teaching, learning, and education systems and construct reasoned arguments about these debates as a member of society",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "301-0",
+        "course_name": "Design of Learning Environments",
+        "course_reference_number": [
+            "26453"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design of Learning Environments",
+                "instructors": [
+                    "Eleanor O'Rourke"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Eleanor O'Rourke",
+                "Meeting Info": "2001 Sheridan GPC GN210: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This course explores how to use a human-centered design process to design learning\nenvironments. This quarter, we will be specifically focusing on the design of educational games\nthat incorporate playful elements to support engaged learning. You will work in a team of 3-4 to\ndesign a playable game prototype that teaches an interesting and challenging concept or skill.\nYou will use interaction design methods like brainstorming, personas, scenarios, and diagrams\nto understand your problem space and sketch possible game solutions. You will also create\nlow-fidelity prototypes of your games and test them using expert reviews and field tests.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "326-0",
+        "course_name": "Design of Technological Tools for Thinking and Learning",
+        "course_reference_number": [
+            "26455"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Design of Technological Tools for Thinking and Learning",
+                "instructors": [
+                    "Uri Wilensky"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Uri Wilensky",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Wed 2:00PM - 4:50PM",
+                "Overview of class": "This course is a hands-on practicum in designing and building technology-enabled curricula and learning environments. We will use many rich software toolkits designed to enable novice computer users to get their \"hands dirty\" doing iterative software design. In addition to the hands-on component, the course is also designed to introduce you to the Constructionist Learning design perspective - first named by Seymour Papert and greatly influenced by the work of Jean Piaget - a perspective that is very influential in the Learning Sciences today.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "351-0",
+        "course_name": "Topics in Learning Sciences",
+        "course_reference_number": [
+            "28689"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "AI Studio",
+                "instructors": [
+                    "Topics in Learning Sciences",
+                    "Garrett Hedman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "AI Studio",
+                "Instructors": "Garrett Hedman",
+                "Meeting Info": "2001 Sheridan GPC 2109: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "AI Studio\n\nGenerative artificial intelligence (genAI) has lowered the barrier to creating digital tools more than ever before. Will this lead to a renaissance of educational technology or will we move further away from creating effective learning environments?\n\nIn this studio class, students will build and critique educational tools created with genAI to understand genAI's capabilities, strengths, and limitations.\n\nStudents will use different levels of AI autonomy to solve educational problems. For example, they might prompt and copy code to customize a Google Workspace application with Apps Script or build an entire web application through natural-language prompting. Either way, no coding experience is required. Additionally, students will create and evaluate educational tools that leverage generative AI such as chatbots.\n\nIn critiquing tools, students will evaluate the functionality of the tool alongside the ethical, environmental, social, and cultural impacts. Furthermore, students will use these arguments to create recommendations for policies at a school, district, and state levels.\n\nBy the end of the class, students will develop a strong position statement of the use of generative AI to build tools in educational settings.",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "405-1",
+        "course_name": "Methods and Epistemologies for the Study of Learning II",
+        "course_reference_number": [
+            "26451"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Methods and Epistemologies for the Study of Learning II",
+                "instructors": [
+                    "Bruce Sherin",
+                    "Carrie Tzou"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bruce Sherin",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to LRN_SCI Students Only.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "411-0",
+        "course_name": "Quantitative Methods II: Regression Analysis",
+        "course_reference_number": [
+            "26447"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Quantitative Methods II: Regression Analysis",
+                "instructors": [
+                    "Jonathan Guryan"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jonathan Guryan",
+                "Meeting Info": "2001 Sheridan GPC 2447: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "415-0",
+        "course_name": "Field Methods",
+        "course_reference_number": [
+            "26448"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Field Methods",
+                "instructors": [
+                    "Quinn Mulroy"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Quinn Mulroy",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Thurs 9:30AM - 12:20PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "426-0",
+        "course_name": "Design of Technological Tools for Thinking and Learning",
+        "course_reference_number": [
+            "26446"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Design of Technological Tools for Thinking and Learning",
+                "instructors": [
+                    "Uri Wilensky"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Uri Wilensky",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Wed 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to LRN_SCI Students Only.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "446-0",
+        "course_name": "Cognition in Contexts: Ecologies of Learning and Thinking in Everyday Life",
+        "course_reference_number": [
+            "26458"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cognition in Contexts: Ecologies of Learning and Thinking in Everyday Life",
+                "instructors": [
+                    "Yolanda J Majors"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "8:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yolanda J Majors",
+                "Meeting Info": "2001 Sheridan GPC GN200: Thurs 6:00PM - 8:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "451-0",
+        "course_name": "Topics in Learning Sciences",
+        "course_reference_number": [
+            "26412",
+            "28004"
+        ],
+        "course_info": [
+            {
+                "section": "52",
+                "course_name": "Discourse Analysis: Study of Language & Literacy",
+                "instructors": [
+                    "Topics in Learning Sciences",
+                    "Yolanda J Majors"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "53",
+                "course_name": "Designing Equitable Learning Ecosystems: Policy, T",
+                "instructors": [
+                    "Topics in Learning Sciences",
+                    "Nichole Pinkard"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Discourse Analysis: Study of Language & Literacy",
+                "Instructors": "Yolanda J Majors",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Tues 9:30AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to LRN_SCI Students Only."
+            },
+            {
+                "Topic": "Designing Equitable Learning Ecosystems: Policy, T",
+                "Instructors": "Nichole Pinkard",
+                "Meeting Info": "2001 Sheridan GPC/SESP 4228: Wed 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Registration is restricted to LRN_SCI Students Only."
+            }
+        ]
+    },
+    {
+        "course_number": "591-0",
+        "course_name": "Education Sciences Research Practicum in the Schools",
+        "course_reference_number": [
+            "26452"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Education Sciences Research Practicum in the Schools",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

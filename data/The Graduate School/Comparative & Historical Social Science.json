@@ -1,0 +1,30 @@
+[
+    {
+        "course_number": "484-0",
+        "course_name": "Comparative Historical Workshop",
+        "course_reference_number": [
+            "28324"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Comparative Historical Workshop",
+                "instructors": [
+                    "Anthony S Chen"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anthony S Chen\n847/467-0515\n2001 Sheridan Road, Room 6115",
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5103: Fri 3:00PM - 4:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

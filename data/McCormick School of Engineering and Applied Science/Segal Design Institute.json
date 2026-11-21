@@ -1,0 +1,1580 @@
+[
+    {
+        "course_number": "106-1",
+        "course_name": "Design Thinking and Communication",
+        "course_reference_number": [
+            "24540",
+            "24541",
+            "24542",
+            "24543",
+            "24544",
+            "24545",
+            "24546",
+            "24547",
+            "24548",
+            "24549",
+            "24550",
+            "24551",
+            "24552",
+            "24553",
+            "24554",
+            "24555",
+            "24556",
+            "24557",
+            "24558"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Alex Birdwell"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Ordel Brown",
+                    "Greg Siering"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "03",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Ordel Brown",
+                    "Laura Pigozzi"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "04",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Michael Peshkin",
+                    "Ignatius Aloysius"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:30PM"
+            },
+            {
+                "section": "05",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Andrew Skwish",
+                    "Vasilis Volakakis"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "06",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Michael Peshkin",
+                    "Ignatius Aloysius"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "07",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Andrew Skwish",
+                    "Kelly Coney"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "08",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Stacy Benjamin",
+                    "Beth Healey"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "09",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Lauri Dietz",
+                    "Michael Charles Saubert"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Hemant Jha",
+                    "Elizabeth Mary Winter"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:20AM"
+            },
+            {
+                "section": "11",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "John C Anderson"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "12",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Leslie A Fischer",
+                    "Emma Tevaarwerk DeCosta"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "13",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "John Lake",
+                    "Kevin Kappock"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "14",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Leslie A Fischer",
+                    "Emma Tevaarwerk DeCosta"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "15",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Brendan O'Kelly",
+                    "Vasilis Volakakis"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "16",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "John Lake",
+                    "Kevin Kappock"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "17",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Paul Beilstein",
+                    "Ying Chen"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "18",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "John Lake",
+                    "Kevin Kappock"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "19",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Paul Beilstein",
+                    "Stefani Bachetti"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Alex Birdwell\n847/467-3858\nSegal Design Institute, Rm 2.215, FORD 2133 Sheridan Rd, EV CAMPUS",
+                "Meeting Info": "Ford Eng Design Cntr G-205: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 01. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Ordel Brown",
+                "Meeting Info": "Ford Eng Design Cntr G-205: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 02. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Ordel Brown",
+                "Meeting Info": "Ford Eng Design Cntr G-205: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 03. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Michael Peshkin\n847/491-4630\nFORD 2133 Sheridan Rd, Rm 3-345, EV CAMPUS",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Tues, Thurs 2:00PM - 3:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 04. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Andrew Skwish",
+                "Meeting Info": "Ford Eng Design Cntr G-205: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 05. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Michael Peshkin\n847/491-4630\nFORD 2133 Sheridan Rd, Rm 3-345, EV CAMPUS",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 06. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Andrew Skwish",
+                "Meeting Info": "Ford Eng Design Cntr G-205: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 07. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Stacy Benjamin",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 08. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Lauri Dietz",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 09. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Hemant Jha",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Wed, Fri 8:00AM - 9:20AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 10. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "John C Anderson\n847/467-6374\nFord G-309\nOffice Hours: By appointment",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Wed, Fri 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 11. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Leslie A Fischer\n555 Clark St., 240",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Wed, Fri 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 12. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "John Lake",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Wed, Fri 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 13. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Leslie A Fischer\n555 Clark St., 240",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Wed, Fri 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 14. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Brendan O'Kelly",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Wed, Fri 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 15. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "John Lake",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Wed, Fri 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 16. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Paul Beilstein",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Wed, Fri 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 17. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "John Lake",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Wed, Fri 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 18. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            },
+            {
+                "Instructors": "Paul Beilstein",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Wed, Fri 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-1 19. Add both classes to the shopping cart and submit together for successful registration. Restricted to McCormick students only"
+            }
+        ]
+    },
+    {
+        "course_number": "106-2",
+        "course_name": "Design Thinking and Communication",
+        "course_reference_number": [
+            "24562",
+            "24564",
+            "24565",
+            "24566",
+            "24567",
+            "24568",
+            "24570",
+            "24571",
+            "24572",
+            "24563"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Jeanine Casler",
+                    "Natalie Rozansky"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "2",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Kate Flom Derrick",
+                    "Lakshmy Mohandas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Shuwen Li",
+                    "Ken Gentry"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Kathleen Carmichael",
+                    "Lakshmy Mohandas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Jeanine Casler",
+                    "Natalie Rozansky"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Kathleen Carmichael",
+                    "Lakshmy Mohandas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "7",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Jeanine Casler",
+                    "Natalie Rozansky"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "8",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Lauren Rouse",
+                    "Paige Hendersen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "9",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Lauren Rouse",
+                    "Paige Hendersen"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "10",
+                "course_name": "Design Thinking and Communication",
+                "instructors": [
+                    "Alice Boone",
+                    "Lawrence Marturano"
+                ],
+                "days": [
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:20AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeanine Casler",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 01. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Kate Flom Derrick",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 02. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Shuwen Li",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 03. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Kathleen Carmichael\n847/467-5592\n555 Clark, Room 239\nOffice Hours: By appointment",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 04. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Jeanine Casler",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 05. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Kathleen Carmichael\n847/467-5592\n555 Clark, Room 239\nOffice Hours: By appointment",
+                "Meeting Info": "Ford Eng Design Cntr G-211: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 06. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Jeanine Casler",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 07. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Lauren Rouse",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Tues, Thurs 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 08. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Lauren Rouse",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 09. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            },
+            {
+                "Instructors": "Alice Boone",
+                "Meeting Info": "Ford Eng Design Cntr G-201: Wed, Fri 8:00AM - 9:20AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Engineering Students Only\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for English 106-2 10. Add both classes to the shopping cart and submit together for successful registration. Students must have completed DSGN 106-1."
+            }
+        ]
+    },
+    {
+        "course_number": "208-0",
+        "course_name": "Design Thinking and Doing",
+        "course_reference_number": [
+            "24630",
+            "28371"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Design Thinking and Doing",
+                "instructors": [
+                    "Yujang Peng",
+                    "Alyssa Rizzolo"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Design Thinking and Doing",
+                "instructors": [
+                    "Kim Hoffmann",
+                    "Barbara Egel"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Yujang Peng",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "No Seniors\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Reserved for First-Year Students, Sophomores, and Juniors. Non-McCormick students only",
+                "Associated Classes": "DIS - Ford Studio 3 Rm 3210: Thurs 7:00PM - 8:20PM"
+            },
+            {
+                "Instructors": "Kim Hoffmann",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Reserved for First-Year Students, Sophomores, and Juniors. Non-McCormick students only\nAdd Consent: Instructor Consent Required",
+                "Associated Classes": "DIS - Meets in Non-General PurposeRm: Thurs 7:00PM - 8:20PM"
+            }
+        ]
+    },
+    {
+        "course_number": "220-0",
+        "course_name": "Introduction to Design Sketching",
+        "course_reference_number": [
+            "24616"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Design Sketching",
+                "instructors": [
+                    "Sabrina Katz"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sabrina Katz",
+                "Meeting Info": "Ford Hive Rm 2350: Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "240-0",
+        "course_name": "Introduction to Solid Modeling: Solidworks",
+        "course_reference_number": [
+            "24615"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Introduction to Solid Modeling: Solidworks",
+                "instructors": [
+                    "John Hartman"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Hartman",
+                "Meeting Info": "Technological Institute MG47: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "300-0",
+        "course_name": "Designing Your Life",
+        "course_reference_number": [
+            "24633",
+            "24634"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Designing Your Life",
+                "instructors": [
+                    "Bruce E Ankenman",
+                    "Sabrina Rahman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "02",
+                "course_name": "Designing Your Life",
+                "instructors": [
+                    "Rebeca Khorzad",
+                    "Mark Livshots"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bruce E Ankenman",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Juniors & Seniors\nAdd Consent: Instructor Consent Required",
+                "Associated Classes": "DIS - Meets in Non-General PurposeRm: Thurs 6:00PM - 7:30PM"
+            },
+            {
+                "Instructors": "Rebeca Khorzad",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Mon 6:00PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Juniors & Seniors\nAdd Consent: Instructor Consent Required",
+                "Associated Classes": "DIS - Meets in Non-General PurposeRm: Thurs 6:00PM - 7:30PM"
+            }
+        ]
+    },
+    {
+        "course_number": "308-0",
+        "course_name": "Human-Centered Product Design",
+        "course_reference_number": [
+            "24574"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Human-Centered Product Design",
+                "instructors": [
+                    "Stacy Benjamin"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stacy Benjamin",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Tues, Thurs 11:00AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-requisite: DSGN 106-1 or DSGN 208"
+            }
+        ]
+    },
+    {
+        "course_number": "315-0",
+        "course_name": "Design, Technology, and Research",
+        "course_reference_number": [
+            "24646"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Design, Technology, and Research",
+                "instructors": [
+                    "Haoqi Zhang"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Haoqi Zhang",
+                "Meeting Info": "Meets in Non-General PurposeRm: Fri 12:00PM - 3:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "320-0",
+        "course_name": "Introduction to Industrial Design Methods",
+        "course_reference_number": [
+            "24589"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Industrial Design Methods",
+                "instructors": [
+                    "Greg Holderfield"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Greg Holderfield",
+                "Meeting Info": "Ford Hive Annex 2340: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "321-0",
+        "course_name": "Advanced Solid Modeling",
+        "course_reference_number": [
+            "24641"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Advanced Solid Modeling",
+                "instructors": [
+                    "John Hartman"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Hartman",
+                "Meeting Info": "Technological Institute MG47: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: DSGN 240-0"
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "Rendering",
+        "course_reference_number": [
+            "24642"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Rendering",
+                "instructors": [
+                    "John Hartman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Hartman",
+                "Meeting Info": "Technological Institute MG47: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "370-0",
+        "course_name": "Portfolio Development & Presentation",
+        "course_reference_number": [
+            "24576",
+            "24575"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Portfolio Development & Presentation",
+                "instructors": [
+                    "Andrew Skwish"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:30PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "01",
+                "course_name": "Portfolio Development & Presentation",
+                "instructors": [
+                    "Andrew Skwish",
+                    "John C Anderson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Skwish",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Mon, Wed 4:30PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Juniors & Seniors"
+            },
+            {
+                "Instructors": "Andrew Skwish",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Juniors & Seniors"
+            }
+        ]
+    },
+    {
+        "course_number": "376-0",
+        "course_name": "Leonardo, Geometry, and the Art of Manufacturing",
+        "course_reference_number": [
+            "24649"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Leonardo, Geometry, and the Art of Manufacturing",
+                "instructors": [
+                    "Matthew Cummins"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Matthew Cummins",
+                "Meeting Info": "Ford Studio 3 Rm 3210: Fri 10:00AM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-1",
+        "course_name": "Industrial Design Projects I",
+        "course_reference_number": [
+            "24617"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Industrial Design Projects I",
+                "instructors": [
+                    "John Hartman"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Hartman",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Tues 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Juniors/Seniors Only\nSoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: DSGN 243-0 and either DSGN 240-0 or MECH_ENG 240-0 and either DSGN 220-0 or DSGN 320-0; or consent of the instructor. Reserved for Juniors and Seniors."
+            }
+        ]
+    },
+    {
+        "course_number": "382-1",
+        "course_name": "Service Design Studio I",
+        "course_reference_number": [
+            "24643"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Service Design Studio I",
+                "instructors": [
+                    "Amy O'Keefe"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "6:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Amy O'Keefe",
+                "Meeting Info": "Ford Hive Annex 2340: Thurs 3:00PM - 6:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "384-2",
+        "course_name": "Interdisciplinary Product Design Projects II",
+        "course_reference_number": [
+            "24573"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Interdisciplinary Product Design Projects II",
+                "instructors": [
+                    "Stacy Benjamin",
+                    "John C Anderson"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stacy Benjamin",
+                "Meeting Info": "Ford Eng Design Cntr G-205: Mon 9:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: DSGN 384-1."
+            }
+        ]
+    },
+    {
+        "course_number": "388-2",
+        "course_name": "MaDE Capstone Sequence II",
+        "course_reference_number": [
+            "24648"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MaDE Capstone Sequence II",
+                "instructors": [
+                    "David W Gatchell"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David W Gatchell\n847/491-6761\nThe Segal Design Institute, FORD G-319, EV CAMPUS",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Mon 9:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Special Topics",
+        "course_reference_number": [
+            "24595"
+        ],
+        "course_info": [
+            {
+                "section": "66",
+                "course_name": "Design Objects",
+                "instructors": [
+                    "Furniture Design",
+                    "Special Topics",
+                    "Hemant Jha"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Design Objects - Furniture Design",
+                "Instructors": "Hemant Jha",
+                "Meeting Info": "2001 Sheridan GPC 1105: Wed 2:00PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "401-2",
+        "course_name": "Human-Centered Design Studio 2",
+        "course_reference_number": [
+            "24590"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Human-Centered Design Studio 2",
+                "instructors": [
+                    "Thomas Quish",
+                    "Jesse Wilbur"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Thomas Quish",
+                "Meeting Info": "Ford Hive Annex 2340: Mon 1:00PM - 4:00PM\nNo Room Needed: Thurs 4:30PM - 5:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the EDI program."
+            }
+        ]
+    },
+    {
+        "course_number": "401-3",
+        "course_name": "Human-Centered Design Studio 3",
+        "course_reference_number": [
+            "24591"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Human-Centered Design Studio 3",
+                "instructors": [
+                    "Amy O'Keefe",
+                    "Daniel Butt"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Amy O'Keefe",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Wed 9:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the EDI program."
+            }
+        ]
+    },
+    {
+        "course_number": "450-0",
+        "course_name": "Differentiation by Design",
+        "course_reference_number": [
+            "24614"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "Differentiation by Design",
+                "instructors": [
+                    "David W Gatchell"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David W Gatchell\n847/491-6761\nThe Segal Design Institute, FORD G-319, EV CAMPUS",
+                "Meeting Info": "Ford Hive Rm 2350: Fri 9:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for students in the EDI program."
+            }
+        ]
+    },
+    {
+        "course_number": "475-0",
+        "course_name": "Mindful Product Management",
+        "course_reference_number": [
+            "24645"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Mindful Product Management",
+                "instructors": [
+                    "Susan Goren",
+                    "Michael Edmonds"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Goren",
+                "Meeting Info": "Ford ITW Auditorium 1350: Mon 6:30PM - 9:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "480-0",
+        "course_name": "Business Innovation Lab",
+        "course_reference_number": [
+            "24618",
+            "24622",
+            "24623",
+            "24624",
+            "24625",
+            "24626",
+            "24627",
+            "24628",
+            "24629",
+            "24619",
+            "24621"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Craig Sampson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Amy O'Keefe"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "3",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Martha Cotton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "4",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Martha Cotton"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "5",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Helen L von den Steinen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "6",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Craig Sampson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "7",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Amy O'Keefe"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "8",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "James Wicks"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "9",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "Helen L von den Steinen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "10",
+                "course_name": "Business Innovation Lab",
+                "instructors": [
+                    "James Wicks"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "12",
+                "course_name": "Business Innovation Lab",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Craig Sampson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Amy O'Keefe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Martha Cotton",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Martha Cotton",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Helen L von den Steinen",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Craig Sampson",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Amy O'Keefe",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "James Wicks",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Helen L von den Steinen",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "James Wicks",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0A",
+        "course_name": "Research - Design - Build",
+        "course_reference_number": [
+            "24593",
+            "24594"
+        ],
+        "course_info": [
+            {
+                "section": "X1",
+                "course_name": "Research",
+                "instructors": [
+                    "Design",
+                    "Build"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "X2",
+                "course_name": "Research",
+                "instructors": [
+                    "Design",
+                    "Build"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Special Topics in Engineering Design",
+        "course_reference_number": [
+            "24592"
+        ],
+        "course_info": [
+            {
+                "section": "38",
+                "course_name": "ID for Design Innovators",
+                "instructors": [
+                    "Special Topics in Engineering Design",
+                    "Michael Charles Saubert"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "ID for Design Innovators",
+                "Instructors": "Michael Charles Saubert",
+                "Meeting Info": "Ford Design Studio 1 Rm 1230: Thurs 1:00PM - 4:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

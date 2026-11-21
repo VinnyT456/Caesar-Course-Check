@@ -1,0 +1,82 @@
+[
+    {
+        "course_number": "130-B",
+        "course_name": "College Physics II",
+        "course_reference_number": [
+            "20536"
+        ],
+        "course_info": [
+            {
+                "section": "66",
+                "course_name": "College Physics II",
+                "instructors": [
+                    "Andrew Rivers"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Andrew Rivers\n847/467-7100\n1918 Sheridan",
+                "Meeting Info": "Technological Institute L211: Thurs 6:15PM - 9:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry Physics 131-B. Add both classes to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "131-B",
+        "course_name": "Physics Laboratory II",
+        "course_reference_number": [
+            "20534",
+            "20535"
+        ],
+        "course_info": [
+            {
+                "section": "100",
+                "course_name": "Physics Laboratory II",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "8:00PM",
+                "end_time": "9:50PM"
+            },
+            {
+                "section": "101",
+                "course_name": "Physics Laboratory II",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Saturday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 8:00PM - 9:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req. PHYSICS 130-A & 131-A"
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Sa 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req. PHYSICS 130-A & 131-A"
+            }
+        ]
+    }
+]

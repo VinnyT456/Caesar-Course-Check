@@ -1,0 +1,2048 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "27303"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "First-Year Writing Seminar",
+                "instructors": [
+                    "Brian Odom"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Brian Odom\n847/467-5452\nTechnology Institute Building (2145 Sheridan Road), Room F-315, Evanston",
+                "Meeting Info": "Technological Institute F280: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Title:\nScience and Spirituality\n\nDescription:\nThe scientific enterprise, over the centuries, has often interacted with human spirituality and religion. This interaction has at times been synergistic and at times antagonistic. This course will focus on recent developments. We will look at relevant writings of influential scientists, including mystics, believers, agnostics, and atheists. At students' discretion, we might also touch at times on science related to spirituality and spiritual experience. In-class discussion will at all times be respectful, to allow productive dialogue on these deeply personal topics.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "125-2",
+        "course_name": "General Physics for ISP",
+        "course_reference_number": [
+            "27088"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "General Physics for ISP",
+                "instructors": [
+                    "Jens Koch"
+                ],
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jens Koch\n847/467-2583\nTechnological Institute Building (2145 Sheridan Road), Room F-332, Evanston, IL\nOffice Hours: by appointment",
+                "Meeting Info": "Technological Institute L221: Mon, Tues, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: ISP Majors"
+            }
+        ]
+    },
+    {
+        "course_number": "126-2",
+        "course_name": "Fundamentals of Physics Laboratory",
+        "course_reference_number": [
+            "27296",
+            "27297",
+            "27298"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "7:00PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Fundamentals of Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "7:00PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Fundamentals of Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "7:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG11: Tues 4:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-requisite: Students must also register for PHYSICS 125-2 or 140-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG11: Wed 4:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-requisite: Students must also register for PHYSICS 125-2 or 140-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG11: Thurs 4:00PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-requisite: Students must also register for PHYSICS 125-2 or 140-2. Add both classes to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "130-2",
+        "course_name": "College Physics",
+        "course_reference_number": [
+            "27089",
+            "27090"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "College Physics",
+                "instructors": [
+                    "Angela M. Barragán"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "02",
+                "course_name": "College Physics",
+                "instructors": [
+                    "Andrew Rivers"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Angela M. Barragán",
+                "Meeting Info": "Technological Institute L211: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students must have taken Physics 130-1 OR Physics 135-1 OR Physics 125-1 OR Physics 140-1 [Gen_Eng 205-2 AND 205-3] OR [Gen_Eng 206-2 AND 206-3] to register for this class. Co-Requisite: Students must also register for Physics 136-2. Add both classes to the shopping cart and submit together for successful registration.",
+                "Associated Classes": "DIS - Technological Institute L211: Thurs 12:00PM - 12:50PM"
+            },
+            {
+                "Instructors": "Andrew Rivers\n847/467-7100\n1918 Sheridan",
+                "Meeting Info": "Technological Institute L211: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students must have taken Physics 130-1 OR Physics 135-1 OR Physics 125-1 OR Physics 140-1 [Gen_Eng 205-2 AND 205-3] OR [Gen_Eng 206-2 AND 206-3] to register for this class. Co-Requisite: Students must also register for Physics 136-2. Add both classes to the shopping cart and submit together for successful registration.",
+                "Associated Classes": "DIS - Technological Institute L211: Thurs 2:00PM - 2:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "135-2",
+        "course_name": "General Physics",
+        "course_reference_number": [
+            "27096",
+            "27097"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "General Physics",
+                "instructors": [
+                    "Tabassom Hamidfar"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "General Physics",
+                "instructors": [
+                    "Sebastián Urrutia Quiroga"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tabassom Hamidfar",
+                "Meeting Info": "Technological Institute L211: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students must have taken Physics 135-1 OR Physics 125-1 OR Physics 140-1 OR [Gen_Eng 205-2 AND 205-3] OR [Gen_Eng 206-2 AND 206-3] to register for this class. Co-Requisite: Students must also register for Physics 136-2. Add both classes to the shopping cart and submit together for successful registration.",
+                "Associated Classes": "DIS - Technological Institute L211: Thurs 9:00AM - 9:50AM"
+            },
+            {
+                "Instructors": "Sebastián Urrutia Quiroga",
+                "Meeting Info": "Technological Institute L211: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students must have taken Physics 135-1 OR Physics 125-1 OR Physics 140-1 OR [Gen_Eng 205-2 AND 205-3] OR [Gen_Eng 206-2 AND 206-3] to register for this class. Co-Requisite: Students must also register for Physics 136-2. Add both classes to the shopping cart and submit together for successful registration.",
+                "Associated Classes": "DIS - Tech Institute Lecture Room 3: Thurs 11:00AM - 11:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "135-3",
+        "course_name": "General Physics",
+        "course_reference_number": [
+            "27103",
+            "27104"
+        ],
+        "course_info": [
+            {
+                "section": "01",
+                "course_name": "General Physics",
+                "instructors": [
+                    "Gayle Ratliff"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "02",
+                "course_name": "General Physics",
+                "instructors": [
+                    "Gayle Ratliff"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gayle Ratliff",
+                "Meeting Info": "Technological Institute L211: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students must have taken Physics 135-2 or Physics 125-2 or Physics 140-2 to register for this class. Co-Requisite: Students must also register for Physics 136-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Gayle Ratliff",
+                "Meeting Info": "Technological Institute L211: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req: Students must have taken Physics 135-2 or Physics 125-2 or Physics 140-2 to register for this class. Co-Requisite: Students must also register for Physics 136-3. Add both classes to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "136-2",
+        "course_name": "General Physics Laboratory",
+        "course_reference_number": [
+            "28859",
+            "27113",
+            "27114",
+            "27115",
+            "27116",
+            "27117",
+            "27118",
+            "27119",
+            "27120",
+            "27121",
+            "27122",
+            "27123",
+            "28860",
+            "27124",
+            "27125",
+            "27126",
+            "27127",
+            "27128",
+            "28861",
+            "27129",
+            "28862",
+            "27130",
+            "27131",
+            "27132"
+        ],
+        "course_info": [
+            {
+                "section": "41",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "42",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "43",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "44",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "45",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "46",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "51",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "52",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "53",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "54",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "55",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "56",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "61",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "62",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "63",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "64",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "65",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "66",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "71",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "72",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "73",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "74",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "75",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "76",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Mon 8:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Mon 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Mon 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Mon 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Mon 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Mon 6:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 8:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Tues 6:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Wed 8:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Wed 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Wed 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Wed 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Wed 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Wed 6:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Thurs 8:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Thurs 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Thurs 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Thurs 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG32: Thurs 6:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 130-2 or Physics 135-2. Add both classes to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "136-3",
+        "course_name": "General Physics Laboratory",
+        "course_reference_number": [
+            "27133",
+            "27134",
+            "27135",
+            "27136",
+            "27137",
+            "27138",
+            "27139",
+            "27140",
+            "27141",
+            "27142",
+            "27143",
+            "27144",
+            "27145",
+            "27146"
+        ],
+        "course_info": [
+            {
+                "section": "43",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "44",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "45",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "46",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:50PM"
+            },
+            {
+                "section": "52",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "53",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "55",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "64",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:50PM"
+            },
+            {
+                "section": "65",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "71",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "72",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "73",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "75",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "76",
+                "course_name": "General Physics Laboratory",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Mon 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Mon 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Mon 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Mon 6:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Tues 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Tues 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Tues 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Wed 2:00PM - 3:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Wed 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Thurs 8:00AM - 9:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Thurs 10:00AM - 11:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Thurs 12:00PM - 1:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            },
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute MG35: Thurs 6:00PM - 7:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either PHYSICS 130-3 or PHYSICS 135-3. Add both classes to the shopping cart and submit together for successful registration."
+            }
+        ]
+    },
+    {
+        "course_number": "140-2",
+        "course_name": "Fundamentals of Physics",
+        "course_reference_number": [
+            "27301"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Fundamentals of Physics",
+                "instructors": [
+                    "Tianlong Zu"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Tianlong Zu",
+                "Meeting Info": "Technological Institute F280: Mon, Wed, Thurs, Fri 10:00AM - 10:50AM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Co-Requisite: Students must also register for either Physics 126-2. Add both classes to the shopping cart and submit together for successful registration.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "250-0",
+        "course_name": "Differential Equations and Fourier Analysis for Physics",
+        "course_reference_number": [
+            "27305"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Differential Equations and Fourier Analysis for Physics",
+                "instructors": [
+                    "Michelle Driscoll"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michelle Driscoll",
+                "Meeting Info": "Technological Institute F281: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "This course teaches differential equations and Fourier methods as mathematical tools for modeling, interpreting, and predicting the behavior of physical systems. The emphasis here is on the physics mindset: using structure, approximation, and physical reasoning to apply the most effective methods. Selected topics include ordinary and partial differential equations, Fourier series and transforms, canonical systems such as the wave, heat, and Laplace equations, and basic numerical methods.",
+                "Registration Requirements": "PHYSICS 135-1, MATH 230-1, MATH 240, or equivalents",
+                "Learning Objectives": "This course teaches differential equations and Fourier methods as mathematical tools for modeling, interpreting, and predicting the behavior of physical systems. The emphasis here is on the physics mindset: using structure, approximation, and physical reasoning to apply the most effective methods. By the end of the course, students will be able to:\n\n•Formulate ordinary and partial differential equations that describe physical systems and identify the appropriate initial or boundary conditions for well-posed problems\n•Solve linear ODEs—including coupled and inhomogeneous equations—using characteristic equations, particular solutions, and related methods, and interpret transient and steady-state behavior in physical terms\n•Use Fourier series and Fourier transforms to represent functions, solve differential equations, and translate between real-space and frequency-domain descriptions\n•Apply orthogonality, inner products, and eigenfunction expansions to solve canonical PDEs including the wave, heat, and Laplace equations\n•Implement basic numerical methods, including Euler schemes, ODE solvers, FFTs, and simple PDE algorithms, to approximate solutions and evaluate the reliability of numerical results",
+                "Class Materials (Required)": "Garg, Anupam, Mathematics with a Scientific Sensibility, https://doi.org/10.21985/n2-d1sg-p781",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisites: PHYSICS 135-1 or PHYSICS 140-1, MATH 230-1, MATH 240-0, or equivalents"
+            }
+        ]
+    },
+    {
+        "course_number": "330-2",
+        "course_name": "Classical Mechanics",
+        "course_reference_number": [
+            "27148"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Classical Mechanics",
+                "instructors": [
+                    "Francis Petriello"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Francis Petriello\n847/491-5453\nTechnological Institute Building (2145 Sheridan Road), Room F-321, Evanston",
+                "Meeting Info": "Technological Institute LG66: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "This is the second course in a two-quarter sequence which covers advanced classical mechanics. Topics covered in Physics 330-2 include oscillations kinematics of rigid modes, noninertial reference frames, systems with many degrees of freedom, the Hamiltonian formalism, and a selection of other possible topics including scattering, chaos, and special relativity.",
+                "Registration Requirements": "Prerequisites: PHYSICS 330-1 or equivalent; PHYSICS 250-0 or MATH 250-0 or equivalent",
+                "Teaching Method": "Three one-hour lectures and a one-hour discussion per week",
+                "Evaluation Method": "Homework, one or more mid-terms, and a final examination.",
+                "Class Materials (Required)": "Authors: Thornton, Marion\nTitle: Classical Dynamics of Particles and Systems\nISBN: 9780534408961\nEdition: 5TH 04",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - Technological Institute A110: Mon 3:00PM - 3:50PM"
+            }
+        ]
+    },
+    {
+        "course_number": "339-1",
+        "course_name": "Quantum Mechanics",
+        "course_reference_number": [
+            "27150"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Quantum Mechanics",
+                "instructors": [
+                    "Pulak Dutta"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pulak Dutta\n847/491-5465\nTechnological Institute (2145 Sheridan Road), Room F-114, Evanston",
+                "Meeting Info": "Technological Institute L251: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "This is the first of a two-quarter course on quantum theory. We will discuss both the meaning of the theory and how to use it to calculate experimentally observable quantities for simple systems involving atoms, spins, light polarization, and tunneling",
+                "Registration Requirements": "Prerequisites: For ISP students: second-year standing. For others, PHYS 330-1, MATH 230-1, and MATH 240 or PHYS 311-1. Strong ability to do practical calculations with calculus and matrices, and familiarity with complex numbers.",
+                "Learning Objectives": "Understand and apply the concepts related to the quantum mechanical amplitude, quantum states, superposition of quantum states, observables and operators, quantum measurement, unitary time evolution, transition amplitudes and probabilities, and symmetry and conservation laws.",
+                "Teaching Method": "Lectures and discussion section",
+                "Evaluation Method": "Homework, midterms, and final exam.",
+                "Class Materials (Required)": "John S. Townsend, A Modern Approach to Quantum Mechanics (Second Edition)",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - 2001 Sheridan GPC GN350: Thurs 10:00AM - 10:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "352-0",
+        "course_name": "Introduction to Computational Physics",
+        "course_reference_number": [
+            "27147"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Computational Physics",
+                "instructors": [
+                    "Kristian Hahn"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kristian Hahn",
+                "Meeting Info": "Technological Institute M120: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "360-0",
+        "course_name": "Advanced Physics Laboratory",
+        "course_reference_number": [
+            "27152"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Physics Laboratory",
+                "instructors": [
+                    "Carl Dahl"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Carl Dahl",
+                "Meeting Info": "Technological Institute F281: Tues, Thurs 2:00PM - 3:00PM\nTechnological Institute F246: Tues, Thurs 3:00PM - 4:50PM",
+                "Overview of class": "Each three-hour time slot of the course will begin with 30-60 minutes in the classroom, followed by time in the lab. Classroom time will be used for lectures on statistical data analysis for the first two weeks of the course, and for short student presentations for the remainder of the course. In the lab sessions, students will work in groups of 2 or 3, choosing three experiments from the ~8 setups available to complete over the quarter (5 to 6 lab sessions per experiment). In addition to the short presentations, students will keep a group lab notebook for each experiment, and will write individual reports for each experiment in the style of a journal article. At the end of the quarter, each student will give a seminar-style presentation on one of the three experiments they completed.",
+                "Registration Requirements": "Prerequisite: 239-0 Modern Physics",
+                "Learning Objectives": "Students will learn to give technical presentations, write reports in the style of journal articles, and do basic statistical data analysis while performing experiments in modern physics including nuclear and particle physics, atomic physics, quantum physics, condensed matter physics, and nonlinear dynamics.",
+                "Teaching Method": "Classes begin with one-hour lectures on statistical data analysis for the first part of the course, and with student presentations on the theory behind the experiments in the lab for the second part of the course. A three hour lab session follows the lecture or presentations. The instructor will be available throughout the lab session to support understanding and execution of the experiments.\n\nEach student is to complete three experiments during the course.\nStudents perform labs in pairs and produce individual lab reports in the style of journal articles.",
+                "Evaluation Method": "The statistics portion of the course will include two problem sets and one quiz covering basic statistical data analysis. Students will perform three experiments during the course -- for each experiment the student will give one 6-minute presentation and write one report in the style of a journal article, and each group will submit one lab notebook documenting their lab work. In lieu of a final exam, students will give a final seminar-style presentation on one of the three experiments they completed during the course. Grades are based on the demonstrated understanding of the physics experiments being performed, technical communication technique (written, oral, and visual), and correct quantitative data analysis.",
+                "Class Materials (Suggested)": "Statistical Data Analysis by- Glen Cowan, Oxford Press, ISBN: 978-0198501558\nPrevious Editions: Yes, any edition is fine\nOnline: Yes\nPrice: $44.04-$130.00",
+                "Class Attributes": "Advanced Expression\nSoC Humanities and Fine Arts Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Independent Thesis Research",
+        "course_reference_number": [
+            "27156",
+            "27157",
+            "27158",
+            "27159",
+            "27160",
+            "27161",
+            "27162",
+            "27163",
+            "27164",
+            "27165",
+            "27166",
+            "27167",
+            "27168",
+            "27169",
+            "27170",
+            "27171",
+            "27172",
+            "27173",
+            "27174",
+            "27175",
+            "27176",
+            "27177",
+            "27178",
+            "27179",
+            "27180",
+            "27181",
+            "27153",
+            "27154",
+            "27155"
+        ],
+        "course_info": [
+            {
+                "section": "24",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Istvan Kovacs"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "26",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Venkat Chandrasekhar"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "27",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Carl Dahl"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "28",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Andre De Gouvea"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "29",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Michelle Driscoll"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "30",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Pulak Dutta"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "39",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Enectali Figueroa-Feliciano"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "40",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Anupam Garg"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "42",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Kristian Hahn"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "46",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "William Halperin"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "50",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Chris Jacobsen"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "58",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "John Ketterson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "59",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Jens Koch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "60",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Ian Low"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "61",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Timothy Kovachy"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "62",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "John Marko"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "64",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Adilson Motter"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "71",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Brian Odom"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "73",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Francis Petriello"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "75",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Andrew Rivers"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "78",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "James Sauls"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "84",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Michael Schmitt"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "92",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Sara Solla"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "95",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Nathaniel Stern"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "98",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Mayda Velasco"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "99",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "John Joseph Carrasco"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "100",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Gerald Gabrielse"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "101",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Istvan Kovacs"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "102",
+                "course_name": "Independent Thesis Research",
+                "instructors": [
+                    "Archana Kamal"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Istvan Kovacs",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Venkat Chandrasekhar\n847/491-3444\nTechnological Institute Building (2145 Sheridan Road), Room F-125, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Carl Dahl",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Andre De Gouvea\n847467 6462\nTechnological Institute (2145 Sheridan Road), Room F-325, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michelle Driscoll",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Pulak Dutta\n847/491-5465\nTechnological Institute (2145 Sheridan Road), Room F-114, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Enectali Figueroa-Feliciano",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Anupam Garg\n847/491-3229\nTechnological Institute (2145 Sheridan Road), Room F-327), Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Kristian Hahn",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "William Halperin\n847/491-3686\nTechnological Institute (2145 Sheridan Road), Room F-126, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Chris Jacobsen\n847/467-2703\nTechnological Institute Building (2145 Sheridan Road), Room F-247",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Ketterson\n847/491-5468\nTechnological Institute (2145 Sheridan Road), Room FG-19, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Jens Koch\n847/467-2583\nTechnological Institute Building (2145 Sheridan Road), Room F-332, Evanston, IL\nOffice Hours: by appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Ian Low\n847/467-2618\nTechnological Institute (2145 Sheridan Road), Room F-332, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Timothy Kovachy",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Marko\n847/467-1276\nPancoe 4109 / Tech F319",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Adilson Motter\n847/491-4611\nTechnological Institute Building (2145 Sheridan Road), Room F-323, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Brian Odom\n847/467-5452\nTechnology Institute Building (2145 Sheridan Road), Room F-315, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Francis Petriello\n847/491-5453\nTechnological Institute Building (2145 Sheridan Road), Room F-321, Evanston",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Andrew Rivers\n847/467-7100\n1918 Sheridan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "James Sauls\n847/491-8624\nTechnological Institute (2145 Sheridan Road), Room F-234, Evanston\nOffice Hours: by appointment",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Michael Schmitt\n847/467-6593\nTechnological Institute (2145 Sheridan Road), Room F-113, Evanston\nOffice Hours: Fridays, 12:00 - 15:00",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Sara Solla",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Nathaniel Stern\n847/467-0625\nTech F141",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Mayda Velasco\n847/467-7099\nTechnological Institute Building (2145 Sheridan Road), Room F-119\nOffice Hours: Monday & Friday 2:30-4:00",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "John Joseph Carrasco",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Gerald Gabrielse",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Istvan Kovacs",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Archana Kamal",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "401-0",
+        "course_name": "Physics Pedagogy and Classroom Practice",
+        "course_reference_number": [
+            "27304"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Physics Pedagogy and Classroom Practice",
+                "instructors": [
+                    "Bennett Goldberg"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bennett Goldberg",
+                "Meeting Info": "Technological Institute F281: Fri 9:30AM - 10:50AM",
+                "Overview of class": "This course is designed to support physics teaching assistants to have the skills and knowledge to make labs, discussions and office hours effective and valuable for all students. The course provides foundational knowledge in learning and teaching in higher education together with practical skills in physics and astronomy classroom practices. Physics and Astronomy PhDs will gain the confidence to become effective, reflective and joyful instructors in their future academic or non-academic career pathways.",
+                "Learning Objectives": "Learning goals:\n• Discuss how the foundations of learning and teaching are reflected in physics instruction in higher education\n• Reflect on learner motivation and apply techniques to advance physics student engagement in labs and discussions\n• Define goals and roles for TA/instructor and explore student trust building\n• Practice leading effective group work, active learning, and engaged discussions\n• Reflect on and implement grading practices and grade consistently with peers\n• Gain confidence in trying new instructional practices, assess their outcomes and continuously improve\n• Structure a physics lesson plan with a student-centered perspective\n• Access, read, and critically analyze educational literature and evidence-based research in physics instruction\n• Recognize and apply pedagogical skills to communications and presentations beyond the classroom"
+            }
+        ]
+    },
+    {
+        "course_number": "412-2",
+        "course_name": "Quantum Mechanics",
+        "course_reference_number": [
+            "27211"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Quantum Mechanics",
+                "instructors": [
+                    "Gerald Gabrielse"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gerald Gabrielse",
+                "Meeting Info": "Technological Institute M152: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-1",
+        "course_name": "Electrodynamics",
+        "course_reference_number": [
+            "27212"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Electrodynamics",
+                "instructors": [
+                    "Venkat Chandrasekhar"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Venkat Chandrasekhar\n847/491-3444\nTechnological Institute Building (2145 Sheridan Road), Room F-125, Evanston",
+                "Meeting Info": "Technological Institute M128: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This is the first quarter of a two quarter sequence on Classical Electrodynamics at the graduate level. The topics to be covered in the first quarter are electrostatics, magnetostatics, and if time permits, an introduction to time-dependent fields that will lead us directly into the material for the second quarter of the course.",
+                "Registration Requirements": "Prerequisites\nAs this is a graduate level course, it is assumed that you have already taken an advanced undergraduate Electricity and Magnetism course at the level of Griffiths or its equivalent, and have an appropriate mathematics background, including differential and integral vector calculus, linear algebra, ordinary and some partial differential equations, and some complex analysis, as would be covered in a typical mathematical physics course at the level of Arfken. It would not hurt to review some of these topics early on in the course.",
+                "Learning Objectives": "Understanding Classical Electrodynamics as a relativistic classical field theory. Consequences and applications, as well as related analytic and numerical techniques.",
+                "Teaching Method": "The course is based entirely on lectures in the class, and as such, there is no assigned text for the course. If you are more comfortable with having a text, I would recommend obtaining a copy of Jackson's classic text on Electrodynamics. The lectures will follow his treatment in parts, but also draw upon Smythe, Panofksy-Phillips, Landau-Lifshitz and other texts.",
+                "Evaluation Method": "Evaluation is based on a weekly homework set, an in-class midterm and an in-class final exam.",
+                "Class Materials (Required)": "None."
+            }
+        ]
+    },
+    {
+        "course_number": "416-0",
+        "course_name": "Introduction to Statistical Mechanics",
+        "course_reference_number": [
+            "27214"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Statistical Mechanics",
+                "instructors": [
+                    "Anupam Garg"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anupam Garg\n847/491-3229\nTechnological Institute (2145 Sheridan Road), Room F-327), Evanston",
+                "Meeting Info": "Technological Institute M128: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Statistical mechanics seeks to explain the link between emergent macroscopic phenomena seen in bulk matter such as gases, solids and liquids, magnets, polymers, etc., and the microscopic laws governing their constituent atoms and molecules. This course will cover the basic concepts underlying equilibrium Boltzmann-Gibbs statistical mechanics, including the microscopic definition of entropy, and the connection to thermodynamics. Applications to ideal classical and quantum gases, nonideal gases, paramagnets and ferromagnets will be discussed. Other systems will be covered as time permits.",
+                "Registration Requirements": "Graduate standing in Physics and Astronomy or permission of the instructor. Some advanced undergraduates, and many graduate students in other science or engineering departments, will have the necessary background..",
+                "Teaching Method": "Two 1.5 hour lectures per week.",
+                "Evaluation Method": "Midterm examination, homework sets, and final examination.",
+                "Class Materials (Required)": "To be determined"
+            }
+        ]
+    },
+    {
+        "course_number": "422-2",
+        "course_name": "Condensed-Matter Physics",
+        "course_reference_number": [
+            "27215"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Condensed-Matter Physics",
+                "instructors": [
+                    "John Ketterson"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Ketterson\n847/491-5468\nTechnological Institute (2145 Sheridan Road), Room FG-19, Evanston",
+                "Meeting Info": "Technological Institute MG51: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "This is the second quarter of a two-quarter graduate sequence that will cover some aspects of condensed matter systems. The first quarter was devoted to crystals, X-ray scattering, the physics of electrons on a crystal lattice, including Bloch electrons, band structure, symmetries, semiclassical description of electrons in magnetic fields, and the Boltzmann equation description of electron transport. Towards the end, it will also introduce phonons. The second quarter continues with phonons, and then covers electron-electron interactions, electron-phonon interactions, scattering of electrons from impurities, and magnetism.",
+                "Registration Requirements": "PHYSICS 422-1 or permission of the instructor",
+                "Teaching Method": "Two 90-minute lectures per week",
+                "Evaluation Method": "Weekly homework sets, a midterm exam, and final exam",
+                "Class Materials (Required)": "none"
+            }
+        ]
+    },
+    {
+        "course_number": "424-2",
+        "course_name": "Particle Physics",
+        "course_reference_number": [
+            "27216"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Particle Physics",
+                "instructors": [
+                    "Mayda Velasco"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mayda Velasco\n847/467-7099\nTechnological Institute Building (2145 Sheridan Road), Room F-119\nOffice Hours: Monday & Friday 2:30-4:00",
+                "Meeting Info": "Technological Institute L170: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Overview of advanced topics on the Standard Model of particle physics. Electroweak and Higgs boson, neutrino oscillations, violations of symmetries and physics beyond the Standard Model. The experimental side of particle physics will be emphasized, and connections with other areas of physics will be made. For example, connection between the Higgs boson and Cosmology.",
+                "Class Materials (Required)": "None."
+            }
+        ]
+    },
+    {
+        "course_number": "428-2",
+        "course_name": "Quantum Field Theory",
+        "course_reference_number": [
+            "27213"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Quantum Field Theory",
+                "instructors": [
+                    "John Joseph Carrasco"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Joseph Carrasco",
+                "Meeting Info": "Technological Institute L170: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Spin-half relativistic Quantum Field Theory focusing on topics selected from the following: Representations of the Lorentz group, spinors and canonical quantization, CPT conservation, fermionic propagator, fermonic path integrals, gamma matrices, and Yukawa theory.",
+                "Registration Requirements": "PHYSICS 428-1",
+                "Teaching Method": "Two lectures per week",
+                "Evaluation Method": "Homework Assignments, Take-home Final",
+                "Class Materials (Required)": "None",
+                "Class Materials (Suggested)": "1] Mark Srednicki's QFT textbook,\nPDF of the initial draft sufficient: https://web.physics.ucsb.edu/~mark/qft.html\n\n2] An Introduction To Quantum Field Theory, by Peskin and Schroeder"
+            }
+        ]
+    },
+    {
+        "course_number": "450-0",
+        "course_name": "Advanced Topics in Condensed Matter",
+        "course_reference_number": [
+            "27217"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Quantum Information",
+                "instructors": [
+                    "Advanced Topics in Condensed Matter",
+                    "Archana Kamal"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Advanced Quantum Information",
+                "Instructors": "Archana Kamal",
+                "Meeting Info": "Technological Institute L158: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course is part-II of two-part series of QI courses, with part-I being the physics of quantum information course (also taught under PHYS 450 in Winter 2026). It can also be taken as a stand alone course, and requires some basic knowledge of linear algebra and quantum computing (mostly quantum gates and operations)**.\n\n**These topics were covered under part-I, and maybe (very) briefly recapped for the benefit of new students.",
+                "Registration Requirements": "Graduate Quantum Mechanics (I and II), Physics of Quantum Information (Winter 2026) OR special permission from the instructor.",
+                "Learning Objectives": "Tentative List of Topics:\n-Entanglement: 2- and 3-qubit systems, loophole-free Bell tests, no-go theorems, quantum\nteleportation and super-dense coding\n-Computational complexity: complexity classes (P, BPP, NP), concept of oracle and\nquery complexity, (extended) Church-Turing thesis, brief introduction to quantum\ncomplexity\n-Models of quantum computation: topological QC, cluster-states and measurementbased\nQC, adiabatic QC\n-Quantum Information Theory: data compression and channel capacity theorems, entropy\nand information",
+                "Evaluation Method": "Homeworks - 60%\nFinal presentation - 20%\nTerm paper - 20%",
+                "Class Materials (Suggested)": "Quantum Computation and Quantum Information: M. A. Nielsen and I. L. Chuang\nElements of Information Theory: T. M. Cover and J. A. Thomas\nQuantum Information Theory: Mark Wilde"
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Advanced Topics in Statistical Physics",
+        "course_reference_number": [
+            "27218"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Advanced Topics in Statistical Physics",
+                "instructors": [
+                    "John Marko"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "John Marko\n847/467-1276\nPancoe 4109 / Tech F319",
+                "Meeting Info": "Technological Institute L170: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

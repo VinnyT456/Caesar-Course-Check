@@ -1,0 +1,32 @@
+[
+    {
+        "course_number": "502-0",
+        "course_name": "Topics in Theatre",
+        "course_reference_number": [
+            "28515"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Research Design and Prospectus Development",
+                "instructors": [
+                    "Topics in Theatre",
+                    "Danielle Bainbridge"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Research Design and Prospectus Development",
+                "Instructors": "Danielle Bainbridge",
+                "Meeting Info": "Wirtz 240 Seminar Room: Mon 9:00AM - 11:50AM",
+                "Class Materials (Required)": "$1-25"
+            }
+        ]
+    }
+]

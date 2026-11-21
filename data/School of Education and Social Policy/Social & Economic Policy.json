@@ -1,0 +1,86 @@
+[
+    {
+        "course_number": "400-0",
+        "course_name": "Causal Methods for Evaluating Policy",
+        "course_reference_number": [
+            "28728"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Causal Methods for Evaluating Policy",
+                "instructors": [
+                    "Ofer Malamud"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ofer Malamud",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Course meets in Hong Kong",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment is restricted to Masters Students in Social & Economic Policy."
+            }
+        ]
+    },
+    {
+        "course_number": "403-0",
+        "course_name": "Policy Analysis using Advanced Methods",
+        "course_reference_number": [
+            "28729"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Policy Analysis using Advanced Methods",
+                "instructors": [
+                    "Burhan Ogut"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Burhan Ogut",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Course meets in Hong Kong",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment is restricted to Masters Students in Social & Economic Policy."
+            }
+        ]
+    },
+    {
+        "course_number": "416-1",
+        "course_name": "MSSEP Capstone",
+        "course_reference_number": [
+            "28730"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "MSSEP Capstone",
+                "instructors": [
+                    "Michelle Yin",
+                    "John Stephen Olson"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michelle Yin",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Enrollment is restricted to Masters Students in Social & Economic Policy.\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]

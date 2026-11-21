@@ -1,0 +1,672 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "24936"
+        ],
+        "course_info": [
+            {
+                "section": "3",
+                "course_name": "Storytelling",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Katherine Elizabeth Hoffman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Storytelling",
+                "Instructors": "Katherine Elizabeth Hoffman\n847/491-4565\n1810 Hinman Ave., Room #206, EV Campus",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1410: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Stories can communicate information or entertain, but they also connect, persuade, and mobilize people. This seminar explores storytelling as communicative practice, individual creation, and anthropological subject. We will look at diverse oral traditions in the US and abroad and personal narratives. Just as importantly, we will study how organizations, governments, and activists use stories to raise awareness, inspire action, shape public opinion, and mislead. Along the way, we'll ask how stories are shaped by power and resistance to it and what stories reveal about identity and community. Students will experiment with crafting their own personal narratives, analyzing those of others, and discovering how narrative connects people across time and space.",
+                "Registration Requirements": "WCAS first-year students only",
+                "Learning Objectives": "By the end of the course, students will be able to:\n1. Read and critically analyze ethnography.\n2. Engage with diverse storytelling traditions and their cultural significance.\n3. Understand the brain science behind human memory in storytelling.\n4. Develop true personal history-based stories and deliver them to an audience.\n5. Collaboratively explore storytelling in diverse contexts (for instance, law, healing from trauma, collective identity formulation, NGO advocacy and fundraising, advertising, and propaganda).\n6. Participate in class and small group discussion, class exercises, peer reviews, and rewrites of your own work.\n7. Develop comfort, confidence, and modesty in presenting ideas, commenting on class readings by experts, responding to others' ideas without fear or favor, and receiving constructive feedback with gratitude, humility, and grace.",
+                "Class Materials (Required)": "Paper hard copies provided by professor.",
+                "Class Notes": "Please note that student screens are not allowed in class, and no AI for any part of work/assignments. Bring a notebook, a pen, and the printed readings to class.",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "213-0",
+        "course_name": "Human Origins",
+        "course_reference_number": [
+            "24839"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Human Origins",
+                "instructors": [
+                    "Erin B Waxenbaum"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erin B Waxenbaum\n847/491-4818\n1810 Hinman Ave., Room #A54A, EV Campus",
+                "Meeting Info": "Annenberg Hall G15: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "Anthropology is a holistic analysis of the human condition. The study of human origins, or paleoanthropology, is a subfield of physical anthropology that focuses on the biological history of the human species including their evolution, emergence, and radiation. We will explore the scientific method and how theories like evolution have come about and expanded over time. We will learn about our closest living relatives - primates - and how an appreciation of their life history and behavior reflects the modern human condition. Many of the principles and concepts that comprise our understanding of how humans have evolved and adapted over time involve an appreciation of ecology, genetics, physiology, adaptation, and cultural development that will also be explored. Lastly, we will look at modern human diversity and discuss how we are continuing to evolve today.",
+                "Learning Objectives": "After successful completion of this course, students should be able to:\n• Demonstrate knowledge and understanding the process of natural selection and how it relates to changes to and the development of the natural world, including the evolution of the human species, evolutionary theory, and research approaches relevant to biological anthropology\n• Discuss and address hypotheses related to human evolution and natural selection and test the skills necessary to acquire, analyze, and interpret scientific data to test and revise hypotheses\n• Appreciate the implications, utility, and limitations of scientific inquiry, both within the context of biological anthropology, evolution, and genetics and more broadly for other areas of scientific inquiry\n• Articulate the scientific process and the significance of scientific advances in biological anthropology, in written and/or oral form",
+                "Class Materials (Suggested)": "Introduction to Physical Anthropology by Jurmain, Kilgore, Trevathan & Ciochon (15th/2018 Edition). ISBN: 978-1337099820",
+                "Class Notes": "Lecture slides are available on canvas",
+                "Class Attributes": "Natural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro",
+                "Associated Classes": "DIS - 2001 Sheridan Anthro Lab 1325: Mon 9:00AM - 9:50AM"
+            }
+        ]
+    },
+    {
+        "course_number": "290-0",
+        "course_name": "Topics in Anthropology",
+        "course_reference_number": [
+            "28734"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Topics in Anthropology",
+                "instructors": [
+                    "Taylor Silverman"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:30PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Taylor Silverman",
+                "Meeting Info": "University Hall 412: Mon, Wed 3:30PM - 4:50PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "315-0",
+        "course_name": "Medical Anthropology",
+        "course_reference_number": [
+            "24931"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Medical Anthropology",
+                "instructors": [
+                    "Rebecca Seligman"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rebecca Seligman\n847/491-7207\n1810 Hinman Ave., Room #204, EV Campus",
+                "Meeting Info": "2001 Sheridan GPC 2447: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "How do Anthropologists understand and investigate the social and cultural contexts of health and illness? This course will examine the diverse ways in which humans use cultural resources to cope with pain, illness, suffering and healing in diverse cultural contexts. In addition, we will analyze various kinds of medical practices as cultural systems, examining how disease, health, body, and mind are socially constructed, how these constructions articulate with human biology, and vice versa. The course will provide an introduction to the major theoretical frameworks that guide anthropological approaches to studying human health-related behavior. Theory will be combined with case studies from a number of societies, from India, Japan, Brazil, and Haiti to the U.S. and Canada, enabling students to identify similarities across seemingly disparate cultural systems, while at the same time demonstrating the ways in which American health behaviors and practices are socially embedded and culturally specific. The course will emphasize the overall social, political, and economic contexts in which health behavior and health systems are shaped, and within which they must be understood.",
+                "Registration Requirements": "Reserved for Juniors & Seniors",
+                "Learning Objectives": "By the end of the course, students will be able to identify and evaluate core concepts and theoretical approaches in medical anthropology, be able to analyze the social, political, and economic factors that contribute to illness and healing, be able to evaluate the culturally specific elements of medical systems, and be able to synthesize diverse ideas, themes, and theoretical arguments from across course readings.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "329-0",
+        "course_name": "Archaeology and Nationalism",
+        "course_reference_number": [
+            "26368"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Archaeology and Nationalism",
+                "instructors": [
+                    "Ann Gunter"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ann Gunter\n847/467-0873\nKresge 4333",
+                "Meeting Info": "Kresge Centennial Hall 4-410: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Historical Studies Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "357-0",
+        "course_name": "Biocultural Perspectives on Water Insecurity",
+        "course_reference_number": [
+            "24937"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biocultural Perspectives on Water Insecurity",
+                "instructors": [
+                    "Sera Young"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sera Young\n847/467-2174\n1819 Hinman Avenue",
+                "Meeting Info": "2001 Sheridan GPC 4103: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The first objective of this course is to introduce students to the many ways that water impacts humans around the world. We will discuss what the international recommendations for safely managed water are and the health and social consequences of water insecurity. The second objective is to explore why there is such variety in water insecurity worldwide. Influences on access to water will be broadly considered; we will draw on literature in global health, ethnography, the life sciences, and public policy. These discussions will be guided by the socio-ecological framework, in which dimensions ranging from the individual to the geopolitical are considered. The third objective is to develop critical thinking and writing abilities to reflect on the multi-dimensional causes and consequences of water insecurity and the appropriateness of potential solutions. This will be accomplished through readings and documentaries that we have lovingly selected, writing weekly reflection pieces, preparing a short in-class presentation on recent media, and writing an OpEd.",
+                "Learning Objectives": "By the end of this course, you should be able to…\n1. Understand and articulately discuss the social and health impacts of water security.\n2. Identify and critically analyze key actors, institutions, and policies that influence water security.\n3. Recognize, critically assess, and communicate the value of qualitative and quantitative data for understanding causes and consequences of water security.\n4. Evaluate metrics and interventions related to water insecurity from anthropological and public health perspectives.",
+                "Class Materials (Required)": "Drinking Water: A history, by James Salzman (ISBN-13 9781468314908)",
+                "Class Notes": "Our classes will be oriented around the socio-ecological conceptual framework(s). We will begin with an overview of water insecurity and historical perspectives, introduce the socio-ecological framework, and then move from proximal to distal determinants of water insecurity. We will also focus on the multiple determinants and causes of water insecurity through a combination of on-line lectures, media presentations, and assignments.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "386-0",
+        "course_name": "Methods in Human Biology Research",
+        "course_reference_number": [
+            "24932"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Methods in Human Biology Research",
+                "instructors": [
+                    "Aaron A Miller"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aaron A Miller\n847 4917003\nDept of Anthropology 1810 Hinman Room A63\nOffice Hours: Available by appointment",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1325: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "Biological anthropologists endeavor to understand the global range of human biological variation, and human biologists in particular are interested in investigating the effects of culture and ecology on human adaptation, development and health. The course will provide an overview of the logic and method underlying empirical research in human biology. It will introduce students to the scientific method, as well as the process of research design, data analysis and interpretation. The course emphasizes hands-on laboratory experience with a range of methods for assessing human nutritional status, physical activity, growth, cardiovascular health, endocrine activity and immune function. In contrast to clinical or biomedical approaches to human biology, biological anthropologists tend to study a diverse range of individuals in everyday settings. Therefore, an emphasis will be placed on minimally-invasive research methods that can be applied across a range of cultural and ecological contexts.\n\nNote: Please keep in mind that some of the labs in this class involve recording food intake, taking body measurements (e.g. weight, circumferences, skinfolds), and collecting blood and saliva samples. Students who may feel uncomfortable engaging in any of the laboratory activities should feel free to discuss this with the instructor so that reasonable accommodations can be made.",
+                "Registration Requirements": "Instructor consent required. Priority given to junior or senior Anthro majors, particularly those pursuing the Concentration in Human Biology.",
+                "Class Materials (Required)": "All readings will be available on Canvas.",
+                "Class Attributes": "Advanced Expression\nNatural Sciences Foundational Discipline\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "389-0",
+        "course_name": "Ethnographic Methods and Analysis",
+        "course_reference_number": [
+            "24848"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Ethnographic Methods and Analysis",
+                "instructors": [
+                    "Hirokazu Miyazaki"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Hirokazu Miyazaki\n847 4675540\n1819 Hinman Ave. #110",
+                "Meeting Info": "Parkes Hall 212: Tues 2:00PM - 4:50PM",
+                "Overview of class": "This advanced seminar provides students with an in-depth exploration of the entire process of ethnographic research, from conceptual design to fieldwork, analysis, and writing. By working on a campus-based ethnographic research project, students will develop proficiency in key methodological techniques. These projects will undergo peer review and culminate in an ethnographic report that integrates theoretical frameworks with ethnographic evidence. Graduate students are required to produce a final concept paper to lay the groundwork for a future dissertation research project. Weekly readings serve as practical guides and methodological inspiration, informing in-class discussions and anchoring students' ongoing fieldwork in broader scholarly conversations about ethnographic methods and anthropological knowledge production. The course focuses on the craft of ethnography — the core methodology of cultural anthropology — breaking it down into specific techniques, such as identifying a field site, conducting ethnographic interviews, making ethnographic observations, writing field notes, and carrying out ethnographic analysis. The course aims to sharpen students' sensibilities toward collaborative knowledge production where the ethics of honesty, transparency, and mutual respect dictate every interaction and decision. In this context, the course emphasizes sustained attention to research ethics. The course also explores a variety of ways in which ethnographic methods can be deployed and includes guest speakers from management consulting, journalism, and other professional fields.",
+                "Registration Requirements": "Prerequisite: At least one 200-level course in cultural anthropology",
+                "Learning Objectives": "By the end of this course, you will have achieved the following:\n• Working mastery of the foundational methods and techniques of cultural anthropology, including research design, ethnographic interviews, and the management, analysis, and writing of ethnographic data.\n• A firm grasp of a comprehensive range of issues concerning research ethics.\n• Familiarity with cutting-edge methodological issues in cultural anthropology.\n• Capacity to work in research teams.",
+                "Class Materials (Required)": "All materials to be made available through Canvas",
+                "Class Attributes": "Advanced Expression\nSocial and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "390-0",
+        "course_name": "Topics In Anthropology",
+        "course_reference_number": [
+            "24849",
+            "24850",
+            "24851",
+            "24852",
+            "28059",
+            "28731"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Before Eco-Punks and Cottagecore: The Archaeology",
+                "instructors": [
+                    "Topics In Anthropology",
+                    "Elspeth Rene Geiger"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "3",
+                "course_name": "Cities and Nuclear Weapons",
+                "instructors": [
+                    "Topics In Anthropology",
+                    "Hirokazu Miyazaki"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "4",
+                "course_name": "Anthropology of Economic Sanctions",
+                "instructors": [
+                    "Topics In Anthropology",
+                    "Emrah Yildiz"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "5",
+                "course_name": "Semiotics of the Marvel Cinematic Universe",
+                "instructors": [
+                    "Topics In Anthropology",
+                    "Doris S. Warriner"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "6",
+                "course_name": "How Stuff Shapes Biomedicine",
+                "instructors": [
+                    "Topics In Anthropology",
+                    "Matilda Stubbs"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "7",
+                "course_name": "Queering Transnational Migration",
+                "instructors": [
+                    "Topics In Anthropology",
+                    "Mert Kocak"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Before Eco-Punks and Cottagecore: The Archaeology",
+                "Instructors": "Elspeth Rene Geiger",
+                "Meeting Info": "2001 Sheridan GPC 4103: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "The popularity of ecological aesthetics like cottagecore or eco-punk highlights a growing interest in reconnecting with nature and the future of environmentalism. However, these imaginary worlds ignore the legacy of Indigenous science, the reality of craft production, and the deep cross-cultural history of human ecological relationships. This course uses an archaeological perspective to explore a spectrum of human-environmental relationships. With a strong emphasis on historical and Indigenous perspectives, students can compare assumptions about nature-based living with archaeological, anthropological, and ecological data. Students can look forward to learning about topics such as Two-Eyed Seeing, deep ecology, arcologies, and kinship with plants and animals. Course content will include lectures, in-class craft activities, assigned articles, and class discussions. No prior archaeology experience is required.",
+                "Learning Objectives": "- Gain a broad understanding of co-mingled human-environmental interactions.\n- Understand basic archaeological techniques and ecological histories.",
+                "Class Materials (Required)": "Provided on Canvas",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Cities and Nuclear Weapons",
+                "Instructors": "Hirokazu Miyazaki\n847 4675540\n1819 Hinman Ave. #110",
+                "Meeting Info": "2001 Sheridan GPC 4103: Mon, Wed 5:00PM - 6:20PM",
+                "Overview of class": "This advanced course examines the role of cities—city leaders and city residents—in the prevention of nuclear war and the promotion of peace, more broadly.",
+                "Learning Objectives": "1) Demonstrate how different social, cultural, and historical factors intersect;\n2) Use qualitative research methods and data to observe the relationship between local and global forces;\n3) Critique concepts, theories, and policies by examining supporting evidence and unexamined underlying assumptions;\n4) Reflect on the relationship between local and global problems and explore the role of local action in addressing global challenges",
+                "Class Materials (Required)": "All materials will be made available via Canvas",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Anthropology of Economic Sanctions",
+                "Instructors": "Emrah Yildiz\n847/467-6254\n2001 Sheridan Rd, Room 5130\nOffice Hours: Tuesdays, 1-3pm",
+                "Meeting Info": "2001 Sheridan GPC 3111: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "This seminar introduces the participants to the anthropological study of economic sanctions. Departing from policy-centric frameworks that conceive of sanctions as temporary tools of inter-state diplomacy and alternatives to war, we ponder the analytical utility of approaching them as weapons of war by other means.",
+                "Learning Objectives": "By the end of the course, participants will be able to\n• Demonstrate knowledge and understanding of social science theories related to economic sanctions and prevalent interpretations of them as alternatives to military conflict and war in anthropology and allied disciplines\n• Develop the ability to critique theories, claims, and policies in the social and behavioral sciences that deal with economic sanctions and their mitigation as well as their objects and subjects of practice through careful evaluation of scholarly arguments including their major assertions, assumptions, evidential basis, and explanatory utility\n• Reflect upon the way in which theories and research about economic sanctions from the social and behavioral sciences help elucidate the factors underlying contemporary social issues, social problems, and/or ethical dilemmas in such research in a global and comparative framework.",
+                "Class Materials (Required)": "All required texts, with the exception of the book-length manuscripts given below, can be found under files on the course website or on the Northwestern library database, unless already hyperlinked to an open source on the syllabus",
+                "Class Notes": "Students will be evaluated on the basis of two writing assignments (50%) and class participation (50%). The writing assignments include two 8-page papers drawing upon course materials. Class participation includes (1) Regular attendance (10%) in seminar meetings and contribution to discussions; (2) 14 Seminar questions (25%); (3) Co-leading seminar discussion in one session (15%).",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Additional Distro"
+            },
+            {
+                "Topic": "Semiotics of the Marvel Cinematic Universe",
+                "Instructors": "Doris S. Warriner",
+                "Meeting Info": "2001 Sheridan GPC 1135: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The Marvel Cinematic University (MCU) is a series of superhero films featuring characters from American comic books that has become one of the highest grossing franchises of all time. A distinguishing feature of the MCU is that each installment relies on multiple types of intertextual reference (to other texts and/or movies) to make sense, convey meaning, and create a world in which there are multiple intersecting storylines, characters, histories, and interactions. Although the MCU is not the first work of art/literature to rely on intertextuality, it does so in a unique and intentional way—and on a grander scale. This course draws on key concepts from semiotics (the study of signs, symbols, and meaning-making) and linguistic anthropology (the study of language in social and cultural context) to analyze the patterns, rhythms, interconnective tissue, and intertextual tapestry of the MCU. With a focus on character arcs, plot lines, locations, verbal and nonverbal interactions between characters, the depth of their individual and shared histories, scores and soundtracks, we explore how meaning is created and communicated within and across films in this shared universe. Major assignments include weekly readings, weekly viewings, weekly discussion forum posts, 2 short papers, and a final project.",
+                "Registration Requirements": "Permission of the instructor required.",
+                "Learning Objectives": "1. Explore the process of world-making within the MCU\n2. Operationalize key concepts from semiotic theory and linguistic anthropology to conduct a grounded analysis of intertextuality within and across selected films from the MCU\n3. Understand the role of indexicality, contextualization, and recontextualization in meaning-making\n4. Analyze how meaning is made within specific social and cultural contexts.",
+                "Class Materials (Required)": "Subscription to Disney+ required. PDFs of required readings available on Canvas.",
+                "Class Notes": "Prior coursework in anthropology, linguistics, cognitive science or communication is helpful but not required.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "How Stuff Shapes Biomedicine",
+                "Instructors": "Matilda Stubbs\n2001 Sheridan Road, #2313",
+                "Meeting Info": "2001 Sheridan GPC GN200: Mon 9:00AM - 11:50AM",
+                "Overview of class": "Insurance and medical forms. Prescriptions. Laboratory equipment. Smart phone apps. Anywhere in the world where it is practiced, biomedical spaces are filled with stuff, and that stuff alters the possibilities and limitations for how biomedicine is provided and experienced. This seminar investigates materials used in health care to understand how they impact biomedicine. Readings, podcasts, and films invite students to examine how \"stuff\" can group people, decide what information is important, and sometimes create—or perpetuate—material differences between patients and health-care providers. By studying these everyday objects, students can better understand how health care works in different countries and cultures.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Queering Transnational Migration",
+                "Instructors": "Mert Kocak",
+                "Meeting Info": "Annenberg Hall G32: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Queering Transnational Migration examines how gender and sexuality shape who can move, settle, work, and belong. We investigate how migration regimes construct \"desirable\" and \"undesirable\" migrants and distinguish between those deemed \"deserving\" and \"undeserving\" of rights, resources, and opportunities. Topics include migration theories and their feminist and queer critiques, asylum and refugee recognition, borders and citizenship, queer precarity and solidarity, and the ethics and methods of queer migration research. Through historical and contemporary case studies across varied geographies, we trace migration routes and relationships while questioning narratives that locate queer liberation in the Global North and repression in the Global South. We consider how sexual orientation, gender identity, gender expression, and sex characteristics are named, interpreted, and contested across borders. Centering queer migrants' self-definitions, everyday practices, and collective struggles, we examine how they negotiate, reproduce, and contest dominant expectations about identity, visibility, and liberation. Their stories invite us to rethink familiar assumptions about kinship, citizenship, and home.",
+                "Learning Objectives": "By the end of this course, students will be able to:\n1. Explain key migration theories and evaluate their feminist and queer critiques.\n2. Analyze how gender and sexuality shape borders, citizenship, asylum, and refugee recognition across national and transnational settings.\n3. Examine how colonial histories and inequalities of race, class, gender, and sexuality shape access to mobility and protection.\n4. Trace migration routes and relationships that challenge assumed divisions between the Global North and Global South.\n5. Assess how migration transforms identities, relationships, and communities, and how queer migrants build solidarity and challenge systems governing mobility.\n6. Critically evaluate ethical and methodological questions in queer migration research, including representation, power, and researchers' responsibilities.",
+                "Class Materials (Required)": "All readings will be available on Canvas.",
+                "Class Notes": "Students will be evaluated through:\n• Class participation and preparation (10%): Thoughtful engagement with readings, discussions, and collaborative activities.\n• Co-leading one seminar discussion (15%): Working with a partner, students will prepare discussion questions and facilitate a 25-30-minute conversation about the assigned readings.\n• Two short reading responses (30%): Responses of 500-600 words each, worth 15% per response. One will compare arguments across assigned readings; the other will apply a course concept to a migration case.\n• Final analytical paper (45%): A 2,000-2,500-word paper, excluding references, applying feminist and queer perspectives to a topic in transnational migration. This includes a proposal and preliminary bibliography (10%) and the final paper (35%).",
+                "Class Attributes": "SoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "398-0",
+        "course_name": "Senior Seminar",
+        "course_reference_number": [
+            "24853"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Senior Seminar",
+                "instructors": [
+                    "Erin B Waxenbaum"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erin B Waxenbaum\n847/491-4818\n1810 Hinman Ave., Room #A54A, EV Campus",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1410: Fri 1:00PM - 3:50PM",
+                "Overview of class": "This course is for all anthropology majors writing a senior thesis and will provide students with a forum for writing their thesis. It is an opportunity for you to analyze findings/data from your original research on a topic of your choice within anthropology and to draft a paper based on that research. A range of issues will be considered, including research and writing styles characteristic of all four subfields, clarifying research and writing goals, preparing a critical literature review, data analysis and presentation and, most importantly, writing processes. Students will be expected to make brief presentations about the development of their paper throughout the quarter. The goal for this class is to produce a 20-page paper minimum that describes your research questions/issues/problems and presents an analysis using material from field research, laboratory work, data sets or library research; this will serve as the basis for the thesis you submit to the Anthropology Department in early spring quarter.",
+                "Learning Objectives": "Learning/Course objectives:\n• Hone critical thinking, written, and oral communication of research within Anthropology.\n• Evaluate primary literature in research area and develop unique research question.\n• Proceed through staged evaluation of thesis/research document development - elevator pitch, outline, abstract, poster, and final thesis draft with constructive oral/written feedback at each stage.\n• Produce a substantive research paper following field-specific methodology, structure, and convention which will ultimately emulate a publishable manuscript developed through constructive oral/written feedback from peers and faculty.\n• Produce conference-worthy research poster developed through feedback from peers and faculty.",
+                "Class Attributes": "Advanced Expression"
+            }
+        ]
+    },
+    {
+        "course_number": "401-2",
+        "course_name": "Logic of Inquiry in Anthropology (Archy)",
+        "course_reference_number": [
+            "24883"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Logic of Inquiry in Anthropology (Archy)",
+                "instructors": [
+                    "Cynthia Robin"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Cynthia Robin\n847/491-4835\n1812 Hinman Ave., Room #104, EV Campus",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1325: Wed 2:00PM - 4:50PM",
+                "Overview of class": "In this course students will examine the logic of inquiry in archaeology: the theories, methods, major epistemologies, and philosophies of archaeology. We will address two fundamental questions: Why is important to study the past? What is the role of the past in the present? Understanding our history and our heritage is crucial for the world today and key to understanding past ways of life. The course frames archaeology within anthropology and the humanities and sciences more broadly and examines the role of anthropology, humanities, and science within the discipline of archaeology. It addresses contemporary archaeological research and its promise for the future.\nArchaeology is the study of the human past through its material remains. A central focus of the course is on materiality as an archaeological method and a method that can be applied broadly within anthropology. Archaeology is a team-based, participatory discipline, a methodology of practice that has important implications for how archaeologists can work in partnership with local communities and address contemporary issues. Ethical, contemporary, and practice-based discussions will interweave across the course. In this course students will develop an original research project that applies archaeological approaches to material culture in their own research.",
+                "Registration Requirements": "Graduate students in the Anthropology Department",
+                "Learning Objectives": "1. To develop a graduate-level understanding of the field of archaeology and Northwestern's approach to archaeological thought.\n2. To assess the role of archeology within anthropology and in relation to the humanities and sciences more broadly.\n3. To articulate archaeological approaches to materiality and apply material studies across anthropology.\n4. To appreciate the ethical dimensions of archaeological research and create archaeological and community-based research in partnership with the contemporary world."
+            }
+        ]
+    },
+    {
+        "course_number": "425-0",
+        "course_name": "Human Population Biology",
+        "course_reference_number": [
+            "24938"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Human Population Biology",
+                "instructors": [
+                    "William Leonard"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "William Leonard\n847/491-4839\n1810 Hinman Ave., Room #A55, EV Campus",
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5228: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "This course will provide an overview of current theory,\nmethods and research directions in human population\nbiology. The course will specifically focus on the\ninfluence of ecological and social factors on various\naspects of human biological variation. The adaptation\nconcept will first be presented, discussed and\ncritiqued. We will then examine the history of the field\nof human biology/adaptability, highlighting how early\nlandmark studies have shaped current research\ndirections in the field. Finally, we will explore how\nadaptation to different ecological stressors\n(temperature, solar radiation, high altitude,\ndiet/nutrition, and lifestyle changes) promotes human\nbiological diversity. The central theoretical issue is that\nof natural selection in human populations: how has it\noperated in the past, and what is the evidence for\nongoing selection and adaptation in humans today?",
+                "Learning Objectives": "1. To examine key elements of evolutionary theory as they apply to human population biology.\n2. To evaluate the role of specific environmental parameters in promoting human biological variation.\n3. To discuss current controversies and identify key unanswered questions in human biology.",
+                "Class Materials (Required)": "readings posted on Canvas"
+            }
+        ]
+    },
+    {
+        "course_number": "431-0",
+        "course_name": "Writing for Impact in the Social Sciences",
+        "course_reference_number": [
+            "24941"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Writing for Impact in the Social Sciences",
+                "instructors": [],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Meeting Info": "2001 Sheridan GPC/WCAS 5228: Tues 2:00PM - 4:50PM",
+                "NO DATA": "NO DATA"
+            }
+        ]
+    },
+    {
+        "course_number": "483-0",
+        "course_name": "Contemporary Theory in Linguistic Anthropology",
+        "course_reference_number": [
+            "24940"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Contemporary Theory in Linguistic Anthropology",
+                "instructors": [
+                    "Doris S. Warriner"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Doris S. Warriner",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1410: Thurs 3:00PM - 5:50PM",
+                "Overview of class": "This course covers a range of linguistic anthropology and semiotic anthropology topics, including indexicality, enregisterment, interdiscursivity, performativity, materiality, citationality, narrative, affect, qualia, chronotopes, and scale. Building on the content of 401-linguistic, this course is intended to broaden and deepen graduate students' understanding of linguistic and semiotic anthropology in ways that directly support the development of their doctoral research. Graduate students outside of Anthropology are encouraged to contact instructor with their interest for a permission number.",
+                "Registration Requirements": "Graduate students only. Permission of instructor is required for students outside of the Anthropology Graduate Program.",
+                "Learning Objectives": "Engage with theoretical texts, apply theory to data, increase knowledge in students' individual research area.",
+                "Class Materials (Required)": "PDFs of required readings will be available on CANVAS.",
+                "Class Materials (Suggested)": "Gal, S. & Irvine, J. (2019). Signs of Difference: Language and Ideology in Social Life. New York: Cambridge University Press.",
+                "Class Notes": "Students are required to read and present on an ethnography of their choice, but they are not required to purchase the selected book.",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed ANTHRO 401-4 to enroll."
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Topics in Anthropology",
+        "course_reference_number": [
+            "24884",
+            "24885",
+            "24886"
+        ],
+        "course_info": [
+            {
+                "section": "26",
+                "course_name": "Ethnographic Methods",
+                "instructors": [
+                    "Topics in Anthropology",
+                    "Ana Aparicio"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "27",
+                "course_name": "Mapping People, Place, and Space",
+                "instructors": [
+                    "Topics in Anthropology",
+                    "Mark Hauser"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "6:20PM"
+            },
+            {
+                "section": "28",
+                "course_name": "Scales of Ethnography, Ethnographies of Scale",
+                "instructors": [
+                    "Topics in Anthropology",
+                    "Emrah Yildiz"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:00PM",
+                "end_time": "7:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Ethnographic Methods",
+                "Instructors": "Ana Aparicio\n847/491-5132\n1810 Hinman Ave. #212",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1410: Tues 2:00PM - 4:50PM",
+                "Overview of class": "This course is designed to familiarize students with methods used in ethnographic research. We will study and discuss the importance of qualitative data collection tools such as participant-observation, oral histories, interviewing, photo-elicitation, and writing fieldnotes. In addition to discussing the methods as technique, we will examine issues related to the practice of ethnographic research; these include but are not limited to IRB, ethics, gender, race, class, age, etc. Our discussions will be based on the assigned readings and on students' own proposed research and field experiences. The course will enable you to understand why certain methods are chosen for different kinds of research, begin to utilize various methods, and determine which method(s) would be most useful in your own research.",
+                "Class Materials (Required)": "Bernard, H. Russell and Amber Wutich. 2026. Research Methods in Anthropology: Qualitative and Quantitative Methods. NY: Bloomsbury Publishing. ISBN 9781538190937 Emerson, R. et al. 2020. Writing Ethnographic Fieldnotes, 3rd Edition. IL: Univ of Chicago Press ISBN 978-0226206837 Madden, Raymond. 2017. Being Ethnographic: A Guide to the Theory and Practice of Ethnography. CA: SAGE Publications. ISBN 978-1529791860 Smalls, Krystal. 2024. Telling Blackness: Young Liberians and the Raciosemiotics of Contemporary Black Diaspora. NY: Oxford University Press. ISBN 978-0197697597"
+            },
+            {
+                "Topic": "Mapping People, Place, and Space",
+                "Instructors": "Mark Hauser\n847/467-1648\n1812 Hinman Ave., Room #205, EV Campus",
+                "Meeting Info": "2001 Sheridan Anthro GIS 5102: Tues, Thurs 5:00PM - 6:20PM",
+                "Overview of class": "This course is concerned with the method, theory, and practice underlying spatial analysis using tools such as GIS to understand human landscapes in the past and present. We will focus on the kinds of data, methods of analysis, and frames of interpretation of landscapes in the past and present. In this course students will be exposed to underlying theories of space in the interpretation of ancient and modern landscapes and gain practical experience collecting and analyzing spatial data in the context anthropological research. While case studies will be drawn from a variety of contexts in anthropology, the course is relevant to anyone who wishes to analyze data about and within the spatial and temporal contexts of the research they are conducting.",
+                "Learning Objectives": "1) Identify, describe and discuss key issues in the anthropology of people, place and space, specifically around two themes\n2) Critically compare how Space Matters as an active element in social, political, and cultural processes, enabling actions and constraining possibilities\n3) Analyze and reflect on how Representing Space Matters especially as relates it to the methodologies and tools used to collect and analyze spatial data within the landscape."
+            },
+            {
+                "Topic": "Scales of Ethnography, Ethnographies of Scale",
+                "Instructors": "Emrah Yildiz\n847/467-6254\n2001 Sheridan Rd, Room 5130\nOffice Hours: Tuesdays, 1-3pm",
+                "Meeting Info": "2001 Sheridan GPC 2109: Wed 5:00PM - 7:50PM",
+                "Overview of class": "This course interrogates \"scale\" not simply as level, size, or volume but rather as a historically contingent, geographically contested, and socially emergent relation. Moving beyond compartmentalized notions of space, the seminar showcases how everyday transactions and actions, administrative categories, and regimes of human mobility help produce \"scale\" across temporal and spatial horizons. With readings drawn from anthropology, geography, and history—ranging from spatial theories of state power to multi-scalar ethnography and border-crossing fugitives of such powers—seminar participants will examine scale both a means of ethnographic analysis, and a site of social praxis, asking how cross-border mobility, migration, diasporic and transregional connections actively shape geography, history, and category for their interlocutors. The seminar will then offer participants the conceptual space to experiment with scale as a crucial method and analytic in their own ethnographic research and writing in ways that can capture scalar actions in their complex cross-locations.",
+                "Learning Objectives": "By the end of the course, participants will be able to\n• Demonstrate knowledge and understanding of social science theories related to the influence of culture and power on the behavior of individuals, interpersonal relationships, and/or group dynamics in prevalent interpretations of scale, power, and mobility in anthropology and allied disciplines.\n• Develop the ability to critique theories, claims, and policies in the social and behavioral sciences that deal with scale and ethnography as well as their objects and subjects of practice through careful evaluation of scholarly arguments including their major assertions, assumptions, evidential basis, and explanatory utility.\n• Reflect, in a global and comparative framework, upon the ways in which theories and research about scale and mobility across time and space from the social and behavioral sciences help elucidate the factors underlying contemporary social issues, social problems, and/or ethical dilemmas in ethnographic research and analysis.",
+                "Class Materials (Required)": "All required texts, with the exception of the book-length manuscripts given below, can be found under files on the course website or on the Northwestern library database, unless already hyperlinked to an open source below. Mahajan, Nidhi. 2024. Moorings: Voyages of Capital across the Indian Ocean. Berkeley: University of California Press. ISBN-13: 978-0520413511. Rubaii, Kali. 2026. Resurgency: Outlasting the War on Terror in Iraq. Durham: Duke University Press. ISBN-13: 978-1478038726.",
+                "Class Notes": "Students will be evaluated on the basis of two writing assignments (50%) and class participation (50%). The writing assignments include one American Anthropologist style book review of an ethnographic monograph (20%) and one 12-page paper recasting own research project in light of seminar readings (30%). Class participation includes (1) Regular attendance (10%) in seminar meetings and contribution to discussions; (2) 8 Reading responses (25%); and (3) Co-leading seminar discussion in one session (15%)."
+            }
+        ]
+    },
+    {
+        "course_number": "496-2",
+        "course_name": "Bridging Seminar",
+        "course_reference_number": [
+            "24939"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Bridging Seminar",
+                "instructors": [
+                    "Jessica Winegar",
+                    "Adia Benton"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jessica Winegar\n847/491-4831\n1819 Hinman Ave, #204, EV Campus",
+                "Meeting Info": "2001 Sheridan Anthro Lab 1325: Mon 3:00PM - 5:00PM\n2001 Sheridan Anthro Lab 1325: Fri 1:00PM - 2:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

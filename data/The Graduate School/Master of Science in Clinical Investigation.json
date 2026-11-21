@@ -1,0 +1,154 @@
+[
+    {
+        "course_number": "321-1",
+        "course_name": "Biostatistics for Clinical Investigators 1",
+        "course_reference_number": [
+            "28754"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Biostatistics for Clinical Investigators 1",
+                "instructors": [
+                    "Christina Maimone",
+                    "Ritika Giri"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christina Maimone",
+                "Meeting Info": "TBA: Tues 5:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "322-0",
+        "course_name": "Introduction to Epidemiology for Clinical Investigators",
+        "course_reference_number": [
+            "28755"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Introduction to Epidemiology for Clinical Investigators",
+                "instructors": [
+                    "Ravi Kalhan"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ravi Kalhan",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "335-0",
+        "course_name": "Clinical Trials",
+        "course_reference_number": [
+            "28756",
+            "28757"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Clinical Trials",
+                "instructors": [
+                    "Anju Peters",
+                    "Adam White"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "8:30PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Clinical Trials",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anju Peters",
+                "Meeting Info": "TBA: Tues 5:30PM - 8:30PM",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "490-0",
+        "course_name": "Independent Study",
+        "course_reference_number": [
+            "28753",
+            "28752"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Independent Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "01",
+                "course_name": "Independent Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "514-0",
+        "course_name": "MSCI Concurrent Clinical and Research Responsibilities",
+        "course_reference_number": [
+            "28758"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "MSCI Concurrent Clinical and Research Responsibilities",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

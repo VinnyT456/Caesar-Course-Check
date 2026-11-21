@@ -1,0 +1,62 @@
+[
+    {
+        "course_number": "421-DL",
+        "course_name": "Applied Quality & Regulatory Practices",
+        "course_reference_number": [
+            "20511"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Applied Quality & Regulatory Practices",
+                "instructors": [
+                    "Abigail Davis"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Abigail Davis",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req"
+            }
+        ]
+    },
+    {
+        "course_number": "460-DL",
+        "course_name": "Drug and Biologics Regulations",
+        "course_reference_number": [
+            "20510"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Drug and Biologics Regulations",
+                "instructors": [
+                    "Nick McWilliams"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nick McWilliams",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: MSRC"
+            }
+        ]
+    }
+]

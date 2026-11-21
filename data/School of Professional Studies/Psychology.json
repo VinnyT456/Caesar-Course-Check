@@ -1,0 +1,126 @@
+[
+    {
+        "course_number": "228-CN",
+        "course_name": "Cognitive Psychology",
+        "course_reference_number": [
+            "20517"
+        ],
+        "course_info": [
+            {
+                "section": "64",
+                "course_name": "Cognitive Psychology",
+                "instructors": [
+                    "Sara C Broaders"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sara C Broaders\n847/491-3652\nSwift 243, 2029 Sheridan Road",
+                "Meeting Info": "Online: Tues 6:15PM - 9:15PM",
+                "Overview of class": "A survey of theories and research in cognitive psychology, covering topics such as perception, attention, memory, representation of knowledge, language, reasoning and problem solving, judgment and decision-making, and consciousness. Classes will consist of lectures, demonstrations and discussion. Students will be required to think critically about the assumptions and methods underlying research on class topics. Carries social sciences or scientific inquiry and quantitative reasoning credit.",
+                "Registration Requirements": "Prerequisite: PSYCH 110 or equivalent.",
+                "Learning Objectives": "Course Objectives & Goals:\n\nUnderstand the key theories, concepts, principles, and overarching themes of cognitive psychology.\nGain understanding of the various types of research methods and tools that cognitive psychologists use.\nEvaluate the empirical evidence for the general theories presented for each topic to ascertain which theories and premises have the best scientific support.\nUse scientific reasoning to understand and interpret cognitive phenomena.\nApply the theories and research findings from each of the specific topic areas to novel examples.\nUnderstand how various cognitive processes interact and influence each other.\nApply cognitive psychological principles to personal and social issues.",
+                "Class Materials (Required)": "Materials may include the following. Confirm course texts and materials by viewing course Canvas site or University bookstore website, or contacting the instructor.\n\nRequired Texts:\nReisberg, D. (2022). Cognition: Exploring the science of the mind, 8th New York: W.W.Norton. ISBN: 978-0-393-87760-1.\nThe 8th edition of the Reisberg textbook is preferred and the version stocked by the Norris bookstore. You can also use the 7th or 6th edition of the textbook. You should not use an edition prior to the 6th though since there are more substantial differences.\n\nBrown, P.C., Roediger, H.L. III., & McDaniel, M.A. (2014). Make it stick: The science of successful learning. Harvard University Press. ISBN: 978-0-674-72901-8.\nYou can purchase ebook access from the publisher: https://digital.wwnorton.com/cognition8",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time"
+            }
+        ]
+    },
+    {
+        "course_number": "301-CN",
+        "course_name": "Research Methods in Psychology",
+        "course_reference_number": [
+            "20518"
+        ],
+        "course_info": [
+            {
+                "section": "66",
+                "course_name": "Research Methods in Psychology",
+                "instructors": [
+                    "Danielle Rothschild Doyle",
+                    "Janvi Subramanyan"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Danielle Rothschild Doyle",
+                "Meeting Info": "Kresge Centennial Hall 2-425: Thurs 6:15PM - 9:15PM",
+                "Overview of class": "This course will provide students with an immersive experience with methods used in psychological research. Through hands-on activities supplemented by readings, lectures, and discussions, students will learn about the full cycle of research in psychology from study conception to data collection, analysis, and interpretation. We will engage directly with empirical research to explore common experimental methods, relevant statistical tools, science writing and communication practices, as well as influential psychological findings. We will focus not only on the major results of each study, but also on the details of their methods, analyses, and interpretations with opportunities to critique and question researchers' writing, methodological, or analytic choices.\n\nThe course will be centered around designing, conducting, and reporting an independent/group research project on a topic of your choice. We aim to increase your confidence and fluency in interpreting psychological scientific literature so that you can become a more informed scientist, student, and citizen as well as offer tools toward conducting your own psychological research in an area of your interest. Carries social sciences credit.\n\nThis course was formerly PSYCH 205. Students who have previously completed PSYCH 205 should not register for this course.",
+                "Registration Requirements": "Prerequisite: PSYCH 201 or equivalent. May not be audited.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "303-CN",
+        "course_name": "Psychopathology",
+        "course_reference_number": [
+            "20519"
+        ],
+        "course_info": [
+            {
+                "section": "65",
+                "course_name": "Psychopathology",
+                "instructors": [
+                    "Paul Martin"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Paul Martin",
+                "Meeting Info": "Kresge Centennial Hall 2-425: Wed 6:15PM - 9:15PM",
+                "Overview of class": "This course introduces the study of psychopathology with an emphasis on the continuum between normal and abnormal patterns of behavior, emotional regulation, and thought processes. Students will learn about different types of psychological disorders including mood disorders, panic, anxiety, obsessions, personality disorders, schizophrenia, substance abuse, eating disorders, sexual dysfunctions, childhood-onset disorders, trauma, and neurocognitive disorders. We will consider biological, psychological, and societal causes of dysfunction. We will also explore how psychopathology has been understood throughout history, how those views have evolved to inform psychological treatments available today, and how culture continues to play a role in shaping our conceptualization of mental illness. Lastly, opportunities for prevention and organized efforts to promote mental health will be discussed, including research on how to cultivate happiness. Lectures will draw from real-world examples, fictional depictions of mental illness, and clinical case studies. Students will be assessed through a midterm exam, a final exam (non-cumulative), and a research paper. Carries social science credit.",
+                "Registration Requirements": "Prerequisite: PSYCH 110 or equivalent.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "367-CN",
+        "course_name": "Child Psychopathology",
+        "course_reference_number": [
+            "20557"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Child Psychopathology",
+                "instructors": [
+                    "Ben Gorvine"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "9:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ben Gorvine\n847/467-1839\nSwift 306",
+                "Meeting Info": "Kresge Centennial Hall 2-410: Mon 6:15PM - 9:15PM",
+                "Overview of class": "This course examines the major psychopathologies of childhood and adolescence. Various theories for the etiologies of child and adolescent psychopathology are considered, and the implications for diagnosis, consultation, and treatment are also addressed. The general purpose of this course is to facilitate an understanding of developmental psychopathology and related principles addressing the range of processes and underlying mechanisms that result in the emergence, escalation, and maintenance of psychopathological adaptation in children and adolescents. Course requirements include a long literature review paper, several shorter case papers, and co-leading a class discussion with peers. Carries social sciences credit.",
+                "Registration Requirements": "Prerequisites: PSYCH 205 and PSYCH 303, or equivalents, are helpful as background, but not required.",
+                "Class Materials (Required)": "Confirm course texts and materials by contacting instructor or viewing course Canvas site or University bookstore website.\n\nBeauchaine, T.P. & Hinshaw, S.P. (Eds). (2017). Child and Adolescent Psychopathology (3rd ed.). Hoboken, NJ: Wiley. ISBN: 978-1-119-16995-6.\n\nWilmshurst, L. (2015). Child and Adolescent Psychopathology: A Casebook (3rd ed.). Thousand Oaks, CA: Sage Publications. ISBN: 978-1-452-24232-3. (No need to get the newer 4th edition - the 3rd edition is still updated for the current DSM.)",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    }
+]

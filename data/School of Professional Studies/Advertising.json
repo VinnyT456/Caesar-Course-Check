@@ -1,0 +1,29 @@
+[
+    {
+        "course_number": "380-DL",
+        "course_name": "Visual Communication",
+        "course_reference_number": [
+            "20586"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Visual Communication",
+                "instructors": [
+                    "Kelly Cutler"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Kelly Cutler",
+                "Meeting Info": "Online: TBA",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time"
+            }
+        ]
+    }
+]

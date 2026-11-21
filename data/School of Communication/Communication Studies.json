@@ -1,0 +1,990 @@
+[
+    {
+        "course_number": "101-1",
+        "course_name": "Communication in Context: Introduction",
+        "course_reference_number": [
+            "24531"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Communication in Context: Introduction",
+                "instructors": [
+                    "Jeremy Birnholtz"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeremy Birnholtz",
+                "Meeting Info": "Frances Searle Building 2407: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Introduction to Communication Studies as a broad and interdisciplinary field, looking at important domains, processes and perspectives for understanding communication phenomena.",
+                "Class Attributes": "SOC First-Year Seminar\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Communication Studies Majors."
+            }
+        ]
+    },
+    {
+        "course_number": "101-2",
+        "course_name": "Communication in Context: Analysis & Research?",
+        "course_reference_number": [
+            "24532",
+            "24533",
+            "24534"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Communication in Context: Analysis & Research?",
+                "instructors": [
+                    "Pablo Boczkowski"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            },
+            {
+                "section": "2",
+                "course_name": "Communication in Context: Analysis & Research?",
+                "instructors": [
+                    "Moya Bailey"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Communication in Context: Analysis & Research?",
+                "instructors": [
+                    "Susan Dun"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Pablo Boczkowski",
+                "Meeting Info": "Technological Institute LG68: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "The second course moves beyond the introduction offered in Communication Studies 101-1 through additional skills training and expanded research and analytic assignments. This section will focus on developing research, analysis, and writing skills through hands-on experience building upon the focus area of Professor Boczkowski in the area of field research. This utilizes methods that emphasize the importance for the researcher to be embedded into the settings that are being studied. To this end, we will combine readings on techniques of field research such as observing and interviewing with literature such as studies that have analyzed communication dynamics using this kind of research. Because this is a hands-on class, students will learn the basics of field research not only by reading about it but also by doing it. During the quarter, each student will be asked to conduct a series of observation sessions and interviews at a site of their choice, and to make available the resulting field notes and interview transcripts to the instructor and fellow students for class discussion. We will constructively reflect on these notes and transcripts to ground the evolution of the learning of field research in concrete settings.",
+                "Class Materials (Required)": "Creswell, J., & Poth, C. (2023). Qualitative inquiry and research design: Choosing among five approaches (5th edition). Thousand Oaks, CA: Sage.",
+                "Class Attributes": "SOC First-Year Seminar\nDepartment Majors Only\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Communication Studies Majors."
+            },
+            {
+                "Instructors": "Moya Bailey",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Sports are a central part of many Americans' lives and as such, deserve more focused attention from communication researchers. Join this class for an exploration of sports' impact on multiple sectors of society, with specific attention paid to the way sports are discussed in different arenas of culture. Students will host a presentation at the end of the quarter that argues in favor of and opposition with the idea, \"sports are bad.\"",
+                "Class Materials (Required)": "Parable of the Sower by Octavia Butler and The Girl Who Owned a City by O. T. Nelson",
+                "Class Attributes": "SOC First-Year Seminar\nDepartment Majors Only\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Communication Studies Majors."
+            },
+            {
+                "Instructors": "Susan Dun",
+                "Meeting Info": "Frances Searle Building 2370: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This course moves beyond the introduction offered in Communication Studies 101-1 through additional skills training and expanded research and analytic assignments. This section will focus on developing research, analysis, and writing skills through hands-on experience building upon the focus area of Professor Dun in the area of Health Communication. Motivational and informational campaigns designed to encourage healthy behaviors are all around us. We are told to lose weight, eat better, exercise, engage in self-care, stop smoking, or reduce drinking in media messages. What are the features of these campaigns? Are they designed well? Are they likely to work? In this class we will research existing campaigns to assess their design, goals and likely success. Students will write an original report and share their findings in class.",
+                "Class Attributes": "SOC First-Year Seminar\nAttendance at 1st class mandatory\nDepartment Majors Only\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for Communication Studies Majors."
+            }
+        ]
+    },
+    {
+        "course_number": "102-0",
+        "course_name": "Public Speaking",
+        "course_reference_number": [
+            "24350",
+            "24351",
+            "24352",
+            "24353",
+            "24354",
+            "24355",
+            "24356",
+            "24357"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Anne Meredith O'regan"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Mario Ulloa"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Mohammad Behroozian"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Gabriel Dhavan Garlough-Shah"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "8:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "24",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Srishti Chatterjee"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "25",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Sijia Liu"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "27",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Redd Roseboro"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            },
+            {
+                "section": "28",
+                "course_name": "Public Speaking",
+                "instructors": [
+                    "Skylar Ashtyn Clark"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "4:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anne Meredith O'regan",
+                "Meeting Info": "Frances Searle Building 2378: Tues, Thurs 9:00AM - 10:50AM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Mario Ulloa",
+                "Meeting Info": "Technological Institute M349: Mon, Wed 9:00AM - 10:50AM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Mohammad Behroozian",
+                "Meeting Info": "Annenberg Hall G31: Mon, Wed 10:00AM - 11:50AM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Gabriel Dhavan Garlough-Shah",
+                "Meeting Info": "Technological Institute F280: Tues, Thurs 8:00AM - 9:50AM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Srishti Chatterjee",
+                "Meeting Info": "Technological Institute M120: Mon, Wed 3:00PM - 4:50PM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Sijia Liu",
+                "Meeting Info": "Technological Institute F281: Tues, Thurs 3:00PM - 4:50PM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Redd Roseboro",
+                "Meeting Info": "Technological Institute M349: Mon, Wed 4:00PM - 5:50PM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            },
+            {
+                "Instructors": "Skylar Ashtyn Clark",
+                "Meeting Info": "Technological Institute M349: Tues, Thurs 4:00PM - 5:50PM",
+                "Overview of class": "Theory, composition, delivery, and criticism of public speeches.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "159-0",
+        "course_name": "Computing Everywhere",
+        "course_reference_number": [
+            "24524"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Computing Everywhere",
+                "instructors": [
+                    "Maddie Brucker"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "6:30PM",
+                "end_time": "8:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Maddie Brucker",
+                "Meeting Info": "Shepard Hall Classroom B05: Tues 6:30PM - 8:30PM",
+                "Overview of class": "Computing Everywhere is a zero-credit seminar with 5 evening workshops aimed at all NU students without a technical background.\n\nWait, zero credits? Right. It'll show up as a class on your transcript and you'll be graded on a satisfactory/unsatisfactory basis based on your attendance. No graded homework or exams. Show up and participate, and you'll get a 'satisfactory'.\n\nThe preliminary schedule of Winter topics includes topics such as developing your own wearable technologies, developing your professional online presence, understanding how AI works and how it can be regulated, and understanding browser \"cookies\" and your online privacy.\n\n\nIt's really just 5 weeks? Yup, the course will meet once per week, for 2 hours per session during the first 5 weeks of the quarter. Then it's done and you'll have more time for midterms and projects and whatever else comes up. That's it!\n\nDo I need to be a programmer? No. If you can write code, you know too much for this course. It's designed for beginners.\n\nWill I become a programmer? Probably not after just this seminar, but you'll be in great shape to start learning to code on your own or take more courses!",
+                "Class Materials (Required)": "No textbook required."
+            }
+        ]
+    },
+    {
+        "course_number": "215-0",
+        "course_name": "Principles of Rhetorical Criticism",
+        "course_reference_number": [
+            "24358"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Principles of Rhetorical Criticism",
+                "instructors": [
+                    "Angela Ray"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Angela Ray",
+                "Meeting Info": "Frances Searle Building 2378: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This course offers an introduction to techniques of rhetorical analysis, which are especially useful in describing, evaluating, and participating in discussions of public issues. Historical and contemporary examples of public discourse show how symbolic action affects decision-making and power relations in public life.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "246-0",
+        "course_name": "Intro to Health Communication",
+        "course_reference_number": [
+            "24527"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Intro to Health Communication",
+                "instructors": [
+                    "Susan Dun"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Susan Dun",
+                "Meeting Info": "Frances Searle Building 3220: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Communication is inextricably intertwined with issues of health and medicine. This is true on a personal, intimate level in the way patients and caregivers interact in the examination room and how families communicate at home. It is also true on an organizational level; policies and community relations affect the way health care is provided and how people feel about that care. It is also evident in media campaigns that seek to educate people about health. The importance of health communication is extraordinary, but so are the challenges.\n\nThis course positions students to solve health-related problems. We will explore the theory, research, and skills associated with communicating in health contexts. Students who complete this course will be more mindful, educated, and effective health communicators.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "263-0",
+        "course_name": "Risk Communication",
+        "course_reference_number": [
+            "24536"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Risk Communication",
+                "instructors": [
+                    "Courtney Scherr"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Courtney Scherr",
+                "Meeting Info": "Frances Searle Building 2407: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "What is effective risk communication? If the last few years have taught us anything, it is the need for effective risk communication. Readings and lectures will examine discoveries in social psychology and communication that inform our understanding of how people interpret risk information and make decisions. Through discussions, in-class activities, and student-led projects, students will explore how to create and evaluate effective risk messages. We will place special emphasis on health and environmental contexts.",
+                "Class Attributes": "Attendance at 1st class mandatory\nNo Freshmen\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "290-0",
+        "course_name": "Forensics",
+        "course_reference_number": [
+            "24359"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Forensics",
+                "instructors": [
+                    "Daniel Fitzmier"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Daniel Fitzmier",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Independent research and analysis in conjunction with participation in intercollegiate forensics. Credit may not be earned for 290 more than once.",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "314-0",
+        "course_name": "Rhetoric and Public Commemoration",
+        "course_reference_number": [
+            "28695"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Rhetoric and Public Commemoration",
+                "instructors": [
+                    "Angela Ray"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Angela Ray",
+                "Meeting Info": "Frances Searle Building 2378: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "350-0",
+        "course_name": "Organizational Leadership",
+        "course_reference_number": [
+            "24529"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Organizational Leadership",
+                "instructors": [
+                    "Leslie A DeChurch"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Leslie A DeChurch",
+                "Meeting Info": "Frances Searle Building 1483: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "This course enables students to think critically about leadership in organizations by understanding five facets of leadership. The five facets are areas of theorizing that explain what makes leadership effective: features, functions, form, fit, and focus. We will learn to answer questions about who is influential, what makes for good leadership, when (under what conditions?), and why (through what mechanisms?) is leadership successful. We explore leadership concepts using a set of illustrative case studies of interesting people who have led interesting lives of impact.",
+                "Class Attributes": "SoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "351-0",
+        "course_name": "Technology & Human Interaction",
+        "course_reference_number": [
+            "24525"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Technology & Human Interaction",
+                "instructors": [
+                    "Darren Gergle"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Darren Gergle",
+                "Meeting Info": "Frances Searle Building 2107: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "Facebook and X/Twitter provide persistent services for exchanging personal information, Snaps can be compiled into stories that provide insight about your last 24 hours, AI augmentation coupled with tangible computing environments allow objects to adapt to our everyday experiences, and new collaboration technologies enable people to work together on projects when they are thousands of miles apart. The design of such systems, however, is not simply a technical question. In order to successfully create these systems, we need to understand how people work, play, and communicate with one another in a wide variety of situations. This course illustrates the practice of understanding human interactions that take place both with and through technology; and it explores the design, creation and evaluation of technologies to support such interactions. Course topics include: design processes, prototype construction and technology evaluation techniques. Specialized topics may include social software and collaborative systems, value-sensitive design, and agent-based technologies. No programming experience is necessary. There will be occasional labs to explain technical content. Course requirements include short hands-on exercises, two exams, and a group project.",
+                "Class Attributes": "No Freshmen\nUndergraduate Students Only\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro",
+                "Enrollment Requirements": "Enrollment Requirements: COMP_SCI students must enroll in the COMP_SCI version of this course. Please search for COMP_SCI 314-0 and add it to your shopping cart to complete your registration."
+            }
+        ]
+    },
+    {
+        "course_number": "358-0",
+        "course_name": "Algorithms and Society",
+        "course_reference_number": [
+            "24530"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Algorithms and Society",
+                "instructors": [
+                    "Calvin Liang"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Calvin Liang",
+                "Meeting Info": "Frances Searle Building 2378: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Algorithms work to define the information we consume, the jobs that are available to us, our romantic and intimate options, and more. While these technologies bring us many benefits, research suggests that they also have critical negative consequences. In this course, we will render visible the invisible when it comes to algorithmic influence on society. In this project-based course, we will use readings and discussion to understand 1) methods for analyzing algorithms, 2) how algorithms operate in specific contexts, and 3) paths forward that mitigate possible harms.",
+                "Class Attributes": "No Freshmen\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "369-0",
+        "course_name": "The Construction of Value in Cultural Markets",
+        "course_reference_number": [
+            "24537"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "The Construction of Value in Cultural Markets",
+                "instructors": [
+                    "Larissa Buchholz"
+                ],
+                "days": [
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "5:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Larissa Buchholz",
+                "Meeting Info": "Locy Hall 109: Fri 3:00PM - 5:50PM",
+                "Overview of class": "This course explores the dynamics of value creation in markets for symbolic goods. Why do people pay millions for a painting of one artist rather than another? Why do some art genres become globally sought after, while others never make it beyond their national context? Students will be acquainted with key approaches to the study of cultural markets from a sociological perspective. They will learn, for example, about the significance of the status structure of cultural markets, of price signals, market classifications, the construction of meaning around market categories or the influence of cultural critics and broader discourses for valuation processes. Each week, the course will be complemented with collaborative team discussions in which students will engage with a substantive case to learn how to connect theoretical concepts with illuminating empirical analysis.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "374-0",
+        "course_name": "Interactive Museum Exhibit Design",
+        "course_reference_number": [
+            "24535"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Interactive Museum Exhibit Design",
+                "instructors": [
+                    "Duri Long"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Duri Long",
+                "Meeting Info": "Frances Searle Building 3220: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "This course is for undergraduate students interested in the design of interactive museum exhibits. Students will engage with readings about the role museums play in public education/communication, how to design museum exhibits, the role technology can play in making museums interactive, and methods for evaluating learning and engagement at museum exhibits. Readings will primarily focus on interactive exhibits for science communication, with secondary opportunities to explore other types of museum exhibits. Individual assignments will include analyzing and presenting on an existing museum exhibit and creating a design concept/plan for a novel museum exhibit. Students will work in groups towards the end of the quarter to develop an in-depth design and evaluation plan for a novel museum exhibit and, as the final project, create a paper prototype of the exhibit. No previous design or technology experience is needed for students to enroll in this course.",
+                "Class Materials (Required)": "\"Bedford, Leslie. The art of museum exhibitions: How story and imagination create aesthetic experiences. Routledge, 2016.\n\nHornecker, Eva, and Luigina Ciolfi. Human-computer interactions in museums. Springer Nature, 2022. (Available as a PDF through the Northwestern Library)\"",
+                "Class Attributes": "SoC Humanities and Fine Arts Distro\nSoC Individual and Social Behavior Distro\nSoC Mathematics, Science, and Technology Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "376-0",
+        "course_name": "Contemporary Television",
+        "course_reference_number": [
+            "24528"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Contemporary Television",
+                "instructors": [
+                    "Aymar Jean Escoffery"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aymar Jean Escoffery",
+                "Meeting Info": "Frances Searle Building 3417: Thurs 2:00PM - 4:50PM",
+                "Overview of class": "Changes in the art and business of television with the introduction of new media. Production, storytelling, identity, and distribution of TV and web entertainment.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "380-0",
+        "course_name": "Political Communication",
+        "course_reference_number": [
+            "24360"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Political Communication",
+                "instructors": [
+                    "Erik C Nisbet"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erik C Nisbet",
+                "Meeting Info": "Frances Searle Building 3417: Tues, Thurs 9:30AM - 10:50AM",
+                "Overview of class": "This seminar focuses on the theory, practice, and problems of political communication, designed for both communication majors and non-majors. This course will introduce you to a wide range of processes and problems of mediated political communication, including elections, political advertising, political news, and social media within an American context. Political communication is the fabric that holds a participatory democracy together; thus, our examination of political communication is intrinsically tied to understanding the health of American democracy and how political communication contributes to it, for better or worse.",
+                "Class Attributes": "Social and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Anti-Req:Students cannot take and recieve credit for both COMM_ST 380-0 and POL_SCI 380-0.\nAdd Consent: Instructor Consent Required"
+            }
+        ]
+    },
+    {
+        "course_number": "381-0",
+        "course_name": "Media, Movements, & Social Change",
+        "course_reference_number": [
+            "24361"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Media, Movements, & Social Change",
+                "instructors": [
+                    "TJ Billard"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "9:30AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "TJ Billard",
+                "Meeting Info": "Frances Searle Building 2378: Mon, Wed 9:30AM - 10:50AM",
+                "Overview of class": "Social movements are formed through communication and it is through communication that they achieve much of their strategic objectives. This course explores the complex relationships between communication and social movements, bringing together theories from communication studies, sociology, and political science, as well as tracing historically how social movements have developed new practices of achieving social change.",
+                "Class Attributes": "Advanced Expression\nSocial and Behavioral Science Foundational Discipl\nSoC Individual and Social Behavior Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "389-0",
+        "course_name": "Practicum in Communication Research",
+        "course_reference_number": [
+            "24365",
+            "24369",
+            "24370"
+        ],
+        "course_info": [
+            {
+                "section": "24",
+                "course_name": "Practicum in Communication Research",
+                "instructors": [
+                    "Jeremy Birnholtz"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "28",
+                "course_name": "Practicum in Communication Research",
+                "instructors": [
+                    "Noshir Contractor"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "29",
+                "course_name": "Practicum in Communication Research",
+                "instructors": [
+                    "Leslie A DeChurch"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeremy Birnholtz",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Collaboration with a faculty member on design and execution of a communication research project. Students learn how to complete a research project and write a report."
+            },
+            {
+                "Instructors": "Noshir Contractor",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Collaboration with a faculty member on design and execution of a communication research project. Students learn how to complete a research project and write a report."
+            },
+            {
+                "Instructors": "Leslie A DeChurch",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Collaboration with a faculty member on design and execution of a communication research project. Students learn how to complete a research project and write a report."
+            }
+        ]
+    },
+    {
+        "course_number": "394-0",
+        "course_name": "Communication Studies Research Seminar",
+        "course_reference_number": [
+            "24452",
+            "24453"
+        ],
+        "course_info": [
+            {
+                "section": "2",
+                "course_name": "Communication Studies Research Seminar",
+                "instructors": [
+                    "Savanna Jo Kerstiens"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "3",
+                "course_name": "Communication Studies Research Seminar",
+                "instructors": [
+                    "Kevin Ackermann"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Savanna Jo Kerstiens",
+                "Meeting Info": "Frances Searle Building 1483: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "Ever notice the gap between what you read online (or hear from a family member) and what your doctor actually tells you? That gap often exists because evidence-based guidelines take time, and a surprising amount of effort, to travel from research to the exam room. This course examines how healthcare organizations, from hospitals to urgent care centers, share and implement the information that keeps patients safe and care effective. You'll explore how medical practices and guidelines actually reach the clinicians using them, and the theories and strategies behind change management, dissemination, and implementation in modern healthcare. You'll learn how teams across healthcare settings collaborate to exchange knowledge and put new initiatives into practice, then apply what you learn to your own goals. Open to all students, and especially relevant for anyone considering medical school or a career in healthcare or health research.",
+                "Class Attributes": "No Freshmen"
+            },
+            {
+                "Instructors": "Kevin Ackermann",
+                "Meeting Info": "Frances Searle Building 2378: Mon, Wed 12:30PM - 1:50PM",
+                "Overview of class": "\"The internet is a graveyard. MySpace, Club Penguin, GeoCities: millions of people once built friendships, identities, and whole worlds in these places (among many others). Then, one by one, the lights went out. Some communities faded slowly; others vanished overnight when a company pulled the plug. And some are still technically online, haunted by a handful of loyal users long after everyone else moved on.\n\nWhat does it actually mean for an online community to die? Who decides? And what can we learn by digging through the ruins? We'll explore the full lifecycle of online communities, from emergence and growth to stagnation, decline, and collapse. In this course, students will become digital investigators through multiple qualitative methods: archival analysis, ethnographic observation, interviews and oral histories, memo writing, and thematic coding. With these investigative tools, by the end of the quarter you'll write your own original paper: an autopsy of a dead online community of your choice.\"",
+                "Class Attributes": "No Freshmen"
+            }
+        ]
+    },
+    {
+        "course_number": "395-0",
+        "course_name": "Topics in Communication Studies",
+        "course_reference_number": [
+            "24388",
+            "24389",
+            "24390",
+            "24391",
+            "24392"
+        ],
+        "course_info": [
+            {
+                "section": "31",
+                "course_name": "Generative AI & The Media",
+                "instructors": [
+                    "Topics in Communication Studies",
+                    "Nicholas Diakopoulos"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "1:30PM",
+                "end_time": "4:20PM"
+            },
+            {
+                "section": "33",
+                "course_name": "Teaming with AI",
+                "instructors": [
+                    "Topics in Communication Studies",
+                    "Leslie A DeChurch"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            },
+            {
+                "section": "34",
+                "course_name": "Slop",
+                "instructors": [
+                    "Topics in Communication Studies",
+                    "Aaron Shaw"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "12:30PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "35",
+                "course_name": "Tech, Comm, and Trends in Youth Mental Health",
+                "instructors": [
+                    "Topics in Communication Studies",
+                    "Pablo Boczkowski"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            },
+            {
+                "section": "36",
+                "course_name": "Brand Management in the Digital Age",
+                "instructors": [
+                    "Topics in Communication Studies",
+                    "TJ Billard"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Generative AI & The Media",
+                "Instructors": "Nicholas Diakopoulos",
+                "Meeting Info": "Frances Searle 1180-Dean Conf: Wed 1:30PM - 4:20PM",
+                "Overview of class": "Since the launch of ChatGPT in late 2022 generative AI has proliferated throughout society, capturing the imagination of the public with its potential to upend much of how people create and consume media and information. In this course we'll demystify this new technology, understand how it works, how to control it through prompting, and how to implement it in various use cases found in media production and communication. We'll also step back with a critical eye to ask questions of how generative AI changes the larger media system and raises ethical and governance issues around data, copyright, privacy, bias, and more.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Teaming with AI",
+                "Instructors": "Leslie A DeChurch",
+                "Meeting Info": "Frances Searle Building 1483: Tues 2:00PM - 4:50PM",
+                "Overview of class": "AI is reshaping the way work gets done in organizations. This course examines that shift from multiple perspectives: the broad questions about AI's effects on jobs and organizational life, and the practical science of leading teams whose members include both people and intelligent machines. We draw on research in team science and organizational communication to understand how AI affects the affective, cognitive, and behavioral dynamics that determine whether teams succeed. A central concern is how to collaborate with AI in ways that maximize learning and preserve human skill, rather than quietly eroding both. Students engage these questions through case studies, leadership activities, and direct experience with AI tools.",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Slop",
+                "Instructors": "Aaron Shaw",
+                "Meeting Info": "Shepard Hall B08/B09: Tues, Thurs 12:30PM - 1:50PM",
+                "Overview of class": "The rise of generative AI and LLMs has also brought us slop. Much maligned, variously defined, increasingly ubiquitous, slop is usually thought of as low quality, low value, AI-generated content (text, images, video, code, etc.). But that could be just the start. This seminar interrogates slop. What is it? Where does it come from? What effects and consequences does or could it have? What should we do with and/or about it? Pursuing these questions and others, the class aims to arrive at a better understanding of slop, its significance, impacts, and implications for our ecosystems of information, knowledge, and culture.\n\nIf this course is full, please fill out this form to be considered for a permission number: https://tinyurl.com/SlopSeminar",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Tech, Comm, and Trends in Youth Mental Health",
+                "Instructors": "Pablo Boczkowski",
+                "Meeting Info": "Frances Searle Building 3220: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "The rise of generative AI and LLMs has also brought us slop. Much maligned, variously defined, increasingly ubiquitous, slop is usually thought of as low quality, low value, AI-generated content (text, images, video, code, etc.). But that could be just the start. This seminar interrogates slop. What is it? Where does it come from? What effects and consequences does or could it have? What should we do with and/or about it? Pursuing these questions and others, the class aims to arrive at a better understanding of slop, its significance, impacts, and implications for our ecosystems of information, knowledge, and culture.\n\nIf this course is full, please fill out this form to be considered for a permission number: https://tinyurl.com/SlopSeminar",
+                "Class Attributes": "SoC Additional Distro"
+            },
+            {
+                "Topic": "Brand Management in the Digital Age",
+                "Instructors": "TJ Billard",
+                "Meeting Info": "Frances Searle Building 1483: Mon 2:00PM - 4:50PM",
+                "Overview of class": "Brands are ubiquitous to modern society. The logics of branding shape how we view nearly every aspect of social life and, oftentimes, how we view ourselves. But the practices of brand management—of creating, shaping, maintaining, and contesting brand meaning—have transformed dramatically in recent decades. Technological changes have \"opened up\" the processes of branding and shifted the distribution of communicative power within consumer culture. At the same time, brands have become more \"personal,\" taking on public personalities and more explicit stances on issues of identity and justice. This course provides an overview of how these changes have altered the practices of brand management, bringing together both critical and administrative perspectives on contemporary branding. The ultimate aim is to provide students with a practical understanding of how brand management works, while also providing them with the conceptual tools to critique those practices.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Additional Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "397-0",
+        "course_name": "Honors Seminar",
+        "course_reference_number": [
+            "28821",
+            "28822"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Honors Seminar",
+                "instructors": [
+                    "Erik C Nisbet"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "section": "2",
+                "course_name": "Honors Seminar",
+                "instructors": [
+                    "Bruce L. Lambert"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erik C Nisbet",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            },
+            {
+                "Instructors": "Bruce L. Lambert\n710 N. Lake Shore 15th Floor Chicago Campus",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "414-0",
+        "course_name": "Classical Rhetoric and Its Afterlives",
+        "course_reference_number": [
+            "24424"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Classical Rhetoric and Its Afterlives",
+                "instructors": [
+                    "Robert Hariman"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Robert Hariman\n2240 Campus Dr. Rm 2-231 Frances Searle Building",
+                "Meeting Info": "Frances Searle Building 1483: Wed 2:00PM - 4:50PM",
+                "Overview of class": "The course includes representative texts from Greek and Roman antiquity as well as examples from later historical periods of significant recuperations and reconsiderations of the classical legacy.",
+                "Class Attributes": "PhD Course\nGraduate Students Only"
+            }
+        ]
+    }
+]

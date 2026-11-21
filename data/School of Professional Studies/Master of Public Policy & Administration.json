@@ -1,0 +1,391 @@
+[
+    {
+        "course_number": "402-DL",
+        "course_name": "Elements of Public Finance and Budgeting",
+        "course_reference_number": [
+            "20498"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Elements of Public Finance and Budgeting",
+                "instructors": [
+                    "Grant Driessen"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Grant Driessen",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "403-0",
+        "course_name": "Fundamentals of Public Administration",
+        "course_reference_number": [
+            "20497"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Fundamentals of Public Administration",
+                "instructors": [
+                    "Sara Kuehlhorn Friedman"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "11:30AM",
+                "end_time": "2:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sara Kuehlhorn Friedman",
+                "Meeting Info": "Wieboldt Hall 711: Tues 11:30AM - 2:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "403-DL",
+        "course_name": "Fundamentals of Public Administration",
+        "course_reference_number": [
+            "20499"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Fundamentals of Public Administration",
+                "instructors": [
+                    "Sara Kuehlhorn Friedman"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Sara Kuehlhorn Friedman",
+                "Meeting Info": "TBA: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "404-DL",
+        "course_name": "Microeconomics for Public Policy Administration",
+        "course_reference_number": [
+            "20500"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Microeconomics for Public Policy Administration",
+                "instructors": [
+                    "Mark Keightley"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mark Keightley",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "405-0",
+        "course_name": "Statistics for Research",
+        "course_reference_number": [
+            "20496"
+        ],
+        "course_info": [
+            {
+                "section": "50",
+                "course_name": "Statistics for Research",
+                "instructors": [
+                    "Erna Gevondyan"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Erna Gevondyan",
+                "Meeting Info": "Wieboldt Hall 711: Wed 10:00AM - 12:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Face to face: In person, in campus space",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "405-DL",
+        "course_name": "Statistics for Research",
+        "course_reference_number": [
+            "20501"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Statistics for Research",
+                "instructors": [
+                    "Stephen Kleinschmit"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Stephen Kleinschmit",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "406-DL",
+        "course_name": "Program Evaluation and Policy Analysis",
+        "course_reference_number": [
+            "20502"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Program Evaluation and Policy Analysis",
+                "instructors": [
+                    "Anand Sharma"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Anand Sharma",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "408-DL",
+        "course_name": "Public Organization Theory & Management",
+        "course_reference_number": [
+            "20503"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Public Organization Theory & Management",
+                "instructors": [
+                    "Mollie Foust"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Mollie Foust",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "411-DL",
+        "course_name": "The Legislative Process",
+        "course_reference_number": [
+            "20504"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "The Legislative Process",
+                "instructors": [
+                    "Megan Lynch"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Megan Lynch",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre Req."
+            }
+        ]
+    },
+    {
+        "course_number": "418-DL",
+        "course_name": "Ethics and Leadership",
+        "course_reference_number": [
+            "20507"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Ethics and Leadership",
+                "instructors": [
+                    "William Lester"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "William Lester",
+                "Meeting Info": "TBA: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    },
+    {
+        "course_number": "420-DL",
+        "course_name": "Disaster Management and Theory",
+        "course_reference_number": [
+            "20508"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Disaster Management and Theory",
+                "instructors": [
+                    "Jeffrey Ryan"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Jeffrey Ryan",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre Req."
+            }
+        ]
+    },
+    {
+        "course_number": "450-DL",
+        "course_name": "Global Economic Policy",
+        "course_reference_number": [
+            "20505"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Global Economic Policy",
+                "instructors": [
+                    "David Faller"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "David Faller",
+                "Meeting Info": "TBA: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre Req."
+            }
+        ]
+    },
+    {
+        "course_number": "580-DL",
+        "course_name": "Global Policy Laboratory",
+        "course_reference_number": [
+            "20506"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Global Policy Laboratory",
+                "instructors": [
+                    "Scott Goldstein"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Scott Goldstein",
+                "Meeting Info": "TBA: Wed 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Synchronous:Class meets remotely at scheduled time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-req."
+            }
+        ]
+    }
+]

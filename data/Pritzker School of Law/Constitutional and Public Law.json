@@ -1,0 +1,36 @@
+[
+    {
+        "course_number": "743",
+        "course_name": "The Law of Whistleblowing",
+        "course_reference_number": [
+            "20344"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "The Law of Whistleblowing",
+                "instructors": [
+                    "Wendy Muchman",
+                    "Mary Foster"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "4:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Wendy Muchman\n773/988-8704\nMC 394\nOffice Hours: Wed. 12-1",
+                "Meeting Info": "McCormick 375 - Smith Hall: Tues, Wed, Thurs, Fri 9:00AM - 4:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Constitutional Law or Procedure an element",
+                "Enrollment Requirements": "Enrollment Requirements: MSL and Tax Students are not eligible to enroll."
+            }
+        ]
+    }
+]

@@ -1,0 +1,808 @@
+[
+    {
+        "course_number": "101-8",
+        "course_name": "First-Year Writing Seminar",
+        "course_reference_number": [
+            "24806"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "A History of Heterosexuality",
+                "instructors": [
+                    "First-Year Writing Seminar",
+                    "Ty Blakeney"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "A History of Heterosexuality",
+                "Instructors": "Ty Blakeney",
+                "Meeting Info": "Locy Hall 110: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "WCAS Writing Seminar",
+                "Enrollment Requirements": "Enrollment Requirements: Weinberg First Year Seminars are only available to first-year students."
+            }
+        ]
+    },
+    {
+        "course_number": "111-2",
+        "course_name": "Elementary French",
+        "course_reference_number": [
+            "24756",
+            "24757",
+            "24758",
+            "24759"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Elementary French",
+                "instructors": [
+                    "Katia Viot-Southard"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Elementary French",
+                "instructors": [
+                    "Katia Viot-Southard"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Elementary French",
+                "instructors": [
+                    "Thais Maelle Lara Autin"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Elementary French",
+                "instructors": [
+                    "Anna Catherine Batty"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Katia Viot-Southard\n847/467-0899\n1860 S. Campus Drive, Crowe Hall #2-171",
+                "Meeting Info": "Locy Hall 303: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "The Elementary First-year course, French 111-2, is the second quarter of a three-quarter course for students with no previous study of French, or with less than one year of High School French. Classes meet three times a week (MWF) with additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 111-1, placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu/), or permission from the Department. If students have studied French for more than one year in High School, they must take the Northwestern Online French Placement Test to determine if they qualify for a more advanced course (such as the intensive First-year course, French 115). For students to receive credit for French 111-2, they must: 1) take the online Placement Test and be placed into French 111-2, or 2) receive permission from the French 111 course coordinator to enroll in the course. If neither case is true, students will not receive credit for this course.",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions will include a variety of communicative activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.",
+                "Evaluation Method": "Final grades are based on class participation and attendance, homework, compositions, quizzes, written exams, and oral assessments.",
+                "Class Materials (Required)": "French 111-1, French 111-2, and French 111-3 will use the following textbook: En Avant! 4th edition: (with Connect access code). https://www.mheducation.com/highered/product/en-avant-beginning-french-student-edition-anderson-dolidon/M9781259999826.html#buying-options. You will need to purchase the FOURTH edition - you MUST have access to Connect.",
+                "Class Notes": "Students may contact Student Services Enrichment Office (https://www.northwestern.edu/enrichment) for help and information about low-cost options for textbooks.",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Katia Viot-Southard\n847/467-0899\n1860 S. Campus Drive, Crowe Hall #2-171",
+                "Meeting Info": "Locy Hall 303: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "The Elementary First-year course, French 111-2, is the second quarter of a three-quarter course for students with no previous study of French, or with less than one year of High School French. Classes meet three times a week (MWF) with additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 111-1, placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu/), or permission from the Department. If students have studied French for more than one year in High School, they must take the Northwestern Online French Placement Test to determine if they qualify for a more advanced course (such as the intensive First-year course, French 115). For students to receive credit for French 111-2, they must: 1) take the online Placement Test and be placed into French 111-2, or 2) receive permission from the French 111 course coordinator to enroll in the course. If neither case is true, students will not receive credit for this course.",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions will include a variety of communicative activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.",
+                "Evaluation Method": "Final grades are based on class participation and attendance, homework, compositions, quizzes, written exams, and oral assessments.",
+                "Class Materials (Required)": "French 111-1, French 111-2, and French 111-3 will use the following textbook: En Avant! 4th edition: (with Connect access code). https://www.mheducation.com/highered/product/en-avant-beginning-french-student-edition-anderson-dolidon/M9781259999826.html#buying-options. You will need to purchase the FOURTH edition - you MUST have access to Connect.",
+                "Class Notes": "Students may contact Student Services Enrichment Office (https://www.northwestern.edu/enrichment) for help and information about low-cost options for textbooks.",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Thais Maelle Lara Autin",
+                "Meeting Info": "Locy Hall 303: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "The Elementary First-year course, French 111-2, is the second quarter of a three-quarter course for students with no previous study of French, or with less than one year of High School French. Classes meet three times a week (MWF) with additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 111-1, placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu/), or permission from the Department. If students have studied French for more than one year in High School, they must take the Northwestern Online French Placement Test to determine if they qualify for a more advanced course (such as the intensive First-year course, French 115). For students to receive credit for French 111-2, they must: 1) take the online Placement Test and be placed into French 111-2, or 2) receive permission from the French 111 course coordinator to enroll in the course. If neither case is true, students will not receive credit for this course.",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions will include a variety of communicative activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.",
+                "Evaluation Method": "Final grades are based on class participation and attendance, homework, compositions, quizzes, written exams, and oral assessments.",
+                "Class Materials (Required)": "French 111-1, French 111-2, and French 111-3 will use the following textbook: En Avant! 4th edition: (with Connect access code). https://www.mheducation.com/highered/product/en-avant-beginning-french-student-edition-anderson-dolidon/M9781259999826.html#buying-options. You will need to purchase the FOURTH edition - you MUST have access to Connect.",
+                "Class Notes": "Students may contact Student Services Enrichment Office (https://www.northwestern.edu/enrichment) for help and information about low-cost options for textbooks.",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 111-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Anna Catherine Batty",
+                "Meeting Info": "Locy Hall 109: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "The Elementary First-year course, French 111-2, is the second quarter of a three-quarter course for students with no previous study of French, or with less than one year of High School French. Classes meet three times a week (MWF) with additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 111-1, placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu/), or permission from the Department. If students have studied French for more than one year in High School, they must take the Northwestern Online French Placement Test to determine if they qualify for a more advanced course (such as the intensive First-year course, French 115). For students to receive credit for French 111-2, they must: 1) take the online Placement Test and be placed into French 111-2, or 2) receive permission from the French 111 course coordinator to enroll in the course. If neither case is true, students will not receive credit for this course.",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions will include a variety of communicative activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.",
+                "Evaluation Method": "Final grades are based on class participation and attendance, homework, compositions, quizzes, written exams, and oral assessments.",
+                "Class Materials (Required)": "French 111-1, French 111-2, and French 111-3 will use the following textbook: En Avant! 4th edition: (with Connect access code). https://www.mheducation.com/highered/product/en-avant-beginning-french-student-edition-anderson-dolidon/M9781259999826.html#buying-options. You will need to purchase the FOURTH edition - you MUST have access to Connect.",
+                "Class Notes": "Students may contact Student Services Enrichment Office (https://www.northwestern.edu/enrichment) for help and information about low-cost options for textbooks.",
+                "Class Attributes": "Attendance at 1st class mandatory\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 111-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "115-2",
+        "course_name": "Intensive Elementary French",
+        "course_reference_number": [
+            "24760",
+            "24761"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intensive Elementary French",
+                "instructors": [
+                    "Lam-Thao Nguyen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Intensive Elementary French",
+                "instructors": [
+                    "Lam-Thao Nguyen"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Lam-Thao Nguyen\n847/491-2654\n1860 S. Campus Drive, Crowe Hall #2-167",
+                "Meeting Info": "Locy Hall 106: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "The intensive First-year course, French 115-2, is the second of a two-quarter sequence (Fall and Winter quarters) is designed for students who have studied French for more than one year in High School or in another context. This course covers the same material as the three-quarter sequence of French 111. Classes meet three times a week (MWF) with additional asynchronous work. The aim of the course is to review and develop skills in speaking, understanding, reading, writing and cultural competence. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 115-1, placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu/), or permission from the Department. If students have studied French for more than one year in High School, have not taken the online Placement Test and/or have not received permission from the course coordinator to enroll in French 115-2, they will not receive credit for this course.",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions will include a variety of communicative activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.",
+                "Evaluation Method": "Final grades are based on class participation and attendance, homework, compositions, quizzes, written exams, a final creative project, and a final oral exam.",
+                "Class Materials (Required)": "French 115-1 and French 115-2 will use the following textbook: Anderson, Golato and Blatty. En Avant!, fourth edition. (with Connect access code): https://www.mheducation.com/highered/product/en-avant-beginning-french-student-edition-anderson-dolidon/M9781259999826.html#buying-options. You will need to purchase the FOURTH edition - you MUST have access to Connect.",
+                "Class Notes": "Students may contact Student Services Enrichment Office (https://www.northwestern.edu/enrichment) for help and information about low-cost options for textbooks.",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 115-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Lam-Thao Nguyen\n847/491-2654\n1860 S. Campus Drive, Crowe Hall #2-167",
+                "Meeting Info": "Locy Hall 106: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "The intensive First-year course, French 115-2, is the second of a two-quarter sequence (Fall and Winter quarters) is designed for students who have studied French for more than one year in High School or in another context. This course covers the same material as the three-quarter sequence of French 111. Classes meet three times a week (MWF) with additional asynchronous work. The aim of the course is to review and develop skills in speaking, understanding, reading, writing and cultural competence. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 115-1, placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu/), or permission from the Department. If students have studied French for more than one year in High School, have not taken the online Placement Test and/or have not received permission from the course coordinator to enroll in French 115-2, they will not receive credit for this course.",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions will include a variety of communicative activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.",
+                "Evaluation Method": "Final grades are based on class participation and attendance, homework, compositions, quizzes, written exams, a final creative project, and a final oral exam.",
+                "Class Materials (Required)": "French 115-1 and French 115-2 will use the following textbook: Anderson, Golato and Blatty. En Avant!, fourth edition. (with Connect access code): https://www.mheducation.com/highered/product/en-avant-beginning-french-student-edition-anderson-dolidon/M9781259999826.html#buying-options. You will need to purchase the FOURTH edition - you MUST have access to Connect.",
+                "Class Notes": "Students may contact Student Services Enrichment Office (https://www.northwestern.edu/enrichment) for help and information about low-cost options for textbooks.",
+                "Class Attributes": "Attendance at 1st class mandatory\nHybrid: Remote component and in-person mtgs\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 115-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "121-2",
+        "course_name": "Intermediate French",
+        "course_reference_number": [
+            "24762",
+            "24763",
+            "24764",
+            "24765",
+            "24766"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Intermediate French",
+                "instructors": [
+                    "Aude Raymond"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "9:00AM",
+                "end_time": "9:50AM"
+            },
+            {
+                "section": "21",
+                "course_name": "Intermediate French",
+                "instructors": [
+                    "Aude Raymond"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Intermediate French",
+                "instructors": [
+                    "Lily Mcdonnell"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Intermediate French",
+                "instructors": [
+                    "Jackson Ryan Bronack"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            },
+            {
+                "section": "24",
+                "course_name": "Intermediate French",
+                "instructors": [
+                    "Victor Demare"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "3:00PM",
+                "end_time": "3:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Aude Raymond\n847/467-3929\n1860 S. Campus Drive, Crowe Hall #2-125",
+                "Meeting Info": "Locy Hall 109: Mon, Wed, Fri 9:00AM - 9:50AM",
+                "Overview of class": "French 121-2 is the second quarter of a three-quarter course for students who have completed French 121-1 or have been placed in this course after taking the Placement test of the Department of French and Italian. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Classes meet three times a week (MWF) with one day of additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 121-1 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class activities are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the pioneering courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated on class participation, oral and written homework, unit tests, and an end-of-quarter project.",
+                "Class Materials (Required)": "The courseware available through Canvas at no cost. Talk Abroad fee for conversations with native speakers: around $30 (students may contact the coordinator for other options).",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nHybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Aude Raymond\n847/467-3929\n1860 S. Campus Drive, Crowe Hall #2-125",
+                "Meeting Info": "Locy Hall 109: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "French 121-2 is the second quarter of a three-quarter course for students who have completed French 121-1 or have been placed in this course after taking the Placement test of the Department of French and Italian. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Classes meet three times a week (MWF) with one day of additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 121-1 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class activities are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the pioneering courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated on class participation, oral and written homework, unit tests, and an end-of-quarter project.",
+                "Class Materials (Required)": "The courseware available through Canvas at no cost. Talk Abroad fee for conversations with native speakers: around $30 (students may contact the coordinator for other options).",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nHybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Lily Mcdonnell",
+                "Meeting Info": "Locy Hall 106: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "French 121-2 is the second quarter of a three-quarter course for students who have completed French 121-1 or have been placed in this course after taking the Placement test of the Department of French and Italian. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Classes meet three times a week (MWF) with one day of additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 121-1 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class activities are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the pioneering courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated on class participation, oral and written homework, unit tests, and an end-of-quarter project.",
+                "Class Materials (Required)": "The courseware available through Canvas at no cost. Talk Abroad fee for conversations with native speakers: around $30 (students may contact the coordinator for other options).",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nHybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Jackson Ryan Bronack",
+                "Meeting Info": "Locy Hall 303: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Overview of class": "French 121-2 is the second quarter of a three-quarter course for students who have completed French 121-1 or have been placed in this course after taking the Placement test of the Department of French and Italian. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Classes meet three times a week (MWF) with one day of additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 121-1 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class activities are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the pioneering courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated on class participation, oral and written homework, unit tests, and an end-of-quarter project.",
+                "Class Materials (Required)": "The courseware available through Canvas at no cost. Talk Abroad fee for conversations with native speakers: around $30 (students may contact the coordinator for other options).",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nHybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 121-1 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Victor Demare",
+                "Meeting Info": "Locy Hall 303: Mon, Wed, Fri 3:00PM - 3:50PM",
+                "Overview of class": "French 121-2 is the second quarter of a three-quarter course for students who have completed French 121-1 or have been placed in this course after taking the Placement test of the Department of French and Italian. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Classes meet three times a week (MWF) with one day of additional asynchronous work. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 121-1 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Students develop speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class activities are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the pioneering courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated on class participation, oral and written homework, unit tests, and an end-of-quarter project.",
+                "Class Materials (Required)": "The courseware available through Canvas at no cost. Talk Abroad fee for conversations with native speakers: around $30 (students may contact the coordinator for other options).",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nHybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 121-1 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "125-3",
+        "course_name": "Intensive Intermediate French",
+        "course_reference_number": [
+            "24795",
+            "24796",
+            "24797"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "Intensive Intermediate French",
+                "instructors": [
+                    "Patricia Scarampi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "10:50AM"
+            },
+            {
+                "section": "22",
+                "course_name": "Intensive Intermediate French",
+                "instructors": [
+                    "Dominique Licops"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "11:50AM"
+            },
+            {
+                "section": "23",
+                "course_name": "Intensive Intermediate French",
+                "instructors": [
+                    "Dominique Licops"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "12:00PM",
+                "end_time": "12:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patricia Scarampi\n847/467-3685\n1860 Campus Drive, Crowe Hall #2-117",
+                "Meeting Info": "Locy Hall 318: Mon, Wed, Fri 10:00AM - 10:50AM",
+                "Overview of class": "French 125-3 is the third quarter of a three-quarter course for students who have completed French 125-1 or been placed in the course upon taking the French Placement Test. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Class meets three times a week and will be conducted in French. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 125-2 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Develop students speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated based on class participation, oral and written homework, unit tests, and end-of-quarter project.",
+                "Class Materials (Required)": "The courseware is available through Canvas at no cost.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 125-2 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Dominique Licops\n847/497-3930\n1860 S. Campus Drive, Crowe Hall #2-175",
+                "Meeting Info": "Locy Hall 109: Mon, Wed, Fri 11:00AM - 11:50AM",
+                "Overview of class": "French 125-3 is the third quarter of a three-quarter course for students who have completed French 125-1 or been placed in the course upon taking the French Placement Test. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Class meets three times a week and will be conducted in French. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 125-2 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Develop students speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated based on class participation, oral and written homework, unit tests, and end-of-quarter project.",
+                "Class Materials (Required)": "The courseware is available through Canvas at no cost.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 125-2 with at least a C- or be placed in according to placement test results."
+            },
+            {
+                "Instructors": "Dominique Licops\n847/497-3930\n1860 S. Campus Drive, Crowe Hall #2-175",
+                "Meeting Info": "Locy Hall 109: Mon, Wed, Fri 12:00PM - 12:50PM",
+                "Overview of class": "French 125-3 is the third quarter of a three-quarter course for students who have completed French 125-1 or been placed in the course upon taking the French Placement Test. The primary goal of this course is to strengthen oral and written communication skills by immersing students in authentic cultural contexts and language. A review of essential grammar and vocabulary will reinforce linguistic foundations. Class meets three times a week and will be conducted in French. Please note, students cannot audit 100-level language courses, or take these courses for P/PN, and must earn a C- or better to advance to the next course in the sequence.",
+                "Registration Requirements": "French 125-2 or placement by the Northwestern Online French Placement Test (https://placement.madstudio.northwestern.edu).",
+                "Learning Objectives": "Develop students speaking, listening, reading and writing skills at the intermediate level of French in a cultural context and foster critical thinking.",
+                "Teaching Method": "Class sessions are devoted to conversation and communicative activities that will allow students to practice what they have learned while exploring contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the courseware developed by faculty in the French Department at Northwestern.",
+                "Evaluation Method": "Students will be evaluated based on class participation, oral and written homework, unit tests, and end-of-quarter project.",
+                "Class Materials (Required)": "The courseware is available through Canvas at no cost.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have passed FRENCH 125-2 with at least a C- or be placed in according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "202-0",
+        "course_name": "Cultural Encounters in Contemporary France",
+        "course_reference_number": [
+            "24767"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cultural Encounters in Contemporary France",
+                "instructors": [
+                    "Margaret Dempster"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "2:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Margaret Dempster\n847/467-3884\n1860 S. Campus Drive, Crowe Hall #2-121",
+                "Meeting Info": "Locy Hall 110: Mon, Wed, Fri 2:00PM - 2:50PM",
+                "Overview of class": "This course is designed to build, develop and improve advanced proficiency in listening, reading, speaking, writing, and intercultural competence in French and serves as a gateway to advanced study in French language and culture. Class meets three times a week and will be conducted in French. Classes will target comprehension and expression skills and reinforce advanced grammatical concepts by exploring a variety of media and genres. This course serves as prerequisite for most other 200 and 300-level French classes.",
+                "Registration Requirements": "French 201 or placement by the department.",
+                "Learning Objectives": "Upon completion of this course, students will: be equipped with skills to describe, interpret, and compare a variety of topics in the Francophone world, foster cultural awareness, read French news articles and a French novel (with dictionary) with speed and accuracy, watch, interpret, and critique videos and full-length films in French, understand and discuss, both orally and in writing, aspects of contemporary French and Francophone society, and produce a well-conceived paper on a literary or cultural topic.",
+                "Teaching Method": "Class sessions are considered collaborative workshops and are devoted to conversation, written, and communicative activities that will allow students to explore contemporary French and Francophone cultures. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, and to participate actively in class activities.",
+                "Class Materials (Required)": "All course materials will be located on Canvas and available at no cost.",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nSpecific requirements in the language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed FRENCH 125-3 or FRENCH 201-0 or be placed according to placement test results."
+            }
+        ]
+    },
+    {
+        "course_number": "210-0",
+        "course_name": "Reading Literatures in French",
+        "course_reference_number": [
+            "24768"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Scripts of Love: Gender, Desire, and Sexuality",
+                "instructors": [
+                    "Reading Literatures in French",
+                    "Matthieu Dupas"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Scripts of Love: Gender, Desire, and Sexuality",
+                "Instructors": "Matthieu Dupas\n847/491-2772\n1860 S. Campus Drive, Crowe Hall #2-139",
+                "Meeting Info": "Locy Hall 110: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "French literature has given form to a rich variety of \"amorous discourses,\" articulated through genres and traditions such as courtly love, love as passion, gallantry, libertinage, and romantic love… Drawing on Michel Foucault's account of sexuality as a historical construct, this course approaches literature as an archive of cultural scripts that shape the expression and experience of intimate relationships. Through readings spanning the Middle Ages to the twentieth century, we will explore how these scripts emerged, evolved, and transformed the ways individuals understood gender, desire, and sexuality.",
+                "Learning Objectives": "Advanced reading and writing in French\nHistory of literary genres and cultural forms\nTheory of gender and sexuality",
+                "Class Materials (Required)": "Readings will be available through Canvas.",
+                "Class Materials (Suggested)": "I suggest students to buy the first volume of Foucault's History of sexuality either in French or in English, depending on their comfort in reading in French:\n\nMichel Foucault, Histoire de la sexualité, vol 1 : La Volonté de savoir (Paris : Gallimard, 1976)\n\nOr\n\nMichel Foucault, History of sexuality: An Introduction (New York: Vintage Books, 1990)",
+                "Class Notes": "Conducted in French, the course emphasizes advanced skills in reading, discussion and academic writing.",
+                "Class Attributes": "Literature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed FRENCH 202-0 or a test score of 5 in AP French. Other students may register with instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "277-0",
+        "course_name": "French Existentialism",
+        "course_reference_number": [
+            "24769"
+        ],
+        "course_info": [
+            {
+                "section": "21",
+                "course_name": "French Existentialism",
+                "instructors": [
+                    "Scott Durham"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Scott Durham\n8474914660\n1860 S. Campus Drive, Crowe Hall #2-141",
+                "Meeting Info": "Kresge Centennial Hall 2-435: Mon, Wed 11:00AM - 12:20PM",
+                "Overview of class": "This course, taught in English, will serve as an introduction to existentialism, which not only defined the literary, philosophical and political culture for French intellectuals of the post-war period, but also remain indispensable for an understanding of various currents of contemporary literature and culture. We shall begin by discussing the philosophical and literary foundations of existentialism. Then we will examine the moral, social and political questions central to existentialism, as worked out in the fiction, drama, and essays of such authors as Sartre, Beauvoir, Beckett, and Fanon. Finally, we will consider the extent to which post-existentialist thought and culture may be read as a continuation of or as a reaction against existentialism.",
+                "Class Materials (Required)": "1. Beauvoir, The Second Sex 2. Beckett, Waiting For Godot 3. Fanon, The Wretched of the Earth 4. Genet, The Screens 5. Sartre, What is Literature? 6. Sartre, Nausea 7. Sartre, The Flies",
+                "Class Attributes": "Ethical and Evaluative Thinking Foundational Disci\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "281-0",
+        "course_name": "Major Topics in French and Francophone Thought",
+        "course_reference_number": [
+            "28346"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Against Colonialism",
+                "instructors": [
+                    "Major Topics in French and Francophone Thought",
+                    "Nasrin Qader"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "11:00AM",
+                "end_time": "12:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "Against Colonialism",
+                "Instructors": "Nasrin Qader\n847/491-8263\n1860 S. Campus Drive, Crowe Hall #2-129\nOffice Hours: Thursdays 1:30-3:30 or by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-425: Tues, Thurs 11:00AM - 12:20PM",
+                "Overview of class": "On September 4, 2026, the UN General Assembly voted overwhelmingly in favor of a new world map in which Africa will be depicted more accurately. Current world maps, based on what is called the \"Mercator Projection,\" from 1569, devised for navigation, shrink land masses closest to the equator. This debate reminds us that decolonization is an active and ongoing process not only historically and politically but also epistemologically, that is including the shifting status of our knowledge. Maps, creations at the intersection of science, history, imagination, and ideology, are not mere representations of the world. Rather, more actively, they configure our position relative to the world and our ideas of it. They are texts that are read and interpreted and thus part and parcel of how power relations are discursively constituted and maintained. For this reason, cartography is a central element in both colonization and decolonization.\n\nThis course introduces students to key anticolonial and decolonizing works by Francophone African and Caribbean writers and thinkers by beginning with how these regions were mapped. Following a visit to the Herskovits Library of African Studies map collection, we will turn to V. Y. Mudimbe's influential work to understand how \"Africa\" is foremost a discursive formation; an imagined and invented idea with a long and complex history, rather than a merely natural and self-evident geographical mass. We will expand upon these insights by reading works by Caribbean and African thinkers on colonization's long history, and the diversity of their ideas about what it means to decolonize across generations. Because many of these thinkers are also poets and writers of fiction, our readings will include philosophical, historical, and literary works to explore differences in forms of expression. The course aims to show both the robustness of this complex critical tradition and its shifting and diverse orientations.",
+                "Learning Objectives": "• Apply the techniques of close reading to a wide array of texts (philosophical, historical, literary, and visual).\n• Understand the political and ethical value of thinking about the past for the present.\n• Understand the relation between history, politics, knowledge, and the imagination in shaping our understanding of our world.\n• Develop oral ability to analyze texts and communicate ideas clearly and concisely.\n• Hone writing skill by organizing ideas and arguments in a coherent and persuasive manner.\n• Learn to generate thoughtful questions based on the materials studied in class.\n• Challenge thoughtfully and carefully the ideas and assumptions of others as well as their own.",
+                "Class Materials (Required)": "Tentative Reading List [books will be ordered at Norris Bookstore [Digital versions of books acceptable]. Pdfs of selections and article references will be posted on Canvas in Files folder.\n\nLindsay Frederick Braun, \"Cartography in Colonial Africa\" (article)\nAimé Césaire, Discourse on Colonialism (9781583670255)\nAimé Césaire, Notebook of a Return to the Native Land (poetry) (978-0819564528)\nMaryse Condé \"Suzanne Césaire and the Construct of Caribbean Identity\" (article)\nSouleymane Bachir Diagne \"In Praise of the Post-racial Negritude\" (article)\nFrantz Fanon, Black Skin White Mask (9780802143006)\nDoris Garraway, Libertine Colony (Introduction—selection).\nEdouard Glissant Caribbean Discourse (selection)\nEdouard Glissant Mahogany (novel) (978-1496201782)\nAchille Mbembe \"Decolonizing the University\" (article)\nAlbert Memmi, The Colonizer and the Colonized (978-1788167727)\nV. Y Mudimbe Idea of Africa (selections)\nFelwin Sarr Afrotopia (selections)\nLéopold Sédar Senghor \"Negritude: A Humanism of the Twentieth Century\" (essay)\n------ (selected poems)",
+                "Class Notes": "• Please no eating during class. Drink is fine.\n• Please turn off your phones before walking in the classroom. No texting, surfing the internet, social media, checking email during class.\n• You are expected to be in class for the duration of the quarter (this means from the first day of the quarter to the last day of classes and for any meetings during reading week. Since your final paper will be submitted by email, you are free to send it after your departure from campus if you are done with exams before the end of exam week).\n• No make up or late work will be accepted unless pre-arranged and pre-approved. Please familiarize yourself with university guidelines for missing classes.\n• Accessibility requests must be made in advance.\n• AI Policy: Assignments for this course must be entirely student work, even if there are imperfections. Self-correction is the best tool for learning and sharpening one's thinking. Assignments will be scrutinized for AI content and if work is found not to have been produced by the student, it will be deemed equivalent to cheating.",
+                "Class Attributes": "Ethical and Evaluative Thinking Foundational Disci"
+            }
+        ]
+    },
+    {
+        "course_number": "300-0",
+        "course_name": "French Phonetics",
+        "course_reference_number": [
+            "24770"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "French Phonetics",
+                "instructors": [
+                    "Patricia Scarampi"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "start_time": "1:00PM",
+                "end_time": "1:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Patricia Scarampi\n847/467-3685\n1860 Campus Drive, Crowe Hall #2-117",
+                "Meeting Info": "Locy Hall 111: Mon, Wed, Fri 1:00PM - 1:50PM",
+                "Registration Requirements": "French 202 or consent of instructor.",
+                "Learning Objectives": "The goal of the course is the development of native-like spoken French, through intense practice in correct production of the sounds of the language. Emphasis will be placed on intonation patterns, rhythm, liaison, etc. Oral practice is given within a communicative and cultural context, with attention to features of current usage referring to standard French. The course will also address issues in theoretical phonetics, particularly articulatory description and phonetic transcriptions using the International Phonetic Alphabet.",
+                "Class Materials (Required)": "Diane Dansereau, Savoir Dire, 2nd ed. Cengage, 2017.\nISBN 9781305652460",
+                "Class Attributes": "Attendance at 1st class mandatory\nPrerequisites apply, see description\nRead & Discuss in language\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed FRENCH 202-0, FRENCH 203-0, or a test score of 5 in AP French. Other students may register with instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "365-0",
+        "course_name": "The Maghreb and the Middle East",
+        "course_reference_number": [
+            "24800"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Maghreb and the Middle East",
+                "instructors": [
+                    "Nasrin Qader"
+                ],
+                "days": [
+                    "Tuesday",
+                    "Thursday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Nasrin Qader\n847/491-8263\n1860 S. Campus Drive, Crowe Hall #2-129\nOffice Hours: Thursdays 1:30-3:30 or by appointment",
+                "Meeting Info": "Kresge Centennial Hall 2-415: Tues, Thurs 2:00PM - 3:20PM",
+                "Overview of class": "This course offers the students the opportunity to discover the influential work of the renowned Moroccan thinker and writer, Abdelkebir Khatibi. An innovative writer, philosopher, essayist, and poet, the significance of Khatibi's thought on contemporary decolonial thought across disciplines, notably sociology, anthropology, political, literary and aesthetics cannot be overestimated. While much of his theoretical insights are based in the history and aesthetic cultures of Morocco, his concepts and methodologies have given new and nuanced breath to how scholars think, write, and study non-Western histories and cultures. His novel Amour bilingue as well as his collections of essays collected in Maghreb Pluriel and La blessure du nom propre are today necessary references for all serious students and scholars of postcolonial and decolonial thought.\n\nIn this course, we will begin by first historicizing the Maghreb (Francophone North Africa) as a geographical, historical, and political configuration in order to understand the background of some of Khatibi's thinking. We will then read several essays and two novels, and autobiography by Khatibi and will consult some helpful critical readings on his key notions. The aim of the course is to familiarize students with one of the leading voices in contemporary debates in postcolonial and decolonial studies.",
+                "Registration Requirements": "Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.",
+                "Learning Objectives": "● Observe the forms, genres, and styles of literary expression through practices of close reading and analysis;\n● Gain awareness of the philosophical, cultural, and historical factors in shaping thought;\n● Enhance spoken and written skills in literary and theoretical interpretation, analysis, and commentary;\n● Sharpen powers of interpretation, critique, and aesthetic perception;\n● Enlarge conceptual vocabulary to understand and express abstract notions.",
+                "Class Materials (Required)": "Tentative Reading: (materials will be made available on Canvas)\nTalbayev \"Khatibi Mediterranean » (article)\nAlison Rice « Etranger Professionnel\" (article)\nMatt Reeck « Tattoo—Writing with Dots\" (article)\nAbdelmajid Hannoum The Invention of the Maghreb (selections) (pdf)\nAbdelkebir Khatibi Amour bilingue (novel) (out of print) pdf\n------. « L'exote » (pdf)\n------. La blessure du nom propre (essays ; selections) (pdf)\n------. Langue de l'autre (essays ; selections) (pdf)\n------. Maghreb Pluriel (essays ; selections) (pdf)\n------. Le Scribe et son ombre (autobiography—out of print) (pdf)\n------. Un été à Stokholm (novel) (out of print) (pdf)",
+                "Class Notes": "• Please no eating during class. Drink is fine.\n• Please turn off your phones before walking in the classroom. No texting, surfing the internet, social media, checking email during class.\n• You are expected to be in class for the duration of the quarter (this means from the first day of the quarter to the last day of classes and for any meetings during reading week. Since your final paper will be submitted by email, you are free to send it after your departure from campus if you are done with exams before the end of exam week).\n• No make up or late work will be accepted unless pre-arranged and pre-approved. Please familiarize yourself with university guidelines for missing classes.\n• Accessibility requests must be made in advance.\n\nAI Policy: Assignments for this course must be entirely student work, even if there are imperfections. Self-correction is the best tool for learning and sharpening one's thinking. Assignments will be scrutinized for AI content and if work is found not to have been done by the student, it will be deemed equivalent to cheating.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nGlobal Perspectives on Power, Justice, and Equity\nSoC Humanities and Fine Arts Distro",
+                "Enrollment Requirements": "Enrollment Requirements: Prerequisite: Students must have completed FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0. Other students may register with instructor permission."
+            }
+        ]
+    },
+    {
+        "course_number": "376-0",
+        "course_name": "Gender & Sexuality",
+        "course_reference_number": [
+            "24771"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Gender & Sexuality",
+                "instructors": [
+                    "Ty Blakeney"
+                ],
+                "days": [
+                    "Monday",
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "3:20PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ty Blakeney",
+                "Meeting Info": "University Hall 122: Mon, Wed 2:00PM - 3:20PM",
+                "Overview of class": "Sailors played a paradoxical role in European imperial projcts in the modern period. On the one hand, they were the agents of empire, spreading European civilization throughout the world. On the other, they were often drawn from the lower classes of society, and, in the case of France, from Brittany, a region of France that was itself a kind of colonized space, where residents mostly spoke Breton rather than French. The sailor was also closely associated with supposedly asocial behaviors: criminality, same-sex sexuality, rampant non-monogamous heterosexuality, and interracial relationships. In this class, we will explore these paradoxes of the figure of the sailor in French literature and film of the 19th and 20th centuries, through the works of Melville, Pierre Loti, Joseph Conrad, Jean Cocteau, RW Fassbinder, and Claire Denis.",
+                "Learning Objectives": "Literature and Arts\nIn this course, students will learn to:\n● Observe the forms of expression, in words, images, cultural and everyday practices by\nway of close analysis.\n● Gain awareness of the philosophical, cultural, and historical factors influencing the\nproblematic we are studying in our course.\n● Appreciate how the works we read across various historical periods and cultural and\npolitical landscapes reveal the differences and diversities as well as the continuity and\nunity of questions about human culture and thought.\n● Enhance the skills of literary and cultural interpretation, analysis, and commentary,\nspoken, visual and written.\n● Develop writing and oral skills by sharpening powers of interpretation, critique, and\naesthetic perception.\n● Enlarge your conceptual vocabulary to understand and express abstract notions.\nGlobal Overlay\nIn this course, students will learn to:\n● Engage with visual, literary and cultural works to reflect on global intercultural relations\namong groups, cultural traditions, and/or nations, in French and Francophone contexts.\n● Explore the social, political, historical, and cultural bases of identity, be it national,\nregional, racial, culture, and how they constitute themselves and are constituted by\nothers.\n● Understand how such differences as race, class, ethnicity, gender, and sexual\norientation are historically contingent and participate in the construction of otherness\nand sameness.\n● Analyze the key issue of colonialism.\nAdvanced Expression\nThe written and oral assignments in this course serve to:\n● Focus on effective communication, be it through writing, speaking or other modes of\ncommunication, in specific disciplinary or interdisciplinary contexts.\n● Understand and emulate field-specific conventions and protocols for communicating\nfindings to a range of audiences.\n● Develop the relationship between their voice and field-specific norms of expression,\naiming to achieve control over persuasive rhetoric.\n● Pay attention to style, precision of language, the nature and potential of words for\nthinking.\n● Develop an individual style of argumentation and presentation of research.",
+                "Class Materials (Required)": "Class materials will be made available through Canvas.",
+                "Class Attributes": "Advanced Expression\nLiterature and Arts Foundational Discipline\nSoC Humanities and Fine Arts Distro"
+            }
+        ]
+    },
+    {
+        "course_number": "493-0",
+        "course_name": "Topics in Literary Theory",
+        "course_reference_number": [
+            "24799"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "The Social and Historical Construction of Gender a",
+                "instructors": [
+                    "Topics in Literary Theory",
+                    "Scott Durham"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Topic": "The Social and Historical Construction of Gender a",
+                "Instructors": "Scott Durham\n8474914660\n1860 S. Campus Drive, Crowe Hall #2-141",
+                "Meeting Info": "Kresge Centennial Hall 3-410: Tues 2:00PM - 4:50PM",
+                "Overview of class": "This introductory course on problems in contemporary critical theory will begin by focusing on critique of ideology in the Marxist tradition (with particular attention to Sartre and Jameson's synthesis of the Sartrean, Althusserian and Frankfurt School traditions), along with some of their major predecessors, allies and adversaries, including such thinkers as Eisenstein, Barthes, Bataille and Derrida). We will then discuss how the relationships between discursive, institutional and aesthetic practices and their pragmatic effects are rethought in the writings of such theorists as Foucault, Rancière and Deleuze. While the primary focus of the course will be on theoretical texts, these texts will also be considered in dialogue with literary and cinematic works.",
+                "Class Materials (Required)": "Texts available at Norris:\nBalzac, History of the Thirteen; Histoire des Treize\nDeleuze/Guattari, Kafka: Toward a Minor Literature (Kafka: vers une littérature mineure)\nFoucault, Discipline and Punish (Surveiller et punir)\nJameson, The Geopolitical Aesthetic\nOther texts will be available through the Library Reserve link on Canvas or from the Department."
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "Practicum in Scholarly Writing, Publication, & Research",
+        "course_reference_number": [
+            "24774"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Practicum in Scholarly Writing, Publication, & Research",
+                "instructors": [
+                    "Christopher Bush"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "2:00PM",
+                "end_time": "4:50PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Christopher Bush\n847/491-5493\n1860 S. Campus Drive, Crowe Hall #2-135",
+                "Meeting Info": "Locy Hall 213: Wed 2:00PM - 4:50PM",
+                "Overview of class": "In this course, students revise and expand a paper written in a previous course with the aim of producing an article manuscript of approximately 20-25 pages in length and submitting it for publication upon completion of the seminar. In the revised article, students develop an original argument relative to a significant problem or research question; demonstrate knowledge of relevant primary and secondary sources and the ability to evaluate them critically; engage with an appropriate theoretical or scholarly methodology; and draw out clearly the significance of their findings. The class meets regularly as a group for the purpose of discussion and feedback on individual work. Students submit written assignments and make short presentations on essential elements of their articles, including the argument, the current state of the secondary research, and their contribution to the field. In addition, they receive and write a reader's report similar to those generated by referees of journal submissions. Throughout the course, students will meet individually with the professor to discuss their progress in addition to working with their peers. Work written or revised over the course of the quarter will be shared and discussed in the final class meeting. This course is required for 2nd and 3rd year graduate students in French. It will be taught in English and is open to graduate students in other programs.",
+                "Learning Objectives": "The main goal of the course is to enable the student to submit an article for publication by the end of the term. Students will become familiar with styles of academic writing, conventions of scholarly publication and peer review, strategies for devising and following through with a feasible study, and the process of finding a journal that is appropriate to their writing style, topic, and theoretical/methodological interests. They will be supported in developing their own voice and articulating the major contribution of their work.",
+                "Class Materials (Required)": "Class materials will be made available on Canvas."
+            }
+        ]
+    },
+    {
+        "course_number": "498-0",
+        "course_name": "Independent Reading",
+        "course_reference_number": [
+            "24775"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Independent Reading",
+                "instructors": [
+                    "Margaret Dempster"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Margaret Dempster\n847/467-3884\n1860 S. Campus Drive, Crowe Hall #2-121",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "596-0",
+        "course_name": "PhD Thesis Tutorial",
+        "course_reference_number": [
+            "24780"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "PhD Thesis Tutorial",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

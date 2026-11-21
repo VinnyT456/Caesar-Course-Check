@@ -1,0 +1,120 @@
+[
+    {
+        "course_number": "408-DL",
+        "course_name": "Epidemiology and Biostatistics",
+        "course_reference_number": [
+            "20458"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Epidemiology and Biostatistics",
+                "instructors": [
+                    "Leslie Cordes"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Leslie Cordes",
+                "Meeting Info": "DISTANCE COURSE: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "417-DL",
+        "course_name": "Global Health Systems",
+        "course_reference_number": [
+            "20459"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Global Health Systems",
+                "instructors": [
+                    "Rishi Agrawal"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Rishi Agrawal",
+                "Meeting Info": "DISTANCE COURSE: Tues 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Program Pre-Req."
+            }
+        ]
+    },
+    {
+        "course_number": "452-DL",
+        "course_name": "Global Nutrition: Science, Policy, and Perspectives",
+        "course_reference_number": [
+            "20457"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Global Nutrition: Science, Policy, and Perspectives",
+                "instructors": [
+                    "Barbara Lyle"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Barbara Lyle",
+                "Meeting Info": "DISTANCE COURSE: Thurs 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Asynchronous:Remote class-no scheduled mtg time",
+                "Enrollment Requirements": "Enrollment Requirements: Pre-Req.: MSGH 408 OR MSGH 410"
+            }
+        ]
+    },
+    {
+        "course_number": "580-DL",
+        "course_name": "Practicum Course",
+        "course_reference_number": [
+            "20460"
+        ],
+        "course_info": [
+            {
+                "section": "55",
+                "course_name": "Practicum Course",
+                "instructors": [
+                    "Martha McGivern"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "7:00PM",
+                "end_time": "9:30PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Martha McGivern",
+                "Meeting Info": "DISTANCE COURSE: Mon 7:00PM - 9:30PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: MSGH Capstone ( Practicum)"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "course_number": "595-0",
+        "course_name": "Internship",
+        "course_reference_number": [
+            "28201"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Internship",
+                "instructors": [
+                    "Gregory Beitel"
+                ],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Gregory Beitel\n847/467-7776\nPancoe Pavilion, Room 1407\nOffice Hours: Tuesday 1:30-3:00 PM & Friday 3-4 PM",
+                "Meeting Info": "TBA: TBA",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    }
+]

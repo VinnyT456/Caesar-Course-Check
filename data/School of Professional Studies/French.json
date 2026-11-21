@@ -1,0 +1,62 @@
+[
+    {
+        "course_number": "111-B",
+        "course_name": "Elementary French",
+        "course_reference_number": [
+            "20559"
+        ],
+        "course_info": [
+            {
+                "section": "65",
+                "course_name": "Elementary French",
+                "instructors": [
+                    "Margaret Dempster"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "8:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Margaret Dempster\n847/467-3884\n1860 S. Campus Drive, Crowe Hall #2-121",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Wed 6:15PM - 8:15PM",
+                "Overview of class": "French 111-B is the second quarter of a three-quarter sequence of Elementary French. The course covers grammar, vocabulary, reading, writing, conversation and culture. The aim of the course is to learn and develop skills in speaking, understanding, reading, writing and cultural competence. The course includes a variety of activities designed to help students develop their knowledge of basic French vocabulary and structures along with the ability to use what they have learned in communicative activities. Classes will be conducted exclusively in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online learning platform: Connect.\n\nThe course combines class meetings and online work that students can complete on their own time. The online courseware will be used for homework.\n\nCarries humanities credit (two-course limit for language courses).\n\nThis course was formerly FRENCH 101-B.",
+                "Registration Requirements": "Prerequisite: FRENCH 111-A or 101-A, or equivalent. This course is for students with less than one year of high school French or with no previous study of French.\n\nNote: FRENCH 111-B is available to for students to audit—credit will not be earned, but tuition is reduced. Students enrolled to audit the course must meet prerequisites, as well as participation and assessment requirements as outlined in the course syllabus.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    },
+    {
+        "course_number": "121-B",
+        "course_name": "Intermediate French",
+        "course_reference_number": [
+            "20560"
+        ],
+        "course_info": [
+            {
+                "section": "62",
+                "course_name": "Intermediate French",
+                "instructors": [
+                    "Dominique Licops"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "6:15PM",
+                "end_time": "8:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Dominique Licops\n847/497-3930\n1860 S. Campus Drive, Crowe Hall #2-175",
+                "Meeting Info": "Kresge Centennial Hall 2-420: Mon 6:15PM - 8:15PM",
+                "Overview of class": "This course is the second quarter of the three-quarter Intermediate French sequence for students who have completed FRENCH 121-A (or 102-A) or an equivalent French course.\n\nThe primary goal of this course is to strengthen oral and written communication and comprehension skills as well as cross-cultural competence by immersing students in authentic cultural contexts, materials, and language and by engaging in a variety of communicative activities. A review and deepening of essential grammar will reinforce linguistic foundations. The teaching methodology for this course uses the flipped model: students learn grammar and vocabulary at home with Flipped French, a pioneering courseware developed by faculty in the French Department at Northwestern. Class activities are devoted to conversation and other communicative activities that allow students to practice what they learned while exploring contemporary French and Francophone cultures. This course enables students to actively participate in a French-speaking environment, prepare for further studies in French, and provide a path to proficiency.\n\nThis hybrid course meets on campus/in person once weekly with online activities during the week. Students are expected to attend the weekly in-person class and actively participate, to complete the online activities during the week, and to spend at least two hours of work outside of class for each hour of class.\n\nCarries humanities credit (two-course limit for language courses).\n\nThis course was formerly FRENCH 102-B.",
+                "Registration Requirements": "Prerequisite: FRENCH 121-A or 102-A, or equivalent, or consent of instructor. Students with questions about course prerequisites and equivalents should contact the instructor directly prior to registering.\n\nNote: FRENCH 121-B is available to for students to audit—credit will not be earned, but tuition is reduced. Students enrolled to audit the course must meet prerequisites, as well as participation and assessment requirements as outlined in the course syllabus.",
+                "Class Attributes": "Face to face: In person, in campus space"
+            }
+        ]
+    }
+]

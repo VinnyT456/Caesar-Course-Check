@@ -1,0 +1,289 @@
+[
+    {
+        "course_number": "421-0",
+        "course_name": "Advancing Learning & Performance Solutions",
+        "course_reference_number": [
+            "26399"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Advancing Learning & Performance Solutions",
+                "instructors": [
+                    "Melinda Turnley",
+                    "Shaun Slattery"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "7:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Melinda Turnley",
+                "Meeting Info": "Online: Wed 5:45PM - 7:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Hybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC students"
+            }
+        ]
+    },
+    {
+        "course_number": "430-0",
+        "course_name": "Creating & Sharing Knowledge",
+        "course_reference_number": [
+            "26400"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Creating & Sharing Knowledge",
+                "instructors": [
+                    "Ryan Smerek",
+                    "Samir Desai"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "7:30PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ryan Smerek",
+                "Meeting Info": "Online: Tues 7:30PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Hybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC degree students and LOC certificate students only."
+            }
+        ]
+    },
+    {
+        "course_number": "435-0",
+        "course_name": "Designing Organizations",
+        "course_reference_number": [
+            "26409"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Designing Organizations",
+                "instructors": [
+                    "Bradley Smith",
+                    "Renetta McCann"
+                ],
+                "days": [
+                    "Wednesday"
+                ],
+                "start_time": "7:30PM",
+                "end_time": "9:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Bradley Smith",
+                "Meeting Info": "Online: Wed 7:30PM - 9:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Hybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC degree students and LOC certificate students only."
+            }
+        ]
+    },
+    {
+        "course_number": "442-0",
+        "course_name": "Leading Global Change",
+        "course_reference_number": [
+            "26407"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Leading Global Change",
+                "instructors": [
+                    "Ritu Tripathi",
+                    "Roberto Cabanelas"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "7:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Ritu Tripathi",
+                "Meeting Info": "Online: Mon 5:45PM - 7:15PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "452-0",
+        "course_name": "Cognitive Design",
+        "course_reference_number": [
+            "26403"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Cognitive Design",
+                "instructors": [
+                    "Masha Alexander",
+                    "Bob Tweedie"
+                ],
+                "days": [
+                    "Tuesday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "7:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Masha Alexander",
+                "Meeting Info": "Online: Tues 5:45PM - 7:15PM",
+                "Overview of class": "Contact the department for further information",
+                "Class Attributes": "Hybrid: Remote component and in-person mtgs",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC students"
+            }
+        ]
+    },
+    {
+        "course_number": "453-0",
+        "course_name": "Coaching for Learning & Performance",
+        "course_reference_number": [
+            "26405"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Coaching for Learning & Performance",
+                "instructors": [
+                    "Michelle Albaugh",
+                    "Cassandra Mitchell",
+                    "Masha Alexander"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:45PM",
+                "end_time": "7:15PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Michelle Albaugh",
+                "Meeting Info": "Online: Thurs 5:45PM - 7:15PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "460-0",
+        "course_name": "Consulting Lab",
+        "course_reference_number": [
+            "28715"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Consulting Lab",
+                "instructors": [
+                    "Terrence Roche"
+                ],
+                "days": [
+                    "Monday"
+                ],
+                "start_time": "10:00AM",
+                "end_time": "12:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Terrence Roche",
+                "Meeting Info": "2001 Sheridan SESP cls 2228: Mon 10:00AM - 12:00PM",
+                "Overview of class": "Contact the department for further information"
+            }
+        ]
+    },
+    {
+        "course_number": "462-0",
+        "course_name": "Solving Problems with Data",
+        "course_reference_number": [
+            "26401"
+        ],
+        "course_info": [
+            {
+                "section": "1",
+                "course_name": "Solving Problems with Data",
+                "instructors": [
+                    "Marina Micari",
+                    "Ritu Tripathi"
+                ],
+                "days": [
+                    "Thursday"
+                ],
+                "start_time": "5:30PM",
+                "end_time": "7:00PM"
+            }
+        ],
+        "course_details": [
+            {
+                "Instructors": "Marina Micari",
+                "Meeting Info": "Online: Thurs 5:30PM - 7:00PM",
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC students"
+            }
+        ]
+    },
+    {
+        "course_number": "495-0",
+        "course_name": "MSLOC Internship",
+        "course_reference_number": [
+            "26404"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "MSLOC Internship",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC students"
+            }
+        ]
+    },
+    {
+        "course_number": "499-1",
+        "course_name": "Independent Study",
+        "course_reference_number": [
+            "26406"
+        ],
+        "course_info": [
+            {
+                "section": "20",
+                "course_name": "Independent Study",
+                "instructors": [],
+                "days": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "course_details": [
+            {
+                "Overview of class": "Contact the department for further information",
+                "Enrollment Requirements": "Enrollment Requirements: Reserved for MS_LOC students\nAdd Consent: Department Consent Required"
+            }
+        ]
+    }
+]
