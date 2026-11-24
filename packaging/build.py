@@ -43,10 +43,10 @@ def build_bundle():
         "--hidden-import", "webview",
     ]
     if sys.platform == "win32":
-        args += ["--onefile", "--collect-submodules", "pystray", "--hidden-import", "pystray._win32"]
+        args += ["--onefile", "--hidden-import", "plyer.platforms.win.notification"]
         args += ["--icon", "assets/icon.ico"]
     elif sys.platform == "darwin":
-        # Trim size: Pillow is Windows-tray only; uvloop/httptools/watchfiles are optional uvicorn speedups.
+        # Trim size: Pillow is only needed to draw the icon at build time; uvloop/httptools/watchfiles are optional uvicorn speedups.
         for m in ("PIL", "uvloop", "httptools", "watchfiles"):
             args += ["--exclude-module", m]
         args += ["--osx-bundle-identifier", "com.local.caesarcoursecheck", "--icon", "assets/AppIcon.icns"]

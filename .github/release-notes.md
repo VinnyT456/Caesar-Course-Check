@@ -1,9 +1,10 @@
 ## CAESAR Course Check
 
-A menu-bar / system-tray app that watches a Northwestern CAESAR class and alerts you the moment a seat opens.
+A desktop app (macOS menu bar, Windows standalone window) that watches a Northwestern CAESAR class and alerts you the moment a seat opens.
 
 ### What's in this release
-- Lives in the **macOS menu bar** (Windows system tray); click the icon to open the popover. No main window, no Dock icon.
+- **macOS:** lives in the menu bar; click the icon to open the popover. No main window, no Dock icon.
+- **Windows:** a standalone window (minimise it to keep monitoring).
 - Headless Chrome (Playwright) checks enrollment about once a minute and alerts with a sound and a notification when a seat opens.
 - **Dropdowns** for term, subject and course, built from the scraped catalog (2027 Winter).
 - Reads the class capacity on the first check and shows enrolled / capacity and seats open.
@@ -23,7 +24,7 @@ Requires **Google Chrome**. Builds are **unsigned**:
 - Windows: SmartScreen → **More info → Run anyway**.
 
 ### Known limitations
-- **Windows is untested.** The tray icon, flyout and `.exe` were built by CI but have never been run on a real Windows machine.
+- **Windows is untested.** The standalone window and the `.exe` were built by CI but have never been run on a real Windows machine. Please report anything odd.
 - CAESAR shows a reCAPTCHA. The app never solves it: click **Solve captcha in Chrome** and solve it by hand once; the session is saved.
 - The School dropdown and class-capacity field IDs are unconfirmed against the live CAESAR page. If either isn't found, the Activity log says so and the app falls back to the default School and your typed "Alert below" number.
 - The macOS build is Apple Silicon only.

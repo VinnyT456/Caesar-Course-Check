@@ -2,8 +2,8 @@
 
 # CAESAR Course Check
 
-A small tray app that watches a Northwestern CAESAR class and alerts you the moment a seat opens.
-It lives in the **macOS menu bar** or the **Windows system tray**: click the icon, the whole app opens as a popover.
+A small app that watches a Northwestern CAESAR class and alerts you the moment a seat opens.
+On **macOS** it lives in the menu bar: click the icon and the whole app opens as a popover. On **Windows** it is a normal app window you can minimise.
 
 **[⬇ Download the latest version](https://github.com/VinnyT456/Caesar-Course-Check/releases/latest)** (macOS `.dmg` or Windows `.exe`, listed under **Assets** on the release page). Setup steps are in [Install](#install).
 
@@ -11,7 +11,7 @@ It lives in the **macOS menu bar** or the **Windows system tray**: click the ico
 |---|---|---|---|
 | ![First run](docs/screenshot-signin.png) | ![Monitoring](docs/screenshot-monitoring.png) | ![Alert settings](docs/screenshot-alerts.png) | ![Seat available](docs/screenshot-alert.png) |
 
-> Screenshots use sample data and a browser render of the popover; the menu bar / tray strip itself isn't pictured.
+> Screenshots use sample data and a browser render of the popover; the menu bar itself isn't pictured; Windows shows the same layout in a regular window.
 
 ## Design
 Theme: **Purple Line wayfinding**, after the CTA Purple Line out of Evanston. A saturated Northwestern-purple header band, a course roundel, state as station bullets, and a route strip whose "train" is the time since the last check. Light mode is the daytime platform, dark mode the night platform.
@@ -31,10 +31,11 @@ Theme: **Purple Line wayfinding**, after the CTA Purple Line out of Evanston. A 
 - **Menu bar colour:** the icon turns green when a seat is open and red when monitoring needs you (macOS). Clicking a notification opens CAESAR.
 - **Shows open seats:** the first check reads the class capacity and the header shows enrolled / capacity and seats open. "Alert below" is on Auto (any open seat) unless you set a number; a number above the class size is lowered to the class size after the first check.
 - **Graduate courses just work:** catalog numbers 400 and up switch CAESAR's School to The Graduate School automatically.
-- **Lives in the menu bar / tray:** no main window and no Dock icon. macOS shows a cap icon plus the live enrollment number while monitoring; Windows shows a tray icon with a flyout that hides when you click away. Monitoring keeps running while the popover is closed.
+- **macOS:** lives in the menu bar, no main window and no Dock icon. A cap icon plus the live enrollment number shows while monitoring. Monitoring keeps running while the popover is closed.
+- **Windows:** a standalone window. Minimise it to keep monitoring (closing the window quits the app). A seat opening brings the window forward, flashes the taskbar, plays a sound and shows a toast.
 - Light and dark mode.
 
-> **Windows status: untested.** The tray icon and flyout (`tray_win.py`) have never run on a real Windows machine, and no `.exe` has been checked by hand. Known risks: with display scaling the flyout may land in the wrong spot, and if reading the native window handle fails the flyout won't hide when you click away.
+> **Windows status: untested.** The Windows app (`app.py`'s window path, toast and taskbar flash) has never run on a real Windows machine, and no `.exe` has been checked by hand. Please report anything odd.
 
 ## Requirements
 - **Google Chrome** installed.
@@ -52,7 +53,7 @@ The builds are **unsigned**, so the first launch needs one extra step:
 - Windows: SmartScreen → **More info → Run anyway**.
 
 ## How to use
-1. Launch the app, then click its icon in the menu bar / tray (it does not open by itself). Pick the term, subject and course.
+1. Launch the app. On macOS click its icon in the menu bar (it does not open by itself); on Windows the window opens. Pick the term, subject and course.
 2. Click **Start monitoring**. It checks headless in the background.
 3. CAESAR shows a reCAPTCHA, so the first run stops with **Captcha needed**. Click **Solve captcha in Chrome**, solve it by hand in the visible window, and it closes by itself. The session is saved, so you only repeat this when the captcha comes back.
 4. Click **Start monitoring** again. When enrollment drops below the threshold you get an alert and monitoring stops.
@@ -66,10 +67,10 @@ uv sync
 uv run python run_app.py
 ```
 
-Stack: Python + FastAPI (API), async Playwright (browser automation), Svelte + Vite (UI), pyobjc NSStatusItem/NSPopover (macOS), pystray + pywebview (Windows), PyInstaller (packaging).
+Stack: Python + FastAPI (API), async Playwright (browser automation), Svelte + Vite (UI), pyobjc NSStatusItem/NSPopover (macOS), pywebview window (Windows), PyInstaller (packaging).
 
 ```
-caesar_checker/   backend: checker.py (Playwright), server.py (FastAPI), app.py (window), tray.py (macOS menu bar popover), tray_win.py (Windows tray flyout)
+caesar_checker/   backend: checker.py (Playwright), server.py (FastAPI), app.py (window), tray.py (macOS menu bar popover)
 frontend/         Svelte UI, built into caesar_checker/static
 packaging/        PyInstaller build, icon + DMG artwork (.app + .dmg on macOS, .exe on Windows)
 scraper/          scrapes class-descriptions.northwestern.edu into data/; build_catalog.py writes caesar_checker/catalog.json (the dropdown data)

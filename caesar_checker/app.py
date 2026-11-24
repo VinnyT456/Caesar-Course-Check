@@ -1,8 +1,7 @@
 """Desktop entry point.
 
 macOS: menu bar only. The whole UI is the popover under the status item (no window, no Dock icon).
-Windows: system tray icon + a frameless flyout window (hides on blur).
-Other: a normal pywebview window.
+Windows (and anything else): a normal standalone window. Closing it quits; minimise it to keep monitoring.
 """
 from __future__ import annotations
 
@@ -26,6 +25,24 @@ def _free_port() -> int:
         return s.getsockname()[1]
 
 
+def _flash(win) -> None:
+    """Make the taskbar button flash until the user looks at the window (Windows only)."""
+    try:
+        import ctypes
+        from ctypes import wintypes
+
+        class FLASHWINFO(ctypes.Structure):
+            _fields_ = [("cbSize", wintypes.UINT), ("hwnd", wintypes.HWND), ("dwFlags", wintypes.DWORD),
+                        ("uCount", wintypes.UINT), ("dwTimeout", wintypes.DWORD)]
+
+        hwnd = int(win.native.Handle.ToInt64())
+        # FLASHW_ALL | FLASHW_TIMERNOFG: flash caption and taskbar until the window is foreground
+        info = FLASHWINFO(ctypes.sizeof(FLASHWINFO), hwnd, 3 | 12, 0, 0)
+        ctypes.windll.user32.FlashWindowEx(ctypes.byref(info))
+    except Exception as e:  # noqa: BLE001 - flashing is a nicety
+        print("flash failed:", e, flush=True)
+
+
 def main() -> None:
     holder: dict = {"window": None}
     port = _free_port()
@@ -47,6 +64,7 @@ def main() -> None:
 
             AppHelper.callAfter(_mac)
             return
+        win = holder["window"]
         if sys.platform == "win32":
             try:
                 import ctypes
@@ -55,15 +73,22 @@ def main() -> None:
                     ctypes.windll.user32.MessageBeep(0x40)
             except Exception:
                 pass
-            if holder.get("flyout") is not None:
-                holder["flyout"].notify(title, message)
-        if holder.get("flyout") is not None:
-            holder["flyout"].show()
-        elif holder["window"] is not None:
-            try:
-                holder["window"].show()
+            try:  # a Windows toast; the window also pops up and flashes below
+                from plyer import notification
+
+                notification.notify(title=title, message=message, app_name="CAESAR Course Check", timeout=10)
+            except Exception as e:  # noqa: BLE001
+                print("toast failed:", e, flush=True)
+        if win is not None:
+            try:  # bring the window forward (restores it if minimised), then let it behave normally again
+                win.restore()
+                win.show()
+                win.on_top = True
+                win.on_top = False
             except Exception as e:
                 print("show window failed:", e, flush=True)
+            if sys.platform == "win32":
+                _flash(win)
 
     def quit_app() -> None:
         if IS_MAC:
@@ -77,8 +102,6 @@ def main() -> None:
                 AppHelper.callAfter(AppHelper.stopEventLoop)
 
             threading.Thread(target=_shutdown, daemon=True).start()
-        elif holder.get("flyout") is not None:
-            holder["flyout"].quit()  # stops the tray icon, then destroys the window
         elif holder["window"] is not None:
             holder["window"].destroy()
 
@@ -115,8 +138,6 @@ def main() -> None:
             from . import tray
 
             AppHelper.callAfter(tray.close_popover)  # let the browser come to the front
-        elif holder.get("flyout") is not None:
-            holder["flyout"].hide()
         return copied
 
     app.state.open_caesar = open_caesar
@@ -144,22 +165,11 @@ def main() -> None:
     else:
         import webview
 
-        if sys.platform == "win32":
-            from . import tray_win
-
-            window = webview.create_window(
-                "CAESAR Course Check", url + "/?view=popover", width=tray_win.WIDTH, height=tray_win.HEIGHT,
-                frameless=True, on_top=True, hidden=True, resizable=False, shadow=True,
-            )
-            holder["window"] = window
-            flyout = tray_win.Flyout(window, on_quit=window.destroy)
-            holder["flyout"] = flyout
-            flyout.start(show_on_launch=False)
-            webview.start()  # flyout opens only from the tray icon (or a seat opening)
-        else:
-            window = webview.create_window("CAESAR Course Check", url, width=520, height=780, min_size=(420, 620))
-            holder["window"] = window
-            webview.start()
+        window = webview.create_window(
+            "CAESAR Course Check", url + "/?view=window", width=380, height=600, min_size=(340, 540), text_select=True,
+        )
+        holder["window"] = window
+        webview.start()  # returns when the window is closed
 
     server.should_exit = True
     thread.join(timeout=10)

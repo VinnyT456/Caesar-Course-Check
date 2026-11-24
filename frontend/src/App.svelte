@@ -22,7 +22,9 @@
   let pollAt = $state(Date.now())
   let audio
   // Inside the macOS menu bar popover the app is the whole UI: fixed height, plus a Quit button.
-  const isPopover = new URLSearchParams(location.search).get('view') === 'popover'
+  const view = new URLSearchParams(location.search).get('view')
+  const isPopover = view === 'popover'
+  const fill = isPopover || view === 'window'  // fixed-height layout; the Windows app window uses it too
 
   const HEAD = {
     idle: 'Ready', signing_in: 'Waiting for captcha', starting: 'Starting', monitoring: 'Monitoring',
@@ -230,7 +232,7 @@
   })
 </script>
 
-<div class="shell" class:pop={isPopover}>
+<div class="shell" class:pop={fill}>
   <header>
     <h1>CAESAR Course Check</h1>
     <div class="head-right">
