@@ -11,6 +11,9 @@ import objc
 from AppKit import (
     NSApplication,
     NSApplicationActivationPolicyAccessory,
+    NSAttributedString,
+    NSColor,
+    NSForegroundColorAttributeName,
     NSImage,
     NSMenu,
     NSMenuItem,
@@ -90,13 +93,28 @@ class _Controller(NSObject):
             title = TITLES.get(st, "")
         if not self.has_icon and not title:
             title = "CAESAR"
-        self.item.button().setTitle_(title)
+        # Green when a seat is open, red when monitoring needs you; otherwise the system template colour.
+        color = NSColor.systemGreenColor() if st == "alert" else NSColor.systemRedColor() if st in ("needs_signin", "error") else None
+        btn = self.item.button()
+        btn.setWantsLayer_(True)
+        layer = btn.layer()
+        if color is not None and title:
+            # White text on a coloured pill: coloured text alone is hard to read on a light or busy menu bar.
+            btn.setAttributedTitle_(NSAttributedString.alloc().initWithString_attributes_(title, {NSForegroundColorAttributeName: NSColor.whiteColor()}))
+            layer.setBackgroundColor_(color.CGColor())
+            layer.setCornerRadius_(5.0)
+            btn.setContentTintColor_(NSColor.whiteColor())
+        else:
+            btn.setTitle_(title)
+            layer.setBackgroundColor_(None)
+            btn.setContentTintColor_(None)
         if not self._ticked:
             self._ticked = True
             print("tray: first tick ok, icon =", self.has_icon, flush=True)
 
 
 _keep: list = []
+on_click = None  # called (main thread) when the user clicks a notification
 _authorized: bool | None = None  # None until macOS answers the permission request
 
 
@@ -107,6 +125,13 @@ class _NoteDelegate(NSObject):
         import UserNotifications as UN
 
         handler(UN.UNNotificationPresentationOptionBanner | UN.UNNotificationPresentationOptionSound | UN.UNNotificationPresentationOptionList)
+
+    def userNotificationCenter_didReceiveNotificationResponse_withCompletionHandler_(self, center, response, handler):
+        try:
+            if on_click:
+                on_click()
+        finally:
+            handler()
 
 
 def request_notifications() -> None:
@@ -131,7 +156,7 @@ def request_notifications() -> None:
         print("notifications: unavailable:", e, flush=True)
 
 
-def notify(title: str, message: str) -> bool:
+def notify(title: str, message: str, silent: bool = False) -> bool:
     """Post a native notification attributed to this app. Returns False if the framework is unavailable."""
     if _authorized is False:  # macOS refused: a posted request would be silently dropped
         print("notifications: not authorized, using fallback", flush=True)
@@ -145,7 +170,8 @@ def notify(title: str, message: str) -> bool:
         content = UN.UNMutableNotificationContent.alloc().init()
         content.setTitle_(title)
         content.setBody_(message)
-        content.setSound_(UN.UNNotificationSound.defaultSound())
+        if not silent:
+            content.setSound_(UN.UNNotificationSound.defaultSound())
         req = UN.UNNotificationRequest.requestWithIdentifier_content_trigger_(str(uuid.uuid4()), content, None)
 
         def done(error):

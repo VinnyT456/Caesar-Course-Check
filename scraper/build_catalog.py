@@ -55,8 +55,26 @@ def main() -> None:
             if os.path.exists(path):
                 with open(path, encoding="utf-8") as f:
                     for c in json.load(f):
+                        sections = []
+                        for ref, info in zip(
+                            c.get("course_reference_number", []), c.get("course_info", [])
+                        ):
+                            sections.append(
+                                {
+                                    "id": ref,
+                                    "sec": info.get("section"),
+                                    "days": info.get("days") or [],
+                                    "start": info.get("start_time"),
+                                    "end": info.get("end_time"),
+                                    "who": info.get("instructors") or [],
+                                }
+                            )
                         courses.append(
-                            {"nbr": c["course_number"], "name": c["course_name"]}
+                            {
+                                "nbr": c["course_number"],
+                                "name": c["course_name"],
+                                "sections": sections,
+                            }
                         )
             else:
                 missing += 1

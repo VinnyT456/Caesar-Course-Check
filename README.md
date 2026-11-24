@@ -5,34 +5,47 @@
 A small tray app that watches a Northwestern CAESAR class and alerts you the moment a seat opens.
 It lives in the **macOS menu bar** or the **Windows system tray**: click the icon, the whole app opens as a popover.
 
-| First run (light) | Monitoring (light) | Activity (dark) | Seat found (dark) |
+**[⬇ Download the latest version](https://github.com/VinnyT456/Caesar-Course-Check/releases/latest)** (macOS `.dmg` or Windows `.exe`, listed under **Assets** on the release page). Setup steps are in [Install](#install).
+
+| First run (light) | Monitoring (light) | Alert settings (light) | Seat found (dark) |
 |---|---|---|---|
-| ![First run](docs/screenshot-signin.png) | ![Monitoring](docs/screenshot-monitoring.png) | ![Activity](docs/screenshot-activity.png) | ![Seat available](docs/screenshot-alert.png) |
+| ![First run](docs/screenshot-signin.png) | ![Monitoring](docs/screenshot-monitoring.png) | ![Alert settings](docs/screenshot-alerts.png) | ![Seat available](docs/screenshot-alert.png) |
 
 > Screenshots use sample data and a browser render of the popover; the menu bar / tray strip itself isn't pictured.
 
 ## Design
-Theme: **Purple Line wayfinding**, after the CTA Purple Line out of Evanston. A saturated Northwestern-purple header band, a course roundel, state as station bullets, and a route strip whose "train" is the time since the last check. Light mode is the daytime platform, dark mode the night platform. The Activity log is a line of stops.
+Theme: **Purple Line wayfinding**, after the CTA Purple Line out of Evanston. A saturated Northwestern-purple header band, a course roundel, state as station bullets, and a route strip whose "train" is the time since the last check. Light mode is the daytime platform, dark mode the night platform.
 
 ## Features
 - Checks enrollment about once a minute (a random ±15 s jitter is added) in a **headless** Chrome.
 - Alerts with a sound, a macOS notification and by opening the popover when a seat opens, meaning enrollment drops below the class capacity.
-- **Dropdowns for term, subject and course**, built from the scraped course catalog (each has an "Other…" option if you want to type your own).
-- **Shows open seats:** the first check reads the class capacity, sets "Alert below" to it, and the header shows enrolled / capacity and seats open.
+- **Searchable dropdowns** for subject and course, built from the scraped course catalog: click and type ("comp sci", "machine") to filter. Subjects are listed under their own school, so a code that exists in two schools (like CHEM in Weinberg and SPS) shows both. Each list has an "Other…" option if you want to type your own.
+- **One-click first run:** the button says **Verify and start** until you've solved the captcha once. It opens Chrome, and monitoring begins by itself afterwards. If the captcha comes back later you get a notification, and solving it restarts monitoring with your last settings.
+- **Watch one section:** if a course has several sections, pick the one you want (days, time and instructor are listed) or leave it on "Any section".
+- **Discussions and labs:** press "Load discussions & labs" under Section to list every section CAESAR has for the course (lectures, discussions, labs, with times and instructors), then pick one. A progress bar shows the search (big courses can take up to a minute). Needs a verified session and no monitoring running.
+- **Watch up to five classes** at once. Each gets a chip on the Class tab; a green dot marks the one with a seat open. More classes means more page loads per round, so expect captchas a little more often.
+- **After an alert:** stop, keep watching, or re-alert every 5 minutes until you open CAESAR or stop.
+- **Sound and volume:** beep, chime, bell or off, with a volume slider (the slider affects the in-app sound; "Off" also silences the notification).
+- **Quiet hours:** pause checks overnight; they resume with a fresh search.
+- **Enrollment history** graph beside the count, and the **waitlist** count when CAESAR shows it.
+- **Menu bar colour:** the icon turns green when a seat is open and red when monitoring needs you (macOS). Clicking a notification opens CAESAR.
+- **Shows open seats:** the first check reads the class capacity and the header shows enrolled / capacity and seats open. "Alert below" is on Auto (any open seat) unless you set a number; a number above the class size is lowered to the class size after the first check.
 - **Graduate courses just work:** catalog numbers 400 and up switch CAESAR's School to The Graduate School automatically.
 - **Lives in the menu bar / tray:** no main window and no Dock icon. macOS shows a cap icon plus the live enrollment number while monitoring; Windows shows a tray icon with a flyout that hides when you click away. Monitoring keeps running while the popover is closed.
 - Light and dark mode.
 
-> **Windows status: untested.** The tray icon and flyout (`tray_win.py`) have never run on a real Windows machine, and no `.exe` has been built. Known risks: with display scaling the flyout may land in the wrong spot, and if reading the native window handle fails the flyout won't hide when you click away.
+> **Windows status: untested.** The tray icon and flyout (`tray_win.py`) have never run on a real Windows machine, and no `.exe` has been checked by hand. Known risks: with display scaling the flyout may land in the wrong spot, and if reading the native window handle fails the flyout won't hide when you click away.
 
 ## Requirements
 - **Google Chrome** installed.
 - macOS (the CI build is Apple Silicon only; build locally for Intel) or Windows 10/11.
 
 ## Install
-Build it yourself (see **Build** below) until a release is published. Then:
+**[Download the latest release](https://github.com/VinnyT456/Caesar-Course-Check/releases/latest)** and grab the file for your system from its **Assets** list:
 - macOS: open `CAESAR-Course-Check.dmg`, drag the app to **Applications**.
 - Windows: run `CAESAR Course Check.exe`.
+
+Each release is built by GitHub Actions when a version tag (like `v0.2.0`) is pushed, so the Releases page always holds the newest build. If the page has no files yet, build it yourself (see **Build** below).
 
 The builds are **unsigned**, so the first launch needs one extra step:
 - macOS: right-click the app → **Open** (or `xattr -dr com.apple.quarantine "/Applications/CAESAR Course Check.app"`).
@@ -85,7 +98,7 @@ uv run python scraper/main.py            # scrape class-descriptions.northwester
 uv run python scraper/build_catalog.py   # rebuild caesar_checker/catalog.json, then rebuild the app
 ```
 
-> The School dropdown and the class-capacity field use PeopleSoft element IDs that haven't been confirmed against the live CAESAR page. If either isn't found, the Activity log says so and the app falls back to the default School and your typed "Alert below" number.
+> The School dropdown, the class-capacity field and the waitlist count use PeopleSoft element IDs that haven't been confirmed against the live CAESAR page. If one isn't found, the app logs it (see `app.log`) and falls back: the default School, your "Alert below" number, and no waitlist figure.
 
 ## Where data is stored
 Session, saved settings and logs live in the per-user data folder `CaesarCourseCheck`

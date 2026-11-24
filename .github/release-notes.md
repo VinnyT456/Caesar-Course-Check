@@ -8,6 +8,10 @@ A menu-bar / system-tray app that watches a Northwestern CAESAR class and alerts
 - **Dropdowns** for term, subject and course, built from the scraped catalog (2027 Winter).
 - Reads the class capacity on the first check and shows enrolled / capacity and seats open.
 - Catalog numbers 400+ switch CAESAR's School to **The Graduate School** automatically.
+- **Searchable** subject and course lists, with every school's own subjects (CHEM in Weinberg and SPS both show).
+- **Discussions and labs:** load every section CAESAR lists for a course and monitor any of them.
+- **Up to five classes**, per-class alert thresholds, waitlist count, enrollment history, quiet hours, sound picker, repeat alerts.
+- **One-click first run** (Verify and start) and **automatic restart** after a captcha.
 - Light and dark mode.
 
 ### Download

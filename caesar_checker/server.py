@@ -1,21 +1,33 @@
 from __future__ import annotations
 
 from contextlib import asynccontextmanager
+from typing import Literal
 
 from fastapi import Body, FastAPI
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from . import paths
-from .checker import Checker, Config
+from .checker import MAX_CLASSES, Checker, Config
 
 
-class ConfigIn(BaseModel):
+class ClassIn(BaseModel):
     term: str = Field(min_length=1)
     subject: str = Field(min_length=1)
     catalog_nbr: str = Field(min_length=1)
-    seat_limit: int = Field(ge=1)
+    class_nbr: str = ""
+    seat_limit: int = Field(default=0, ge=0)
+
+
+class ConfigIn(BaseModel):
+    classes: list[ClassIn] = Field(min_length=1, max_length=MAX_CLASSES)
     interval: int = Field(ge=10)
+    after_alert: Literal["stop", "keep", "repeat"] = "stop"
+    quiet_on: bool = False
+    quiet_start: str = "23:00"
+    quiet_end: str = "07:00"
+    sound: Literal["beep", "chime", "bell", "off"] = "beep"
+    volume: int = Field(default=60, ge=0, le=100)
 
 
 def create_app(on_alert=None, on_quit=None) -> FastAPI:
@@ -53,9 +65,21 @@ def create_app(on_alert=None, on_quit=None) -> FastAPI:
         print("signin click info:", info, flush=True)
         return {"ok": checker.sign_in()}
 
+    @app.post("/api/sections")
+    async def sections(c: ClassIn):
+        from .checker import ClassCfg, NeedsSignIn
+
+        try:
+            rows = await checker.list_sections(ClassCfg(term=c.term, subject=c.subject, catalog_nbr=c.catalog_nbr))
+        except NeedsSignIn as e:
+            return {"ok": False, "error": str(e), "sections": []}
+        except Exception as e:  # noqa: BLE001
+            return {"ok": False, "error": (str(e).splitlines() or [type(e).__name__])[0], "sections": []}
+        return {"ok": True, "sections": rows}
+
     @app.post("/api/start")
     async def start(cfg: ConfigIn):
-        return {"ok": checker.start(Config(**cfg.model_dump()))}
+        return {"ok": checker.start(Config.from_dict(cfg.model_dump()))}
 
     @app.post("/api/stop")
     async def stop():
@@ -71,11 +95,20 @@ def create_app(on_alert=None, on_quit=None) -> FastAPI:
 
     @app.post("/api/app/caesar")
     async def app_caesar():
+        fn = getattr(app.state, "open_caesar", None)
+        if fn:
+            return {"ok": True, "copied": fn()}
         import webbrowser
 
-        from .checker import URL
+        from .checker import CAESAR_URL
 
-        webbrowser.open(URL)
+        webbrowser.open(CAESAR_URL)
+        checker.ack()
+        return {"ok": True, "copied": ""}
+
+    @app.post("/api/ack")
+    async def ack():
+        checker.ack()
         return {"ok": True}
 
     @app.post("/api/app/quit")

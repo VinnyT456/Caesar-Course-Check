@@ -31,16 +31,18 @@ def main() -> None:
     port = _free_port()
     url = f"http://127.0.0.1:{port}"
 
-    def on_alert(message: str) -> None:
-        """A seat opened (or a test): send a real OS notification, then open the popover."""
+    def on_alert(message: str, title: str = "Seat available!") -> None:
+        """A seat opened (or a test, or the captcha expired): send a real OS notification, then open the popover."""
+        silent = app.state.checker.config.sound == "off"
         if IS_MAC:
             from PyObjCTools import AppHelper
 
             from . import tray
 
             def _mac() -> None:  # AppKit is main-thread only
-                if not tray.notify("Seat available!", message):
-                    subprocess.Popen(["osascript", "-e", f'display notification "{message}" with title "CAESAR Alert" sound name "Glass"'])
+                if not tray.notify(title, message, silent):
+                    sound = "" if silent else ' sound name "Glass"'
+                    subprocess.Popen(["osascript", "-e", f'display notification "{message}" with title "{title}"{sound}'])
                 tray.show_popover()
 
             AppHelper.callAfter(_mac)
@@ -49,11 +51,12 @@ def main() -> None:
             try:
                 import ctypes
 
-                ctypes.windll.user32.MessageBeep(0x40)
+                if not silent:
+                    ctypes.windll.user32.MessageBeep(0x40)
             except Exception:
                 pass
             if holder.get("flyout") is not None:
-                holder["flyout"].notify("Seat available!", message)
+                holder["flyout"].notify(title, message)
         if holder.get("flyout") is not None:
             holder["flyout"].show()
         elif holder["window"] is not None:
@@ -80,8 +83,45 @@ def main() -> None:
             holder["window"].destroy()
 
     app = create_app(on_alert=on_alert, on_quit=quit_app)
-    app.state.test_alert = lambda: on_alert("Test alert: this is how a seat opening will look.")
     checker = app.state.checker
+
+    def open_caesar() -> str:
+        """Open CAESAR (in Chrome when installed), copy the open class's number to the clipboard, close the popover.
+
+        Returns the text that was copied ("" if nothing was).
+        """
+        import webbrowser
+
+        from .checker import CAESAR_URL
+
+        checker.ack()
+        label, nbr = checker.open_target()
+        text = nbr or label
+        copied = ""
+        try:
+            if IS_MAC:
+                subprocess.run(["pbcopy"], input=text.encode(), check=True, timeout=3)
+            elif sys.platform == "win32":
+                subprocess.run(["clip"], input=text.encode("utf-16-le"), check=True, timeout=3, shell=True)
+            copied = text
+        except Exception as e:  # noqa: BLE001 - the clipboard is a convenience
+            print("clipboard failed:", e, flush=True)
+        opened = IS_MAC and subprocess.run(["open", "-a", "Google Chrome", CAESAR_URL], capture_output=True).returncode == 0
+        if not opened:
+            webbrowser.open(CAESAR_URL)
+        if IS_MAC:
+            from PyObjCTools import AppHelper
+
+            from . import tray
+
+            AppHelper.callAfter(tray.close_popover)  # let the browser come to the front
+        elif holder.get("flyout") is not None:
+            holder["flyout"].hide()
+        return copied
+
+    app.state.open_caesar = open_caesar
+    app.state.test_alert = lambda: on_alert("Test alert: this is how a seat opening will look.")
+
     server = uvicorn.Server(uvicorn.Config(app, host="127.0.0.1", port=port, log_level="warning", log_config=None))
     thread = threading.Thread(target=server.run, daemon=True)
     thread.start()
@@ -98,6 +138,7 @@ def main() -> None:
 
         from . import tray
 
+        tray.on_click = open_caesar
         tray.install(checker.snapshot, url)  # opens only when you click the icon (or a seat opens)
         AppHelper.runEventLoop(installInterrupt=True)
     else:

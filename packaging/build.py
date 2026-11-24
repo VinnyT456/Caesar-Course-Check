@@ -3,6 +3,8 @@
     uv run python packaging/build.py
 PyInstaller cannot cross-compile: run this on each target OS (see .github/workflows/build.yml).
 """
+import os
+import re
 import shutil
 import subprocess
 import sys
@@ -51,8 +53,31 @@ def build_bundle():
     run(*args, "run_app.py")
 
 
+def sign_identity() -> str:
+    """Code-signing identity for the .app.
+
+    An ad-hoc signature ("-") is identified by its code hash, which changes on every build, so macOS treats each
+    rebuild as a new app and asks for privacy permissions again. A real certificate keeps the identity stable.
+    Override with CAESAR_SIGN_IDENTITY ("-" forces ad hoc); otherwise use a local Developer ID / Apple Development
+    certificate if the keychain has one, else ad hoc (CI, other machines).
+    """
+    forced = os.environ.get("CAESAR_SIGN_IDENTITY")
+    if forced:
+        return forced
+    try:
+        out = subprocess.run(["security", "find-identity", "-v", "-p", "codesigning"], capture_output=True, text=True).stdout
+    except OSError:
+        return "-"
+    for kind in ("Developer ID Application", "Apple Development"):
+        m = re.search(rf'([0-9A-F]{{40}}) "({kind}[^"]*)"', out)
+        if m:
+            print(f"Signing with {m.group(2)}")
+            return m.group(1)
+    return "-"
+
+
 def patch_app():
-    """Menu-bar app: no Dock icon from launch (LSUIElement), proper names; re-sign ad hoc after editing."""
+    """Menu-bar app: no Dock icon from launch (LSUIElement), proper names; re-sign after editing."""
     app = ROOT / "dist" / f"{NAME}.app"
     plist = app / "Contents" / "Info.plist"
     for key, kind, val in [("LSUIElement", "-bool", "true"), ("CFBundleDisplayName", "-string", NAME),
@@ -62,7 +87,7 @@ def patch_app():
     # Playwright's bundled Node ships with symbols (~38 MB); strip them, then re-sign everything.
     for node in app.glob("Contents/**/playwright/driver/node"):
         run("strip", "-x", node)
-    run("codesign", "--force", "--deep", "--sign", "-", app)
+    run("codesign", "--force", "--deep", "--sign", sign_identity(), app)
 
 
 def make_dmg():
