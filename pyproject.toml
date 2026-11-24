@@ -1,6 +1,6 @@
 [project]
 name = "caesar-course-check"
-version = "0.1.0"
+version = "0.2.1"
 description = "Menu-bar app that alerts you when a Northwestern CAESAR class seat opens"
 license = "MIT"
 readme = "README.md"

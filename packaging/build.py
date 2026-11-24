@@ -81,7 +81,7 @@ def patch_app():
     app = ROOT / "dist" / f"{NAME}.app"
     plist = app / "Contents" / "Info.plist"
     for key, kind, val in [("LSUIElement", "-bool", "true"), ("CFBundleDisplayName", "-string", NAME),
-                           ("CFBundleName", "-string", NAME), ("CFBundleShortVersionString", "-string", "0.1.0"),
+                           ("CFBundleName", "-string", NAME), ("CFBundleShortVersionString", "-string", "0.2.1"),
                            ("NSHumanReadableCopyright", "-string", "CAESAR Course Check")]:
         run("plutil", "-replace", key, kind, val, plist)
     # Playwright's bundled Node ships with symbols (~38 MB); strip them, then re-sign everything.

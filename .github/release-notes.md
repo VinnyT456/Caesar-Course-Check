@@ -24,7 +24,7 @@ Requires **Google Chrome**. Builds are **unsigned**:
 - Windows: SmartScreen → **More info → Run anyway**.
 
 ### Known limitations
-- **Windows is untested.** The standalone window and the `.exe` were built by CI but have never been run on a real Windows machine. Please report anything odd.
+- Windows: tried on one Windows VM; please report anything odd.
 - CAESAR shows a reCAPTCHA. The app never solves it: click **Solve captcha in Chrome** and solve it by hand once; the session is saved.
 - The School dropdown and class-capacity field IDs are unconfirmed against the live CAESAR page. If either isn't found, the Activity log says so and the app falls back to the default School and your typed "Alert below" number.
 - The macOS build is Apple Silicon only.
